@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-28T10:08:33.834706+00:00",
-  "count": 70,
+  "generatedAt": "2026-09-28T10:34:07.379373+00:00",
+  "count": 71,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 109
+      "items": 112
     },
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -56,
+      "items": -58,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,7 +38,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T05:08:18Z",
-      "views": "2.1K",
+      "views": "2.2K",
       "comments": "3"
     },
     {
@@ -53,8 +53,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T03:15:00Z",
-      "views": "41.4K",
-      "comments": "57"
+      "views": "42.2K",
+      "comments": "58"
     },
     {
       "id": "varzesh3-2432250",
@@ -68,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-27T21:37:05Z",
-      "views": "4.8K",
+      "views": "4.9K",
       "comments": "7"
     },
     {
@@ -83,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-27T17:25:52Z",
-      "views": "12.6K",
+      "views": "12.7K",
       "comments": "7"
     },
     {
@@ -128,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-27T10:36:26Z",
-      "views": "9.6K",
+      "views": "9.7K",
       "comments": "10"
     },
     {
@@ -203,7 +203,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-26T06:01:17Z",
-      "views": "5.9K",
+      "views": "6K",
       "comments": "3"
     },
     {
@@ -803,6 +803,21 @@
       "publishedAt": "2026-09-20T18:38:12Z",
       "views": "3.5K",
       "comments": "2"
+    },
+    {
+      "id": "varzesh3-2430462",
+      "title": "طلای بسکتبال به کره‌جنوبی رسید",
+      "summary": "تیم بسکتبال کره جنوبی که در مرحله نیمه نهایی ایران را شکست داده بود، با پیروزی مقابل ژاپن به طلای مسابقات آسیایی 2026 رسید.",
+      "url": "https://www.varzesh3.com/news/2430462/طلای-بسکتبال-به-کره-جنوبی-رسید",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/20/C/jhhlpgrx.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-09-20T13:13:16Z",
+      "views": "18.5K",
+      "comments": "19"
     },
     {
       "id": "varzesh3-2430448",

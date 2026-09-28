@@ -3,16 +3,283 @@
     {
       "id": "lg-32",
       "refId": 32,
+      "seasonId": "901612",
       "name": "لیگ برتر بسکتبال ایران",
       "nameEn": "Iranian Basketball Super League",
       "country": "IR",
       "flag": "🇮🇷",
-      "season": "1405",
-      "url": "https://www.varzesh3.com/basketball/league/32/table",
-      "updatedAt": "2026-09-28T10:08:36.390804+00:00",
+      "priority": 1,
+      "updatedAt": "2026-09-28T10:34:08.849986+00:00",
+      "groups": [
+        {
+          "name": "لیگ برتر بسکتبال",
+          "teams": [
+            {
+              "rank": 1,
+              "manualRank": 2,
+              "teamId": 572,
+              "name": "شهرداری گرگان",
+              "shortName": "گرگان",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144",
+              "played": 19,
+              "won": 16,
+              "lost": 3,
+              "pointsFor": 1552,
+              "pointsAgainst": 1287,
+              "diff": 265,
+              "points": 35,
+              "pointsDeducted": 0,
+              "winRate": 0.842,
+              "form": null
+            },
+            {
+              "rank": 2,
+              "manualRank": 1,
+              "teamId": 903070,
+              "name": "استقلال تهران",
+              "shortName": "استقلال تهران",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144",
+              "played": 19,
+              "won": 16,
+              "lost": 3,
+              "pointsFor": 1555,
+              "pointsAgainst": 1333,
+              "diff": 222,
+              "points": 35,
+              "pointsDeducted": 0,
+              "winRate": 0.842,
+              "form": null
+            },
+            {
+              "rank": 3,
+              "manualRank": 0,
+              "teamId": 902977,
+              "name": "کاله",
+              "shortName": "کاله",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=144",
+              "played": 19,
+              "won": 16,
+              "lost": 3,
+              "pointsFor": 1609,
+              "pointsAgainst": 1367,
+              "diff": 242,
+              "points": 35,
+              "pointsDeducted": 0,
+              "winRate": 0.842,
+              "form": null
+            },
+            {
+              "rank": 4,
+              "manualRank": 0,
+              "teamId": 903007,
+              "name": "طبیعت",
+              "shortName": "طبیعت",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=144",
+              "played": 19,
+              "won": 13,
+              "lost": 6,
+              "pointsFor": 1544,
+              "pointsAgainst": 1416,
+              "diff": 128,
+              "points": 32,
+              "pointsDeducted": 0,
+              "winRate": 0.684,
+              "form": null
+            },
+            {
+              "rank": 5,
+              "manualRank": 0,
+              "teamId": 901064,
+              "name": "پالایش نفت آبادان",
+              "shortName": "نفت آبادان",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144",
+              "played": 19,
+              "won": 12,
+              "lost": 7,
+              "pointsFor": 1647,
+              "pointsAgainst": 1441,
+              "diff": 206,
+              "points": 31,
+              "pointsDeducted": 0,
+              "winRate": 0.632,
+              "form": null
+            },
+            {
+              "rank": 6,
+              "manualRank": 0,
+              "teamId": 903067,
+              "name": "نفت و گاز زاگرس جنوبی",
+              "shortName": "زاگرس جنوبی",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=144",
+              "played": 19,
+              "won": 9,
+              "lost": 10,
+              "pointsFor": 1577,
+              "pointsAgainst": 1567,
+              "diff": 10,
+              "points": 28,
+              "pointsDeducted": 0,
+              "winRate": 0.474,
+              "form": null
+            },
+            {
+              "rank": 7,
+              "manualRank": 0,
+              "teamId": 903035,
+              "name": "گلنور اصفهان",
+              "shortName": "گلنور اصفهان",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=144",
+              "played": 19,
+              "won": 8,
+              "lost": 11,
+              "pointsFor": 1334,
+              "pointsAgainst": 1390,
+              "diff": -56,
+              "points": 27,
+              "pointsDeducted": 0,
+              "winRate": 0.421,
+              "form": null
+            },
+            {
+              "rank": 8,
+              "manualRank": 0,
+              "teamId": 903069,
+              "name": "پاس کردستان",
+              "shortName": "کردستان",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=144",
+              "played": 20,
+              "won": 5,
+              "lost": 15,
+              "pointsFor": 1305,
+              "pointsAgainst": 1662,
+              "diff": -357,
+              "points": 25,
+              "pointsDeducted": 0,
+              "winRate": 0.25,
+              "form": null
+            },
+            {
+              "rank": 9,
+              "manualRank": 0,
+              "teamId": 903068,
+              "name": "رعد پدافند اصفهان",
+              "shortName": "اصفهان",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=144",
+              "played": 19,
+              "won": 4,
+              "lost": 15,
+              "pointsFor": 1385,
+              "pointsAgainst": 1562,
+              "diff": -177,
+              "points": 23,
+              "pointsDeducted": 0,
+              "winRate": 0.211,
+              "form": null
+            },
+            {
+              "rank": 10,
+              "manualRank": 0,
+              "teamId": 903036,
+              "name": "مهگل البرز",
+              "shortName": "البرز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=144",
+              "played": 19,
+              "won": 4,
+              "lost": 15,
+              "pointsFor": 1450,
+              "pointsAgainst": 1633,
+              "diff": -183,
+              "points": 23,
+              "pointsDeducted": 0,
+              "winRate": 0.211,
+              "form": null
+            },
+            {
+              "rank": 11,
+              "manualRank": 0,
+              "teamId": 903039,
+              "name": "پترو نوین ماهشهر",
+              "shortName": "ماهشهر",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/sizr1wrl.png?w=144",
+              "played": 19,
+              "won": 2,
+              "lost": 17,
+              "pointsFor": 1166,
+              "pointsAgainst": 1466,
+              "diff": -300,
+              "points": 20,
+              "pointsDeducted": 1,
+              "winRate": 0.105,
+              "form": null
+            }
+          ]
+        },
+        {
+          "name": "انتخابی باشگاهی غرب آسیا",
+          "teams": [
+            {
+              "rank": 1,
+              "manualRank": 0,
+              "teamId": 903070,
+              "name": "استقلال تهران",
+              "shortName": "استقلال تهران",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144",
+              "played": 4,
+              "won": 4,
+              "lost": 0,
+              "pointsFor": 290,
+              "pointsAgainst": 240,
+              "diff": 50,
+              "points": 8,
+              "pointsDeducted": 0,
+              "winRate": 1,
+              "form": null
+            },
+            {
+              "rank": 2,
+              "manualRank": 0,
+              "teamId": 901064,
+              "name": "پالایش نفت آبادان",
+              "shortName": "نفت آبادان",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144",
+              "played": 4,
+              "won": 2,
+              "lost": 2,
+              "pointsFor": 333,
+              "pointsAgainst": 344,
+              "diff": -11,
+              "points": 6,
+              "pointsDeducted": 0,
+              "winRate": 0.5,
+              "form": null
+            },
+            {
+              "rank": 3,
+              "manualRank": 0,
+              "teamId": 903067,
+              "name": "نفت و گاز زاگرس جنوبی",
+              "shortName": "زاگرس جنوبی",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=144",
+              "played": 4,
+              "won": 0,
+              "lost": 4,
+              "pointsFor": 261,
+              "pointsAgainst": 300,
+              "diff": -39,
+              "points": 4,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            }
+          ]
+        }
+      ],
+      "teamCount": 14,
       "teams": [
         {
           "rank": 1,
+          "manualRank": 2,
+          "teamId": 572,
           "name": "شهرداری گرگان",
           "shortName": "گرگان",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144",
@@ -23,10 +290,14 @@
           "pointsAgainst": 1287,
           "diff": 265,
           "points": 35,
+          "pointsDeducted": 0,
+          "winRate": 0.842,
           "form": null
         },
         {
           "rank": 2,
+          "manualRank": 1,
+          "teamId": 903070,
           "name": "استقلال تهران",
           "shortName": "استقلال تهران",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144",
@@ -37,10 +308,14 @@
           "pointsAgainst": 1333,
           "diff": 222,
           "points": 35,
+          "pointsDeducted": 0,
+          "winRate": 0.842,
           "form": null
         },
         {
           "rank": 3,
+          "manualRank": 0,
+          "teamId": 902977,
           "name": "کاله",
           "shortName": "کاله",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=144",
@@ -51,10 +326,14 @@
           "pointsAgainst": 1367,
           "diff": 242,
           "points": 35,
+          "pointsDeducted": 0,
+          "winRate": 0.842,
           "form": null
         },
         {
           "rank": 4,
+          "manualRank": 0,
+          "teamId": 903007,
           "name": "طبیعت",
           "shortName": "طبیعت",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=144",
@@ -65,10 +344,14 @@
           "pointsAgainst": 1416,
           "diff": 128,
           "points": 32,
+          "pointsDeducted": 0,
+          "winRate": 0.684,
           "form": null
         },
         {
           "rank": 5,
+          "manualRank": 0,
+          "teamId": 901064,
           "name": "پالایش نفت آبادان",
           "shortName": "نفت آبادان",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144",
@@ -79,10 +362,14 @@
           "pointsAgainst": 1441,
           "diff": 206,
           "points": 31,
+          "pointsDeducted": 0,
+          "winRate": 0.632,
           "form": null
         },
         {
           "rank": 6,
+          "manualRank": 0,
+          "teamId": 903067,
           "name": "نفت و گاز زاگرس جنوبی",
           "shortName": "زاگرس جنوبی",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=144",
@@ -93,12 +380,16 @@
           "pointsAgainst": 1567,
           "diff": 10,
           "points": 28,
+          "pointsDeducted": 0,
+          "winRate": 0.474,
           "form": null
         },
         {
           "rank": 7,
+          "manualRank": 0,
+          "teamId": 903035,
           "name": "گلنور اصفهان",
-          "shortName": "اصفهان",
+          "shortName": "گلنور اصفهان",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=144",
           "played": 19,
           "won": 8,
@@ -107,10 +398,14 @@
           "pointsAgainst": 1390,
           "diff": -56,
           "points": 27,
+          "pointsDeducted": 0,
+          "winRate": 0.421,
           "form": null
         },
         {
           "rank": 8,
+          "manualRank": 0,
+          "teamId": 903069,
           "name": "پاس کردستان",
           "shortName": "کردستان",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=144",
@@ -121,10 +416,14 @@
           "pointsAgainst": 1662,
           "diff": -357,
           "points": 25,
+          "pointsDeducted": 0,
+          "winRate": 0.25,
           "form": null
         },
         {
           "rank": 9,
+          "manualRank": 0,
+          "teamId": 903068,
           "name": "رعد پدافند اصفهان",
           "shortName": "اصفهان",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=144",
@@ -135,10 +434,14 @@
           "pointsAgainst": 1562,
           "diff": -177,
           "points": 23,
+          "pointsDeducted": 0,
+          "winRate": 0.211,
           "form": null
         },
         {
           "rank": 10,
+          "manualRank": 0,
+          "teamId": 903036,
           "name": "مهگل البرز",
           "shortName": "البرز",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=144",
@@ -149,10 +452,14 @@
           "pointsAgainst": 1633,
           "diff": -183,
           "points": 23,
+          "pointsDeducted": 0,
+          "winRate": 0.211,
           "form": null
         },
         {
           "rank": 11,
+          "manualRank": 0,
+          "teamId": 903039,
           "name": "پترو نوین ماهشهر",
           "shortName": "ماهشهر",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/sizr1wrl.png?w=144",
@@ -163,6 +470,62 @@
           "pointsAgainst": 1466,
           "diff": -300,
           "points": 20,
+          "pointsDeducted": 1,
+          "winRate": 0.105,
+          "form": null
+        },
+        {
+          "rank": 1,
+          "manualRank": 0,
+          "teamId": 903070,
+          "name": "استقلال تهران",
+          "shortName": "استقلال تهران",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144",
+          "played": 4,
+          "won": 4,
+          "lost": 0,
+          "pointsFor": 290,
+          "pointsAgainst": 240,
+          "diff": 50,
+          "points": 8,
+          "pointsDeducted": 0,
+          "winRate": 1,
+          "form": null
+        },
+        {
+          "rank": 2,
+          "manualRank": 0,
+          "teamId": 901064,
+          "name": "پالایش نفت آبادان",
+          "shortName": "نفت آبادان",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144",
+          "played": 4,
+          "won": 2,
+          "lost": 2,
+          "pointsFor": 333,
+          "pointsAgainst": 344,
+          "diff": -11,
+          "points": 6,
+          "pointsDeducted": 0,
+          "winRate": 0.5,
+          "form": null
+        },
+        {
+          "rank": 3,
+          "manualRank": 0,
+          "teamId": 903067,
+          "name": "نفت و گاز زاگرس جنوبی",
+          "shortName": "زاگرس جنوبی",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=144",
+          "played": 4,
+          "won": 0,
+          "lost": 4,
+          "pointsFor": 261,
+          "pointsAgainst": 300,
+          "diff": -39,
+          "points": 4,
+          "pointsDeducted": 0,
+          "winRate": 0,
           "form": null
         }
       ]
@@ -170,16 +533,589 @@
     {
       "id": "lg-209",
       "refId": 209,
+      "seasonId": "904615",
       "name": "NBA",
       "nameEn": "NBA",
       "country": "US",
       "flag": "🏀",
-      "season": "2026-27",
-      "url": "https://www.varzesh3.com/basketball/league/209/table",
-      "updatedAt": "2026-09-28T10:08:38.305137+00:00",
+      "priority": 2,
+      "updatedAt": "2026-09-28T10:34:14.123462+00:00",
+      "groups": [
+        {
+          "name": "کنفرانس شرق",
+          "teams": [
+            {
+              "rank": 1,
+              "manualRank": 0,
+              "teamId": 902410,
+              "name": "کلیولند کاوالیرز",
+              "shortName": "کلیولند کاوالیرز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/d00jval4.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 2,
+              "manualRank": 0,
+              "teamId": 902788,
+              "name": "فینیکس سانز",
+              "shortName": "فینیکس سانز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vkphjzaq.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 3,
+              "manualRank": 0,
+              "teamId": 902794,
+              "name": "آتلانتا هاوکس",
+              "shortName": "آتلانتا هاوکس",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/egbamhav.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 4,
+              "manualRank": 0,
+              "teamId": 902795,
+              "name": "بوستون سلتیکس",
+              "shortName": "بوستون سلتیکس",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/x4rt1sny.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 5,
+              "manualRank": 0,
+              "teamId": 902796,
+              "name": "شارلوت هورنتس",
+              "shortName": "شارلوت هورنتس",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/hppjduqa.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 6,
+              "manualRank": 0,
+              "teamId": 902797,
+              "name": "شیکاگو بولز",
+              "shortName": "شیکاگو بولز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vvrspzvd.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 7,
+              "manualRank": 0,
+              "teamId": 902798,
+              "name": "دیترویت پیستونز",
+              "shortName": "دیترویت پیستونز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/kmnohzo4.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 8,
+              "manualRank": 0,
+              "teamId": 902799,
+              "name": "ایندیانا پیسرز",
+              "shortName": "ایندیانا پیسرز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/waqizaqy.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 9,
+              "manualRank": 0,
+              "teamId": 902800,
+              "name": "میامی هیت",
+              "shortName": "میامی هیت",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/kotuvk32.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 10,
+              "manualRank": 0,
+              "teamId": 902801,
+              "name": "میلواکی باکس",
+              "shortName": "میلواکی باکس",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cmtcetua.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 11,
+              "manualRank": 0,
+              "teamId": 902802,
+              "name": "بروکلین نتس",
+              "shortName": "بروکلین نتس",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/naozel2u.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 12,
+              "manualRank": 0,
+              "teamId": 902803,
+              "name": "نیویورک نیکس",
+              "shortName": "نیویورک نیکس",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/zz2ool0n.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 13,
+              "manualRank": 0,
+              "teamId": 902804,
+              "name": "اورلاندو مجیک",
+              "shortName": "اورلاندو مجیک",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dupmevik.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 14,
+              "manualRank": 0,
+              "teamId": 902805,
+              "name": "فیلادلفیا سیکسرز",
+              "shortName": "فیلادلفیا سیکسرز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dqahr2w4.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 15,
+              "manualRank": 0,
+              "teamId": 902806,
+              "name": "تورنتو رپترز",
+              "shortName": "تورنتو رپترز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ltpmlnwx.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 16,
+              "manualRank": 0,
+              "teamId": 902807,
+              "name": "واشینگتن ویزاردز",
+              "shortName": "واشینگتن ویزاردز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/zw144agu.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            }
+          ]
+        },
+        {
+          "name": "کنفرانس غرب",
+          "teams": [
+            {
+              "rank": 1,
+              "manualRank": 0,
+              "teamId": 902409,
+              "name": "گلدن استیت واریرز",
+              "shortName": "گلدن استیت واریرز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/b0v45ogz.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 2,
+              "manualRank": 0,
+              "teamId": 902780,
+              "name": "دالاس ماوریکس",
+              "shortName": "دالاس ماوریکس",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/rq0cahor.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 3,
+              "manualRank": 0,
+              "teamId": 902781,
+              "name": "دنور ناگتس",
+              "shortName": "دنور ناگتس",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/oz2kzfbf.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 4,
+              "manualRank": 0,
+              "teamId": 902782,
+              "name": "هیوستون راکتس",
+              "shortName": "هیوستون راکتس",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/2uh2w3qu.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 5,
+              "manualRank": 0,
+              "teamId": 902783,
+              "name": "لس آنجلس کلیپرز",
+              "shortName": "لس آنجلس کلیپرز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1uqq0qsx.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 6,
+              "manualRank": 0,
+              "teamId": 902784,
+              "name": "لس آنجلس لیکرز",
+              "shortName": "لس آنجلس لیکرز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/3urohyqu.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 7,
+              "manualRank": 0,
+              "teamId": 902785,
+              "name": "ممفیس گریزلیز",
+              "shortName": "ممفیس گریزلیز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vcah3c35.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 8,
+              "manualRank": 0,
+              "teamId": 902786,
+              "name": "مینه سوتا تیمبرولوز",
+              "shortName": "مینه سوتا تیمبرولوز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/tnkjgu5f.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 9,
+              "manualRank": 0,
+              "teamId": 902787,
+              "name": "نیو اورلینز پلیکانز",
+              "shortName": "نیو اورلینز پلیکانز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/fjybluny.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 10,
+              "manualRank": 0,
+              "teamId": 902788,
+              "name": "فینیکس سانز",
+              "shortName": "فینیکس سانز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vkphjzaq.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 11,
+              "manualRank": 0,
+              "teamId": 902789,
+              "name": "پورتلند تریل بلیزرز",
+              "shortName": "پورتلند تریل بلیزرز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/fiwzuurc.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 12,
+              "manualRank": 0,
+              "teamId": 902790,
+              "name": "ساکرامنتو کینگز",
+              "shortName": "ساکرامنتو کینگز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/30g1vnui.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 13,
+              "manualRank": 0,
+              "teamId": 902791,
+              "name": "سن آنتونیو اسپرز",
+              "shortName": "سن آنتونیو اسپرز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/lzt0gkfh.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 14,
+              "manualRank": 0,
+              "teamId": 902792,
+              "name": "یوتا جاز",
+              "shortName": "یوتا جاز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/w0hd3t23.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 15,
+              "manualRank": 0,
+              "teamId": 902793,
+              "name": "اوکلاهاما سیتی تاندر",
+              "shortName": "اوکلاهاما سیتی تاندر",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dzn4tahc.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            }
+          ]
+        }
+      ],
+      "teamCount": 31,
       "teams": [
         {
           "rank": 1,
+          "manualRank": 0,
+          "teamId": 902410,
           "name": "کلیولند کاوالیرز",
           "shortName": "کلیولند کاوالیرز",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/d00jval4.png?w=144",
@@ -190,10 +1126,14 @@
           "pointsAgainst": 0,
           "diff": 0,
           "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
           "form": null
         },
         {
           "rank": 2,
+          "manualRank": 0,
+          "teamId": 902788,
           "name": "فینیکس سانز",
           "shortName": "فینیکس سانز",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vkphjzaq.png?w=144",
@@ -204,10 +1144,14 @@
           "pointsAgainst": 0,
           "diff": 0,
           "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
           "form": null
         },
         {
           "rank": 3,
+          "manualRank": 0,
+          "teamId": 902794,
           "name": "آتلانتا هاوکس",
           "shortName": "آتلانتا هاوکس",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/egbamhav.png?w=144",
@@ -218,10 +1162,14 @@
           "pointsAgainst": 0,
           "diff": 0,
           "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
           "form": null
         },
         {
           "rank": 4,
+          "manualRank": 0,
+          "teamId": 902795,
           "name": "بوستون سلتیکس",
           "shortName": "بوستون سلتیکس",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/x4rt1sny.png?w=144",
@@ -232,10 +1180,14 @@
           "pointsAgainst": 0,
           "diff": 0,
           "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
           "form": null
         },
         {
           "rank": 5,
+          "manualRank": 0,
+          "teamId": 902796,
           "name": "شارلوت هورنتس",
           "shortName": "شارلوت هورنتس",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/hppjduqa.png?w=144",
@@ -246,10 +1198,14 @@
           "pointsAgainst": 0,
           "diff": 0,
           "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
           "form": null
         },
         {
           "rank": 6,
+          "manualRank": 0,
+          "teamId": 902797,
           "name": "شیکاگو بولز",
           "shortName": "شیکاگو بولز",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vvrspzvd.png?w=144",
@@ -260,10 +1216,14 @@
           "pointsAgainst": 0,
           "diff": 0,
           "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
           "form": null
         },
         {
           "rank": 7,
+          "manualRank": 0,
+          "teamId": 902798,
           "name": "دیترویت پیستونز",
           "shortName": "دیترویت پیستونز",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/kmnohzo4.png?w=144",
@@ -274,10 +1234,14 @@
           "pointsAgainst": 0,
           "diff": 0,
           "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
           "form": null
         },
         {
           "rank": 8,
+          "manualRank": 0,
+          "teamId": 902799,
           "name": "ایندیانا پیسرز",
           "shortName": "ایندیانا پیسرز",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/waqizaqy.png?w=144",
@@ -288,10 +1252,14 @@
           "pointsAgainst": 0,
           "diff": 0,
           "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
           "form": null
         },
         {
           "rank": 9,
+          "manualRank": 0,
+          "teamId": 902800,
           "name": "میامی هیت",
           "shortName": "میامی هیت",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/kotuvk32.png?w=144",
@@ -302,10 +1270,14 @@
           "pointsAgainst": 0,
           "diff": 0,
           "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
           "form": null
         },
         {
           "rank": 10,
+          "manualRank": 0,
+          "teamId": 902801,
           "name": "میلواکی باکس",
           "shortName": "میلواکی باکس",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cmtcetua.png?w=144",
@@ -316,10 +1288,14 @@
           "pointsAgainst": 0,
           "diff": 0,
           "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
           "form": null
         },
         {
           "rank": 11,
+          "manualRank": 0,
+          "teamId": 902802,
           "name": "بروکلین نتس",
           "shortName": "بروکلین نتس",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/naozel2u.png?w=144",
@@ -330,10 +1306,14 @@
           "pointsAgainst": 0,
           "diff": 0,
           "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
           "form": null
         },
         {
           "rank": 12,
+          "manualRank": 0,
+          "teamId": 902803,
           "name": "نیویورک نیکس",
           "shortName": "نیویورک نیکس",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/zz2ool0n.png?w=144",
@@ -344,10 +1324,14 @@
           "pointsAgainst": 0,
           "diff": 0,
           "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
           "form": null
         },
         {
           "rank": 13,
+          "manualRank": 0,
+          "teamId": 902804,
           "name": "اورلاندو مجیک",
           "shortName": "اورلاندو مجیک",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dupmevik.png?w=144",
@@ -358,10 +1342,14 @@
           "pointsAgainst": 0,
           "diff": 0,
           "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
           "form": null
         },
         {
           "rank": 14,
+          "manualRank": 0,
+          "teamId": 902805,
           "name": "فیلادلفیا سیکسرز",
           "shortName": "فیلادلفیا سیکسرز",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dqahr2w4.png?w=144",
@@ -372,10 +1360,14 @@
           "pointsAgainst": 0,
           "diff": 0,
           "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
           "form": null
         },
         {
           "rank": 15,
+          "manualRank": 0,
+          "teamId": 902806,
           "name": "تورنتو رپترز",
           "shortName": "تورنتو رپترز",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ltpmlnwx.png?w=144",
@@ -386,10 +1378,14 @@
           "pointsAgainst": 0,
           "diff": 0,
           "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
           "form": null
         },
         {
           "rank": 16,
+          "manualRank": 0,
+          "teamId": 902807,
           "name": "واشینگتن ویزاردز",
           "shortName": "واشینگتن ویزاردز",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/zw144agu.png?w=144",
@@ -400,6 +1396,278 @@
           "pointsAgainst": 0,
           "diff": 0,
           "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
+          "form": null
+        },
+        {
+          "rank": 1,
+          "manualRank": 0,
+          "teamId": 902409,
+          "name": "گلدن استیت واریرز",
+          "shortName": "گلدن استیت واریرز",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/b0v45ogz.png?w=144",
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "diff": 0,
+          "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
+          "form": null
+        },
+        {
+          "rank": 2,
+          "manualRank": 0,
+          "teamId": 902780,
+          "name": "دالاس ماوریکس",
+          "shortName": "دالاس ماوریکس",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/rq0cahor.png?w=144",
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "diff": 0,
+          "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
+          "form": null
+        },
+        {
+          "rank": 3,
+          "manualRank": 0,
+          "teamId": 902781,
+          "name": "دنور ناگتس",
+          "shortName": "دنور ناگتس",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/oz2kzfbf.png?w=144",
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "diff": 0,
+          "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
+          "form": null
+        },
+        {
+          "rank": 4,
+          "manualRank": 0,
+          "teamId": 902782,
+          "name": "هیوستون راکتس",
+          "shortName": "هیوستون راکتس",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/2uh2w3qu.png?w=144",
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "diff": 0,
+          "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
+          "form": null
+        },
+        {
+          "rank": 5,
+          "manualRank": 0,
+          "teamId": 902783,
+          "name": "لس آنجلس کلیپرز",
+          "shortName": "لس آنجلس کلیپرز",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1uqq0qsx.png?w=144",
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "diff": 0,
+          "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
+          "form": null
+        },
+        {
+          "rank": 6,
+          "manualRank": 0,
+          "teamId": 902784,
+          "name": "لس آنجلس لیکرز",
+          "shortName": "لس آنجلس لیکرز",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/3urohyqu.png?w=144",
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "diff": 0,
+          "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
+          "form": null
+        },
+        {
+          "rank": 7,
+          "manualRank": 0,
+          "teamId": 902785,
+          "name": "ممفیس گریزلیز",
+          "shortName": "ممفیس گریزلیز",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vcah3c35.png?w=144",
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "diff": 0,
+          "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
+          "form": null
+        },
+        {
+          "rank": 8,
+          "manualRank": 0,
+          "teamId": 902786,
+          "name": "مینه سوتا تیمبرولوز",
+          "shortName": "مینه سوتا تیمبرولوز",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/tnkjgu5f.png?w=144",
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "diff": 0,
+          "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
+          "form": null
+        },
+        {
+          "rank": 9,
+          "manualRank": 0,
+          "teamId": 902787,
+          "name": "نیو اورلینز پلیکانز",
+          "shortName": "نیو اورلینز پلیکانز",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/fjybluny.png?w=144",
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "diff": 0,
+          "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
+          "form": null
+        },
+        {
+          "rank": 10,
+          "manualRank": 0,
+          "teamId": 902788,
+          "name": "فینیکس سانز",
+          "shortName": "فینیکس سانز",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vkphjzaq.png?w=144",
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "diff": 0,
+          "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
+          "form": null
+        },
+        {
+          "rank": 11,
+          "manualRank": 0,
+          "teamId": 902789,
+          "name": "پورتلند تریل بلیزرز",
+          "shortName": "پورتلند تریل بلیزرز",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/fiwzuurc.png?w=144",
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "diff": 0,
+          "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
+          "form": null
+        },
+        {
+          "rank": 12,
+          "manualRank": 0,
+          "teamId": 902790,
+          "name": "ساکرامنتو کینگز",
+          "shortName": "ساکرامنتو کینگز",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/30g1vnui.png?w=144",
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "diff": 0,
+          "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
+          "form": null
+        },
+        {
+          "rank": 13,
+          "manualRank": 0,
+          "teamId": 902791,
+          "name": "سن آنتونیو اسپرز",
+          "shortName": "سن آنتونیو اسپرز",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/lzt0gkfh.png?w=144",
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "diff": 0,
+          "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
+          "form": null
+        },
+        {
+          "rank": 14,
+          "manualRank": 0,
+          "teamId": 902792,
+          "name": "یوتا جاز",
+          "shortName": "یوتا جاز",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/w0hd3t23.png?w=144",
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "diff": 0,
+          "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
+          "form": null
+        },
+        {
+          "rank": 15,
+          "manualRank": 0,
+          "teamId": 902793,
+          "name": "اوکلاهاما سیتی تاندر",
+          "shortName": "اوکلاهاما سیتی تاندر",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dzn4tahc.png?w=144",
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "diff": 0,
+          "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
           "form": null
         }
       ]
@@ -407,16 +1675,270 @@
     {
       "id": "lg-205",
       "refId": 205,
-      "name": "لیگ بین‌المللی آسیا",
-      "nameEn": "Asian Intl League",
+      "seasonId": "902615",
+      "name": "لیگ باشگاه‌های غرب آسیا",
+      "nameEn": "West Asia Clubs League",
       "country": "AS",
       "flag": "🌏",
-      "season": "2026",
-      "url": "https://www.varzesh3.com/basketball/league/205/table",
-      "updatedAt": "2026-09-28T10:08:41.219472+00:00",
+      "priority": 3,
+      "updatedAt": "2026-09-28T10:34:20.217309+00:00",
+      "groups": [
+        {
+          "name": "لیگ غرب آسیا",
+          "teams": [
+            {
+              "rank": 1,
+              "manualRank": 0,
+              "teamId": 903054,
+              "name": "آستانه قزاقستان",
+              "shortName": "آستانه قزاقستان",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/wronxido.png?w=144",
+              "played": 8,
+              "won": 5,
+              "lost": 3,
+              "pointsFor": 658,
+              "pointsAgainst": 669,
+              "diff": -11,
+              "points": 13,
+              "pointsDeducted": 0,
+              "winRate": 0.625,
+              "form": null
+            },
+            {
+              "rank": 2,
+              "manualRank": 0,
+              "teamId": 902995,
+              "name": "الریاضی لبنان",
+              "shortName": "الریاضی لبنان",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cycy4atc.png?w=144",
+              "played": 6,
+              "won": 5,
+              "lost": 1,
+              "pointsFor": 534,
+              "pointsAgainst": 475,
+              "diff": 59,
+              "points": 11,
+              "pointsDeducted": 0,
+              "winRate": 0.833,
+              "form": null
+            },
+            {
+              "rank": 3,
+              "manualRank": 0,
+              "teamId": 572,
+              "name": "شهرداری گرگان",
+              "shortName": "گرگان",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144",
+              "played": 7,
+              "won": 3,
+              "lost": 4,
+              "pointsFor": 545,
+              "pointsAgainst": 536,
+              "diff": 9,
+              "points": 10,
+              "pointsDeducted": 0,
+              "winRate": 0.429,
+              "form": null
+            },
+            {
+              "rank": 4,
+              "manualRank": 0,
+              "teamId": 903012,
+              "name": "الوحده امارات",
+              "shortName": "الوحده امارات",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dgpqhtv2.png?w=144",
+              "played": 7,
+              "won": 3,
+              "lost": 4,
+              "pointsFor": 518,
+              "pointsAgainst": 545,
+              "diff": -27,
+              "points": 10,
+              "pointsDeducted": 0,
+              "winRate": 0.429,
+              "form": null
+            },
+            {
+              "rank": 5,
+              "manualRank": 0,
+              "teamId": 903053,
+              "name": "ساجس بیروت",
+              "shortName": "ساجس بیروت",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/4hfdhsy0.png?w=144",
+              "played": 6,
+              "won": 1,
+              "lost": 5,
+              "pointsFor": 503,
+              "pointsAgainst": 533,
+              "diff": -30,
+              "points": 7,
+              "pointsDeducted": 0,
+              "winRate": 0.167,
+              "form": null
+            }
+          ]
+        },
+        {
+          "name": "گروه A",
+          "teams": [
+            {
+              "rank": 1,
+              "manualRank": 0,
+              "teamId": 902995,
+              "name": "الریاضی لبنان",
+              "shortName": "الریاضی لبنان",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cycy4atc.png?w=144",
+              "played": 1,
+              "won": 1,
+              "lost": 0,
+              "pointsFor": 104,
+              "pointsAgainst": 81,
+              "diff": 23,
+              "points": 2,
+              "pointsDeducted": 0,
+              "winRate": 1,
+              "form": null
+            },
+            {
+              "rank": 2,
+              "manualRank": 0,
+              "teamId": 923071,
+              "name": "کویت کلاب",
+              "shortName": "کویت کلاب",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/41zqcjst.png?w=144",
+              "played": 1,
+              "won": 1,
+              "lost": 0,
+              "pointsFor": 105,
+              "pointsAgainst": 97,
+              "diff": 8,
+              "points": 2,
+              "pointsDeducted": 0,
+              "winRate": 1,
+              "form": null
+            },
+            {
+              "rank": 3,
+              "manualRank": 0,
+              "teamId": 903052,
+              "name": "الاتحاد عربستان",
+              "shortName": "الاتحاد عربستان",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/r51ufabz.png?w=144",
+              "played": 1,
+              "won": 0,
+              "lost": 1,
+              "pointsFor": 97,
+              "pointsAgainst": 105,
+              "diff": -8,
+              "points": 1,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 4,
+              "manualRank": 0,
+              "teamId": 923072,
+              "name": "راه آهن هند",
+              "shortName": "راه آهن هند",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1on4rjel.png?w=144",
+              "played": 1,
+              "won": 0,
+              "lost": 1,
+              "pointsFor": 81,
+              "pointsAgainst": 104,
+              "diff": -23,
+              "points": 1,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            }
+          ]
+        },
+        {
+          "name": "گروه B",
+          "teams": [
+            {
+              "rank": 1,
+              "manualRank": 0,
+              "teamId": 903053,
+              "name": "ساجس بیروت",
+              "shortName": "ساجس بیروت",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/4hfdhsy0.png?w=144",
+              "played": 1,
+              "won": 1,
+              "lost": 0,
+              "pointsFor": 103,
+              "pointsAgainst": 97,
+              "diff": 6,
+              "points": 2,
+              "pointsDeducted": 0,
+              "winRate": 1,
+              "form": null
+            },
+            {
+              "rank": 2,
+              "manualRank": 0,
+              "teamId": 572,
+              "name": "شهرداری گرگان",
+              "shortName": "گرگان",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144",
+              "played": 1,
+              "won": 0,
+              "lost": 1,
+              "pointsFor": 97,
+              "pointsAgainst": 103,
+              "diff": -6,
+              "points": 1,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 3,
+              "manualRank": 0,
+              "teamId": 923074,
+              "name": "العلا عربستان",
+              "shortName": "العلا عربستان",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/annyfrnc.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 4,
+              "manualRank": 0,
+              "teamId": 923075,
+              "name": "العربی قطر",
+              "shortName": "العربی قطر",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dabmcerw.png?w=144",
+              "played": 0,
+              "won": 0,
+              "lost": 0,
+              "pointsFor": 0,
+              "pointsAgainst": 0,
+              "diff": 0,
+              "points": 0,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            }
+          ]
+        }
+      ],
+      "teamCount": 13,
       "teams": [
         {
           "rank": 1,
+          "manualRank": 0,
+          "teamId": 903054,
           "name": "آستانه قزاقستان",
           "shortName": "آستانه قزاقستان",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/wronxido.png?w=144",
@@ -427,10 +1949,14 @@
           "pointsAgainst": 669,
           "diff": -11,
           "points": 13,
+          "pointsDeducted": 0,
+          "winRate": 0.625,
           "form": null
         },
         {
           "rank": 2,
+          "manualRank": 0,
+          "teamId": 902995,
           "name": "الریاضی لبنان",
           "shortName": "الریاضی لبنان",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cycy4atc.png?w=144",
@@ -441,10 +1967,14 @@
           "pointsAgainst": 475,
           "diff": 59,
           "points": 11,
+          "pointsDeducted": 0,
+          "winRate": 0.833,
           "form": null
         },
         {
           "rank": 3,
+          "manualRank": 0,
+          "teamId": 572,
           "name": "شهرداری گرگان",
           "shortName": "گرگان",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144",
@@ -455,10 +1985,14 @@
           "pointsAgainst": 536,
           "diff": 9,
           "points": 10,
+          "pointsDeducted": 0,
+          "winRate": 0.429,
           "form": null
         },
         {
           "rank": 4,
+          "manualRank": 0,
+          "teamId": 903012,
           "name": "الوحده امارات",
           "shortName": "الوحده امارات",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dgpqhtv2.png?w=144",
@@ -469,10 +2003,14 @@
           "pointsAgainst": 545,
           "diff": -27,
           "points": 10,
+          "pointsDeducted": 0,
+          "winRate": 0.429,
           "form": null
         },
         {
           "rank": 5,
+          "manualRank": 0,
+          "teamId": 903053,
           "name": "ساجس بیروت",
           "shortName": "ساجس بیروت",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/4hfdhsy0.png?w=144",
@@ -483,12 +2021,4564 @@
           "pointsAgainst": 533,
           "diff": -30,
           "points": 7,
+          "pointsDeducted": 0,
+          "winRate": 0.167,
+          "form": null
+        },
+        {
+          "rank": 1,
+          "manualRank": 0,
+          "teamId": 902995,
+          "name": "الریاضی لبنان",
+          "shortName": "الریاضی لبنان",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cycy4atc.png?w=144",
+          "played": 1,
+          "won": 1,
+          "lost": 0,
+          "pointsFor": 104,
+          "pointsAgainst": 81,
+          "diff": 23,
+          "points": 2,
+          "pointsDeducted": 0,
+          "winRate": 1,
+          "form": null
+        },
+        {
+          "rank": 2,
+          "manualRank": 0,
+          "teamId": 923071,
+          "name": "کویت کلاب",
+          "shortName": "کویت کلاب",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/41zqcjst.png?w=144",
+          "played": 1,
+          "won": 1,
+          "lost": 0,
+          "pointsFor": 105,
+          "pointsAgainst": 97,
+          "diff": 8,
+          "points": 2,
+          "pointsDeducted": 0,
+          "winRate": 1,
+          "form": null
+        },
+        {
+          "rank": 3,
+          "manualRank": 0,
+          "teamId": 903052,
+          "name": "الاتحاد عربستان",
+          "shortName": "الاتحاد عربستان",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/r51ufabz.png?w=144",
+          "played": 1,
+          "won": 0,
+          "lost": 1,
+          "pointsFor": 97,
+          "pointsAgainst": 105,
+          "diff": -8,
+          "points": 1,
+          "pointsDeducted": 0,
+          "winRate": 0,
+          "form": null
+        },
+        {
+          "rank": 4,
+          "manualRank": 0,
+          "teamId": 923072,
+          "name": "راه آهن هند",
+          "shortName": "راه آهن هند",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1on4rjel.png?w=144",
+          "played": 1,
+          "won": 0,
+          "lost": 1,
+          "pointsFor": 81,
+          "pointsAgainst": 104,
+          "diff": -23,
+          "points": 1,
+          "pointsDeducted": 0,
+          "winRate": 0,
+          "form": null
+        },
+        {
+          "rank": 1,
+          "manualRank": 0,
+          "teamId": 903053,
+          "name": "ساجس بیروت",
+          "shortName": "ساجس بیروت",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/4hfdhsy0.png?w=144",
+          "played": 1,
+          "won": 1,
+          "lost": 0,
+          "pointsFor": 103,
+          "pointsAgainst": 97,
+          "diff": 6,
+          "points": 2,
+          "pointsDeducted": 0,
+          "winRate": 1,
+          "form": null
+        },
+        {
+          "rank": 2,
+          "manualRank": 0,
+          "teamId": 572,
+          "name": "شهرداری گرگان",
+          "shortName": "گرگان",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144",
+          "played": 1,
+          "won": 0,
+          "lost": 1,
+          "pointsFor": 97,
+          "pointsAgainst": 103,
+          "diff": -6,
+          "points": 1,
+          "pointsDeducted": 0,
+          "winRate": 0,
+          "form": null
+        },
+        {
+          "rank": 3,
+          "manualRank": 0,
+          "teamId": 923074,
+          "name": "العلا عربستان",
+          "shortName": "العلا عربستان",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/annyfrnc.png?w=144",
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "diff": 0,
+          "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
+          "form": null
+        },
+        {
+          "rank": 4,
+          "manualRank": 0,
+          "teamId": 923075,
+          "name": "العربی قطر",
+          "shortName": "العربی قطر",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dabmcerw.png?w=144",
+          "played": 0,
+          "won": 0,
+          "lost": 0,
+          "pointsFor": 0,
+          "pointsAgainst": 0,
+          "diff": 0,
+          "points": 0,
+          "pointsDeducted": 0,
+          "winRate": 0,
           "form": null
         }
       ]
     }
   ],
-  "version": 1,
-  "generatedAt": "2026-09-28T10:08:41.219488+00:00",
-  "count": 32
+  "matches": [
+    {
+      "id": 180061,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/07",
+      "dateIso": "2027-02-07",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "آتلانتا هاوکس",
+        "shortName": "آتلانتا هاوکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/egbamhav.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "میامی هیت",
+        "shortName": "میامی هیت",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/kotuvk32.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180061/بازی-آتلانتا-هاوکس-میامی-هیت"
+    },
+    {
+      "id": 180062,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/07",
+      "dateIso": "2027-02-07",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "کلیولند کاوالیرز",
+        "shortName": "کلیولند کاوالیرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/d00jval4.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "واشینگتن ویزاردز",
+        "shortName": "واشینگتن ویزاردز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/zw144agu.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180062/بازی-کلیولند-کاوالیرز-واشینگتن-ویزاردز"
+    },
+    {
+      "id": 180063,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/07",
+      "dateIso": "2027-02-07",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "دیترویت پیستونز",
+        "shortName": "دیترویت پیستونز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/kmnohzo4.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "شارلوت هورنتس",
+        "shortName": "شارلوت هورنتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/hppjduqa.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180063/بازی-دیترویت-پیستونز-شارلوت-هورنتس"
+    },
+    {
+      "id": 180064,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/07",
+      "dateIso": "2027-02-07",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "ایندیانا پیسرز",
+        "shortName": "ایندیانا پیسرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/waqizaqy.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "فیلادلفیا سیکسرز",
+        "shortName": "فیلادلفیا سیکسرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dqahr2w4.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180064/بازی-ایندیانا-پیسرز-فیلادلفیا-سیکسرز"
+    },
+    {
+      "id": 180065,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/07",
+      "dateIso": "2027-02-07",
+      "time": "03:00",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "تورنتو رپترز",
+        "shortName": "تورنتو رپترز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ltpmlnwx.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "اورلاندو مجیک",
+        "shortName": "اورلاندو مجیک",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dupmevik.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180065/بازی-تورنتو-رپترز-اورلاندو-مجیک"
+    },
+    {
+      "id": 180066,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/07",
+      "dateIso": "2027-02-07",
+      "time": "03:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "شیکاگو بولز",
+        "shortName": "شیکاگو بولز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vvrspzvd.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "نیویورک نیکس",
+        "shortName": "نیویورک نیکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/zz2ool0n.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180066/بازی-شیکاگو-بولز-نیویورک-نیکس"
+    },
+    {
+      "id": 180067,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/07",
+      "dateIso": "2027-02-07",
+      "time": "03:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "میلواکی باکس",
+        "shortName": "میلواکی باکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cmtcetua.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "هیوستون راکتس",
+        "shortName": "هیوستون راکتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/2uh2w3qu.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180067/بازی-میلواکی-باکس-هیوستون-راکتس"
+    },
+    {
+      "id": 180068,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/07",
+      "dateIso": "2027-02-07",
+      "time": "03:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "مینه سوتا تیمبرولوز",
+        "shortName": "مینه سوتا تیمبرولوز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/tnkjgu5f.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "گلدن استیت واریرز",
+        "shortName": "گلدن استیت واریرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/b0v45ogz.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180068/بازی-مینه-سوتا-تیمبرولوز-گلدن-استیت-واریرز"
+    },
+    {
+      "id": 180069,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/07",
+      "dateIso": "2027-02-07",
+      "time": "03:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "نیو اورلینز پلیکانز",
+        "shortName": "نیو اورلینز پلیکانز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/fjybluny.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "دنور ناگتس",
+        "shortName": "دنور ناگتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/oz2kzfbf.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180069/بازی-نیو-اورلینز-پلیکانز-دنور-ناگتس"
+    },
+    {
+      "id": 180070,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/07",
+      "dateIso": "2027-02-07",
+      "time": "04:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "یوتا جاز",
+        "shortName": "یوتا جاز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/w0hd3t23.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "سن آنتونیو اسپرز",
+        "shortName": "سن آنتونیو اسپرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/lzt0gkfh.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180070/بازی-یوتا-جاز-سن-آنتونیو-اسپرز"
+    },
+    {
+      "id": 180071,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/07",
+      "dateIso": "2027-02-07",
+      "time": "05:00",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "دالاس ماوریکس",
+        "shortName": "دالاس ماوریکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/rq0cahor.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "اوکلاهاما سیتی تاندر",
+        "shortName": "اوکلاهاما سیتی تاندر",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dzn4tahc.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180071/بازی-دالاس-ماوریکس-اوکلاهاما-سیتی-تاندر"
+    },
+    {
+      "id": 180057,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/06",
+      "dateIso": "2027-02-06",
+      "time": "03:00",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "بوستون سلتیکس",
+        "shortName": "بوستون سلتیکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/x4rt1sny.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "بروکلین نتس",
+        "shortName": "بروکلین نتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/naozel2u.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180057/بازی-بوستون-سلتیکس-بروکلین-نتس"
+    },
+    {
+      "id": 180058,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/06",
+      "dateIso": "2027-02-06",
+      "time": "03:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "نیویورک نیکس",
+        "shortName": "نیویورک نیکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/zz2ool0n.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "دیترویت پیستونز",
+        "shortName": "دیترویت پیستونز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/kmnohzo4.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180058/بازی-نیویورک-نیکس-دیترویت-پیستونز"
+    },
+    {
+      "id": 180059,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/06",
+      "dateIso": "2027-02-06",
+      "time": "03:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "سن آنتونیو اسپرز",
+        "shortName": "سن آنتونیو اسپرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/lzt0gkfh.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "ساکرامنتو کینگز",
+        "shortName": "ساکرامنتو کینگز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/30g1vnui.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180059/بازی-سن-آنتونیو-اسپرز-ساکرامنتو-کینگز"
+    },
+    {
+      "id": 180060,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/06",
+      "dateIso": "2027-02-06",
+      "time": "06:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "لس آنجلس لیکرز",
+        "shortName": "لس آنجلس لیکرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/3urohyqu.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "پورتلند تریل بلیزرز",
+        "shortName": "پورتلند تریل بلیزرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/fiwzuurc.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180060/بازی-لس-آنجلس-لیکرز-پورتلند-تریل-بلیزرز"
+    },
+    {
+      "id": 180048,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/05",
+      "dateIso": "2027-02-05",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "شارلوت هورنتس",
+        "shortName": "شارلوت هورنتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/hppjduqa.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "واشینگتن ویزاردز",
+        "shortName": "واشینگتن ویزاردز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/zw144agu.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180048/بازی-شارلوت-هورنتس-واشینگتن-ویزاردز"
+    },
+    {
+      "id": 180049,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/05",
+      "dateIso": "2027-02-05",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "کلیولند کاوالیرز",
+        "shortName": "کلیولند کاوالیرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/d00jval4.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "مینه سوتا تیمبرولوز",
+        "shortName": "مینه سوتا تیمبرولوز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/tnkjgu5f.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180049/بازی-کلیولند-کاوالیرز-مینه-سوتا-تیمبرولوز"
+    },
+    {
+      "id": 180050,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/05",
+      "dateIso": "2027-02-05",
+      "time": "03:00",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "بوستون سلتیکس",
+        "shortName": "بوستون سلتیکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/x4rt1sny.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "شیکاگو بولز",
+        "shortName": "شیکاگو بولز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vvrspzvd.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180050/بازی-بوستون-سلتیکس-شیکاگو-بولز"
+    },
+    {
+      "id": 180051,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/05",
+      "dateIso": "2027-02-05",
+      "time": "03:00",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "میامی هیت",
+        "shortName": "میامی هیت",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/kotuvk32.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "دالاس ماوریکس",
+        "shortName": "دالاس ماوریکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/rq0cahor.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180051/بازی-میامی-هیت-دالاس-ماوریکس"
+    },
+    {
+      "id": 180052,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/05",
+      "dateIso": "2027-02-05",
+      "time": "03:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "میلواکی باکس",
+        "shortName": "میلواکی باکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cmtcetua.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "ایندیانا پیسرز",
+        "shortName": "ایندیانا پیسرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/waqizaqy.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180052/بازی-میلواکی-باکس-ایندیانا-پیسرز"
+    },
+    {
+      "id": 180053,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/05",
+      "dateIso": "2027-02-05",
+      "time": "03:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "اوکلاهاما سیتی تاندر",
+        "shortName": "اوکلاهاما سیتی تاندر",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dzn4tahc.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "فینیکس سانز",
+        "shortName": "فینیکس سانز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vkphjzaq.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180053/بازی-اوکلاهاما-سیتی-تاندر-فینیکس-سانز"
+    },
+    {
+      "id": 180054,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/05",
+      "dateIso": "2027-02-05",
+      "time": "04:00",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "هیوستون راکتس",
+        "shortName": "هیوستون راکتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/2uh2w3qu.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "آتلانتا هاوکس",
+        "shortName": "آتلانتا هاوکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/egbamhav.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180054/بازی-هیوستون-راکتس-آتلانتا-هاوکس"
+    },
+    {
+      "id": 180055,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/05",
+      "dateIso": "2027-02-05",
+      "time": "04:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "یوتا جاز",
+        "shortName": "یوتا جاز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/w0hd3t23.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "ممفیس گریزلیز",
+        "shortName": "ممفیس گریزلیز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vcah3c35.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180055/بازی-یوتا-جاز-ممفیس-گریزلیز"
+    },
+    {
+      "id": 180056,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/05",
+      "dateIso": "2027-02-05",
+      "time": "05:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "دنور ناگتس",
+        "shortName": "دنور ناگتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/oz2kzfbf.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "گلدن استیت واریرز",
+        "shortName": "گلدن استیت واریرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/b0v45ogz.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180056/بازی-دنور-ناگتس-گلدن-استیت-واریرز"
+    },
+    {
+      "id": 180041,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/04",
+      "dateIso": "2027-02-04",
+      "time": "00:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "یوتا جاز",
+        "shortName": "یوتا جاز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/w0hd3t23.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "لس آنجلس لیکرز",
+        "shortName": "لس آنجلس لیکرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/3urohyqu.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180041/بازی-یوتا-جاز-لس-آنجلس-لیکرز"
+    },
+    {
+      "id": 180042,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/04",
+      "dateIso": "2027-02-04",
+      "time": "01:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "بروکلین نتس",
+        "shortName": "بروکلین نتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/naozel2u.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "ایندیانا پیسرز",
+        "shortName": "ایندیانا پیسرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/waqizaqy.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180042/بازی-بروکلین-نتس-ایندیانا-پیسرز"
+    },
+    {
+      "id": 180043,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/04",
+      "dateIso": "2027-02-04",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "مینه سوتا تیمبرولوز",
+        "shortName": "مینه سوتا تیمبرولوز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/tnkjgu5f.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "تورنتو رپترز",
+        "shortName": "تورنتو رپترز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ltpmlnwx.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180043/بازی-مینه-سوتا-تیمبرولوز-تورنتو-رپترز"
+    },
+    {
+      "id": 180044,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/04",
+      "dateIso": "2027-02-04",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "نیویورک نیکس",
+        "shortName": "نیویورک نیکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/zz2ool0n.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "اورلاندو مجیک",
+        "shortName": "اورلاندو مجیک",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dupmevik.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180044/بازی-نیویورک-نیکس-اورلاندو-مجیک"
+    },
+    {
+      "id": 180045,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/04",
+      "dateIso": "2027-02-04",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "اوکلاهاما سیتی تاندر",
+        "shortName": "اوکلاهاما سیتی تاندر",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dzn4tahc.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "لس آنجلس کلیپرز",
+        "shortName": "لس آنجلس کلیپرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1uqq0qsx.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180045/بازی-اوکلاهاما-سیتی-تاندر-لس-آنجلس-کلیپرز"
+    },
+    {
+      "id": 180046,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/04",
+      "dateIso": "2027-02-04",
+      "time": "03:00",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "فیلادلفیا سیکسرز",
+        "shortName": "فیلادلفیا سیکسرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dqahr2w4.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "دیترویت پیستونز",
+        "shortName": "دیترویت پیستونز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/kmnohzo4.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180046/بازی-فیلادلفیا-سیکسرز-دیترویت-پیستونز"
+    },
+    {
+      "id": 180047,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/04",
+      "dateIso": "2027-02-04",
+      "time": "04:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "ساکرامنتو کینگز",
+        "shortName": "ساکرامنتو کینگز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/30g1vnui.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "ممفیس گریزلیز",
+        "shortName": "ممفیس گریزلیز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vcah3c35.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180047/بازی-ساکرامنتو-کینگز-ممفیس-گریزلیز"
+    },
+    {
+      "id": 180033,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/03",
+      "dateIso": "2027-02-03",
+      "time": "01:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "شارلوت هورنتس",
+        "shortName": "شارلوت هورنتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/hppjduqa.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "میامی هیت",
+        "shortName": "میامی هیت",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/kotuvk32.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180033/بازی-شارلوت-هورنتس-میامی-هیت"
+    },
+    {
+      "id": 180034,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/03",
+      "dateIso": "2027-02-03",
+      "time": "03:00",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "کلیولند کاوالیرز",
+        "shortName": "کلیولند کاوالیرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/d00jval4.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "بروکلین نتس",
+        "shortName": "بروکلین نتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/naozel2u.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180034/بازی-کلیولند-کاوالیرز-بروکلین-نتس"
+    },
+    {
+      "id": 180035,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/03",
+      "dateIso": "2027-02-03",
+      "time": "03:00",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "فیلادلفیا سیکسرز",
+        "shortName": "فیلادلفیا سیکسرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dqahr2w4.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "میلواکی باکس",
+        "shortName": "میلواکی باکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cmtcetua.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180035/بازی-فیلادلفیا-سیکسرز-میلواکی-باکس"
+    },
+    {
+      "id": 180036,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/03",
+      "dateIso": "2027-02-03",
+      "time": "03:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "آتلانتا هاوکس",
+        "shortName": "آتلانتا هاوکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/egbamhav.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "هیوستون راکتس",
+        "shortName": "هیوستون راکتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/2uh2w3qu.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180036/بازی-آتلانتا-هاوکس-هیوستون-راکتس"
+    },
+    {
+      "id": 180037,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/03",
+      "dateIso": "2027-02-03",
+      "time": "03:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "شیکاگو بولز",
+        "shortName": "شیکاگو بولز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vvrspzvd.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "واشینگتن ویزاردز",
+        "shortName": "واشینگتن ویزاردز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/zw144agu.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180037/بازی-شیکاگو-بولز-واشینگتن-ویزاردز"
+    },
+    {
+      "id": 180038,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/03",
+      "dateIso": "2027-02-03",
+      "time": "03:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "دالاس ماوریکس",
+        "shortName": "دالاس ماوریکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/rq0cahor.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "سن آنتونیو اسپرز",
+        "shortName": "سن آنتونیو اسپرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/lzt0gkfh.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180038/بازی-دالاس-ماوریکس-سن-آنتونیو-اسپرز"
+    },
+    {
+      "id": 180039,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/03",
+      "dateIso": "2027-02-03",
+      "time": "03:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "دنور ناگتس",
+        "shortName": "دنور ناگتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/oz2kzfbf.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "نیو اورلینز پلیکانز",
+        "shortName": "نیو اورلینز پلیکانز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/fjybluny.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180039/بازی-دنور-ناگتس-نیو-اورلینز-پلیکانز"
+    },
+    {
+      "id": 180040,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/03",
+      "dateIso": "2027-02-03",
+      "time": "05:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "فینیکس سانز",
+        "shortName": "فینیکس سانز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vkphjzaq.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "گلدن استیت واریرز",
+        "shortName": "گلدن استیت واریرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/b0v45ogz.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180040/بازی-فینیکس-سانز-گلدن-استیت-واریرز"
+    },
+    {
+      "id": 180021,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/02",
+      "dateIso": "2027-02-02",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "بوستون سلتیکس",
+        "shortName": "بوستون سلتیکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/x4rt1sny.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "نیویورک نیکس",
+        "shortName": "نیویورک نیکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/zz2ool0n.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180021/بازی-بوستون-سلتیکس-نیویورک-نیکس"
+    },
+    {
+      "id": 180022,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/02",
+      "dateIso": "2027-02-02",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "شارلوت هورنتس",
+        "shortName": "شارلوت هورنتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/hppjduqa.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "آتلانتا هاوکس",
+        "shortName": "آتلانتا هاوکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/egbamhav.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180022/بازی-شارلوت-هورنتس-آتلانتا-هاوکس"
+    },
+    {
+      "id": 180023,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/02",
+      "dateIso": "2027-02-02",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "ایندیانا پیسرز",
+        "shortName": "ایندیانا پیسرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/waqizaqy.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "دالاس ماوریکس",
+        "shortName": "دالاس ماوریکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/rq0cahor.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180023/بازی-ایندیانا-پیسرز-دالاس-ماوریکس"
+    },
+    {
+      "id": 180024,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/02",
+      "dateIso": "2027-02-02",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "اورلاندو مجیک",
+        "shortName": "اورلاندو مجیک",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dupmevik.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "مینه سوتا تیمبرولوز",
+        "shortName": "مینه سوتا تیمبرولوز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/tnkjgu5f.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180024/بازی-اورلاندو-مجیک-مینه-سوتا-تیمبرولوز"
+    },
+    {
+      "id": 180025,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/02",
+      "dateIso": "2027-02-02",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "واشینگتن ویزاردز",
+        "shortName": "واشینگتن ویزاردز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/zw144agu.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "تورنتو رپترز",
+        "shortName": "تورنتو رپترز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ltpmlnwx.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180025/بازی-واشینگتن-ویزاردز-تورنتو-رپترز"
+    },
+    {
+      "id": 180026,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/02",
+      "dateIso": "2027-02-02",
+      "time": "03:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "میامی هیت",
+        "shortName": "میامی هیت",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/kotuvk32.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "دیترویت پیستونز",
+        "shortName": "دیترویت پیستونز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/kmnohzo4.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180026/بازی-میامی-هیت-دیترویت-پیستونز"
+    },
+    {
+      "id": 180027,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/02",
+      "dateIso": "2027-02-02",
+      "time": "03:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "میلواکی باکس",
+        "shortName": "میلواکی باکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cmtcetua.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "شیکاگو بولز",
+        "shortName": "شیکاگو بولز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vvrspzvd.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180027/بازی-میلواکی-باکس-شیکاگو-بولز"
+    },
+    {
+      "id": 180028,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/02",
+      "dateIso": "2027-02-02",
+      "time": "05:00",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "سن آنتونیو اسپرز",
+        "shortName": "سن آنتونیو اسپرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/lzt0gkfh.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "هیوستون راکتس",
+        "shortName": "هیوستون راکتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/2uh2w3qu.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180028/بازی-سن-آنتونیو-اسپرز-هیوستون-راکتس"
+    },
+    {
+      "id": 180029,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/02",
+      "dateIso": "2027-02-02",
+      "time": "05:00",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "یوتا جاز",
+        "shortName": "یوتا جاز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/w0hd3t23.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "نیو اورلینز پلیکانز",
+        "shortName": "نیو اورلینز پلیکانز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/fjybluny.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180029/بازی-یوتا-جاز-نیو-اورلینز-پلیکانز"
+    },
+    {
+      "id": 180030,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/02",
+      "dateIso": "2027-02-02",
+      "time": "05:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "گلدن استیت واریرز",
+        "shortName": "گلدن استیت واریرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/b0v45ogz.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "ممفیس گریزلیز",
+        "shortName": "ممفیس گریزلیز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vcah3c35.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180030/بازی-گلدن-استیت-واریرز-ممفیس-گریزلیز"
+    },
+    {
+      "id": 180031,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/02",
+      "dateIso": "2027-02-02",
+      "time": "05:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "لس آنجلس لیکرز",
+        "shortName": "لس آنجلس لیکرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/3urohyqu.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "لس آنجلس کلیپرز",
+        "shortName": "لس آنجلس کلیپرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1uqq0qsx.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180031/بازی-لس-آنجلس-لیکرز-لس-آنجلس-کلیپرز"
+    },
+    {
+      "id": 180032,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/02",
+      "dateIso": "2027-02-02",
+      "time": "05:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "ساکرامنتو کینگز",
+        "shortName": "ساکرامنتو کینگز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/30g1vnui.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "پورتلند تریل بلیزرز",
+        "shortName": "پورتلند تریل بلیزرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/fiwzuurc.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180032/بازی-ساکرامنتو-کینگز-پورتلند-تریل-بلیزرز"
+    },
+    {
+      "id": 180019,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/01",
+      "dateIso": "2027-02-01",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "فیلادلفیا سیکسرز",
+        "shortName": "فیلادلفیا سیکسرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dqahr2w4.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "کلیولند کاوالیرز",
+        "shortName": "کلیولند کاوالیرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/d00jval4.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180019/بازی-فیلادلفیا-سیکسرز-کلیولند-کاوالیرز"
+    },
+    {
+      "id": 180020,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/01",
+      "dateIso": "2027-02-01",
+      "time": "05:00",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "اوکلاهاما سیتی تاندر",
+        "shortName": "اوکلاهاما سیتی تاندر",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dzn4tahc.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "دنور ناگتس",
+        "shortName": "دنور ناگتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/oz2kzfbf.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180020/بازی-اوکلاهاما-سیتی-تاندر-دنور-ناگتس"
+    },
+    {
+      "id": 180008,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/07/30",
+      "dateIso": "2027-01-30",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "اورلاندو مجیک",
+        "shortName": "اورلاندو مجیک",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dupmevik.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "آتلانتا هاوکس",
+        "shortName": "آتلانتا هاوکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/egbamhav.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180008/بازی-اورلاندو-مجیک-آتلانتا-هاوکس"
+    },
+    {
+      "id": 180009,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/07/30",
+      "dateIso": "2027-01-30",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "واشینگتن ویزاردز",
+        "shortName": "واشینگتن ویزاردز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/zw144agu.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "میلواکی باکس",
+        "shortName": "میلواکی باکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cmtcetua.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180009/بازی-واشینگتن-ویزاردز-میلواکی-باکس"
+    },
+    {
+      "id": 180010,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/07/30",
+      "dateIso": "2027-01-30",
+      "time": "03:00",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "بروکلین نتس",
+        "shortName": "بروکلین نتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/naozel2u.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "شارلوت هورنتس",
+        "shortName": "شارلوت هورنتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/hppjduqa.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180010/بازی-بروکلین-نتس-شارلوت-هورنتس"
+    },
+    {
+      "id": 180011,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/07/30",
+      "dateIso": "2027-01-30",
+      "time": "03:00",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "میامی هیت",
+        "shortName": "میامی هیت",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/kotuvk32.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "مینه سوتا تیمبرولوز",
+        "shortName": "مینه سوتا تیمبرولوز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/tnkjgu5f.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180011/بازی-میامی-هیت-مینه-سوتا-تیمبرولوز"
+    },
+    {
+      "id": 180012,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/07/30",
+      "dateIso": "2027-01-30",
+      "time": "03:00",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "تورنتو رپترز",
+        "shortName": "تورنتو رپترز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ltpmlnwx.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "شیکاگو بولز",
+        "shortName": "شیکاگو بولز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vvrspzvd.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180012/بازی-تورنتو-رپترز-شیکاگو-بولز"
+    },
+    {
+      "id": 180013,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/07/30",
+      "dateIso": "2027-01-30",
+      "time": "03:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "ممفیس گریزلیز",
+        "shortName": "ممفیس گریزلیز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vcah3c35.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "یوتا جاز",
+        "shortName": "یوتا جاز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/w0hd3t23.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180013/بازی-ممفیس-گریزلیز-یوتا-جاز"
+    },
+    {
+      "id": 180014,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/07/30",
+      "dateIso": "2027-01-30",
+      "time": "03:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "نیو اورلینز پلیکانز",
+        "shortName": "نیو اورلینز پلیکانز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/fjybluny.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "ایندیانا پیسرز",
+        "shortName": "ایندیانا پیسرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/waqizaqy.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180014/بازی-نیو-اورلینز-پلیکانز-ایندیانا-پیسرز"
+    },
+    {
+      "id": 180015,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/07/30",
+      "dateIso": "2027-01-30",
+      "time": "04:00",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "هیوستون راکتس",
+        "shortName": "هیوستون راکتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/2uh2w3qu.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "دالاس ماوریکس",
+        "shortName": "دالاس ماوریکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/rq0cahor.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180015/بازی-هیوستون-راکتس-دالاس-ماوریکس"
+    },
+    {
+      "id": 180016,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/07/30",
+      "dateIso": "2027-01-30",
+      "time": "05:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "لس آنجلس لیکرز",
+        "shortName": "لس آنجلس لیکرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/3urohyqu.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "گلدن استیت واریرز",
+        "shortName": "گلدن استیت واریرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/b0v45ogz.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180016/بازی-لس-آنجلس-لیکرز-گلدن-استیت-واریرز"
+    },
+    {
+      "id": 180017,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/07/30",
+      "dateIso": "2027-01-30",
+      "time": "05:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "پورتلند تریل بلیزرز",
+        "shortName": "پورتلند تریل بلیزرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/fiwzuurc.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "فینیکس سانز",
+        "shortName": "فینیکس سانز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vkphjzaq.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180017/بازی-پورتلند-تریل-بلیزرز-فینیکس-سانز"
+    },
+    {
+      "id": 180018,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/07/30",
+      "dateIso": "2027-01-30",
+      "time": "06:00",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "لس آنجلس کلیپرز",
+        "shortName": "لس آنجلس کلیپرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1uqq0qsx.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "ساکرامنتو کینگز",
+        "shortName": "ساکرامنتو کینگز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/30g1vnui.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180018/بازی-لس-آنجلس-کلیپرز-ساکرامنتو-کینگز"
+    },
+    {
+      "id": 180006,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/07/29",
+      "dateIso": "2027-01-29",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "نیویورک نیکس",
+        "shortName": "نیویورک نیکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/zz2ool0n.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "فیلادلفیا سیکسرز",
+        "shortName": "فیلادلفیا سیکسرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dqahr2w4.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180006/بازی-نیویورک-نیکس-فیلادلفیا-سیکسرز"
+    },
+    {
+      "id": 180007,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/07/29",
+      "dateIso": "2027-01-29",
+      "time": "05:00",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "سن آنتونیو اسپرز",
+        "shortName": "سن آنتونیو اسپرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/lzt0gkfh.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "اوکلاهاما سیتی تاندر",
+        "shortName": "اوکلاهاما سیتی تاندر",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dzn4tahc.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180007/بازی-سن-آنتونیو-اسپرز-اوکلاهاما-سیتی-تاندر"
+    },
+    {
+      "id": 180005,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/07/28",
+      "dateIso": "2027-01-28",
+      "time": "22:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "دیترویت پیستونز",
+        "shortName": "دیترویت پیستونز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/kmnohzo4.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "بوستون سلتیکس",
+        "shortName": "بوستون سلتیکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/x4rt1sny.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180005/بازی-دیترویت-پیستونز-بوستون-سلتیکس"
+    },
+    {
+      "id": 180004,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/07/24",
+      "dateIso": "2027-01-24",
+      "time": "04:00",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "هیوستون راکتس",
+        "shortName": "هیوستون راکتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/2uh2w3qu.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "اوکلاهاما سیتی تاندر",
+        "shortName": "اوکلاهاما سیتی تاندر",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dzn4tahc.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180004/بازی-هیوستون-راکتس-اوکلاهاما-سیتی-تاندر"
+    },
+    {
+      "id": 180969,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1405/07/06",
+      "dateIso": "2027-01-06",
+      "time": "21:15",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "کویت کلاب",
+        "shortName": "کویت کلاب",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/41zqcjst.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "الریاضی لبنان",
+        "shortName": "الریاضی لبنان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cycy4atc.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180969/بازی-کویت-کلاب-الریاضی-لبنان"
+    },
+    {
+      "id": 180970,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1405/07/05",
+      "dateIso": "2027-01-05",
+      "time": "22:15",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 572,
+        "name": "شهرداری گرگان",
+        "shortName": "گرگان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
+      },
+      "guest": {
+        "id": 903053,
+        "name": "ساجس بیروت",
+        "shortName": "ساجس بیروت",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/4hfdhsy0.png?w=144"
+      },
+      "hostScore": 97,
+      "guestScore": 103,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 26,
+          "guest": 28
+        },
+        {
+          "quarter": 2,
+          "host": 28,
+          "guest": 32
+        },
+        {
+          "quarter": 3,
+          "host": 20,
+          "guest": 24
+        },
+        {
+          "quarter": 4,
+          "host": 23,
+          "guest": 19
+        }
+      ],
+      "winner": "host",
+      "url": "https://www.varzesh3.com/basketball/match/180970/بازی-شهرداری-گرگان-ساجس-بیروت"
+    },
+    {
+      "id": 180972,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1405/07/04",
+      "dateIso": "2027-01-04",
+      "time": "18:15",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903052,
+        "name": "الاتحاد عربستان",
+        "shortName": "الاتحاد عربستان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/r51ufabz.png?w=144"
+      },
+      "guest": {
+        "id": 923071,
+        "name": "کویت کلاب",
+        "shortName": "کویت کلاب",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/41zqcjst.png?w=144"
+      },
+      "hostScore": 97,
+      "guestScore": 105,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 23,
+          "guest": 28
+        },
+        {
+          "quarter": 2,
+          "host": 24,
+          "guest": 25
+        },
+        {
+          "quarter": 3,
+          "host": 27,
+          "guest": 28
+        },
+        {
+          "quarter": 4,
+          "host": 23,
+          "guest": 24
+        }
+      ],
+      "winner": "host",
+      "url": "https://www.varzesh3.com/basketball/match/180972/بازی-الاتحاد-عربستان-کویت-کلاب"
+    },
+    {
+      "id": 180971,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1405/07/04",
+      "dateIso": "2027-01-04",
+      "time": "21:15",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 902995,
+        "name": "الریاضی لبنان",
+        "shortName": "الریاضی لبنان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cycy4atc.png?w=144"
+      },
+      "guest": {
+        "id": 923072,
+        "name": "راه آهن هند",
+        "shortName": "راه آهن هند",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1on4rjel.png?w=144"
+      },
+      "hostScore": 104,
+      "guestScore": 81,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 24,
+          "guest": 25
+        },
+        {
+          "quarter": 2,
+          "host": 30,
+          "guest": 17
+        },
+        {
+          "quarter": 3,
+          "host": 30,
+          "guest": 25
+        },
+        {
+          "quarter": 4,
+          "host": 20,
+          "guest": 14
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180971/بازی-الریاضی-لبنان-راه-آهن-هند"
+    },
+    {
+      "id": 169917,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/03/07",
+      "dateIso": "2026-09-07",
+      "time": "18:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903070,
+        "name": "استقلال تهران",
+        "shortName": "استقلال تهران",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
+      },
+      "guest": {
+        "id": 901064,
+        "name": "پالایش نفت آبادان",
+        "shortName": "نفت آبادان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
+      },
+      "hostScore": 93,
+      "guestScore": 78,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/169917/بازی-استقلال-تهران-پالایش-نفت-آبادان"
+    },
+    {
+      "id": 169916,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/03/05",
+      "dateIso": "2026-09-05",
+      "time": "17:30",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 901064,
+        "name": "پالایش نفت آبادان",
+        "shortName": "نفت آبادان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
+      },
+      "guest": {
+        "id": 903070,
+        "name": "استقلال تهران",
+        "shortName": "استقلال تهران",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
+      },
+      "hostScore": 94,
+      "guestScore": 89,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 12,
+          "guest": 20
+        },
+        {
+          "quarter": 2,
+          "host": 31,
+          "guest": 31
+        },
+        {
+          "quarter": 3,
+          "host": 21,
+          "guest": 12
+        },
+        {
+          "quarter": 4,
+          "host": 30,
+          "guest": 26
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/169916/بازی-پالایش-نفت-آبادان-استقلال-تهران"
+    },
+    {
+      "id": 169909,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/03/03",
+      "dateIso": "2026-09-03",
+      "time": "17:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903070,
+        "name": "استقلال تهران",
+        "shortName": "استقلال تهران",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
+      },
+      "guest": {
+        "id": 901064,
+        "name": "پالایش نفت آبادان",
+        "shortName": "نفت آبادان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
+      },
+      "hostScore": 85,
+      "guestScore": 76,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 21,
+          "guest": 24
+        },
+        {
+          "quarter": 2,
+          "host": 22,
+          "guest": 19
+        },
+        {
+          "quarter": 3,
+          "host": 26,
+          "guest": 15
+        },
+        {
+          "quarter": 4,
+          "host": 16,
+          "guest": 18
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/169909/بازی-استقلال-تهران-پالایش-نفت-آبادان"
+    },
+    {
+      "id": 169908,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/03/02",
+      "dateIso": "2026-09-02",
+      "time": "17:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 901064,
+        "name": "پالایش نفت آبادان",
+        "shortName": "نفت آبادان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
+      },
+      "guest": {
+        "id": 903067,
+        "name": "نفت و گاز زاگرس جنوبی",
+        "shortName": "زاگرس جنوبی",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=144"
+      },
+      "hostScore": 94,
+      "guestScore": 81,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/169908/بازی-پالایش-نفت-آبادان-نفت-و-گاز-زاگرس-جنوبی"
+    },
+    {
+      "id": 169890,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/03/01",
+      "dateIso": "2026-09-01",
+      "time": "17:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903070,
+        "name": "استقلال تهران",
+        "shortName": "استقلال تهران",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
+      },
+      "guest": {
+        "id": 903067,
+        "name": "نفت و گاز زاگرس جنوبی",
+        "shortName": "زاگرس جنوبی",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=144"
+      },
+      "hostScore": 102,
+      "guestScore": 95,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 25,
+          "guest": 19
+        },
+        {
+          "quarter": 2,
+          "host": 23,
+          "guest": 27
+        },
+        {
+          "quarter": 3,
+          "host": 23,
+          "guest": 23
+        },
+        {
+          "quarter": 4,
+          "host": 31,
+          "guest": 26
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/169890/بازی-استقلال-تهران-نفت-و-گاز-زاگرس-جنوبی"
+    },
+    {
+      "id": 169889,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/02/30",
+      "dateIso": "2026-08-30",
+      "time": "17:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 901064,
+        "name": "پالایش نفت آبادان",
+        "shortName": "نفت آبادان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
+      },
+      "guest": {
+        "id": 903070,
+        "name": "استقلال تهران",
+        "shortName": "استقلال تهران",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
+      },
+      "hostScore": 69,
+      "guestScore": 93,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 25,
+          "guest": 18
+        },
+        {
+          "quarter": 2,
+          "host": 12,
+          "guest": 29
+        },
+        {
+          "quarter": 3,
+          "host": 18,
+          "guest": 23
+        },
+        {
+          "quarter": 4,
+          "host": 14,
+          "guest": 23
+        }
+      ],
+      "winner": "host",
+      "url": "https://www.varzesh3.com/basketball/match/169889/بازی-پالایش-نفت-آبادان-استقلال-تهران"
+    },
+    {
+      "id": 169907,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/02/28",
+      "dateIso": "2026-08-28",
+      "time": "17:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903067,
+        "name": "نفت و گاز زاگرس جنوبی",
+        "shortName": "زاگرس جنوبی",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=144"
+      },
+      "guest": {
+        "id": 901064,
+        "name": "پالایش نفت آبادان",
+        "shortName": "نفت آبادان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
+      },
+      "hostScore": 85,
+      "guestScore": 94,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 17,
+          "guest": 17
+        },
+        {
+          "quarter": 2,
+          "host": 21,
+          "guest": 25
+        },
+        {
+          "quarter": 3,
+          "host": 27,
+          "guest": 34
+        },
+        {
+          "quarter": 4,
+          "host": 20,
+          "guest": 18
+        }
+      ],
+      "winner": "host",
+      "url": "https://www.varzesh3.com/basketball/match/169907/بازی-نفت-و-گاز-زاگرس-جنوبی-پالایش-نفت-آبادان"
+    },
+    {
+      "id": 139793,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1404/11/30",
+      "dateIso": "2026-05-30",
+      "time": "22:30",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903012,
+        "name": "الوحده امارات",
+        "shortName": "الوحده امارات",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dgpqhtv2.png?w=144"
+      },
+      "guest": {
+        "id": 903054,
+        "name": "آستانه قزاقستان",
+        "shortName": "آستانه قزاقستان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/wronxido.png?w=144"
+      },
+      "hostScore": 99,
+      "guestScore": 89,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 26,
+          "guest": 29
+        },
+        {
+          "quarter": 2,
+          "host": 21,
+          "guest": 30
+        },
+        {
+          "quarter": 3,
+          "host": 27,
+          "guest": 15
+        },
+        {
+          "quarter": 4,
+          "host": 25,
+          "guest": 15
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/139793/بازی-الوحده-امارات-آستانه-قزاقستان"
+    },
+    {
+      "id": 139792,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1404/11/29",
+      "dateIso": "2026-05-29",
+      "time": "22:15",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 902995,
+        "name": "الریاضی لبنان",
+        "shortName": "الریاضی لبنان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cycy4atc.png?w=144"
+      },
+      "guest": {
+        "id": 572,
+        "name": "شهرداری گرگان",
+        "shortName": "گرگان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
+      },
+      "hostScore": 95,
+      "guestScore": 89,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 27,
+          "guest": 27
+        },
+        {
+          "quarter": 2,
+          "host": 23,
+          "guest": 17
+        },
+        {
+          "quarter": 3,
+          "host": 22,
+          "guest": 24
+        },
+        {
+          "quarter": 4,
+          "host": 23,
+          "guest": 21
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/139792/بازی-الریاضی-لبنان-شهرداری-گرگان"
+    },
+    {
+      "id": 129831,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1404/11/23",
+      "dateIso": "2026-05-23",
+      "time": "15:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903069,
+        "name": "پاس کردستان",
+        "shortName": "کردستان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=144"
+      },
+      "guest": {
+        "id": 572,
+        "name": "شهرداری گرگان",
+        "shortName": "گرگان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
+      },
+      "hostScore": 58,
+      "guestScore": 103,
+      "quarters": [],
+      "winner": "host",
+      "url": "https://www.varzesh3.com/basketball/match/129831/بازی-پاس-کردستان-شهرداری-گرگان"
+    },
+    {
+      "id": 139791,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1404/11/23",
+      "dateIso": "2026-05-23",
+      "time": "19:15",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903053,
+        "name": "ساجس بیروت",
+        "shortName": "ساجس بیروت",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/4hfdhsy0.png?w=144"
+      },
+      "guest": {
+        "id": 903012,
+        "name": "الوحده امارات",
+        "shortName": "الوحده امارات",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dgpqhtv2.png?w=144"
+      },
+      "hostScore": 92,
+      "guestScore": 105,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 20,
+          "guest": 28
+        },
+        {
+          "quarter": 2,
+          "host": 28,
+          "guest": 25
+        },
+        {
+          "quarter": 3,
+          "host": 20,
+          "guest": 29
+        },
+        {
+          "quarter": 4,
+          "host": 24,
+          "guest": 23
+        }
+      ],
+      "winner": "host",
+      "url": "https://www.varzesh3.com/basketball/match/139791/بازی-ساجس-بیروت-الوحده-امارات"
+    },
+    {
+      "id": 139790,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1404/11/22",
+      "dateIso": "2026-05-22",
+      "time": "22:15",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 902995,
+        "name": "الریاضی لبنان",
+        "shortName": "الریاضی لبنان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cycy4atc.png?w=144"
+      },
+      "guest": {
+        "id": 903054,
+        "name": "آستانه قزاقستان",
+        "shortName": "آستانه قزاقستان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/wronxido.png?w=144"
+      },
+      "hostScore": 106,
+      "guestScore": 57,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 33,
+          "guest": 19
+        },
+        {
+          "quarter": 2,
+          "host": 32,
+          "guest": 13
+        },
+        {
+          "quarter": 3,
+          "host": 24,
+          "guest": 14
+        },
+        {
+          "quarter": 4,
+          "host": 17,
+          "guest": 11
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/139790/بازی-الریاضی-لبنان-آستانه-قزاقستان"
+    },
+    {
+      "id": 129835,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1404/11/16",
+      "dateIso": "2026-05-16",
+      "time": "15:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903068,
+        "name": "رعد پدافند اصفهان",
+        "shortName": "اصفهان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=144"
+      },
+      "guest": {
+        "id": 903007,
+        "name": "طبیعت",
+        "shortName": "طبیعت",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=144"
+      },
+      "hostScore": 80,
+      "guestScore": 82,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 15,
+          "guest": 24
+        },
+        {
+          "quarter": 2,
+          "host": 24,
+          "guest": 15
+        },
+        {
+          "quarter": 3,
+          "host": 20,
+          "guest": 23
+        },
+        {
+          "quarter": 4,
+          "host": 21,
+          "guest": 20
+        }
+      ],
+      "winner": "host",
+      "url": "https://www.varzesh3.com/basketball/match/129835/بازی-رعد-پدافند-اصفهان-طبیعت"
+    },
+    {
+      "id": 129834,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1404/11/16",
+      "dateIso": "2026-05-16",
+      "time": "15:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 902977,
+        "name": "کاله",
+        "shortName": "کاله",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=144"
+      },
+      "guest": {
+        "id": 903067,
+        "name": "نفت و گاز زاگرس جنوبی",
+        "shortName": "زاگرس جنوبی",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=144"
+      },
+      "hostScore": 95,
+      "guestScore": 66,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/129834/بازی-کاله-نفت-و-گاز-زاگرس-جنوبی"
+    },
+    {
+      "id": 129838,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1404/11/16",
+      "dateIso": "2026-05-16",
+      "time": "15:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903036,
+        "name": "مهگل البرز",
+        "shortName": "البرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=144"
+      },
+      "guest": {
+        "id": 903039,
+        "name": "پترو نوین ماهشهر",
+        "shortName": "ماهشهر",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/sizr1wrl.png?w=144"
+      },
+      "hostScore": 72,
+      "guestScore": 67,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/129838/بازی-مهگل-البرز-پترو-نوین-ماهشهر"
+    },
+    {
+      "id": 129837,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1404/11/16",
+      "dateIso": "2026-05-16",
+      "time": "15:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 901064,
+        "name": "پالایش نفت آبادان",
+        "shortName": "نفت آبادان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
+      },
+      "guest": {
+        "id": 903069,
+        "name": "پاس کردستان",
+        "shortName": "کردستان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=144"
+      },
+      "hostScore": 79,
+      "guestScore": 66,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 22,
+          "guest": 24
+        },
+        {
+          "quarter": 2,
+          "host": 21,
+          "guest": 17
+        },
+        {
+          "quarter": 3,
+          "host": 21,
+          "guest": 17
+        },
+        {
+          "quarter": 4,
+          "host": 15,
+          "guest": 8
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/129837/بازی-پالایش-نفت-آبادان-پاس-کردستان"
+    },
+    {
+      "id": 129836,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1404/11/16",
+      "dateIso": "2026-05-16",
+      "time": "16:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903035,
+        "name": "گلنور اصفهان",
+        "shortName": "گلنور اصفهان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=144"
+      },
+      "guest": {
+        "id": 903070,
+        "name": "استقلال تهران",
+        "shortName": "استقلال تهران",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
+      },
+      "hostScore": 53,
+      "guestScore": 62,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 15,
+          "guest": 23
+        },
+        {
+          "quarter": 2,
+          "host": 12,
+          "guest": 14
+        },
+        {
+          "quarter": 3,
+          "host": 11,
+          "guest": 6
+        },
+        {
+          "quarter": 4,
+          "host": 15,
+          "guest": 19
+        }
+      ],
+      "winner": "host",
+      "url": "https://www.varzesh3.com/basketball/match/129836/بازی-گلنور-اصفهان-استقلال-تهران"
+    },
+    {
+      "id": 139789,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1404/11/16",
+      "dateIso": "2026-05-16",
+      "time": "19:15",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903012,
+        "name": "الوحده امارات",
+        "shortName": "الوحده امارات",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dgpqhtv2.png?w=144"
+      },
+      "guest": {
+        "id": 572,
+        "name": "شهرداری گرگان",
+        "shortName": "گرگان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
+      },
+      "hostScore": 101,
+      "guestScore": 92,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 26,
+          "guest": 33
+        },
+        {
+          "quarter": 2,
+          "host": 28,
+          "guest": 15
+        },
+        {
+          "quarter": 3,
+          "host": 22,
+          "guest": 19
+        },
+        {
+          "quarter": 4,
+          "host": 25,
+          "guest": 25
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/139789/بازی-الوحده-امارات-شهرداری-گرگان"
+    },
+    {
+      "id": 139788,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1404/11/15",
+      "dateIso": "2026-05-15",
+      "time": "22:15",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903053,
+        "name": "ساجس بیروت",
+        "shortName": "ساجس بیروت",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/4hfdhsy0.png?w=144"
+      },
+      "guest": {
+        "id": 903054,
+        "name": "آستانه قزاقستان",
+        "shortName": "آستانه قزاقستان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/wronxido.png?w=144"
+      },
+      "hostScore": 102,
+      "guestScore": 104,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 26,
+          "guest": 31
+        },
+        {
+          "quarter": 2,
+          "host": 23,
+          "guest": 18
+        },
+        {
+          "quarter": 3,
+          "host": 19,
+          "guest": 14
+        },
+        {
+          "quarter": 4,
+          "host": 24,
+          "guest": 29
+        }
+      ],
+      "winner": "host",
+      "url": "https://www.varzesh3.com/basketball/match/139788/بازی-ساجس-بیروت-آستانه-قزاقستان"
+    },
+    {
+      "id": 159784,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1404/11/13",
+      "dateIso": "2026-05-13",
+      "time": "15:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903039,
+        "name": "پترو نوین ماهشهر",
+        "shortName": "ماهشهر",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/sizr1wrl.png?w=144"
+      },
+      "guest": {
+        "id": 901064,
+        "name": "پالایش نفت آبادان",
+        "shortName": "نفت آبادان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
+      },
+      "hostScore": 61,
+      "guestScore": 76,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 17,
+          "guest": 26
+        },
+        {
+          "quarter": 2,
+          "host": 17,
+          "guest": 14
+        },
+        {
+          "quarter": 3,
+          "host": 13,
+          "guest": 19
+        },
+        {
+          "quarter": 4,
+          "host": 14,
+          "guest": 17
+        }
+      ],
+      "winner": "host",
+      "url": "https://www.varzesh3.com/basketball/match/159784/بازی-پترو-نوین-ماهشهر-پالایش-نفت-آبادان"
+    },
+    {
+      "id": 129829,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1404/11/13",
+      "dateIso": "2026-05-13",
+      "time": "15:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903068,
+        "name": "رعد پدافند اصفهان",
+        "shortName": "اصفهان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=144"
+      },
+      "guest": {
+        "id": 903036,
+        "name": "مهگل البرز",
+        "shortName": "البرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=144"
+      },
+      "hostScore": 84,
+      "guestScore": 85,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 18,
+          "guest": 22
+        },
+        {
+          "quarter": 2,
+          "host": 20,
+          "guest": 19
+        },
+        {
+          "quarter": 3,
+          "host": 20,
+          "guest": 23
+        },
+        {
+          "quarter": 4,
+          "host": 26,
+          "guest": 21
+        }
+      ],
+      "winner": "host",
+      "url": "https://www.varzesh3.com/basketball/match/129829/بازی-رعد-پدافند-اصفهان-مهگل-البرز"
+    },
+    {
+      "id": 129833,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1404/11/13",
+      "dateIso": "2026-05-13",
+      "time": "15:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903070,
+        "name": "استقلال تهران",
+        "shortName": "استقلال تهران",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
+      },
+      "guest": {
+        "id": 903007,
+        "name": "طبیعت",
+        "shortName": "طبیعت",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=144"
+      },
+      "hostScore": 77,
+      "guestScore": 74,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 14,
+          "guest": 17
+        },
+        {
+          "quarter": 2,
+          "host": 20,
+          "guest": 25
+        },
+        {
+          "quarter": 3,
+          "host": 17,
+          "guest": 16
+        },
+        {
+          "quarter": 4,
+          "host": 26,
+          "guest": 16
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/129833/بازی-استقلال-تهران-طبیعت"
+    },
+    {
+      "id": 129832,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1404/11/13",
+      "dateIso": "2026-05-13",
+      "time": "15:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903067,
+        "name": "نفت و گاز زاگرس جنوبی",
+        "shortName": "زاگرس جنوبی",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=144"
+      },
+      "guest": {
+        "id": 903035,
+        "name": "گلنور اصفهان",
+        "shortName": "گلنور اصفهان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=144"
+      },
+      "hostScore": 80,
+      "guestScore": 63,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 24,
+          "guest": 15
+        },
+        {
+          "quarter": 2,
+          "host": 16,
+          "guest": 21
+        },
+        {
+          "quarter": 3,
+          "host": 18,
+          "guest": 11
+        },
+        {
+          "quarter": 4,
+          "host": 22,
+          "guest": 16
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/129832/بازی-نفت-و-گاز-زاگرس-جنوبی-گلنور-اصفهان"
+    },
+    {
+      "id": 139787,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1404/11/10",
+      "dateIso": "2026-05-10",
+      "time": "18:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903054,
+        "name": "آستانه قزاقستان",
+        "shortName": "آستانه قزاقستان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/wronxido.png?w=144"
+      },
+      "guest": {
+        "id": 572,
+        "name": "شهرداری گرگان",
+        "shortName": "گرگان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
+      },
+      "hostScore": 88,
+      "guestScore": 73,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 20,
+          "guest": 19
+        },
+        {
+          "quarter": 2,
+          "host": 23,
+          "guest": 17
+        },
+        {
+          "quarter": 3,
+          "host": 20,
+          "guest": 12
+        },
+        {
+          "quarter": 4,
+          "host": 25,
+          "guest": 25
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/139787/بازی-آستانه-قزاقستان-شهرداری-گرگان"
+    },
+    {
+      "id": 129828,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1404/11/09",
+      "dateIso": "2026-05-09",
+      "time": "15:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 902977,
+        "name": "کاله",
+        "shortName": "کاله",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=144"
+      },
+      "guest": {
+        "id": 903069,
+        "name": "پاس کردستان",
+        "shortName": "کردستان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=144"
+      },
+      "hostScore": 100,
+      "guestScore": 49,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/129828/بازی-کاله-پاس-کردستان"
+    },
+    {
+      "id": 129827,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1404/11/09",
+      "dateIso": "2026-05-09",
+      "time": "15:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 901064,
+        "name": "پالایش نفت آبادان",
+        "shortName": "نفت آبادان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
+      },
+      "guest": {
+        "id": 903068,
+        "name": "رعد پدافند اصفهان",
+        "shortName": "اصفهان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=144"
+      },
+      "hostScore": 102,
+      "guestScore": 83,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/129827/بازی-پالایش-نفت-آبادان-رعد-پدافند-اصفهان"
+    },
+    {
+      "id": 129821,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1404/11/09",
+      "dateIso": "2026-05-09",
+      "time": "15:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903036,
+        "name": "مهگل البرز",
+        "shortName": "البرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=144"
+      },
+      "guest": {
+        "id": 903007,
+        "name": "طبیعت",
+        "shortName": "طبیعت",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=144"
+      },
+      "hostScore": 69,
+      "guestScore": 74,
+      "quarters": [],
+      "winner": "host",
+      "url": "https://www.varzesh3.com/basketball/match/129821/بازی-مهگل-البرز-طبیعت"
+    },
+    {
+      "id": 129820,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1404/11/09",
+      "dateIso": "2026-05-09",
+      "time": "15:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903070,
+        "name": "استقلال تهران",
+        "shortName": "استقلال تهران",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
+      },
+      "guest": {
+        "id": 903067,
+        "name": "نفت و گاز زاگرس جنوبی",
+        "shortName": "زاگرس جنوبی",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=144"
+      },
+      "hostScore": 93,
+      "guestScore": 74,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/129820/بازی-استقلال-تهران-نفت-و-گاز-زاگرس-جنوبی"
+    },
+    {
+      "id": 149787,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1404/11/06",
+      "dateIso": "2026-05-06",
+      "time": "15:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903039,
+        "name": "پترو نوین ماهشهر",
+        "shortName": "ماهشهر",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/sizr1wrl.png?w=144"
+      },
+      "guest": {
+        "id": 902977,
+        "name": "کاله",
+        "shortName": "کاله",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=144"
+      },
+      "hostScore": 51,
+      "guestScore": 89,
+      "quarters": [],
+      "winner": "host",
+      "url": "https://www.varzesh3.com/basketball/match/149787/بازی-پترو-نوین-ماهشهر-کاله"
+    },
+    {
+      "id": 149786,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1404/11/06",
+      "dateIso": "2026-05-06",
+      "time": "15:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903069,
+        "name": "پاس کردستان",
+        "shortName": "کردستان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=144"
+      },
+      "guest": {
+        "id": 903035,
+        "name": "گلنور اصفهان",
+        "shortName": "گلنور اصفهان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=144"
+      },
+      "hostScore": 64,
+      "guestScore": 61,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/149786/بازی-پاس-کردستان-گلنور-اصفهان"
+    },
+    {
+      "id": 149785,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1404/11/06",
+      "dateIso": "2026-05-06",
+      "time": "15:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903036,
+        "name": "مهگل البرز",
+        "shortName": "البرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=144"
+      },
+      "guest": {
+        "id": 901064,
+        "name": "پالایش نفت آبادان",
+        "shortName": "نفت آبادان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
+      },
+      "hostScore": 71,
+      "guestScore": 86,
+      "quarters": [],
+      "winner": "host",
+      "url": "https://www.varzesh3.com/basketball/match/149785/بازی-مهگل-البرز-پالایش-نفت-آبادان"
+    },
+    {
+      "id": 149784,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1404/11/06",
+      "dateIso": "2026-05-06",
+      "time": "15:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903007,
+        "name": "طبیعت",
+        "shortName": "طبیعت",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=144"
+      },
+      "guest": {
+        "id": 903067,
+        "name": "نفت و گاز زاگرس جنوبی",
+        "shortName": "زاگرس جنوبی",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=144"
+      },
+      "hostScore": 91,
+      "guestScore": 83,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/149784/بازی-طبیعت-نفت-و-گاز-زاگرس-جنوبی"
+    },
+    {
+      "id": 129823,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iranian Basketball Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1404/11/05",
+      "dateIso": "2026-05-05",
+      "time": "14:45",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903068,
+        "name": "رعد پدافند اصفهان",
+        "shortName": "اصفهان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=144"
+      },
+      "guest": {
+        "id": 572,
+        "name": "شهرداری گرگان",
+        "shortName": "گرگان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
+      },
+      "hostScore": 61,
+      "guestScore": 85,
+      "quarters": [],
+      "winner": "host",
+      "url": "https://www.varzesh3.com/basketball/match/129823/بازی-رعد-پدافند-اصفهان-شهرداری-گرگان"
+    },
+    {
+      "id": 139786,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1404/10/24",
+      "dateIso": "2026-04-24",
+      "time": "22:15",
+      "status": 2,
+      "statusFa": "شروع نشده",
+      "statusShort": "شروع نشده",
+      "isLive": false,
+      "host": {
+        "id": 903053,
+        "name": "ساجس بیروت",
+        "shortName": "ساجس بیروت",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/4hfdhsy0.png?w=144"
+      },
+      "guest": {
+        "id": 902995,
+        "name": "الریاضی لبنان",
+        "shortName": "الریاضی لبنان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cycy4atc.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/139786/بازی-ساجس-بیروت-الریاضی-لبنان"
+    },
+    {
+      "id": 139785,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1404/10/18",
+      "dateIso": "2026-04-18",
+      "time": "19:15",
+      "status": 2,
+      "statusFa": "شروع نشده",
+      "statusShort": "شروع نشده",
+      "isLive": false,
+      "host": {
+        "id": 903012,
+        "name": "الوحده امارات",
+        "shortName": "الوحده امارات",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dgpqhtv2.png?w=144"
+      },
+      "guest": {
+        "id": 902995,
+        "name": "الریاضی لبنان",
+        "shortName": "الریاضی لبنان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cycy4atc.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 27,
+          "guest": 30
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/139785/بازی-الوحده-امارات-الریاضی-لبنان"
+    },
+    {
+      "id": 130103,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1404/09/27",
+      "dateIso": "2026-03-27",
+      "time": "18:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903054,
+        "name": "آستانه قزاقستان",
+        "shortName": "آستانه قزاقستان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/wronxido.png?w=144"
+      },
+      "guest": {
+        "id": 903012,
+        "name": "الوحده امارات",
+        "shortName": "الوحده امارات",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dgpqhtv2.png?w=144"
+      },
+      "hostScore": 88,
+      "guestScore": 64,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 26,
+          "guest": 11
+        },
+        {
+          "quarter": 2,
+          "host": 27,
+          "guest": 28
+        },
+        {
+          "quarter": 3,
+          "host": 15,
+          "guest": 13
+        },
+        {
+          "quarter": 4,
+          "host": 20,
+          "guest": 12
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/130103/بازی-آستانه-قزاقستان-الوحده-امارات"
+    },
+    {
+      "id": 130102,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1404/09/26",
+      "dateIso": "2026-03-26",
+      "time": "19:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 572,
+        "name": "شهرداری گرگان",
+        "shortName": "گرگان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
+      },
+      "guest": {
+        "id": 902995,
+        "name": "الریاضی لبنان",
+        "shortName": "الریاضی لبنان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cycy4atc.png?w=144"
+      },
+      "hostScore": 83,
+      "guestScore": 85,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 26,
+          "guest": 25
+        },
+        {
+          "quarter": 2,
+          "host": 22,
+          "guest": 22
+        },
+        {
+          "quarter": 3,
+          "host": 18,
+          "guest": 19
+        },
+        {
+          "quarter": 4,
+          "host": 17,
+          "guest": 19
+        }
+      ],
+      "winner": "host",
+      "url": "https://www.varzesh3.com/basketball/match/130102/بازی-شهرداری-گرگان-الریاضی-لبنان"
+    },
+    {
+      "id": 130101,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1404/09/20",
+      "dateIso": "2026-03-20",
+      "time": "19:15",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903053,
+        "name": "ساجس بیروت",
+        "shortName": "ساجس بیروت",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/4hfdhsy0.png?w=144"
+      },
+      "guest": {
+        "id": 903012,
+        "name": "الوحده امارات",
+        "shortName": "الوحده امارات",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dgpqhtv2.png?w=144"
+      },
+      "hostScore": 75,
+      "guestScore": 69,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 14,
+          "guest": 18
+        },
+        {
+          "quarter": 2,
+          "host": 14,
+          "guest": 11
+        },
+        {
+          "quarter": 3,
+          "host": 29,
+          "guest": 18
+        },
+        {
+          "quarter": 4,
+          "host": 18,
+          "guest": 22
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/130101/بازی-ساجس-بیروت-الوحده-امارات"
+    },
+    {
+      "id": 130100,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1404/09/19",
+      "dateIso": "2026-03-19",
+      "time": "19:15",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903054,
+        "name": "آستانه قزاقستان",
+        "shortName": "آستانه قزاقستان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/wronxido.png?w=144"
+      },
+      "guest": {
+        "id": 902995,
+        "name": "الریاضی لبنان",
+        "shortName": "الریاضی لبنان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cycy4atc.png?w=144"
+      },
+      "hostScore": 86,
+      "guestScore": 72,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 16,
+          "guest": 16
+        },
+        {
+          "quarter": 2,
+          "host": 18,
+          "guest": 18
+        },
+        {
+          "quarter": 3,
+          "host": 26,
+          "guest": 16
+        },
+        {
+          "quarter": 4,
+          "host": 26,
+          "guest": 22
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/130100/بازی-آستانه-قزاقستان-الریاضی-لبنان"
+    },
+    {
+      "id": 130099,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1404/08/29",
+      "dateIso": null,
+      "time": "19:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 572,
+        "name": "شهرداری گرگان",
+        "shortName": "گرگان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
+      },
+      "guest": {
+        "id": 903012,
+        "name": "الوحده امارات",
+        "shortName": "الوحده امارات",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dgpqhtv2.png?w=144"
+      },
+      "hostScore": 20,
+      "guestScore": 0,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/130099/بازی-شهرداری-گرگان-الوحده-امارات"
+    },
+    {
+      "id": 130098,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1404/08/28",
+      "dateIso": "2026-02-28",
+      "time": "19:15",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903054,
+        "name": "آستانه قزاقستان",
+        "shortName": "آستانه قزاقستان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/wronxido.png?w=144"
+      },
+      "guest": {
+        "id": 903053,
+        "name": "ساجس بیروت",
+        "shortName": "ساجس بیروت",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/4hfdhsy0.png?w=144"
+      },
+      "hostScore": 71,
+      "guestScore": 62,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 24,
+          "guest": 16
+        },
+        {
+          "quarter": 2,
+          "host": 15,
+          "guest": 9
+        },
+        {
+          "quarter": 3,
+          "host": 13,
+          "guest": 19
+        },
+        {
+          "quarter": 4,
+          "host": 19,
+          "guest": 18
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/130098/بازی-آستانه-قزاقستان-ساجس-بیروت"
+    },
+    {
+      "id": 130096,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1404/08/21",
+      "dateIso": "2026-02-21",
+      "time": "22:15",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 902995,
+        "name": "الریاضی لبنان",
+        "shortName": "الریاضی لبنان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cycy4atc.png?w=144"
+      },
+      "guest": {
+        "id": 903053,
+        "name": "ساجس بیروت",
+        "shortName": "ساجس بیروت",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/4hfdhsy0.png?w=144"
+      },
+      "hostScore": 87,
+      "guestScore": 80,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 17,
+          "guest": 22
+        },
+        {
+          "quarter": 2,
+          "host": 23,
+          "guest": 24
+        },
+        {
+          "quarter": 3,
+          "host": 18,
+          "guest": 16
+        },
+        {
+          "quarter": 4,
+          "host": 29,
+          "guest": 18
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/130096/بازی-الریاضی-لبنان-ساجس-بیروت"
+    },
+    {
+      "id": 130097,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1404/08/16",
+      "dateIso": "2026-02-16",
+      "time": "19:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 572,
+        "name": "شهرداری گرگان",
+        "shortName": "گرگان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
+      },
+      "guest": {
+        "id": 903054,
+        "name": "آستانه قزاقستان",
+        "shortName": "آستانه قزاقستان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/wronxido.png?w=144"
+      },
+      "hostScore": 91,
+      "guestScore": 75,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 27,
+          "guest": 24
+        },
+        {
+          "quarter": 2,
+          "host": 19,
+          "guest": 18
+        },
+        {
+          "quarter": 3,
+          "host": 21,
+          "guest": 17
+        },
+        {
+          "quarter": 4,
+          "host": 24,
+          "guest": 16
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/130097/بازی-شهرداری-گرگان-آستانه-قزاقستان"
+    },
+    {
+      "id": 130095,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1404/08/15",
+      "dateIso": "2026-02-15",
+      "time": "19:15",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 902995,
+        "name": "الریاضی لبنان",
+        "shortName": "الریاضی لبنان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cycy4atc.png?w=144"
+      },
+      "guest": {
+        "id": 903012,
+        "name": "الوحده امارات",
+        "shortName": "الوحده امارات",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dgpqhtv2.png?w=144"
+      },
+      "hostScore": 89,
+      "guestScore": 80,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 20,
+          "guest": 23
+        },
+        {
+          "quarter": 2,
+          "host": 23,
+          "guest": 19
+        },
+        {
+          "quarter": 3,
+          "host": 18,
+          "guest": 20
+        },
+        {
+          "quarter": 4,
+          "host": 28,
+          "guest": 18
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/130095/بازی-الریاضی-لبنان-الوحده-امارات"
+    },
+    {
+      "id": 130094,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1404/08/14",
+      "dateIso": "2026-02-14",
+      "time": "22:15",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 903053,
+        "name": "ساجس بیروت",
+        "shortName": "ساجس بیروت",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/4hfdhsy0.png?w=144"
+      },
+      "guest": {
+        "id": 572,
+        "name": "شهرداری گرگان",
+        "shortName": "گرگان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
+      },
+      "hostScore": 92,
+      "guestScore": 97,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 29,
+          "guest": 26
+        },
+        {
+          "quarter": 2,
+          "host": 16,
+          "guest": 24
+        },
+        {
+          "quarter": 3,
+          "host": 22,
+          "guest": 23
+        },
+        {
+          "quarter": 4,
+          "host": 25,
+          "guest": 24
+        }
+      ],
+      "winner": "host",
+      "url": "https://www.varzesh3.com/basketball/match/130094/بازی-ساجس-بیروت-شهرداری-گرگان"
+    }
+  ],
+  "matchCount": 117,
+  "teamCount": 58,
+  "liveCount": 0,
+  "staleDropped": 3,
+  "version": 2,
+  "generatedAt": "2026-09-28T10:34:21.568049+00:00"
 }
