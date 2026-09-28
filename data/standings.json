@@ -9,7 +9,7 @@
       "country": "IR",
       "flag": "🇮🇷",
       "priority": 1,
-      "updatedAt": "2026-09-28T17:01:34.737139+00:00",
+      "updatedAt": "2026-09-28T17:22:55.016384+00:00",
       "groups": [
         {
           "name": "لیگ برتر بسکتبال",
@@ -539,7 +539,7 @@
       "country": "US",
       "flag": "🏀",
       "priority": 2,
-      "updatedAt": "2026-09-28T17:01:56.240464+00:00",
+      "updatedAt": "2026-09-28T17:23:00.448013+00:00",
       "groups": [
         {
           "name": "کنفرانس شرق",
@@ -551,24 +551,6 @@
               "name": "کلیولند کاوالیرز",
               "shortName": "کلیولند کاوالیرز",
               "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/d00jval4.png?w=144",
-              "played": 0,
-              "won": 0,
-              "lost": 0,
-              "pointsFor": 0,
-              "pointsAgainst": 0,
-              "diff": 0,
-              "points": 0,
-              "pointsDeducted": 0,
-              "winRate": 0,
-              "form": null
-            },
-            {
-              "rank": 2,
-              "manualRank": 0,
-              "teamId": 902788,
-              "name": "فینیکس سانز",
-              "shortName": "فینیکس سانز",
-              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vkphjzaq.png?w=144",
               "played": 0,
               "won": 0,
               "lost": 0,
@@ -1110,7 +1092,7 @@
           ]
         }
       ],
-      "teamCount": 31,
+      "teamCount": 30,
       "teams": [
         {
           "rank": 1,
@@ -1119,24 +1101,6 @@
           "name": "کلیولند کاوالیرز",
           "shortName": "کلیولند کاوالیرز",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/d00jval4.png?w=144",
-          "played": 0,
-          "won": 0,
-          "lost": 0,
-          "pointsFor": 0,
-          "pointsAgainst": 0,
-          "diff": 0,
-          "points": 0,
-          "pointsDeducted": 0,
-          "winRate": 0,
-          "form": null
-        },
-        {
-          "rank": 2,
-          "manualRank": 0,
-          "teamId": 902788,
-          "name": "فینیکس سانز",
-          "shortName": "فینیکس سانز",
-          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vkphjzaq.png?w=144",
           "played": 0,
           "won": 0,
           "lost": 0,
@@ -1681,7 +1645,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 3,
-      "updatedAt": "2026-09-28T17:02:04.643909+00:00",
+      "updatedAt": "2026-09-28T17:23:14.667513+00:00",
       "groups": [
         {
           "name": "لیگ غرب آسیا",
@@ -2180,7 +2144,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 4,
-      "updatedAt": "2026-09-28T17:02:09.762326+00:00",
+      "updatedAt": "2026-09-28T17:23:18.012837+00:00",
       "groups": [
         {
           "name": "گروهی ",
@@ -2525,7 +2489,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 5,
-      "updatedAt": "2026-09-28T17:02:15.190563+00:00",
+      "updatedAt": "2026-09-28T17:23:24.858622+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -3137,7 +3101,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 6,
-      "updatedAt": "2026-09-28T17:02:18.569328+00:00",
+      "updatedAt": "2026-09-28T17:23:29.949046+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4191,7 +4155,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 7,
-      "updatedAt": "2026-09-28T17:02:27.925447+00:00",
+      "updatedAt": "2026-09-28T17:23:39.221186+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4654,7 +4618,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 8,
-      "updatedAt": "2026-09-28T17:02:33.886147+00:00",
+      "updatedAt": "2026-09-28T17:23:46.027724+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -5713,7 +5677,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 9,
-      "updatedAt": "2026-09-28T17:02:37.052882+00:00",
+      "updatedAt": "2026-09-28T17:23:52.442601+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -5727,7 +5691,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 10,
-      "updatedAt": "2026-09-28T17:02:49.266722+00:00",
+      "updatedAt": "2026-09-28T17:23:59.793337+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -6190,7 +6154,7 @@
       "country": "EU",
       "flag": "🇪🇺",
       "priority": 11,
-      "updatedAt": "2026-09-28T17:02:54.670598+00:00",
+      "updatedAt": "2026-09-28T17:24:01.559623+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6204,7 +6168,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 12,
-      "updatedAt": "2026-09-28T17:02:58.622546+00:00",
+      "updatedAt": "2026-09-28T17:24:04.820674+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6218,7 +6182,7 @@
       "country": "US",
       "flag": "🏆",
       "priority": 13,
-      "updatedAt": "2026-09-28T17:03:05.322749+00:00",
+      "updatedAt": "2026-09-28T17:24:10.202391+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6232,7 +6196,7 @@
       "country": "WO",
       "flag": "🤝",
       "priority": 14,
-      "updatedAt": "2026-09-28T17:03:08.638374+00:00",
+      "updatedAt": "2026-09-28T17:24:13.633797+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -22637,9 +22601,9 @@
     }
   ],
   "matchCount": 355,
-  "teamCount": 163,
+  "teamCount": 162,
   "liveCount": 0,
   "staleDropped": 3,
   "version": 2,
-  "generatedAt": "2026-09-28T17:03:33.866994+00:00"
+  "generatedAt": "2026-09-28T17:24:15.287734+00:00"
 }
