@@ -95,20 +95,24 @@ SOURCES = [
     },
     {
         "id": "varzesh3_league",
-        "name": "ورزش سه — جدول لیگ",
-        "nameEn": "Varzesh3 League Table",
+        "name": "ورزش سه — لیگ و نتایج",
+        "nameEn": "Varzesh3 Leagues & Results",
         "language": "fa",
-        "category": "جدول رده‌بندی",
-        "type": "league_table",
-        # refId=32 → لیگ برتر بسکتبال ایران
+        "category": "نتایج و جدول",
+        "type": "league_api",
+        # refId → شناسه لیگ در API ورزش سه
+        # مسیرها و seasonId از /v2.0/basketball/leagues/{id} خوانده می‌شوند،
+        # پس اگر ورزش سه فصل جدیدی بسازد نیازی به تغییر این فایل نیست.
         "leagues": [
             {"refId": 32, "name": "لیگ برتر بسکتبال ایران", "nameEn": "Iranian Basketball Super League",
-             "country": "IR", "flag": "🇮🇷", "season": "1405"},
+             "country": "IR", "flag": "🇮🇷", "priority": 1},
             {"refId": 209, "name": "NBA", "nameEn": "NBA",
-             "country": "US", "flag": "🏀", "season": "2026-27"},
-            {"refId": 205, "name": "لیگ بین‌المللی آسیا", "nameEn": "Asian Intl League",
-             "country": "AS", "flag": "🌏", "season": "2026"},
+             "country": "US", "flag": "🏀", "priority": 2},
+            {"refId": 205, "name": "لیگ باشگاه‌های غرب آسیا", "nameEn": "West Asia Clubs League",
+             "country": "AS", "flag": "🌏", "priority": 3},
         ],
+        "matchPages": 3,    # چند صفحه نتایج برای هر لیگ خوانده شود
+        "fixturePages": 2,  # چند صفحه بازی‌های آینده
         "filter": False,
         "needsProxy": False,
     },
@@ -372,198 +376,325 @@ def fetch_search_news(source: dict) -> list[dict]:
     return out
 
 
-# ---------------------------------------------------------------------------
-# پارسر جدول لیگ (ورزش سه) — جدول رده‌بندی تیم‌ها
-# ---------------------------------------------------------------------------
+"""ماژول داده‌ی لیگ: جدول رده‌بندی، نتایج و بازی‌های آینده از API رسمی ورزش سه.
 
-LEAGUE_PAGE = "https://www.varzesh3.com/basketball/league/{ref}/table"
+منبع: https://web-api.varzesh3.com/v2.0/basketball/leagues/{refId}
+هر لیگ، seasonId و مسیرهای زیر را در تب‌های خودش اعلام می‌کند:
+  مرحله گروهی → /seasons/{id}/multi-standing
+  بازی ها     → /seasons/{id}/matches
+نتایج گذشته: /seasons/{id}/results?skip=N
+بازی آینده : /seasons/{id}/fixtures?skip=N
+"""
 
+import json
+import re
+from datetime import datetime, timezone
 
-class _TableParser:
-    """استخراج سادهٔ جدول‌های HTML بدون وابستگی خارجی."""
+LEAGUE_API = "https://web-api.varzesh3.com/v2.0/basketball/leagues/{ref}"
 
-    def __init__(self) -> None:
-        from html.parser import HTMLParser
+# وضعیت بازی — از پاسخ واقعی API استخراج شد.
+# کلید: status (int)، مقدار: (برچسب فارسی، برچسب کوتاه، آیا زنده است)
+STATUS = {
+    1:  ("برنامه‌ریزی‌شده", "برنامه", False),
+    2:  ("شروع نشده", "شروع نشده", False),
+    3:  ("کوارتر اول", "ک۱", True),
+    4:  ("بین دو کوارتر", "بین‌کوارتر", True),
+    5:  ("کوارتر دوم", "ک۲", True),
+    6:  ("بین دو کوارتر", "بین‌کوارتر", True),
+    7:  ("تمام‌شده", "تمام", False),
+    8:  ("لغو شده", "لغو", False),
+    9:  ("توقف", "توقف", True),
+    10: ("تعویق", "تعویق", False),
+    11: ("نیمه‌وقت", "نیمه‌وقت", True),
+}
 
-        outer = self
+# بازی‌هایی که با وضعیت «توقف/لغو/تعویق» در فصل‌های گذشته رها شده‌اند،
+# هرگز به‌روزرسانی نمی‌شوند و در فید زنده گیر می‌کنند. این‌ها حذف می‌شوند.
+DEAD_STATUSES = {8, 9, 10}
 
-        class _P(HTMLParser):
-            def __init__(self):
-                super().__init__()
-                outer.tables, outer._cur, outer._row, outer._cell = [], None, None, None
-
-            def handle_starttag(self, tag, attrs):
-                a = dict(attrs)
-                if tag == "table":
-                    self_cur = outer
-                    self_cur._cur = []
-                    outer._cur = []
-                elif tag == "tr" and outer._cur is not None:
-                    outer._row = []
-                elif tag == "td" and outer._row is not None:
-                    outer._cell = {"t": "", "img": None, "href": None}
-                elif tag == "th" and outer._row is not None:
-                    outer._cell = {"t": "", "img": None, "href": None}
-                elif tag == "img" and outer._cell is not None:
-                    outer._cell["img"] = a.get("src")
-                elif tag == "a" and outer._cell is not None:
-                    outer._cell["href"] = a.get("href")
-
-            def handle_data(self, d):
-                if outer._cell is not None:
-                    outer._cell["t"] += d
-
-            def handle_endtag(self, tag):
-                if tag in ("td", "th") and outer._cell is not None and outer._row is not None:
-                    outer._row.append(outer._cell)
-                    outer._cell = None
-                elif tag == "tr" and outer._row is not None:
-                    if outer._row:
-                        outer._cur.append(outer._row)
-                    outer._row = None
-                elif tag == "table" and outer._cur is not None:
-                    outer.tables.append(outer._cur)
-                    outer._cur = None
-
-        self._parser = _P()
-
-    def feed(self, html: str) -> list[list[dict]]:
-        self._parser.feed(html)
-        return self.tables
+# بازیِ «زنده» فقط وقتی معتبر است که امتیازش خالی نباشد؛
+# برخی رکوردهای قدیمیِ نیمه‌کاره امتیاز ناقص دارند.
+MIN_LIVE_SCORE = 1
 
 
-def _split_score(raw: str) -> tuple[int | None, int | None]:
-    """«۱۵۵۲-۱۲۸۷» → (1552, 1287)"""
-    m = re.search(r"(\d[\d,۰-۹]*)\s*[-–]\s*(\d[\d,۰-۹]*)", raw or "")
-    if not m:
-        return None, None
-
-    def conv(s: str) -> int:
-        table = str.maketrans("۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩", "01234567890123456789")
-        return int(s.translate(table).replace(",", ""))
-
-    return conv(m.group(1)), conv(m.group(2))
+def _is_stale(m: dict) -> bool:
+    """بازی رهاشده/بی‌اعتبار است؟"""
+    if m.get("status") in DEAD_STATUSES:
+        return True
+    # زنده‌ی بدون امتیاز معتبر نیست (مثل رکوردهای نیمه‌کاره‌ی قدیمی)
+    if m.get("isLive") and (m.get("hostScore") is None or m.get("guestScore") is None):
+        return True
+    return False
 
 
-def _to_int(raw: str) -> int | None:
-    t = re.sub(r"[^\d۰-۹٠-٩-]", "", raw or "")
-    t = t.translate(str.maketrans("۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩", "01234567890123456789"))
-    if not t or t in {"-", ""}:
+def _api_get(url: str, prefer_proxy: bool = False) -> dict:
+    return json.loads(fetch(url, prefer_proxy=prefer_proxy))
+
+
+def _follow_paging(url: str, max_pages: int, prefer_proxy: bool) -> list[dict]:
+    """صفحات API را دنبال می‌کند و همه‌ی roundها را جمع می‌کند."""
+    collected: list[dict] = []
+    seen: set[str] = set()
+    for _ in range(max_pages):
+        if not url or url in seen:
+            break
+        seen.add(url)
+        try:
+            data = _api_get(url, prefer_proxy)
+        except Exception:
+            break
+        collected.extend(data.get("items", []))
+        if not data.get("hasMore"):
+            break
+        url = next((l.get("href") for l in data.get("_links", []) if l.get("rel") == "next"), None)
+    return collected
+
+
+def _logo(team: dict | None) -> str | None:
+    """لوگوی تیم را با سایز ۱۴۴ می‌گیرد تا روی صفحه موبایل تیز باشد."""
+    if not team:
         return None
+    if team.get("logo"):
+        return re.sub(r"[?&]w=\d+", "", team["logo"]) + "?w=144"
+    return None
+
+
+def _short_name(name: str) -> str:
+    """«پالایش نفت آبادان» → «نفت آبادان» برای جای محدود در رابط کاربری."""
+    n = (name or "").strip()
+    for prefix in ("پالایش ", "شهرداری ", "نفت و گاز ", "رعد پدافند ", "پترو نوین ",
+                   "مهگل ", "پاس ", "بیمه "):
+        if n.startswith(prefix):
+            shortened = n[len(prefix):].strip()
+            # «نفت آبادان» خوب است، «گرگان» هم خوب است
+            return shortened or n
+    return n
+
+
+def _shamsi_to_iso(date: str | None) -> str | None:
+    """«۱۴۰۵/۰۳/۰۵» → تقریب میلادی.
+
+    تبدیل دقیق تقویم شمسی نیست؛ فقط برای مرتب‌سازی و نمایش تقریبی
+    لازم است. اپلیکیشن تاریخ شمسی را از خود رشته‌ی `date` نگه می‌دارد.
+    """
+    if not date:
+        return None
+    m = re.match(r"\s*(\d{3,4})/(\d{1,2})/(\d{1,2})", str(date))
+    if not m:
+        return None
+    year, month, day = (int(x) for x in m.groups())
     try:
-        return int(t)
+        gy, gm = year + 621, month + 6
+        if gm > 12:
+            gm, gy = gm - 12, gy + 1
+        return datetime(gy, gm, day, tzinfo=timezone.utc).date().isoformat()
     except ValueError:
         return None
 
 
-def fetch_league_table(source: dict) -> dict:
-    """جدول رده‌بندی هر لیگ را می‌خواند و به ساختار استاندارد تبدیل می‌کند."""
+def _parse_match(raw: dict, date: str | None, league: dict) -> dict:
+    host = raw.get("host") or {}
+    guest = raw.get("guest") or {}
+    points = raw.get("matchPoints") or {}
+    label, short, is_live = STATUS.get(raw.get("status"), ("نامشخص", "؟", False))
+
+    quarters = []
+    for i in (1, 2, 3, 4):
+        h = (raw.get(f"quarterPoints{i}") or {}).get("host")
+        g = (raw.get(f"quarterPoints{i}") or {}).get("guest")
+        if h is not None or g is not None:
+            quarters.append({"quarter": i, "host": h, "guest": g})
+
+    # winner: ۰ نامشخص، ۱ میزبان، ۲ مهمان (طبق خروجی واقعی API)
+    winner_raw = raw.get("winner")
+    winner = "host" if winner_raw == 1 else ("guest" if winner_raw == 2 else None)
+
+    score_h, score_g = points.get("host"), points.get("guest")
+    link = raw.get("link")
+    return {
+        "id": raw.get("id"),
+        "leagueId": f"lg-{league['refId']}",
+        "leagueRef": league["refId"],
+        "leagueName": league["name"],
+        "leagueNameEn": league["nameEn"],
+        "leagueFlag": league["flag"],
+        "date": date,
+        "dateIso": _shamsi_to_iso(date),
+        "time": raw.get("time"),
+        "status": raw.get("status"),
+        "statusFa": label,
+        "statusShort": short,
+        "isLive": bool(raw.get("isLive")) or is_live,
+        "host": {
+            "id": host.get("id"),
+            "name": host.get("name"),
+            "shortName": _short_name(host.get("name") or ""),
+            "logoUrl": _logo(host),
+        },
+        "guest": {
+            "id": guest.get("id"),
+            "name": guest.get("name"),
+            "shortName": _short_name(guest.get("name") or ""),
+            "logoUrl": _logo(guest),
+        },
+        "hostScore": score_h,
+        "guestScore": score_g,
+        "quarters": quarters,
+        "winner": winner,
+        "url": ("https://www.varzesh3.com" + link) if link else None,
+    }
+
+
+def _parse_standing_group(g: dict, stage_title: str) -> dict:
+    """یک گروه/جدول را به ساختار استاندارد تبدیل می‌کند."""
+    teams = []
+    for idx, t in enumerate(g.get("teams") or []):
+        name = t.get("name") or ""
+        teams.append({
+            "rank": idx + 1,               # ترتیب خودِ جدول = رتبه رسمی
+            "manualRank": t.get("manualRank") or 0,
+            "teamId": t.get("id"),
+            "name": name,
+            "shortName": _short_name(name),
+            "logoUrl": _logo(t),
+            "played": t.get("played"),
+            "won": t.get("wins"),
+            "lost": t.get("losses"),
+            "pointsFor": t.get("goalFor"),
+            "pointsAgainst": t.get("goalAgainst"),
+            "diff": t.get("goalDifference"),
+            "points": t.get("points"),
+            "pointsDeducted": t.get("pointsDeducted") or 0,
+            "winRate": t.get("winRate"),
+            "form": t.get("form"),
+        })
+    return {"name": g.get("title") or stage_title, "teams": teams}
+
+
+def _parse_standings(data: dict, league: dict, season_id: str) -> dict:
+    """پاسخ multi-standing را به ساختار استاندارد تبدیل می‌کند.
+
+    ساختار واقعی: {"standings": [{"id", "title", "teams": [...]}, ...]}
+    هر عضو `standings` یک مرحله/گروه است (مثلاً گروه A، گروه B).
+    """
+    groups = []
+    for g in data.get("standings") or []:
+        parsed = _parse_standing_group(g, g.get("title") or league["name"])
+        if parsed["teams"]:
+            groups.append(parsed)
+
+    all_teams = [t for g in groups for t in g["teams"]]
+    return {
+        "id": f"lg-{league['refId']}",
+        "refId": league["refId"],
+        "seasonId": season_id,
+        "name": league["name"],
+        "nameEn": league["nameEn"],
+        "country": league["country"],
+        "flag": league["flag"],
+        "priority": league.get("priority", 99),
+        "updatedAt": datetime.now(timezone.utc).isoformat(),
+        "groups": groups,
+        "teamCount": len(all_teams),
+        "teams": all_teams,
+    }
+
+
+def fetch_league_data(source: dict) -> dict:
+    """جدول رده‌بندی + نتایج + بازی‌های آینده‌ی همه‌ی لیگ‌ها را برمی‌گرداند."""
     leagues: list[dict] = []
+    matches: list[dict] = []
     errors: list[str] = []
 
     for lg in source["leagues"]:
-        url = LEAGUE_PAGE.format(ref=lg["refId"])
         try:
-            html = fetch(url, prefer_proxy=source["needsProxy"]).decode("utf-8", errors="replace")
+            meta = _api_get(LEAGUE_API.format(ref=lg["refId"]), source["needsProxy"])
         except Exception as exc:
-            errors.append(f"{lg['name']}: {exc}"[:160])
+            errors.append(f"{lg['name']} meta: {str(exc)[:110]}")
             continue
 
-        tables = _TableParser().feed(html)
-        if not tables:
-            errors.append(f"{lg['name']}: no table")
+        # مسیرهای API از تب‌های خود لیگ خوانده می‌شوند تا با فصل جدید
+        # خودکار هماهنگ بمانیم (نیازی به ویرایش دستی نیست).
+        standing_url = match_url = None
+        for tab in meta.get("tabs") or []:
+            link = next((l.get("href") for l in tab.get("_links", []) if l.get("rel") == "get"), None)
+            if not link:
+                continue
+            if "/multi-standing" in link:
+                standing_url = link
+            elif "/matches" in link:
+                match_url = link
+
+        season_id = ""
+        if match_url:
+            m = re.search(r"/seasons/(\d+)/", match_url)
+            season_id = m.group(1) if m else ""
+        base = match_url.rsplit("/", 1)[0] if match_url else ""
+
+        if standing_url:
+            try:
+                leagues.append(_parse_standings(
+                    _api_get(standing_url, source["needsProxy"]), lg, season_id))
+            except Exception as exc:
+                errors.append(f"{lg['name']} standing: {str(exc)[:110]}")
+        else:
+            errors.append(f"{lg['name']}: no standing endpoint")
+
+        if base:
+            # نتایج گذشته + بازی‌های آینده
+            for path, pages in (("results", source["matchPages"]),
+                                ("fixtures", source["fixturePages"])):
+                url = f"{base}/{path}?skip=0"
+                for rnd in _follow_paging(url, pages, source["needsProxy"]):
+                    for dt in rnd.get("dates") or []:
+                        for m in dt.get("matches") or []:
+                            matches.append(_parse_match(m, dt.get("date"), lg))
+        else:
+            errors.append(f"{lg['name']}: no matches endpoint")
+
+    # حذف تکراری بر اساس شناسه بازی، و حذف رکوردهای رهاشده
+    seen: set = set()
+    unique: list[dict] = []
+    stale = 0
+    for m in matches:
+        mid = m.get("id")
+        if mid is None or mid in seen:
             continue
-
-        # جدول اصلی بزرگ‌ترین جدول با بیش از ۳ ردیف است
-        main = max(tables, key=len)
-        teams: list[dict] = []
-        for row in main:
-            cells = [c["t"].strip() for c in row]
-            imgs = [c["img"] for c in row if c["img"]]
-            if len(cells) < 8:
-                continue
-            rank = _to_int(cells[0])
-            if rank is None:
-                continue
-            team_name = cells[2]
-            if not team_name:
-                continue
-            played = _to_int(cells[3])
-            won = _to_int(cells[4])
-            lost = _to_int(cells[5])
-            pf, pa = _split_score(cells[6])
-            diff = _to_int(cells[7])
-            points = _to_int(cells[8]) if len(cells) > 8 else None
-            # لوگوی واقعی تیم از CDN ورزش سه؛ سایز پیش‌فرض صفحه ۴۰ است،
-            # ما ۱۴۴ می‌خواهیم تا روی صفحه موبایل تیز باشد.
-            logo = imgs[0] if imgs else None
-            if logo:
-                logo = re.sub(r"[?&]w=\d+", "", logo) + "?w=144"
-            # نام کوتاه برای UI
-            teams.append({
-                "rank": rank,
-                "name": team_name,
-                "shortName": _short_name(team_name),
-                "logoUrl": logo,
-                "played": played,
-                "won": won,
-                "lost": lost,
-                "pointsFor": pf,
-                "pointsAgainst": pa,
-                "diff": diff if diff is not None else (
-                    (pf - pa) if (pf is not None and pa is not None) else None
-                ),
-                "points": points,
-                "form": None,   # در صورت وجود در HTML بعدی پر می‌شود
-            })
-
-        if not teams:
-            errors.append(f"{lg['name']}: no rows")
+        seen.add(mid)
+        if _is_stale(m):
+            stale += 1
             continue
+        unique.append(m)
 
-        leagues.append({
-            "id": f"lg-{lg['refId']}",
-            "refId": lg["refId"],
-            "name": lg["name"],
-            "nameEn": lg["nameEn"],
-            "country": lg["country"],
-            "flag": lg["flag"],
-            "season": lg["season"],
-            "url": url,
-            "updatedAt": datetime.now(timezone.utc).isoformat(),
-            "teams": teams,
-        })
+    def sort_key(m: dict) -> tuple:
+        """زنده‌ها اول، سپس بر اساس تاریخ شمسی (نزولی) و ساعت."""
+        nums = re.findall(r"\d+", m.get("date") or "")
+        y, mo, d = (int(x) for x in nums[:3]) if len(nums) >= 3 else (0, 0, 0)
+        return (0 if m.get("isLive") else 1, -y, -mo, -d, m.get("time") or "")
 
-    result = {"leagues": leagues}
+    unique.sort(key=sort_key)
+
+    data = {
+        "leagues": sorted(leagues, key=lambda x: x.get("priority", 99)),
+        "matches": unique,
+        "matchCount": len(unique),
+        "teamCount": sum(lg.get("teamCount", 0) for lg in leagues),
+        "liveCount": sum(1 for m in unique if m.get("isLive")),
+        "staleDropped": stale,
+    }
     if errors:
-        result["errors"] = errors
-    return result
-
-
-def _short_name(name: str) -> str:
-    """«پالایش نفت آبادان» → «آبادان» (برای جای محدود در UI)"""
-    n = name.strip()
-    drop = ("پالایش ", "شهرداری ", "نفت و گاز ", "رعد پدافند ", "پترو نوین ",
-            "نفت ", "گلنور ", "مهگل ", "پاس ", "گاز ", "بیمه ")
-    for d in drop:
-        if n.startswith(d):
-            n = n[len(d):]
-            break
-    return n.strip() or name
-
-
-# ---------------------------------------------------------------------------
-# اجرا
-# ---------------------------------------------------------------------------
+        data["errors"] = errors
+    return data
 
 
 def scrape() -> dict:
+    """خبرها را از همه‌ی منابع خبری جمع می‌کند."""
     news: list[dict] = []
     report: list[dict] = []
 
     for source in SOURCES:
-        if source.get("type") == "league_table":
-            continue  # جدول رده‌بندی در مسیر جداگانه پردازش می‌شود
+        if source.get("type") == "league_api":
+            continue  # داده لیگ در مسیر جداگانه (league.json) پردازش می‌شود
         try:
             if source.get("type") == "search_api":
                 items = fetch_search_news(source)
@@ -627,29 +758,44 @@ def main() -> int:
         detail = src.get("items", src.get("error", ""))
         print(f"  [{status}] {src['source']}: {detail}")
 
-    # ---- جدول رده‌بندی لیگ‌ها (فایل جداگانه) ----
-    league_source = next(
-        (s for s in SOURCES if s.get("type") == "league_table"), None
-    )
+    # ---- لیگ: جدول رده‌بندی + نتایج + بازی‌های آینده (فایل جداگانه) ----
+    league_source = next((s for s in SOURCES if s.get("type") == "league_api"), None)
     if league_source:
         try:
-            ldata = fetch_league_table(league_source)
-            ldata["version"] = 1
+            ldata = fetch_league_data(league_source)
+            ldata["version"] = 2
             ldata["generatedAt"] = datetime.now(timezone.utc).isoformat()
-            ldata["count"] = sum(len(x["teams"]) for x in ldata["leagues"])
-            (OUT_DIR / "standings.json").write_text(
-                json.dumps(ldata, ensure_ascii=False, indent=2), encoding="utf-8"
-            )
-            (OUT_DIR / "standings.min.json").write_text(
-                json.dumps(ldata, ensure_ascii=False, separators=(",", ":")), encoding="utf-8"
-            )
-            print(f"generated {ldata['count']} team rows -> {OUT_DIR / 'standings.json'}")
+
+            for fname, indent in (("league.json", 2), ("league.min.json", None)):
+                path = OUT_DIR / fname
+                if indent:
+                    path.write_text(json.dumps(ldata, ensure_ascii=False, indent=indent),
+                                    encoding="utf-8")
+                else:
+                    path.write_text(
+                        json.dumps(ldata, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+
+            # نگه‌داشتن نام قدیمی برای سازگاری
+            for fname in ("standings.json", "standings.min.json"):
+                (OUT_DIR / fname).write_text(
+                    json.dumps(ldata, ensure_ascii=False,
+                               indent=2 if fname.endswith("standings.json") else None,
+                               separators=None if fname.endswith("standings.json") else (",", ":")),
+                    encoding="utf-8")
+
+            size_kb = (OUT_DIR / "league.min.json").stat().st_size / 1024
+            print(f"\ngenerated {ldata['matchCount']} matches / "
+                  f"{ldata['teamCount']} teams ({size_kb:.0f} KB) -> {OUT_DIR / 'league.min.json'}")
             for lg in ldata["leagues"]:
-                print(f"  [OK ] {lg['name']}: {len(lg['teams'])} تیم")
+                print(f"  [OK ] {lg['flag']} {lg['name']}: "
+                      f"{lg['teamCount']} تیم در {len(lg['groups'])} گروه")
+            live = [m for m in ldata["matches"] if m.get("isLive")]
+            if live:
+                print(f"  [LIVE] {len(live)} بازی زنده")
             for err in ldata.get("errors", []):
                 print(f"  [ERR] {err}")
         except Exception as exc:
-            print(f"  [ERR] league_table: {exc}")
+            print(f"  [ERR] league_api: {exc}")
 
     return 0 if any(s.get("ok") for s in data["sources"]) else 1
 
