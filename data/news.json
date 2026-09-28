@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-28T17:22:48.187114+00:00",
-  "count": 72,
+  "generatedAt": "2026-09-28T18:13:08.145523+00:00",
+  "count": 73,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 109
+      "items": 110
     },
     {
       "source": "bbc",
@@ -27,6 +27,21 @@
   ],
   "news": [
     {
+      "id": "varzesh3-2432462",
+      "title": "بسکتبال بابل بعد از 17 سال لیگ‌برتری شد!",
+      "summary": "تیم بسکتبال رعد پدافند که فصل گذشته در اصفهان به میدان می‌رفت با تصمیم‌گیری مدیران به شهر بابل منتقل شد.",
+      "url": "https://www.varzesh3.com/news/2432462/بسکتبال-بابل-بعد-از-17-سال-لیگ-برتری-شد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/28/D/50wpwkv2.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-09-28T17:46:34Z",
+      "views": "402",
+      "comments": "0"
+    },
+    {
       "id": "varzesh3-2432446",
       "title": "لبران: خانواده‌ام را ترک نکردم که شکست بخورم!",
       "summary": "روز رسانه‌ای فصل جدید لیگ بسکتبال NBA پایان یک انتظار بزرگ و صحبت‌های لبران بود.",
@@ -38,8 +53,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T16:24:07Z",
-      "views": "1.8K",
-      "comments": "3"
+      "views": "3K",
+      "comments": "5"
     },
     {
       "id": "varzesh3-2432434",
@@ -53,8 +68,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T15:08:42Z",
-      "views": "6.4K",
-      "comments": "47"
+      "views": "8.6K",
+      "comments": "54"
     },
     {
       "id": "varzesh3-2432432",
@@ -68,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T15:02:03Z",
-      "views": "4.2K",
+      "views": "5.3K",
       "comments": "6"
     },
     {
@@ -338,7 +353,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-25T06:05:32Z",
-      "views": "18.1K",
+      "views": "18.2K",
       "comments": "28"
     },
     {

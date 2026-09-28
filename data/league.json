@@ -9,7 +9,7 @@
       "country": "IR",
       "flag": "🇮🇷",
       "priority": 1,
-      "updatedAt": "2026-09-28T17:22:55.016384+00:00",
+      "updatedAt": "2026-09-28T18:13:19.959828+00:00",
       "groups": [
         {
           "name": "لیگ برتر بسکتبال",
@@ -539,7 +539,7 @@
       "country": "US",
       "flag": "🏀",
       "priority": 2,
-      "updatedAt": "2026-09-28T17:23:00.448013+00:00",
+      "updatedAt": "2026-09-28T18:13:24.181997+00:00",
       "groups": [
         {
           "name": "کنفرانس شرق",
@@ -1645,7 +1645,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 3,
-      "updatedAt": "2026-09-28T17:23:14.667513+00:00",
+      "updatedAt": "2026-09-28T18:13:28.509801+00:00",
       "groups": [
         {
           "name": "لیگ غرب آسیا",
@@ -2144,7 +2144,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 4,
-      "updatedAt": "2026-09-28T17:23:18.012837+00:00",
+      "updatedAt": "2026-09-28T18:13:33.206631+00:00",
       "groups": [
         {
           "name": "گروهی ",
@@ -2489,7 +2489,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 5,
-      "updatedAt": "2026-09-28T17:23:24.858622+00:00",
+      "updatedAt": "2026-09-28T18:13:43.475137+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -3101,7 +3101,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 6,
-      "updatedAt": "2026-09-28T17:23:29.949046+00:00",
+      "updatedAt": "2026-09-28T18:13:48.594612+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4155,7 +4155,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 7,
-      "updatedAt": "2026-09-28T17:23:39.221186+00:00",
+      "updatedAt": "2026-09-28T18:13:55.938093+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4618,7 +4618,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 8,
-      "updatedAt": "2026-09-28T17:23:46.027724+00:00",
+      "updatedAt": "2026-09-28T18:14:06.377802+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -5677,7 +5677,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 9,
-      "updatedAt": "2026-09-28T17:23:52.442601+00:00",
+      "updatedAt": "2026-09-28T18:14:09.204171+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -5691,7 +5691,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 10,
-      "updatedAt": "2026-09-28T17:23:59.793337+00:00",
+      "updatedAt": "2026-09-28T18:14:16.475233+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -6154,7 +6154,7 @@
       "country": "EU",
       "flag": "🇪🇺",
       "priority": 11,
-      "updatedAt": "2026-09-28T17:24:01.559623+00:00",
+      "updatedAt": "2026-09-28T18:14:22.770928+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6168,7 +6168,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 12,
-      "updatedAt": "2026-09-28T17:24:04.820674+00:00",
+      "updatedAt": "2026-09-28T18:14:25.067237+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6182,7 +6182,7 @@
       "country": "US",
       "flag": "🏆",
       "priority": 13,
-      "updatedAt": "2026-09-28T17:24:10.202391+00:00",
+      "updatedAt": "2026-09-28T18:14:28.314998+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6196,7 +6196,7 @@
       "country": "WO",
       "flag": "🤝",
       "priority": 14,
-      "updatedAt": "2026-09-28T17:24:13.633797+00:00",
+      "updatedAt": "2026-09-28T18:14:33.955524+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -9157,25 +9157,31 @@
       "date": "1405/07/06",
       "dateIso": "2027-01-06",
       "time": "21:15",
-      "status": 1,
-      "statusFa": "برنامه‌ریزی‌شده",
-      "statusShort": "برنامه",
+      "status": 2,
+      "statusFa": "شروع نشده",
+      "statusShort": "شروع نشده",
       "isLive": false,
       "host": {
-        "id": 0,
+        "id": 923071,
         "name": "کویت کلاب",
         "shortName": "کویت کلاب",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/41zqcjst.png?w=144"
       },
       "guest": {
-        "id": 0,
+        "id": 902995,
         "name": "الریاضی لبنان",
         "shortName": "الریاضی لبنان",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cycy4atc.png?w=144"
       },
       "hostScore": null,
       "guestScore": null,
-      "quarters": [],
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 17,
+          "guest": 15
+        }
+      ],
       "winner": null,
       "url": "https://www.varzesh3.com/basketball/match/180969/بازی-کویت-کلاب-الریاضی-لبنان"
     },
@@ -22605,5 +22611,5 @@
   "liveCount": 0,
   "staleDropped": 3,
   "version": 2,
-  "generatedAt": "2026-09-28T17:24:15.287734+00:00"
+  "generatedAt": "2026-09-28T18:14:37.493595+00:00"
 }
