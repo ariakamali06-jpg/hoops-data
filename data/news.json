@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-28T08:37:28.532972+00:00",
-  "count": 71,
+  "generatedAt": "2026-09-28T09:41:34.714174+00:00",
+  "count": 70,
   "sources": [
     {
       "source": "isna",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -58,
+      "items": -59,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,7 +38,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T05:08:18Z",
-      "views": "2K",
+      "views": "2.1K",
       "comments": "3"
     },
     {
@@ -53,8 +53,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T03:15:00Z",
-      "views": "40.6K",
-      "comments": "56"
+      "views": "40.9K",
+      "comments": "57"
     },
     {
       "id": "varzesh3-2432250",
@@ -817,21 +817,6 @@
       "category": "ورزشی",
       "publishedAt": "2026-09-20T12:22:31Z",
       "views": "2.3K",
-      "comments": "4"
-    },
-    {
-      "id": "varzesh3-2430287",
-      "title": "دو مدال دست نخورده در دسترس بسکتبال ایران!",
-      "summary": "تیم ملی بسکتبال سه به سه ایران برای حضور در مسابقات ناگویا با آمادگی بالایی حاضر شد و با ژست‌های جالبی در رژه ملی‌پوشان تصاویرشان را ثبت کردند.",
-      "url": "https://www.varzesh3.com/news/2430287/دو-مدال-دست-نخورده-در-دسترس-بسکتبال-ایران",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/20/A/rymtkx1g.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-19T20:59:48Z",
-      "views": "5.2K",
       "comments": "4"
     },
     {
