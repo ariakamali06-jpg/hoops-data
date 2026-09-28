@@ -94,6 +94,25 @@ SOURCES = [
         "needsProxy": False,
     },
     {
+        "id": "varzesh3_league",
+        "name": "ورزش سه — جدول لیگ",
+        "nameEn": "Varzesh3 League Table",
+        "language": "fa",
+        "category": "جدول رده‌بندی",
+        "type": "league_table",
+        # refId=32 → لیگ برتر بسکتبال ایران
+        "leagues": [
+            {"refId": 32, "name": "لیگ برتر بسکتبال ایران", "nameEn": "Iranian Basketball Super League",
+             "country": "IR", "flag": "🇮🇷", "season": "1405"},
+            {"refId": 209, "name": "NBA", "nameEn": "NBA",
+             "country": "US", "flag": "🏀", "season": "2026-27"},
+            {"refId": 205, "name": "لیگ بین‌المللی آسیا", "nameEn": "Asian Intl League",
+             "country": "AS", "flag": "🌏", "season": "2026"},
+        ],
+        "filter": False,
+        "needsProxy": False,
+    },
+    {
         "id": "bbc",
         "name": "بی‌بی‌سی ورزشی",
         "nameEn": "BBC Sport",
@@ -354,6 +373,186 @@ def fetch_search_news(source: dict) -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
+# پارسر جدول لیگ (ورزش سه) — جدول رده‌بندی تیم‌ها
+# ---------------------------------------------------------------------------
+
+LEAGUE_PAGE = "https://www.varzesh3.com/basketball/league/{ref}/table"
+
+
+class _TableParser:
+    """استخراج سادهٔ جدول‌های HTML بدون وابستگی خارجی."""
+
+    def __init__(self) -> None:
+        from html.parser import HTMLParser
+
+        outer = self
+
+        class _P(HTMLParser):
+            def __init__(self):
+                super().__init__()
+                outer.tables, outer._cur, outer._row, outer._cell = [], None, None, None
+
+            def handle_starttag(self, tag, attrs):
+                a = dict(attrs)
+                if tag == "table":
+                    self_cur = outer
+                    self_cur._cur = []
+                    outer._cur = []
+                elif tag == "tr" and outer._cur is not None:
+                    outer._row = []
+                elif tag == "td" and outer._row is not None:
+                    outer._cell = {"t": "", "img": None, "href": None}
+                elif tag == "th" and outer._row is not None:
+                    outer._cell = {"t": "", "img": None, "href": None}
+                elif tag == "img" and outer._cell is not None:
+                    outer._cell["img"] = a.get("src")
+                elif tag == "a" and outer._cell is not None:
+                    outer._cell["href"] = a.get("href")
+
+            def handle_data(self, d):
+                if outer._cell is not None:
+                    outer._cell["t"] += d
+
+            def handle_endtag(self, tag):
+                if tag in ("td", "th") and outer._cell is not None and outer._row is not None:
+                    outer._row.append(outer._cell)
+                    outer._cell = None
+                elif tag == "tr" and outer._row is not None:
+                    if outer._row:
+                        outer._cur.append(outer._row)
+                    outer._row = None
+                elif tag == "table" and outer._cur is not None:
+                    outer.tables.append(outer._cur)
+                    outer._cur = None
+
+        self._parser = _P()
+
+    def feed(self, html: str) -> list[list[dict]]:
+        self._parser.feed(html)
+        return self.tables
+
+
+def _split_score(raw: str) -> tuple[int | None, int | None]:
+    """«۱۵۵۲-۱۲۸۷» → (1552, 1287)"""
+    m = re.search(r"(\d[\d,۰-۹]*)\s*[-–]\s*(\d[\d,۰-۹]*)", raw or "")
+    if not m:
+        return None, None
+
+    def conv(s: str) -> int:
+        table = str.maketrans("۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩", "01234567890123456789")
+        return int(s.translate(table).replace(",", ""))
+
+    return conv(m.group(1)), conv(m.group(2))
+
+
+def _to_int(raw: str) -> int | None:
+    t = re.sub(r"[^\d۰-۹٠-٩-]", "", raw or "")
+    t = t.translate(str.maketrans("۰۱۲۳۴۵۶۷۸۹٠١٢٣٤٥٦٧٨٩", "01234567890123456789"))
+    if not t or t in {"-", ""}:
+        return None
+    try:
+        return int(t)
+    except ValueError:
+        return None
+
+
+def fetch_league_table(source: dict) -> dict:
+    """جدول رده‌بندی هر لیگ را می‌خواند و به ساختار استاندارد تبدیل می‌کند."""
+    leagues: list[dict] = []
+    errors: list[str] = []
+
+    for lg in source["leagues"]:
+        url = LEAGUE_PAGE.format(ref=lg["refId"])
+        try:
+            html = fetch(url, prefer_proxy=source["needsProxy"]).decode("utf-8", errors="replace")
+        except Exception as exc:
+            errors.append(f"{lg['name']}: {exc}"[:160])
+            continue
+
+        tables = _TableParser().feed(html)
+        if not tables:
+            errors.append(f"{lg['name']}: no table")
+            continue
+
+        # جدول اصلی بزرگ‌ترین جدول با بیش از ۳ ردیف است
+        main = max(tables, key=len)
+        teams: list[dict] = []
+        for row in main:
+            cells = [c["t"].strip() for c in row]
+            imgs = [c["img"] for c in row if c["img"]]
+            if len(cells) < 8:
+                continue
+            rank = _to_int(cells[0])
+            if rank is None:
+                continue
+            team_name = cells[2]
+            if not team_name:
+                continue
+            played = _to_int(cells[3])
+            won = _to_int(cells[4])
+            lost = _to_int(cells[5])
+            pf, pa = _split_score(cells[6])
+            diff = _to_int(cells[7])
+            points = _to_int(cells[8]) if len(cells) > 8 else None
+            # لوگوی واقعی تیم از CDN ورزش سه؛ سایز پیش‌فرض صفحه ۴۰ است،
+            # ما ۱۴۴ می‌خواهیم تا روی صفحه موبایل تیز باشد.
+            logo = imgs[0] if imgs else None
+            if logo:
+                logo = re.sub(r"[?&]w=\d+", "", logo) + "?w=144"
+            # نام کوتاه برای UI
+            teams.append({
+                "rank": rank,
+                "name": team_name,
+                "shortName": _short_name(team_name),
+                "logoUrl": logo,
+                "played": played,
+                "won": won,
+                "lost": lost,
+                "pointsFor": pf,
+                "pointsAgainst": pa,
+                "diff": diff if diff is not None else (
+                    (pf - pa) if (pf is not None and pa is not None) else None
+                ),
+                "points": points,
+                "form": None,   # در صورت وجود در HTML بعدی پر می‌شود
+            })
+
+        if not teams:
+            errors.append(f"{lg['name']}: no rows")
+            continue
+
+        leagues.append({
+            "id": f"lg-{lg['refId']}",
+            "refId": lg["refId"],
+            "name": lg["name"],
+            "nameEn": lg["nameEn"],
+            "country": lg["country"],
+            "flag": lg["flag"],
+            "season": lg["season"],
+            "url": url,
+            "updatedAt": datetime.now(timezone.utc).isoformat(),
+            "teams": teams,
+        })
+
+    result = {"leagues": leagues}
+    if errors:
+        result["errors"] = errors
+    return result
+
+
+def _short_name(name: str) -> str:
+    """«پالایش نفت آبادان» → «آبادان» (برای جای محدود در UI)"""
+    n = name.strip()
+    drop = ("پالایش ", "شهرداری ", "نفت و گاز ", "رعد پدافند ", "پترو نوین ",
+            "نفت ", "گلنور ", "مهگل ", "پاس ", "گاز ", "بیمه ")
+    for d in drop:
+        if n.startswith(d):
+            n = n[len(d):]
+            break
+    return n.strip() or name
+
+
+# ---------------------------------------------------------------------------
 # اجرا
 # ---------------------------------------------------------------------------
 
@@ -363,6 +562,8 @@ def scrape() -> dict:
     report: list[dict] = []
 
     for source in SOURCES:
+        if source.get("type") == "league_table":
+            continue  # جدول رده‌بندی در مسیر جداگانه پردازش می‌شود
         try:
             if source.get("type") == "search_api":
                 items = fetch_search_news(source)
@@ -425,6 +626,31 @@ def main() -> int:
         status = "OK " if src.get("ok") else "ERR"
         detail = src.get("items", src.get("error", ""))
         print(f"  [{status}] {src['source']}: {detail}")
+
+    # ---- جدول رده‌بندی لیگ‌ها (فایل جداگانه) ----
+    league_source = next(
+        (s for s in SOURCES if s.get("type") == "league_table"), None
+    )
+    if league_source:
+        try:
+            ldata = fetch_league_table(league_source)
+            ldata["version"] = 1
+            ldata["generatedAt"] = datetime.now(timezone.utc).isoformat()
+            ldata["count"] = sum(len(x["teams"]) for x in ldata["leagues"])
+            (OUT_DIR / "standings.json").write_text(
+                json.dumps(ldata, ensure_ascii=False, indent=2), encoding="utf-8"
+            )
+            (OUT_DIR / "standings.min.json").write_text(
+                json.dumps(ldata, ensure_ascii=False, separators=(",", ":")), encoding="utf-8"
+            )
+            print(f"generated {ldata['count']} team rows -> {OUT_DIR / 'standings.json'}")
+            for lg in ldata["leagues"]:
+                print(f"  [OK ] {lg['name']}: {len(lg['teams'])} تیم")
+            for err in ldata.get("errors", []):
+                print(f"  [ERR] {err}")
+        except Exception as exc:
+            print(f"  [ERR] league_table: {exc}")
+
     return 0 if any(s.get("ok") for s in data["sources"]) else 1
 
 

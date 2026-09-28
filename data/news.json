@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-28T09:48:16.950432+00:00",
+  "generatedAt": "2026-09-28T09:06:58.934243+00:00",
   "count": 71,
   "sources": [
     {
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 113
+      "items": 111
     },
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -59,
+      "items": -57,
       "note": "off-topic items dropped"
     }
   ],
@@ -53,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T03:15:00Z",
-      "views": "40.9K",
+      "views": "41.4K",
       "comments": "57"
     },
     {
