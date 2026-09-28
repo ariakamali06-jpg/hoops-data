@@ -50,6 +50,17 @@ BASKETBALL_KEYWORDS = (
     "بسکتبال", "ان‌بی‌ای", "ان بی ای", "یورولیگ", "لیگ برتر بسکتبال",
     "مربی تیم ملی بسکتبال", "بازیکن بسکتبال", "فدراسیون بسکتبال",
     "nba", "euroleague", "euro cup", "basketball",
+    "استپ‌بک", "stepback", "سلامک", "دانک", "slam dunk",
+    "سه نفره", "۳ نفره", "3x3",
+    "شهرداری گرگان", "ذوب آهن", "ذوب‌آهن", "مس سونگون", "نفت آبادان",
+    "اسلامشهر", "پتروشیمی ایلام", "کاله", "رعد پدافند", "چرم مشهد",
+)
+
+# کلیدواژه‌های ورزش‌های دیگر: اگر خبری فقط این‌ها را داشت، از فید بسکتبال حذف می‌شود
+OTHER_SPORTS = (
+    "والیبال", "فوتبال", "فوتسال", "هندبال", "کشتی", "واترپلو",
+    "وزنه برداری", "وزنه‌برداری", "دوومیدانی", "اسکواش", "شنا",
+    "ژیمناستیک", "تکواندو", "کاراته", "جودو", "بیسبال", "بیسبال",
 )
 
 SOURCES = [
@@ -75,10 +86,9 @@ SOURCES = [
         "endpoint": "https://search-api.varzesh3.com/v1.0/news",
         "queries": [
             "بسکتبال",
-            "لیگ برتر بسکتبال ایران",
+            "لیگ برتر بسکتبال",
+            "بسکتبال سه نفره",
             "تیم ملی بسکتبال",
-            "NBA بسکتبال",
-            "یورولیگ بسکتبال",
         ],
         "filter": False,         # خود API بر اساس کوئری فیلتر می‌کند
         "needsProxy": False,
@@ -207,6 +217,22 @@ def _clean(text: str) -> str:
 def _is_basketball(text: str) -> bool:
     low = text.casefold()
     return any(k.casefold() in low for k in BASKETBALL_KEYWORDS)
+
+
+def looks_relevant(item: dict) -> bool:
+    """خبر بی‌ربط از فید حذف می‌شود.
+
+    کوئری‌های جست‌وجو گاهی اخبار فوتبال/والیبال را هم برمی‌گردانند (مثلاً
+    جست‌وجوی «تیم ملی بسکتبال» که «اردوی تیم ملی فوتبال» را هم می‌آورد).
+
+    - منابع فارسی: باید **نشانهٔ مثبت** بسکتبال در عنوان یا خلاصه باشد.
+    - منابع تخصصی بسکتبال (فید انگلیسی): بدون فیلتر می‌مانند.
+    """
+    if item.get("language") != "fa":
+        return True
+
+    text = f"{item.get('title', '')} {item.get('summary', '')}".casefold()
+    return any(k.casefold() in text for k in BASKETBALL_KEYWORDS)
 
 
 def _make_id(source_id: str, link: str) -> str:
@@ -351,6 +377,7 @@ def scrape() -> dict:
     # مرتب‌سازی: جدیدترین اول، حذف تکراری بر اساس لینک
     seen: set[str] = set()
     unique: list[dict] = []
+    dropped = 0
     for item in sorted(
         news,
         key=lambda x: x.get("publishedAt") or "1970-01-01T00:00:00+00:00",
@@ -358,8 +385,15 @@ def scrape() -> dict:
     ):
         if item["url"] in seen:
             continue
+        if not looks_relevant(item):
+            dropped += 1
+            continue
         seen.add(item["url"])
         unique.append(item)
+
+    if dropped:
+        report.append({"source": "filter", "ok": True, "items": -dropped,
+                       "note": "off-topic items dropped"})
 
     return {
         "version": 1,
