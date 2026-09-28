@@ -9,7 +9,7 @@
       "flag": "🇮🇷",
       "season": "1405",
       "url": "https://www.varzesh3.com/basketball/league/32/table",
-      "updatedAt": "2026-09-28T09:07:00.050098+00:00",
+      "updatedAt": "2026-09-28T10:08:36.390804+00:00",
       "teams": [
         {
           "rank": 1,
@@ -176,7 +176,7 @@
       "flag": "🏀",
       "season": "2026-27",
       "url": "https://www.varzesh3.com/basketball/league/209/table",
-      "updatedAt": "2026-09-28T09:07:01.076064+00:00",
+      "updatedAt": "2026-09-28T10:08:38.305137+00:00",
       "teams": [
         {
           "rank": 1,
@@ -413,7 +413,7 @@
       "flag": "🌏",
       "season": "2026",
       "url": "https://www.varzesh3.com/basketball/league/205/table",
-      "updatedAt": "2026-09-28T09:07:01.964640+00:00",
+      "updatedAt": "2026-09-28T10:08:41.219472+00:00",
       "teams": [
         {
           "rank": 1,
@@ -489,6 +489,6 @@
     }
   ],
   "version": 1,
-  "generatedAt": "2026-09-28T09:07:01.964640+00:00",
+  "generatedAt": "2026-09-28T10:08:41.219488+00:00",
   "count": 32
 }
