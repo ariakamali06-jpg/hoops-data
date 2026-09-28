@@ -8,6 +8,12 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: news-feed
+  cancel-in-progress: false
 
 jobs:
   scrape:
@@ -37,3 +43,19 @@ jobs:
             git commit -m "chore: update news feed [skip ci]"
             git push
           fi
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: data
+
+  deploy:
+    needs: scrape
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
