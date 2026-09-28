@@ -51,12 +51,37 @@ python scraper.py
 
 ## لینک سرو در اپلیکیشن
 
+**آدرس اصلی (GitHub Pages — همیشه تازه، بدون کش شاخه):**
+
+```
+https://ariakamali06-jpg.github.io/hoops-data/news.min.json
+```
+
+نسخه خوانا برای دیباگ:
+
+```
+https://ariakamali06-jpg.github.io/hoops-data/news.json
+```
+
+**آدرس پشتیبان (jsDelivr CDN):**
+
 ```
 https://cdn.jsdelivr.net/gh/ariakamali06-jpg/hoops-data@main/data/news.min.json
 ```
 
-> jsDelivr فایل‌های commit شده روی `main` را کش می‌کند. تا حدود چند دقیقه
-> بعد از push، نسخه تازه سرو می‌شود.
+> ⚠️ کش شاخه در jsDelivr ممکن است تا چند ساعت نسخه قدیمی بدهد؛ اگر نسخه
+> تازه لازم بود از آدرس Pages استفاده کنید. برای نسخه دقیق یک کامیت خاص:
+> `https://cdn.jsdelivr.net/gh/ariakamali06-jpg/hoops-data@<sha>/data/news.min.json`
+
+## به‌روزرسانی خودکار
+
+فایل `.github/workflows/update-news.yml` هر **۶ ساعت** اجرا می‌شود:
+
+1. اسکرپر روی سرور گیت‌هاب اجرا می‌شود (بدون نیاز به سیستم روشنِ تو)
+2. `data/news.json` به‌روزرسانی و کامیت می‌شود
+3. روی GitHub Pages منتشر می‌شود
+
+اجرای دستی: دکمه `Run workflow` در تب Actions مخزن.
 
 ## ساختار داده
 
