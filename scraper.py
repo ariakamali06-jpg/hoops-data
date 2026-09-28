@@ -104,12 +104,34 @@ SOURCES = [
         # مسیرها و seasonId از /v2.0/basketball/leagues/{id} خوانده می‌شوند،
         # پس اگر ورزش سه فصل جدیدی بسازد نیازی به تغییر این فایل نیست.
         "leagues": [
-            {"refId": 32, "name": "لیگ برتر بسکتبال ایران", "nameEn": "Iranian Basketball Super League",
+            {"refId": 32, "name": "لیگ برتر بسکتبال ایران", "nameEn": "Iran Super League",
              "country": "IR", "flag": "🇮🇷", "priority": 1},
             {"refId": 209, "name": "NBA", "nameEn": "NBA",
              "country": "US", "flag": "🏀", "priority": 2},
             {"refId": 205, "name": "لیگ باشگاه‌های غرب آسیا", "nameEn": "West Asia Clubs League",
              "country": "AS", "flag": "🌏", "priority": 3},
+            {"refId": 210, "name": "لیگ قهرمانان بسکتبال آسیا", "nameEn": "Asia Champions League",
+             "country": "AS", "flag": "🌏", "priority": 4},
+            {"refId": 203, "name": "بسکتبال کاپ آسیا", "nameEn": "Asia Cup",
+             "country": "AS", "flag": "🌏", "priority": 5},
+            {"refId": 214, "name": "انتخابی جام جهانی بسکتبال آسیا", "nameEn": "Asia World Cup Qualifier",
+             "country": "AS", "flag": "🌏", "priority": 6},
+            {"refId": 1215, "name": "بسکتبال آسیایی ناگویا", "nameEn": "Asian Games Basketball",
+             "country": "AS", "flag": "🌏", "priority": 7},
+            {"refId": 204, "name": "جام جهانی بسکتبال", "nameEn": "Basketball World Cup",
+             "country": "WO", "flag": "🌐", "priority": 8},
+            {"refId": 201, "name": "قهرمانی جهان", "nameEn": "FIBA World Championship",
+             "country": "WO", "flag": "🌐", "priority": 9},
+            {"refId": 202, "name": "بسکتبال المپیک", "nameEn": "Olympic Basketball",
+             "country": "WO", "flag": "🌐", "priority": 10},
+            {"refId": 212, "name": "بسکتبال یوروکاپ", "nameEn": "EuroCup Basketball",
+             "country": "EU", "flag": "🇪🇺", "priority": 11},
+            {"refId": 211, "name": "زیر ۱۸ سال قهرمانی آسیا", "nameEn": "FIBA U18 Asia",
+             "country": "AS", "flag": "🌏", "priority": 12},
+            {"refId": 215, "name": "NBA کاپ", "nameEn": "NBA Cup",
+             "country": "US", "flag": "🏆", "priority": 13},
+            {"refId": 206, "name": "بسکتبال دوستانه", "nameEn": "International Friendly",
+             "country": "WO", "flag": "🤝", "priority": 14},
         ],
         "matchPages": 3,    # چند صفحه نتایج برای هر لیگ خوانده شود
         "fixturePages": 2,  # چند صفحه بازی‌های آینده
@@ -572,13 +594,21 @@ def _parse_standing_group(g: dict, stage_title: str) -> dict:
 
 
 def _parse_standings(data: dict, league: dict, season_id: str) -> dict:
-    """پاسخ multi-standing را به ساختار استاندارد تبدیل می‌کند.
+    """پاسخ جدول رده‌بندی را به ساختار استاندارد تبدیل می‌کند.
 
-    ساختار واقعی: {"standings": [{"id", "title", "teams": [...]}, ...]}
-    هر عضو `standings` یک مرحله/گروه است (مثلاً گروه A، گروه B).
+    دو شکل پاسخ وجود دارد:
+      ۱) چندگروهی: {"standings": [{"id","title","teams": [...]}, ...]}
+      ۲) تخت:      {"id","title","teams": [...]}            ← مثل لیگ قهرمانان آسیا
     """
+    if "standings" in data:
+        raw_groups = data.get("standings") or []
+    elif data.get("teams"):
+        raw_groups = [data]
+    else:
+        raw_groups = []
+
     groups = []
-    for g in data.get("standings") or []:
+    for g in raw_groups:
         parsed = _parse_standing_group(g, g.get("title") or league["name"])
         if parsed["teams"]:
             groups.append(parsed)
@@ -620,7 +650,7 @@ def fetch_league_data(source: dict) -> dict:
             link = next((l.get("href") for l in tab.get("_links", []) if l.get("rel") == "get"), None)
             if not link:
                 continue
-            if "/multi-standing" in link:
+            if "/multi-standing" in link or "/standing" in link:
                 standing_url = link
             elif "/matches" in link:
                 match_url = link
@@ -633,14 +663,31 @@ def fetch_league_data(source: dict) -> dict:
 
         if standing_url:
             try:
-                leagues.append(_parse_standings(
-                    _api_get(standing_url, source["needsProxy"]), lg, season_id))
+                parsed = _parse_standings(
+                    _api_get(standing_url, source["needsProxy"]), lg, season_id)
+                # لیگ‌هایی مثل یوروکاپ یا لیگ قهرمانان آسیا جدول ندارند،
+                # ولی بازی‌هایشان ارزشمند است؛ پس لیگ بدون گروه هم نگه داشته می‌شود.
+                if parsed["groups"]:
+                    leagues.append(parsed)
+                else:
+                    empty = dict(parsed, groups=[], teamCount=0, teams=[])
+                    leagues.append(empty)
             except Exception as exc:
                 errors.append(f"{lg['name']} standing: {str(exc)[:110]}")
-        else:
-            errors.append(f"{lg['name']}: no standing endpoint")
 
         if base:
+            # بعضی لیگ‌ها (یوروکاپ، NBA کاپ، دوستانه) اصلاً جدول رده‌بندی ندارند،
+            # ولی بازی‌هایشان باید حفظ شود؛ پس لیگ با گروه خالی هم ساخته می‌شود.
+            if not standing_url:
+                leagues.append({
+                    "id": f"lg-{lg['refId']}", "refId": lg["refId"],
+                    "seasonId": season_id, "name": lg["name"], "nameEn": lg["nameEn"],
+                    "country": lg["country"], "flag": lg["flag"],
+                    "priority": lg.get("priority", 99),
+                    "updatedAt": datetime.now(timezone.utc).isoformat(),
+                    "groups": [], "teamCount": 0, "teams": [],
+                })
+
             # نتایج گذشته + بازی‌های آینده
             for path, pages in (("results", source["matchPages"]),
                                 ("fixtures", source["fixturePages"])):
@@ -762,37 +809,72 @@ def main() -> int:
     league_source = next((s for s in SOURCES if s.get("type") == "league_api"), None)
     if league_source:
         try:
-            ldata = fetch_league_data(league_source)
-            ldata["version"] = 2
-            ldata["generatedAt"] = datetime.now(timezone.utc).isoformat()
+            full = fetch_league_data(league_source)
+            full["version"] = 2
+            full["generatedAt"] = datetime.now(timezone.utc).isoformat()
 
             for fname, indent in (("league.json", 2), ("league.min.json", None)):
                 path = OUT_DIR / fname
                 if indent:
-                    path.write_text(json.dumps(ldata, ensure_ascii=False, indent=indent),
+                    path.write_text(json.dumps(full, ensure_ascii=False, indent=indent),
                                     encoding="utf-8")
                 else:
                     path.write_text(
-                        json.dumps(ldata, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+                        json.dumps(full, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
             # نگه‌داشتن نام قدیمی برای سازگاری
             for fname in ("standings.json", "standings.min.json"):
                 (OUT_DIR / fname).write_text(
-                    json.dumps(ldata, ensure_ascii=False,
+                    json.dumps(full, ensure_ascii=False,
                                indent=2 if fname.endswith("standings.json") else None,
                                separators=None if fname.endswith("standings.json") else (",", ":")),
                     encoding="utf-8")
 
+            # ------------------------------------------------------------------
+            # نسخهٔ سبک برای اپ: فقط لیگ‌هایی که جدول رده‌بندی دارند و
+            # برای هر لیگ، جدیدترین ۲۵ بازی. لیگ‌های آرشیوی (جام جهانی ۲۰۱۴،
+            # المپیک، دوستانه و…) حذف می‌شوند تا فایل برای موبایل سبک بماند.
+            # ------------------------------------------------------------------
+            light_leagues = [lg for lg in full["leagues"] if lg.get("groups")]
+            keep_refs = {lg["refId"] for lg in light_leagues}
+            ranked = sorted(
+                (m for m in full["matches"] if m.get("leagueRef") in keep_refs),
+                key=lambda m: (m.get("date") or "", m.get("id") or 0),
+            )
+            per_league: dict[int, list] = {}
+            for m in ranked:
+                per_league.setdefault(m["leagueRef"], []).append(m)
+            light_matches = [m for lst in per_league.values() for m in lst[-25:]]
+
+            # فیلد "teams" در هر لیگ تکراریِ همان گروه‌هاست؛ حذف می‌شود
+            # چون اپ تیم‌ها را از داخل groups می‌خواند.
+            for lg in light_leagues:
+                lg.pop("teams", None)
+            light = {
+                "version": 3,
+                "generatedAt": full["generatedAt"],
+                "matchCount": len(light_matches),
+                "teamCount": sum(lg.get("teamCount", 0) for lg in light_leagues),
+                "liveCount": full.get("liveCount", 0),
+                "leagues": light_leagues,
+                "matches": light_matches,
+            }
+            (OUT_DIR / "app.json").write_text(
+                json.dumps(light, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+            app_kb = (OUT_DIR / "app.json").stat().st_size / 1024
+            print(f"\nlight feed -> app.json: {len(light_matches)} matches / "
+                  f"{light['teamCount']} teams ({app_kb:.0f} KB)")
+
             size_kb = (OUT_DIR / "league.min.json").stat().st_size / 1024
-            print(f"\ngenerated {ldata['matchCount']} matches / "
-                  f"{ldata['teamCount']} teams ({size_kb:.0f} KB) -> {OUT_DIR / 'league.min.json'}")
-            for lg in ldata["leagues"]:
+            print(f"\ngenerated {full['matchCount']} matches / "
+                  f"{full['teamCount']} teams ({size_kb:.0f} KB) -> {OUT_DIR / 'league.min.json'}")
+            for lg in full["leagues"]:
                 print(f"  [OK ] {lg['flag']} {lg['name']}: "
                       f"{lg['teamCount']} تیم در {len(lg['groups'])} گروه")
-            live = [m for m in ldata["matches"] if m.get("isLive")]
+            live = [m for m in full["matches"] if m.get("isLive")]
             if live:
                 print(f"  [LIVE] {len(live)} بازی زنده")
-            for err in ldata.get("errors", []):
+            for err in full.get("errors", []):
                 print(f"  [ERR] {err}")
         except Exception as exc:
             print(f"  [ERR] league_api: {exc}")
