@@ -613,6 +613,16 @@ def _parse_standings(data: dict, league: dict, season_id: str) -> dict:
         if parsed["teams"]:
             groups.append(parsed)
 
+    # ورزش س۳ در جدول NBA «فینیکس سانز» (تیم غربی) را یک بار اضافه در کنفرانس
+    # شرق هم ثبت کرده: ۳۱ رکورد با ۳۰ تیم یونیک. رکورد تکراری از گروه اول
+    # حذف می‌شود تا ۱۵ شرق + ۱۵ غرب شود.
+    if len(groups) == 2 and league["refId"] == 209:
+        second_ids = {t.get("teamId") for t in groups[1]["teams"]}
+        dupes = [t for t in groups[0]["teams"] if t.get("teamId") in second_ids]
+        if dupes:
+            groups[0]["teams"] = [t for t in groups[0]["teams"]
+                                  if t.get("teamId") not in second_ids]
+
     all_teams = [t for g in groups for t in g["teams"]]
     return {
         "id": f"lg-{league['refId']}",
