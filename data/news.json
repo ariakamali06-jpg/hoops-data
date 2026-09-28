@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-28T12:14:01.673058+00:00",
-  "count": 70,
+  "generatedAt": "2026-09-28T17:01:27.854545+00:00",
+  "count": 72,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 112
+      "items": 113
     },
     {
       "source": "bbc",
@@ -21,11 +21,56 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -59,
+      "items": -58,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2432446",
+      "title": "لبران: خانواده‌ام را ترک نکردم که شکست بخورم!",
+      "summary": "روز رسانه‌ای فصل جدید لیگ بسکتبال NBA پایان یک انتظار بزرگ و صحبت‌های لبران بود.",
+      "url": "https://www.varzesh3.com/news/2432446/لبران-خانواده-ام-را-ترک-نکردم-که-شکست-بخورم",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/28/D/53tkcjww.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-09-28T16:24:07Z",
+      "views": "1.2K",
+      "comments": "3"
+    },
+    {
+      "id": "varzesh3-2432434",
+      "title": "رسمی: دوایت بایکس آمریکایی استقلالی شد",
+      "summary": "گارد آمریکایی و بازیکن سابق تورنتو رپترز، لس‌آنجلس لیکرز و دیترویت پیستونز، به تیم بسکتبال مردان استقلال پیوست.",
+      "url": "https://www.varzesh3.com/news/2432434/رسمی-دوایت-بایکس-آمریکایی-استقلالی-شد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/28/A/s0vy3bel.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-09-28T15:08:42Z",
+      "views": "5.5K",
+      "comments": "44"
+    },
+    {
+      "id": "varzesh3-2432432",
+      "title": "‏ارتش ۳ نفره خارجی‌های گرگان: ۷۶ امتیاز از ۹۷ امتیاز!",
+      "summary": "شهرداری گرگان در شبی که با درخشش مثلث خارجی فوق‌العاده بود، در دفاع چندان موفق نبودند و بازی را واگذار کردند.",
+      "url": "https://www.varzesh3.com/news/2432432/ارتش-۳-نفره-خارجی-های-گرگان-۷۶-امتیاز-از-۹۷-امتیاز",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/28/D/ircwpunk.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-09-28T15:02:03Z",
+      "views": "3.8K",
+      "comments": "6"
+    },
     {
       "id": "varzesh3-2432278",
       "title": "‏شکست گرگان در شبی‌ که کام‌بک ناتمام ماند!",
@@ -38,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T05:08:18Z",
-      "views": "2.2K",
+      "views": "2.4K",
       "comments": "3"
     },
     {
@@ -53,8 +98,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T03:15:00Z",
-      "views": "44.5K",
-      "comments": "59"
+      "views": "45.9K",
+      "comments": "63"
     },
     {
       "id": "varzesh3-2432250",
@@ -83,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-27T17:25:52Z",
-      "views": "12.7K",
+      "views": "12.8K",
       "comments": "7"
     },
     {
@@ -99,7 +144,7 @@
       "category": "ورزشی",
       "publishedAt": "2026-09-27T16:12:44Z",
       "views": "6K",
-      "comments": "6"
+      "comments": "7"
     },
     {
       "id": "varzesh3-2432168",
@@ -113,7 +158,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-27T15:44:19Z",
-      "views": "8.4K",
+      "views": "8.5K",
       "comments": "4"
     },
     {
@@ -321,7 +366,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-24T20:01:49Z",
-      "views": "20K",
+      "views": "20.1K",
       "comments": "12"
     },
     {
@@ -441,7 +486,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-24T06:25:26Z",
-      "views": "4.8K",
+      "views": "4.9K",
       "comments": "4"
     },
     {
@@ -788,21 +833,6 @@
       "publishedAt": "2026-09-20T19:25:52Z",
       "views": "3.9K",
       "comments": "0"
-    },
-    {
-      "id": "varzesh3-2430525",
-      "title": "داوری: در حال توسعه و تغییر نسل بسکتبال هستیم",
-      "summary": "سرپرست فدراسیون بسکتبال بعد از کسب مدال برنز درباره تغییر نسل تیم‌ملی و مسیر ایران برای رسیدن به مدال مسابقات آسیایی صحبت کرد.",
-      "url": "https://www.varzesh3.com/news/2430525/داوری-در-حال-توسعه-و-تغییر-نسل-بسکتبال-هستیم",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/20/D/ynotauqh.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-20T18:38:12Z",
-      "views": "3.5K",
-      "comments": "2"
     },
     {
       "id": "varzesh3-2430448",
