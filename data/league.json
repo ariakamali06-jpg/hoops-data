@@ -9,7 +9,7 @@
       "country": "IR",
       "flag": "🇮🇷",
       "priority": 1,
-      "updatedAt": "2026-09-28T18:13:19.959828+00:00",
+      "updatedAt": "2026-09-29T00:14:56.611243+00:00",
       "groups": [
         {
           "name": "لیگ برتر بسکتبال",
@@ -539,7 +539,7 @@
       "country": "US",
       "flag": "🏀",
       "priority": 2,
-      "updatedAt": "2026-09-28T18:13:24.181997+00:00",
+      "updatedAt": "2026-09-29T00:14:58.759656+00:00",
       "groups": [
         {
           "name": "کنفرانس شرق",
@@ -1645,7 +1645,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 3,
-      "updatedAt": "2026-09-28T18:13:28.509801+00:00",
+      "updatedAt": "2026-09-29T00:15:01.466947+00:00",
       "groups": [
         {
           "name": "لیگ غرب آسیا",
@@ -1752,13 +1752,13 @@
               "name": "الریاضی لبنان",
               "shortName": "الریاضی لبنان",
               "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cycy4atc.png?w=144",
-              "played": 1,
-              "won": 1,
+              "played": 2,
+              "won": 2,
               "lost": 0,
-              "pointsFor": 104,
-              "pointsAgainst": 81,
-              "diff": 23,
-              "points": 2,
+              "pointsFor": 187,
+              "pointsAgainst": 163,
+              "diff": 24,
+              "points": 4,
               "pointsDeducted": 0,
               "winRate": 1,
               "form": null
@@ -1770,15 +1770,15 @@
               "name": "کویت کلاب",
               "shortName": "کویت کلاب",
               "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/41zqcjst.png?w=144",
-              "played": 1,
+              "played": 2,
               "won": 1,
-              "lost": 0,
-              "pointsFor": 105,
-              "pointsAgainst": 97,
-              "diff": 8,
-              "points": 2,
+              "lost": 1,
+              "pointsFor": 187,
+              "pointsAgainst": 180,
+              "diff": 7,
+              "points": 3,
               "pointsDeducted": 0,
-              "winRate": 1,
+              "winRate": 0.5,
               "form": null
             },
             {
@@ -1996,13 +1996,13 @@
           "name": "الریاضی لبنان",
           "shortName": "الریاضی لبنان",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cycy4atc.png?w=144",
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "lost": 0,
-          "pointsFor": 104,
-          "pointsAgainst": 81,
-          "diff": 23,
-          "points": 2,
+          "pointsFor": 187,
+          "pointsAgainst": 163,
+          "diff": 24,
+          "points": 4,
           "pointsDeducted": 0,
           "winRate": 1,
           "form": null
@@ -2014,15 +2014,15 @@
           "name": "کویت کلاب",
           "shortName": "کویت کلاب",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/41zqcjst.png?w=144",
-          "played": 1,
+          "played": 2,
           "won": 1,
-          "lost": 0,
-          "pointsFor": 105,
-          "pointsAgainst": 97,
-          "diff": 8,
-          "points": 2,
+          "lost": 1,
+          "pointsFor": 187,
+          "pointsAgainst": 180,
+          "diff": 7,
+          "points": 3,
           "pointsDeducted": 0,
-          "winRate": 1,
+          "winRate": 0.5,
           "form": null
         },
         {
@@ -2144,7 +2144,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 4,
-      "updatedAt": "2026-09-28T18:13:33.206631+00:00",
+      "updatedAt": "2026-09-29T00:15:03.632362+00:00",
       "groups": [
         {
           "name": "گروهی ",
@@ -2489,7 +2489,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 5,
-      "updatedAt": "2026-09-28T18:13:43.475137+00:00",
+      "updatedAt": "2026-09-29T00:15:05.610775+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -3101,7 +3101,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 6,
-      "updatedAt": "2026-09-28T18:13:48.594612+00:00",
+      "updatedAt": "2026-09-29T00:15:07.675158+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4155,7 +4155,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 7,
-      "updatedAt": "2026-09-28T18:13:55.938093+00:00",
+      "updatedAt": "2026-09-29T00:15:10.284447+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4618,7 +4618,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 8,
-      "updatedAt": "2026-09-28T18:14:06.377802+00:00",
+      "updatedAt": "2026-09-29T00:15:12.390699+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -5677,7 +5677,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 9,
-      "updatedAt": "2026-09-28T18:14:09.204171+00:00",
+      "updatedAt": "2026-09-29T00:15:13.896722+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -5691,7 +5691,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 10,
-      "updatedAt": "2026-09-28T18:14:16.475233+00:00",
+      "updatedAt": "2026-09-29T00:15:15.816658+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -6154,7 +6154,7 @@
       "country": "EU",
       "flag": "🇪🇺",
       "priority": 11,
-      "updatedAt": "2026-09-28T18:14:22.770928+00:00",
+      "updatedAt": "2026-09-29T00:15:17.302127+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6168,7 +6168,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 12,
-      "updatedAt": "2026-09-28T18:14:25.067237+00:00",
+      "updatedAt": "2026-09-29T00:15:18.611984+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6182,7 +6182,7 @@
       "country": "US",
       "flag": "🏆",
       "priority": 13,
-      "updatedAt": "2026-09-28T18:14:28.314998+00:00",
+      "updatedAt": "2026-09-29T00:15:20.061092+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6196,7 +6196,7 @@
       "country": "WO",
       "flag": "🤝",
       "priority": 14,
-      "updatedAt": "2026-09-28T18:14:33.955524+00:00",
+      "updatedAt": "2026-09-29T00:15:21.388529+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -9148,6 +9148,38 @@
       "url": "https://www.varzesh3.com/basketball/match/180004/بازی-هیوستون-راکتس-اوکلاهاما-سیتی-تاندر"
     },
     {
+      "id": 180973,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1405/07/08",
+      "dateIso": "2027-01-08",
+      "time": "18:15",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "کویت کلاب",
+        "shortName": "کویت کلاب",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/41zqcjst.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "راه آهن هند",
+        "shortName": "راه آهن هند",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1on4rjel.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180973/بازی-کویت-کلاب-راه-آهن-هند"
+    },
+    {
       "id": 180969,
       "leagueId": "lg-205",
       "leagueRef": 205,
@@ -9157,9 +9189,9 @@
       "date": "1405/07/06",
       "dateIso": "2027-01-06",
       "time": "21:15",
-      "status": 2,
-      "statusFa": "شروع نشده",
-      "statusShort": "شروع نشده",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
       "isLive": false,
       "host": {
         "id": 923071,
@@ -9173,16 +9205,31 @@
         "shortName": "الریاضی لبنان",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cycy4atc.png?w=144"
       },
-      "hostScore": null,
-      "guestScore": null,
+      "hostScore": 82,
+      "guestScore": 83,
       "quarters": [
         {
           "quarter": 1,
           "host": 17,
           "guest": 15
+        },
+        {
+          "quarter": 2,
+          "host": 18,
+          "guest": 21
+        },
+        {
+          "quarter": 3,
+          "host": 23,
+          "guest": 23
+        },
+        {
+          "quarter": 4,
+          "host": 24,
+          "guest": 24
         }
       ],
-      "winner": null,
+      "winner": "host",
       "url": "https://www.varzesh3.com/basketball/match/180969/بازی-کویت-کلاب-الریاضی-لبنان"
     },
     {
@@ -22606,10 +22653,10 @@
       "url": "https://www.varzesh3.com/basketball/match/26766/بازی-فرانسه-برزیل"
     }
   ],
-  "matchCount": 355,
+  "matchCount": 356,
   "teamCount": 162,
   "liveCount": 0,
   "staleDropped": 3,
   "version": 2,
-  "generatedAt": "2026-09-28T18:14:37.493595+00:00"
+  "generatedAt": "2026-09-29T00:15:22.258055+00:00"
 }
