@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-29T12:14:17.967152+00:00",
-  "count": 73,
+  "generatedAt": "2026-09-29T18:14:09.097424+00:00",
+  "count": 75,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 114
+      "items": 116
     },
     {
       "source": "bbc",
@@ -21,11 +21,39 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -58,
+      "items": -59,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "isna-e27d31aaa395",
+      "title": "نخستین پیروزی شهرداری گرگان در مرحله نهایی غرب آسیا",
+      "summary": "شهرداری گرگان، نماینده ایران در سوپرلیگ بسکتبال غرب آسیا، در دومین دیدار خود از مرحله هشت تیم نهایی با نتیجه ۸۵ بر ۷۶ برابر العربی قطر به پیروزی رسید.",
+      "url": "https://www.isna.ir/news/1405070704720/%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D8%AF%D8%B1-%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D9%86%D9%87%D8%A7%DB%8C%DB%8C-%D8%BA%D8%B1%D8%A8-%D8%A2%D8%B3%DB%8C%D8%A7",
+      "imageUrl": "https://cdn.isna.ir/d/2026/09/29/4/63995653.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "ورزشی > توپ و تور",
+      "publishedAt": "2026-09-29T17:20:49+00:00"
+    },
+    {
+      "id": "varzesh3-2432700",
+      "title": "اولین برد شهرداری گرگان در Final8 سوپرلیگ غرب آسیا",
+      "summary": "شهرداری گرگان با پیروزی مقابل العربی قطر در بازی پایانی مقابل العلا عربستان به زمین خواهد رفت.",
+      "url": "https://www.varzesh3.com/news/2432700/اولین-برد-شهرداری-گرگان-در-final8-سوپرلیگ-غرب-آسیا",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/29/D/ebzxtndz.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-09-29T16:57:43Z",
+      "views": "1.8K",
+      "comments": "2"
+    },
     {
       "id": "varzesh3-2432593",
       "title": "استارت رسمی لیگ برتر بسکتبال از ۳۰ مهر!",
@@ -38,8 +66,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T08:53:22Z",
-      "views": "534",
-      "comments": "0"
+      "views": "767",
+      "comments": "1"
     },
     {
       "id": "varzesh3-2432462",
@@ -53,7 +81,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T17:46:34Z",
-      "views": "3.7K",
+      "views": "3.8K",
       "comments": "4"
     },
     {
@@ -68,7 +96,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T16:24:07Z",
-      "views": "8.3K",
+      "views": "8.5K",
       "comments": "7"
     },
     {
@@ -83,7 +111,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T15:08:42Z",
-      "views": "16.2K",
+      "views": "16.3K",
       "comments": "65"
     },
     {
@@ -98,7 +126,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T15:02:03Z",
-      "views": "9.3K",
+      "views": "9.7K",
       "comments": "8"
     },
     {
@@ -128,7 +156,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T03:15:00Z",
-      "views": "46.2K",
+      "views": "46.3K",
       "comments": "64"
     },
     {
@@ -353,7 +381,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-25T10:05:33Z",
-      "views": "13.4K",
+      "views": "13.5K",
       "comments": "14"
     },
     {

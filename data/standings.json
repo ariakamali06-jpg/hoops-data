@@ -9,7 +9,7 @@
       "country": "IR",
       "flag": "🇮🇷",
       "priority": 1,
-      "updatedAt": "2026-09-29T12:14:19.680502+00:00",
+      "updatedAt": "2026-09-29T18:14:12.567802+00:00",
       "groups": [
         {
           "name": "لیگ برتر بسکتبال",
@@ -539,7 +539,7 @@
       "country": "US",
       "flag": "🏀",
       "priority": 2,
-      "updatedAt": "2026-09-29T12:14:23.316473+00:00",
+      "updatedAt": "2026-09-29T18:14:15.102078+00:00",
       "groups": [
         {
           "name": "کنفرانس شرق",
@@ -1645,7 +1645,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 3,
-      "updatedAt": "2026-09-29T12:14:46.105874+00:00",
+      "updatedAt": "2026-09-29T18:14:52.066768+00:00",
       "groups": [
         {
           "name": "لیگ غرب آسیا",
@@ -1825,6 +1825,24 @@
             {
               "rank": 1,
               "manualRank": 0,
+              "teamId": 572,
+              "name": "شهرداری گرگان",
+              "shortName": "گرگان",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144",
+              "played": 2,
+              "won": 1,
+              "lost": 1,
+              "pointsFor": 182,
+              "pointsAgainst": 179,
+              "diff": 3,
+              "points": 3,
+              "pointsDeducted": 0,
+              "winRate": 0.5,
+              "form": null
+            },
+            {
+              "rank": 2,
+              "manualRank": 0,
               "teamId": 903053,
               "name": "ساجس بیروت",
               "shortName": "ساجس بیروت",
@@ -1841,37 +1859,19 @@
               "form": null
             },
             {
-              "rank": 2,
+              "rank": 3,
               "manualRank": 0,
-              "teamId": 572,
-              "name": "شهرداری گرگان",
-              "shortName": "گرگان",
-              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144",
+              "teamId": 923075,
+              "name": "العربی قطر",
+              "shortName": "العربی قطر",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dabmcerw.png?w=144",
               "played": 1,
               "won": 0,
               "lost": 1,
-              "pointsFor": 97,
-              "pointsAgainst": 103,
-              "diff": -6,
+              "pointsFor": 76,
+              "pointsAgainst": 85,
+              "diff": -9,
               "points": 1,
-              "pointsDeducted": 0,
-              "winRate": 0,
-              "form": null
-            },
-            {
-              "rank": 3,
-              "manualRank": 0,
-              "teamId": 923074,
-              "name": "العلا عربستان",
-              "shortName": "العلا عربستان",
-              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/annyfrnc.png?w=144",
-              "played": 0,
-              "won": 0,
-              "lost": 0,
-              "pointsFor": 0,
-              "pointsAgainst": 0,
-              "diff": 0,
-              "points": 0,
               "pointsDeducted": 0,
               "winRate": 0,
               "form": null
@@ -1879,10 +1879,10 @@
             {
               "rank": 4,
               "manualRank": 0,
-              "teamId": 923075,
-              "name": "العربی قطر",
-              "shortName": "العربی قطر",
-              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dabmcerw.png?w=144",
+              "teamId": 923074,
+              "name": "العلا عربستان",
+              "shortName": "العلا عربستان",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/annyfrnc.png?w=144",
               "played": 0,
               "won": 0,
               "lost": 0,
@@ -2064,6 +2064,24 @@
         {
           "rank": 1,
           "manualRank": 0,
+          "teamId": 572,
+          "name": "شهرداری گرگان",
+          "shortName": "گرگان",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144",
+          "played": 2,
+          "won": 1,
+          "lost": 1,
+          "pointsFor": 182,
+          "pointsAgainst": 179,
+          "diff": 3,
+          "points": 3,
+          "pointsDeducted": 0,
+          "winRate": 0.5,
+          "form": null
+        },
+        {
+          "rank": 2,
+          "manualRank": 0,
           "teamId": 903053,
           "name": "ساجس بیروت",
           "shortName": "ساجس بیروت",
@@ -2080,37 +2098,19 @@
           "form": null
         },
         {
-          "rank": 2,
+          "rank": 3,
           "manualRank": 0,
-          "teamId": 572,
-          "name": "شهرداری گرگان",
-          "shortName": "گرگان",
-          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144",
+          "teamId": 923075,
+          "name": "العربی قطر",
+          "shortName": "العربی قطر",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dabmcerw.png?w=144",
           "played": 1,
           "won": 0,
           "lost": 1,
-          "pointsFor": 97,
-          "pointsAgainst": 103,
-          "diff": -6,
+          "pointsFor": 76,
+          "pointsAgainst": 85,
+          "diff": -9,
           "points": 1,
-          "pointsDeducted": 0,
-          "winRate": 0,
-          "form": null
-        },
-        {
-          "rank": 3,
-          "manualRank": 0,
-          "teamId": 923074,
-          "name": "العلا عربستان",
-          "shortName": "العلا عربستان",
-          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/annyfrnc.png?w=144",
-          "played": 0,
-          "won": 0,
-          "lost": 0,
-          "pointsFor": 0,
-          "pointsAgainst": 0,
-          "diff": 0,
-          "points": 0,
           "pointsDeducted": 0,
           "winRate": 0,
           "form": null
@@ -2118,10 +2118,10 @@
         {
           "rank": 4,
           "manualRank": 0,
-          "teamId": 923075,
-          "name": "العربی قطر",
-          "shortName": "العربی قطر",
-          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dabmcerw.png?w=144",
+          "teamId": 923074,
+          "name": "العلا عربستان",
+          "shortName": "العلا عربستان",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/annyfrnc.png?w=144",
           "played": 0,
           "won": 0,
           "lost": 0,
@@ -2144,7 +2144,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 4,
-      "updatedAt": "2026-09-29T12:14:51.742591+00:00",
+      "updatedAt": "2026-09-29T18:15:15.576860+00:00",
       "groups": [
         {
           "name": "گروهی ",
@@ -2489,7 +2489,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 5,
-      "updatedAt": "2026-09-29T12:14:55.272239+00:00",
+      "updatedAt": "2026-09-29T18:15:44.741446+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -3101,7 +3101,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 6,
-      "updatedAt": "2026-09-29T12:15:31.626832+00:00",
+      "updatedAt": "2026-09-29T18:16:00.607559+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4155,7 +4155,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 7,
-      "updatedAt": "2026-09-29T12:16:02.005581+00:00",
+      "updatedAt": "2026-09-29T18:16:51.124006+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4618,7 +4618,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 8,
-      "updatedAt": "2026-09-29T12:16:26.520537+00:00",
+      "updatedAt": "2026-09-29T18:16:56.138307+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -5677,7 +5677,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 9,
-      "updatedAt": "2026-09-29T12:16:40.457197+00:00",
+      "updatedAt": "2026-09-29T18:17:15.985524+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -5691,7 +5691,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 10,
-      "updatedAt": "2026-09-29T12:16:43.382926+00:00",
+      "updatedAt": "2026-09-29T18:18:00.527165+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -6154,7 +6154,7 @@
       "country": "EU",
       "flag": "🇪🇺",
       "priority": 11,
-      "updatedAt": "2026-09-29T12:16:47.876133+00:00",
+      "updatedAt": "2026-09-29T18:18:30.467146+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6168,7 +6168,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 12,
-      "updatedAt": "2026-09-29T12:16:49.637169+00:00",
+      "updatedAt": "2026-09-29T18:18:34.110647+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6182,7 +6182,7 @@
       "country": "US",
       "flag": "🏆",
       "priority": 13,
-      "updatedAt": "2026-09-29T12:17:32.720248+00:00",
+      "updatedAt": "2026-09-29T18:19:08.620525+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6196,7 +6196,7 @@
       "country": "WO",
       "flag": "🤝",
       "priority": 14,
-      "updatedAt": "2026-09-29T12:17:37.856684+00:00",
+      "updatedAt": "2026-09-29T18:19:38.308367+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -9189,26 +9189,47 @@
       "date": "1405/07/07",
       "dateIso": "2027-01-07",
       "time": "18:15",
-      "status": 1,
-      "statusFa": "برنامه‌ریزی‌شده",
-      "statusShort": "برنامه",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
       "isLive": false,
       "host": {
-        "id": 0,
+        "id": 923075,
         "name": "العربی قطر",
         "shortName": "العربی قطر",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dabmcerw.png?w=144"
       },
       "guest": {
-        "id": 0,
+        "id": 572,
         "name": "شهرداری گرگان",
         "shortName": "گرگان",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
       },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
+      "hostScore": 76,
+      "guestScore": 85,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 18,
+          "guest": 18
+        },
+        {
+          "quarter": 2,
+          "host": 16,
+          "guest": 16
+        },
+        {
+          "quarter": 3,
+          "host": 19,
+          "guest": 22
+        },
+        {
+          "quarter": 4,
+          "host": 23,
+          "guest": 29
+        }
+      ],
+      "winner": "host",
       "url": "https://www.varzesh3.com/basketball/match/180974/بازی-العربی-قطر-شهرداری-گرگان"
     },
     {
@@ -9221,25 +9242,36 @@
       "date": "1405/07/07",
       "dateIso": "2027-01-07",
       "time": "21:15",
-      "status": 1,
-      "statusFa": "برنامه‌ریزی‌شده",
-      "statusShort": "برنامه",
+      "status": 2,
+      "statusFa": "شروع نشده",
+      "statusShort": "شروع نشده",
       "isLive": false,
       "host": {
-        "id": 0,
+        "id": 903053,
         "name": "ساجس بیروت",
         "shortName": "ساجس بیروت",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/4hfdhsy0.png?w=144"
       },
       "guest": {
-        "id": 0,
+        "id": 923074,
         "name": "العلا عربستان",
         "shortName": "العلا عربستان",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/annyfrnc.png?w=144"
       },
       "hostScore": null,
       "guestScore": null,
-      "quarters": [],
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 24,
+          "guest": 16
+        },
+        {
+          "quarter": 2,
+          "host": 6,
+          "guest": 12
+        }
+      ],
       "winner": null,
       "url": "https://www.varzesh3.com/basketball/match/180975/بازی-ساجس-بیروت-العلا-عربستان"
     },
@@ -22722,5 +22754,5 @@
   "liveCount": 0,
   "staleDropped": 3,
   "version": 2,
-  "generatedAt": "2026-09-29T12:17:39.428526+00:00"
+  "generatedAt": "2026-09-29T18:19:40.751326+00:00"
 }
