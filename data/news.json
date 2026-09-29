@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-29T00:14:55.541372+00:00",
-  "count": 72,
+  "generatedAt": "2026-09-29T06:13:30.957055+00:00",
+  "count": 71,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 111
+      "items": 108
     },
     {
       "source": "bbc",
@@ -21,11 +21,24 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -56,
+      "items": -55,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "isna-a1d0bc032e14",
+      "title": "عمر بخشی از ناوگان آتش‌نشانی به بیش از ۱۰ سال می‌رسد",
+      "summary": "رئیس سازمان آتش‌نشانی و خدمات ایمنی شهرداری گرگان گفت: بخشی از ماشین‌آلات آتش‌نشانی گرگان بیش از ۱۰ سال عمر دارند به گونه ای که و قسمت عمده‌ای از خودروها مدل‌های قدیمی هستند.",
+      "url": "https://www.isna.ir/news/1405070704140/%D8%B9%D9%85%D8%B1-%D8%A8%D8%AE%D8%B4%DB%8C-%D8%A7%D8%B2-%D9%86%D8%A7%D9%88%DA%AF%D8%A7%D9%86-%D8%A2%D8%AA%D8%B4-%D9%86%D8%B4%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B0-%D8%B3%D8%A7%D9%84-%D9%85%DB%8C-%D8%B1%D8%B3%D8%AF",
+      "imageUrl": "https://cdn.isna.ir/d/off/golestan/2026/09/29/4/63994568.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > گلستان",
+      "publishedAt": "2026-09-29T06:08:59+00:00"
+    },
     {
       "id": "varzesh3-2432462",
       "title": "بسکتبال بابل بعد از 17 سال لیگ‌برتری شد!",
@@ -38,8 +51,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T17:46:34Z",
-      "views": "2.6K",
-      "comments": "3"
+      "views": "3.4K",
+      "comments": "4"
     },
     {
       "id": "varzesh3-2432446",
@@ -53,7 +66,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T16:24:07Z",
-      "views": "6.8K",
+      "views": "7.7K",
       "comments": "7"
     },
     {
@@ -68,7 +81,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T15:08:42Z",
-      "views": "15.3K",
+      "views": "16K",
       "comments": "62"
     },
     {
@@ -83,8 +96,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T15:02:03Z",
-      "views": "8.1K",
-      "comments": "7"
+      "views": "8.8K",
+      "comments": "8"
     },
     {
       "id": "varzesh3-2432278",
@@ -113,7 +126,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T03:15:00Z",
-      "views": "46K",
+      "views": "46.1K",
       "comments": "64"
     },
     {
@@ -147,19 +160,19 @@
       "comments": "7"
     },
     {
-      "id": "varzesh3-2432168",
-      "title": "‏رونمایی از کهکشان جدید گرگان در گروه مرگ آسیا!",
-      "summary": "‏شهرداری گرگان با هدایت مهران حاتمی و جذب ستاره‌هایی چون جردن استیونس، در گروه مرگ فینال ۸ سوپرلیگ غرب آسیا به مصاف ساجس لبنان می‌رود.",
-      "url": "https://www.varzesh3.com/news/2432168/رونمایی-از-کهکشان-جدید-گرگان-در-گروه-مرگ-آسیا",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/27/D/2v2w4lk1.webp",
+      "id": "varzesh3-2432151",
+      "title": "۷ تک‌تیرانداز تاریخ NBA با ۲۵۰۰ پرتاب سه امتیازی!",
+      "summary": "هفت بازیکن افسانه‌ای NBA ار مرز 2500 شوت سه امتیازی موفق عبور کردند، کاری که علاوه بر این عدد شگفت‌انگیز هرکدام با یک امضای منحصر به فرد آن را انجام می‌دهند.",
+      "url": "https://www.varzesh3.com/news/2432151/۷-تک-تیرانداز-تاریخ-nba-با-۲۵۰۰-پرتاب-سه-امتیازی",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/27/C/zxvg4h3k.webp",
       "source": "varzesh3",
       "sourceName": "ورزش سه",
       "sourceNameEn": "Varzesh3",
       "language": "fa",
       "category": "ورزشی",
-      "publishedAt": "2026-09-27T15:44:19Z",
-      "views": "8.6K",
-      "comments": "4"
+      "publishedAt": "2026-09-27T16:12:44Z",
+      "views": "6.1K",
+      "comments": "7"
     },
     {
       "id": "varzesh3-2432085",
@@ -368,21 +381,6 @@
       "publishedAt": "2026-09-24T20:01:49Z",
       "views": "20.1K",
       "comments": "12"
-    },
-    {
-      "id": "varzesh3-2431472",
-      "title": "‌‏محمد غفاری: فقط برای طلا می‌جنگیم!",
-      "summary": "بازیکن تیم ملی بسکتبال سه به سه ایران از اهمیت دو بازی مهم پیش رو برای کسب مدال طلا صحبت کرد.",
-      "url": "https://www.varzesh3.com/news/2431472/محمد-غفاری-فقط-برای-طلا-می-جنگیم",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/24/D/uonb1u2b.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-24T15:01:08Z",
-      "views": "11.3K",
-      "comments": "7"
     },
     {
       "id": "varzesh3-2431468",
@@ -818,21 +816,6 @@
       "publishedAt": "2026-09-21T09:37:08Z",
       "views": "4.7K",
       "comments": "7"
-    },
-    {
-      "id": "varzesh3-2430539",
-      "title": "داوری: بسکتبال سه به سه شانس مدال دارد",
-      "summary": "جواد داوری در گفتگویی درباره ورزش زنان و مسابقات سه به سه صحبت کرد و با ابراز امیدواری از پیشرفت در این زمینه‌ها توضیحاتی ارائه کرد.",
-      "url": "https://www.varzesh3.com/news/2430539/داوری-بسکتبال-سه-به-سه-شانس-مدال-دارد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/20/A/ddengttj.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-20T19:25:52Z",
-      "views": "3.9K",
-      "comments": "0"
     },
     {
       "id": "varzesh3-2430448",
