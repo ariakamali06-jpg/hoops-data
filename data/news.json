@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-29T18:14:09.097424+00:00",
+  "generatedAt": "2026-09-29T22:13:58.422043+00:00",
   "count": 75,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "source": "varzesh3",
@@ -21,23 +21,40 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -59,
+      "items": -58,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
     {
-      "id": "isna-e27d31aaa395",
-      "title": "نخستین پیروزی شهرداری گرگان در مرحله نهایی غرب آسیا",
-      "summary": "شهرداری گرگان، نماینده ایران در سوپرلیگ بسکتبال غرب آسیا، در دومین دیدار خود از مرحله هشت تیم نهایی با نتیجه ۸۵ بر ۷۶ برابر العربی قطر به پیروزی رسید.",
-      "url": "https://www.isna.ir/news/1405070704720/%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D8%AF%D8%B1-%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D9%86%D9%87%D8%A7%DB%8C%DB%8C-%D8%BA%D8%B1%D8%A8-%D8%A2%D8%B3%DB%8C%D8%A7",
-      "imageUrl": "https://cdn.isna.ir/d/2026/09/29/4/63995653.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
+      "id": "varzesh3-2432786",
+      "title": "حاتمی: بازیکنانم یک روح در چند بدن هستند!",
+      "summary": "سرمربی کهنه‌کار بسکتبال ایران با پیروزی مقابل تیم العربی قطر تیمش را به جدول مسابقات سوپرلیگ غرب آسیا بازگرداند.",
+      "url": "https://www.varzesh3.com/news/2432786/حاتمی-بازیکنانم-یک-روح-در-چند-بدن-هستند",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/30/A/3qabgggd.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
       "language": "fa",
-      "category": "ورزشی > توپ و تور",
-      "publishedAt": "2026-09-29T17:20:49+00:00"
+      "category": "ورزشی",
+      "publishedAt": "2026-09-29T21:44:17Z",
+      "views": "308",
+      "comments": "1"
+    },
+    {
+      "id": "varzesh3-2432774",
+      "title": "‏رفت و آمد لبران به تمرینات با هلیکوپتر دربست!",
+      "summary": "لبران جیمز، فوق‌ستاره دنیای بسکتبال، بار دیگر با سبک زندگی خاصش خبرساز شد.",
+      "url": "https://www.varzesh3.com/news/2432774/رفت-و-آمد-لبران-به-تمرینات-با-هلیکوپتر-دربست",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/30/A/pmvd2kc2.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-09-29T21:15:56Z",
+      "views": "1K",
+      "comments": "3"
     },
     {
       "id": "varzesh3-2432700",
@@ -51,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T16:57:43Z",
-      "views": "1.8K",
+      "views": "5.5K",
       "comments": "2"
     },
     {
@@ -66,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T08:53:22Z",
-      "views": "767",
+      "views": "867",
       "comments": "1"
     },
     {
@@ -96,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T16:24:07Z",
-      "views": "8.5K",
+      "views": "8.7K",
       "comments": "7"
     },
     {
@@ -111,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T15:08:42Z",
-      "views": "16.3K",
+      "views": "16.4K",
       "comments": "65"
     },
     {
@@ -126,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T15:02:03Z",
-      "views": "9.7K",
+      "views": "9.8K",
       "comments": "8"
     },
     {
@@ -190,21 +207,6 @@
       "comments": "7"
     },
     {
-      "id": "varzesh3-2432151",
-      "title": "۷ تک‌تیرانداز تاریخ NBA با ۲۵۰۰ پرتاب سه امتیازی!",
-      "summary": "هفت بازیکن افسانه‌ای NBA ار مرز 2500 شوت سه امتیازی موفق عبور کردند، کاری که علاوه بر این عدد شگفت‌انگیز هرکدام با یک امضای منحصر به فرد آن را انجام می‌دهند.",
-      "url": "https://www.varzesh3.com/news/2432151/۷-تک-تیرانداز-تاریخ-nba-با-۲۵۰۰-پرتاب-سه-امتیازی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/27/C/zxvg4h3k.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-27T16:12:44Z",
-      "views": "6.2K",
-      "comments": "7"
-    },
-    {
       "id": "varzesh3-2432168",
       "title": "‏رونمایی از کهکشان جدید گرگان در گروه مرگ آسیا!",
       "summary": "‏شهرداری گرگان با هدایت مهران حاتمی و جذب ستاره‌هایی چون جردن استیونس، در گروه مرگ فینال ۸ سوپرلیگ غرب آسیا به مصاف ساجس لبنان می‌رود.",
@@ -216,7 +218,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-27T15:44:19Z",
-      "views": "8.7K",
+      "views": "8.8K",
       "comments": "4"
     },
     {
@@ -351,7 +353,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-25T12:05:02Z",
-      "views": "15.1K",
+      "views": "15.2K",
       "comments": "11"
     },
     {
