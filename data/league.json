@@ -9,7 +9,7 @@
       "country": "IR",
       "flag": "🇮🇷",
       "priority": 1,
-      "updatedAt": "2026-09-29T06:13:32.551522+00:00",
+      "updatedAt": "2026-09-29T12:14:19.680502+00:00",
       "groups": [
         {
           "name": "لیگ برتر بسکتبال",
@@ -539,7 +539,7 @@
       "country": "US",
       "flag": "🏀",
       "priority": 2,
-      "updatedAt": "2026-09-29T06:13:35.899944+00:00",
+      "updatedAt": "2026-09-29T12:14:23.316473+00:00",
       "groups": [
         {
           "name": "کنفرانس شرق",
@@ -1645,7 +1645,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 3,
-      "updatedAt": "2026-09-29T06:13:41.050765+00:00",
+      "updatedAt": "2026-09-29T12:14:46.105874+00:00",
       "groups": [
         {
           "name": "لیگ غرب آسیا",
@@ -2144,7 +2144,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 4,
-      "updatedAt": "2026-09-29T06:13:44.998801+00:00",
+      "updatedAt": "2026-09-29T12:14:51.742591+00:00",
       "groups": [
         {
           "name": "گروهی ",
@@ -2489,7 +2489,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 5,
-      "updatedAt": "2026-09-29T06:13:47.692617+00:00",
+      "updatedAt": "2026-09-29T12:14:55.272239+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -3101,7 +3101,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 6,
-      "updatedAt": "2026-09-29T06:13:51.217873+00:00",
+      "updatedAt": "2026-09-29T12:15:31.626832+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4155,7 +4155,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 7,
-      "updatedAt": "2026-09-29T06:13:54.125817+00:00",
+      "updatedAt": "2026-09-29T12:16:02.005581+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4618,7 +4618,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 8,
-      "updatedAt": "2026-09-29T06:13:57.506382+00:00",
+      "updatedAt": "2026-09-29T12:16:26.520537+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -5677,7 +5677,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 9,
-      "updatedAt": "2026-09-29T06:13:59.197789+00:00",
+      "updatedAt": "2026-09-29T12:16:40.457197+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -5691,7 +5691,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 10,
-      "updatedAt": "2026-09-29T06:14:01.411417+00:00",
+      "updatedAt": "2026-09-29T12:16:43.382926+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -6154,7 +6154,7 @@
       "country": "EU",
       "flag": "🇪🇺",
       "priority": 11,
-      "updatedAt": "2026-09-29T06:14:03.521492+00:00",
+      "updatedAt": "2026-09-29T12:16:47.876133+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6168,7 +6168,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 12,
-      "updatedAt": "2026-09-29T06:14:05.108072+00:00",
+      "updatedAt": "2026-09-29T12:16:49.637169+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6182,7 +6182,7 @@
       "country": "US",
       "flag": "🏆",
       "priority": 13,
-      "updatedAt": "2026-09-29T06:14:06.770366+00:00",
+      "updatedAt": "2026-09-29T12:17:32.720248+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6196,7 +6196,7 @@
       "country": "WO",
       "flag": "🤝",
       "priority": 14,
-      "updatedAt": "2026-09-29T06:14:08.676281+00:00",
+      "updatedAt": "2026-09-29T12:17:37.856684+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -9180,6 +9180,70 @@
       "url": "https://www.varzesh3.com/basketball/match/180973/بازی-کویت-کلاب-راه-آهن-هند"
     },
     {
+      "id": 180974,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1405/07/07",
+      "dateIso": "2027-01-07",
+      "time": "18:15",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "العربی قطر",
+        "shortName": "العربی قطر",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dabmcerw.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "شهرداری گرگان",
+        "shortName": "گرگان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180974/بازی-العربی-قطر-شهرداری-گرگان"
+    },
+    {
+      "id": 180975,
+      "leagueId": "lg-205",
+      "leagueRef": 205,
+      "leagueName": "لیگ باشگاه‌های غرب آسیا",
+      "leagueNameEn": "West Asia Clubs League",
+      "leagueFlag": "🌏",
+      "date": "1405/07/07",
+      "dateIso": "2027-01-07",
+      "time": "21:15",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "ساجس بیروت",
+        "shortName": "ساجس بیروت",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/4hfdhsy0.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "العلا عربستان",
+        "shortName": "العلا عربستان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/annyfrnc.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180975/بازی-ساجس-بیروت-العلا-عربستان"
+    },
+    {
       "id": 180969,
       "leagueId": "lg-205",
       "leagueRef": 205,
@@ -11512,59 +11576,6 @@
       "url": "https://www.varzesh3.com/basketball/match/139824/بازی-نیوزیلند-گوام"
     },
     {
-      "id": 139826,
-      "leagueId": "lg-214",
-      "leagueRef": 214,
-      "leagueName": "انتخابی جام جهانی بسکتبال آسیا",
-      "leagueNameEn": "Asia World Cup Qualifier",
-      "leagueFlag": "🌏",
-      "date": "1405/04/15",
-      "dateIso": "2026-10-15",
-      "time": "14:00",
-      "status": 7,
-      "statusFa": "تمام‌شده",
-      "statusShort": "تمام",
-      "isLive": false,
-      "host": {
-        "id": 902759,
-        "name": "کره جنوبی",
-        "shortName": "کره جنوبی",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/klkccft4.png?w=144"
-      },
-      "guest": {
-        "id": 900979,
-        "name": "ژاپن",
-        "shortName": "ژاپن",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/codrgunh.png?w=144"
-      },
-      "hostScore": 81,
-      "guestScore": 79,
-      "quarters": [
-        {
-          "quarter": 1,
-          "host": 25,
-          "guest": 25
-        },
-        {
-          "quarter": 2,
-          "host": 10,
-          "guest": 12
-        },
-        {
-          "quarter": 3,
-          "host": 20,
-          "guest": 17
-        },
-        {
-          "quarter": 4,
-          "host": 26,
-          "guest": 25
-        }
-      ],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/139826/بازی-کره-جنوبی-ژاپن"
-    },
-    {
       "id": 139823,
       "leagueId": "lg-214",
       "leagueRef": 214,
@@ -11616,6 +11627,59 @@
       ],
       "winner": null,
       "url": "https://www.varzesh3.com/basketball/match/139823/بازی-استرالیا-فیلیپین"
+    },
+    {
+      "id": 139826,
+      "leagueId": "lg-214",
+      "leagueRef": 214,
+      "leagueName": "انتخابی جام جهانی بسکتبال آسیا",
+      "leagueNameEn": "Asia World Cup Qualifier",
+      "leagueFlag": "🌏",
+      "date": "1405/04/15",
+      "dateIso": "2026-10-15",
+      "time": "14:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 902759,
+        "name": "کره جنوبی",
+        "shortName": "کره جنوبی",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/klkccft4.png?w=144"
+      },
+      "guest": {
+        "id": 900979,
+        "name": "ژاپن",
+        "shortName": "ژاپن",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/codrgunh.png?w=144"
+      },
+      "hostScore": 81,
+      "guestScore": 79,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 25,
+          "guest": 25
+        },
+        {
+          "quarter": 2,
+          "host": 10,
+          "guest": 12
+        },
+        {
+          "quarter": 3,
+          "host": 20,
+          "guest": 17
+        },
+        {
+          "quarter": 4,
+          "host": 26,
+          "guest": 25
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/139826/بازی-کره-جنوبی-ژاپن"
     },
     {
       "id": 139822,
@@ -22653,10 +22717,10 @@
       "url": "https://www.varzesh3.com/basketball/match/26766/بازی-فرانسه-برزیل"
     }
   ],
-  "matchCount": 356,
+  "matchCount": 358,
   "teamCount": 162,
   "liveCount": 0,
   "staleDropped": 3,
   "version": 2,
-  "generatedAt": "2026-09-29T06:14:10.584585+00:00"
+  "generatedAt": "2026-09-29T12:17:39.428526+00:00"
 }
