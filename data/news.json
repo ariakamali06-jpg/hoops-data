@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-30T12:14:53.891691+00:00",
+  "generatedAt": "2026-09-30T18:12:41.423632+00:00",
   "count": 76,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "varzesh3",
@@ -21,11 +21,39 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -66,
+      "items": -67,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "isna-bf2bc87fa8ef",
+      "title": "آبادانی‌ها بدون سرمربی و ۸ بازیکن مقابل فولاد!",
+      "summary": "تیم فوتبال صنعت نفت آبادان در حالی در دربی خوزستان در چارچوب لیگ برتر امید کشور، بازی را به فولاد واگذار کرد که این تیم نتوانست از ۸ بازیکن خود استفاده کند.",
+      "url": "https://www.isna.ir/news/1405070805449/%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86%DB%8C-%D9%87%D8%A7-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D9%88-%DB%B8-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D9%81%D9%88%D9%84%D8%A7%D8%AF",
+      "imageUrl": "https://cdn.isna.ir/d/2018/01/08/4/57619012.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > خوزستان",
+      "publishedAt": "2026-09-30T17:09:01+00:00"
+    },
+    {
+      "id": "varzesh3-2432965",
+      "title": "دو مهره استقلال برای فصل جدید ماندنی شدند",
+      "summary": "حسین مکاریان و نوید خواجه‌زاده با تمدید قراردادهای خود، در فصل جدید لیگ برتر بسکتبال نیز پیراهن استقلال را بر تن خواهند کرد.",
+      "url": "https://www.varzesh3.com/news/2432965/دو-مهره-استقلال-برای-فصل-جدید-ماندنی-شدند",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/30/D/c5lybvol.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-09-30T17:06:19Z",
+      "views": "3.9K",
+      "comments": "6"
+    },
     {
       "id": "varzesh3-2432866",
       "title": "غرامت سنگین ذوب‌آهن به بازیکن لیگ یکی",
@@ -38,8 +66,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-30T07:52:23Z",
-      "views": "7.6K",
-      "comments": "4"
+      "views": "9.1K",
+      "comments": "8"
     },
     {
       "id": "varzesh3-2432786",
@@ -53,7 +81,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T21:44:17Z",
-      "views": "2.6K",
+      "views": "2.7K",
       "comments": "2"
     },
     {
@@ -68,7 +96,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T21:15:56Z",
-      "views": "7.7K",
+      "views": "8.5K",
       "comments": "7"
     },
     {
@@ -83,7 +111,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T16:57:43Z",
-      "views": "7.1K",
+      "views": "7.6K",
       "comments": "5"
     },
     {
@@ -98,7 +126,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T08:53:22Z",
-      "views": "912",
+      "views": "986",
       "comments": "1"
     },
     {
@@ -128,7 +156,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T16:24:07Z",
-      "views": "9K",
+      "views": "9.1K",
       "comments": "8"
     },
     {
@@ -158,7 +186,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T15:02:03Z",
-      "views": "10K",
+      "views": "10.1K",
       "comments": "8"
     },
     {
@@ -278,7 +306,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-26T14:39:20Z",
-      "views": "12.8K",
+      "views": "12.9K",
       "comments": "13"
     },
     {
@@ -413,7 +441,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-25T06:05:32Z",
-      "views": "18.2K",
+      "views": "18.3K",
       "comments": "28"
     },
     {
@@ -700,21 +728,6 @@
       "comments": "13"
     },
     {
-      "id": "varzesh3-2431013",
-      "title": "‏سرمایه‌گذاری سنگین کشورهای عربی با ستاره‌های NBA",
-      "summary": "پس از قطر، فدراسیون بسکتبال بحرین هم استعدادهای شاخص رده سنی زیر ۱۸ سال خود را به کمپ بین‌المللی آکادمی NBA در ابوظبی اعزام کرد.",
-      "url": "https://www.varzesh3.com/news/2431013/سرمایه-گذاری-سنگین-کشورهای-عربی-با-ستاره-های-nba",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/23/A/0lc0mfzv.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-22T21:22:26Z",
-      "views": "4.9K",
-      "comments": "7"
-    },
-    {
       "id": "varzesh3-2430930",
       "title": "خدامرادی ادامه بازی‌های آسیایی را از دست داد",
       "summary": "فرناز خدامرادی، بازیکن تیم ملی بسکتبال سه‌نفره بانوان ایران، به دلیل مصدومیت قادر به ادامه رقابت‌های بازی‌های آسیایی آیچی-ناگویا ۲۰۲۶ نخواهد بود.",
@@ -818,21 +831,6 @@
       "publishedAt": "2026-09-22T06:51:32Z",
       "views": "3.5K",
       "comments": "0"
-    },
-    {
-      "id": "varzesh3-2430811",
-      "title": "تیم ملی بسکتبال با مدال به ایران بازگشت",
-      "summary": "تیم ملی بسکتبال ایران بعد از کسب مدال برنز وارد ایران شد.",
-      "url": "https://www.varzesh3.com/news/2430811/تیم-ملی-بسکتبال-با-مدال-به-ایران-بازگشت",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/22/B/o4yv2wwz.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-22T04:50:04Z",
-      "views": "5.9K",
-      "comments": "3"
     },
     {
       "id": "varzesh3-2430810",

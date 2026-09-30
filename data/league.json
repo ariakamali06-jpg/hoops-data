@@ -9,7 +9,7 @@
       "country": "IR",
       "flag": "🇮🇷",
       "priority": 1,
-      "updatedAt": "2026-09-30T12:14:54.785369+00:00",
+      "updatedAt": "2026-09-30T18:12:42.658865+00:00",
       "groups": [
         {
           "name": "لیگ برتر بسکتبال",
@@ -539,7 +539,7 @@
       "country": "US",
       "flag": "🏀",
       "priority": 2,
-      "updatedAt": "2026-09-30T12:14:57.247139+00:00",
+      "updatedAt": "2026-09-30T18:12:44.996602+00:00",
       "groups": [
         {
           "name": "کنفرانس شرق",
@@ -1645,7 +1645,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 3,
-      "updatedAt": "2026-09-30T12:15:00.242998+00:00",
+      "updatedAt": "2026-09-30T18:12:48.117045+00:00",
       "groups": [
         {
           "name": "لیگ غرب آسیا",
@@ -1748,6 +1748,24 @@
             {
               "rank": 1,
               "manualRank": 0,
+              "teamId": 923071,
+              "name": "کویت کلاب",
+              "shortName": "کویت کلاب",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/41zqcjst.png?w=144",
+              "played": 3,
+              "won": 2,
+              "lost": 1,
+              "pointsFor": 293,
+              "pointsAgainst": 281,
+              "diff": 12,
+              "points": 5,
+              "pointsDeducted": 0,
+              "winRate": 0.667,
+              "form": null
+            },
+            {
+              "rank": 2,
+              "manualRank": 0,
               "teamId": 902995,
               "name": "الریاضی لبنان",
               "shortName": "الریاضی لبنان",
@@ -1764,25 +1782,25 @@
               "form": null
             },
             {
-              "rank": 2,
+              "rank": 3,
               "manualRank": 0,
-              "teamId": 923071,
-              "name": "کویت کلاب",
-              "shortName": "کویت کلاب",
-              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/41zqcjst.png?w=144",
+              "teamId": 923072,
+              "name": "راه آهن هند",
+              "shortName": "راه آهن هند",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1on4rjel.png?w=144",
               "played": 2,
-              "won": 1,
-              "lost": 1,
-              "pointsFor": 187,
-              "pointsAgainst": 180,
-              "diff": 7,
-              "points": 3,
+              "won": 0,
+              "lost": 2,
+              "pointsFor": 182,
+              "pointsAgainst": 210,
+              "diff": -28,
+              "points": 2,
               "pointsDeducted": 0,
-              "winRate": 0.5,
+              "winRate": 0,
               "form": null
             },
             {
-              "rank": 3,
+              "rank": 4,
               "manualRank": 0,
               "teamId": 903052,
               "name": "الاتحاد عربستان",
@@ -1794,24 +1812,6 @@
               "pointsFor": 97,
               "pointsAgainst": 105,
               "diff": -8,
-              "points": 1,
-              "pointsDeducted": 0,
-              "winRate": 0,
-              "form": null
-            },
-            {
-              "rank": 4,
-              "manualRank": 0,
-              "teamId": 923072,
-              "name": "راه آهن هند",
-              "shortName": "راه آهن هند",
-              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1on4rjel.png?w=144",
-              "played": 1,
-              "won": 0,
-              "lost": 1,
-              "pointsFor": 81,
-              "pointsAgainst": 104,
-              "diff": -23,
               "points": 1,
               "pointsDeducted": 0,
               "winRate": 0,
@@ -1992,6 +1992,24 @@
         {
           "rank": 1,
           "manualRank": 0,
+          "teamId": 923071,
+          "name": "کویت کلاب",
+          "shortName": "کویت کلاب",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/41zqcjst.png?w=144",
+          "played": 3,
+          "won": 2,
+          "lost": 1,
+          "pointsFor": 293,
+          "pointsAgainst": 281,
+          "diff": 12,
+          "points": 5,
+          "pointsDeducted": 0,
+          "winRate": 0.667,
+          "form": null
+        },
+        {
+          "rank": 2,
+          "manualRank": 0,
           "teamId": 902995,
           "name": "الریاضی لبنان",
           "shortName": "الریاضی لبنان",
@@ -2008,25 +2026,25 @@
           "form": null
         },
         {
-          "rank": 2,
+          "rank": 3,
           "manualRank": 0,
-          "teamId": 923071,
-          "name": "کویت کلاب",
-          "shortName": "کویت کلاب",
-          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/41zqcjst.png?w=144",
+          "teamId": 923072,
+          "name": "راه آهن هند",
+          "shortName": "راه آهن هند",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1on4rjel.png?w=144",
           "played": 2,
-          "won": 1,
-          "lost": 1,
-          "pointsFor": 187,
-          "pointsAgainst": 180,
-          "diff": 7,
-          "points": 3,
+          "won": 0,
+          "lost": 2,
+          "pointsFor": 182,
+          "pointsAgainst": 210,
+          "diff": -28,
+          "points": 2,
           "pointsDeducted": 0,
-          "winRate": 0.5,
+          "winRate": 0,
           "form": null
         },
         {
-          "rank": 3,
+          "rank": 4,
           "manualRank": 0,
           "teamId": 903052,
           "name": "الاتحاد عربستان",
@@ -2038,24 +2056,6 @@
           "pointsFor": 97,
           "pointsAgainst": 105,
           "diff": -8,
-          "points": 1,
-          "pointsDeducted": 0,
-          "winRate": 0,
-          "form": null
-        },
-        {
-          "rank": 4,
-          "manualRank": 0,
-          "teamId": 923072,
-          "name": "راه آهن هند",
-          "shortName": "راه آهن هند",
-          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1on4rjel.png?w=144",
-          "played": 1,
-          "won": 0,
-          "lost": 1,
-          "pointsFor": 81,
-          "pointsAgainst": 104,
-          "diff": -23,
           "points": 1,
           "pointsDeducted": 0,
           "winRate": 0,
@@ -2144,7 +2144,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 4,
-      "updatedAt": "2026-09-30T12:15:10.529804+00:00",
+      "updatedAt": "2026-09-30T18:12:51.491346+00:00",
       "groups": [
         {
           "name": "گروهی ",
@@ -2489,7 +2489,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 5,
-      "updatedAt": "2026-09-30T12:15:14.558542+00:00",
+      "updatedAt": "2026-09-30T18:12:53.759616+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -3101,7 +3101,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 6,
-      "updatedAt": "2026-09-30T12:15:18.133657+00:00",
+      "updatedAt": "2026-09-30T18:12:56.300732+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4155,7 +4155,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 7,
-      "updatedAt": "2026-09-30T12:15:22.273640+00:00",
+      "updatedAt": "2026-09-30T18:12:59.710768+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4618,7 +4618,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 8,
-      "updatedAt": "2026-09-30T12:15:26.757131+00:00",
+      "updatedAt": "2026-09-30T18:13:02.026923+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -5677,7 +5677,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 9,
-      "updatedAt": "2026-09-30T12:15:30.847991+00:00",
+      "updatedAt": "2026-09-30T18:13:03.733786+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -5691,7 +5691,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 10,
-      "updatedAt": "2026-09-30T12:15:33.772668+00:00",
+      "updatedAt": "2026-09-30T18:13:06.248343+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -6154,7 +6154,7 @@
       "country": "EU",
       "flag": "🇪🇺",
       "priority": 11,
-      "updatedAt": "2026-09-30T12:15:36.633616+00:00",
+      "updatedAt": "2026-09-30T18:13:07.909219+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6168,7 +6168,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 12,
-      "updatedAt": "2026-09-30T12:15:38.565628+00:00",
+      "updatedAt": "2026-09-30T18:13:09.951657+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6182,7 +6182,7 @@
       "country": "US",
       "flag": "🏆",
       "priority": 13,
-      "updatedAt": "2026-09-30T12:15:41.070184+00:00",
+      "updatedAt": "2026-09-30T18:13:12.993603+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6196,7 +6196,7 @@
       "country": "WO",
       "flag": "🤝",
       "priority": 14,
-      "updatedAt": "2026-09-30T12:15:43.905152+00:00",
+      "updatedAt": "2026-09-30T18:13:14.635417+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -9221,25 +9221,46 @@
       "date": "1405/07/08",
       "dateIso": "2027-01-08",
       "time": "18:15",
-      "status": 1,
-      "statusFa": "برنامه‌ریزی‌شده",
-      "statusShort": "برنامه",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
       "isLive": false,
       "host": {
-        "id": 0,
+        "id": 923071,
         "name": "کویت کلاب",
         "shortName": "کویت کلاب",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/41zqcjst.png?w=144"
       },
       "guest": {
-        "id": 0,
+        "id": 923072,
         "name": "راه آهن هند",
         "shortName": "راه آهن هند",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1on4rjel.png?w=144"
       },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
+      "hostScore": 106,
+      "guestScore": 101,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 27,
+          "guest": 17
+        },
+        {
+          "quarter": 2,
+          "host": 29,
+          "guest": 21
+        },
+        {
+          "quarter": 3,
+          "host": 24,
+          "guest": 32
+        },
+        {
+          "quarter": 4,
+          "host": 26,
+          "guest": 31
+        }
+      ],
       "winner": null,
       "url": "https://www.varzesh3.com/basketball/match/180973/بازی-کویت-کلاب-راه-آهن-هند"
     },
@@ -22828,5 +22849,5 @@
   "liveCount": 0,
   "staleDropped": 3,
   "version": 2,
-  "generatedAt": "2026-09-30T12:15:44.686370+00:00"
+  "generatedAt": "2026-09-30T18:13:15.832238+00:00"
 }
