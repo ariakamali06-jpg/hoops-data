@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-30T00:15:14.943404+00:00",
-  "count": 75,
+  "generatedAt": "2026-09-30T06:13:44.323114+00:00",
+  "count": 76,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 116
+      "items": 122
     },
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -58,
+      "items": -63,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,7 +38,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T21:44:17Z",
-      "views": "816",
+      "views": "2.1K",
       "comments": "2"
     },
     {
@@ -53,8 +53,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T21:15:56Z",
-      "views": "2.1K",
-      "comments": "4"
+      "views": "6.4K",
+      "comments": "7"
     },
     {
       "id": "varzesh3-2432700",
@@ -68,8 +68,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T16:57:43Z",
-      "views": "5.7K",
-      "comments": "2"
+      "views": "6.4K",
+      "comments": "4"
     },
     {
       "id": "varzesh3-2432593",
@@ -113,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T16:24:07Z",
-      "views": "8.8K",
+      "views": "8.9K",
       "comments": "7"
     },
     {
@@ -128,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T15:08:42Z",
-      "views": "16.4K",
+      "views": "16.5K",
       "comments": "65"
     },
     {
@@ -143,8 +143,23 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T15:02:03Z",
-      "views": "9.8K",
+      "views": "9.9K",
       "comments": "8"
+    },
+    {
+      "id": "varzesh3-2432398",
+      "title": "گارد سابق NBA در آستانه پیوستن به استقلال",
+      "summary": "دوایت باکس، گارد باتجربه آمریکایی، برای پشت سر گذاشتن تست‌های پزشکی و انجام مذاکرات نهایی با استقلال وارد تهران شد.",
+      "url": "https://www.varzesh3.com/news/2432398/گارد-سابق-nba-در-آستانه-پیوستن-به-استقلال",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/28/C/1av0qskc.jpg",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-09-28T11:54:44Z",
+      "views": "6.3K",
+      "comments": "10"
     },
     {
       "id": "varzesh3-2432278",
@@ -233,7 +248,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-27T10:36:26Z",
-      "views": "9.8K",
+      "views": "9.9K",
       "comments": "10"
     },
     {
