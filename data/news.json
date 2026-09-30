@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-30T06:13:44.323114+00:00",
+  "generatedAt": "2026-09-30T12:14:53.891691+00:00",
   "count": 76,
   "sources": [
     {
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 122
+      "items": 125
     },
     {
       "source": "bbc",
@@ -21,11 +21,26 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -63,
+      "items": -66,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2432866",
+      "title": "غرامت سنگین ذوب‌آهن به بازیکن لیگ یکی",
+      "summary": "باشگاه ذوب آهن اصفهان در پرونده شکایت بازیکن سابق این تیم محکوم شد.",
+      "url": "https://www.varzesh3.com/news/2432866/غرامت-سنگین-ذوب-آهن-به-بازیکن-لیگ-یکی",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2025/08/20/C/fod0czhp.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-09-30T07:52:23Z",
+      "views": "7.6K",
+      "comments": "4"
+    },
     {
       "id": "varzesh3-2432786",
       "title": "حاتمی: بازیکنانم یک روح در چند بدن هستند!",
@@ -38,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T21:44:17Z",
-      "views": "2.1K",
+      "views": "2.6K",
       "comments": "2"
     },
     {
@@ -53,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T21:15:56Z",
-      "views": "6.4K",
+      "views": "7.7K",
       "comments": "7"
     },
     {
@@ -68,8 +83,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T16:57:43Z",
-      "views": "6.4K",
-      "comments": "4"
+      "views": "7.1K",
+      "comments": "5"
     },
     {
       "id": "varzesh3-2432593",
@@ -83,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T08:53:22Z",
-      "views": "878",
+      "views": "912",
       "comments": "1"
     },
     {
@@ -98,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T17:46:34Z",
-      "views": "3.8K",
+      "views": "3.9K",
       "comments": "4"
     },
     {
@@ -113,8 +128,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T16:24:07Z",
-      "views": "8.9K",
-      "comments": "7"
+      "views": "9K",
+      "comments": "8"
     },
     {
       "id": "varzesh3-2432434",
@@ -128,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T15:08:42Z",
-      "views": "16.5K",
+      "views": "16.6K",
       "comments": "65"
     },
     {
@@ -143,23 +158,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T15:02:03Z",
-      "views": "9.9K",
+      "views": "10K",
       "comments": "8"
-    },
-    {
-      "id": "varzesh3-2432398",
-      "title": "گارد سابق NBA در آستانه پیوستن به استقلال",
-      "summary": "دوایت باکس، گارد باتجربه آمریکایی، برای پشت سر گذاشتن تست‌های پزشکی و انجام مذاکرات نهایی با استقلال وارد تهران شد.",
-      "url": "https://www.varzesh3.com/news/2432398/گارد-سابق-nba-در-آستانه-پیوستن-به-استقلال",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/28/C/1av0qskc.jpg",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-28T11:54:44Z",
-      "views": "6.3K",
-      "comments": "10"
     },
     {
       "id": "varzesh3-2432278",
@@ -651,7 +651,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-23T11:15:08Z",
-      "views": "18.8K",
+      "views": "18.9K",
       "comments": "44"
     },
     {

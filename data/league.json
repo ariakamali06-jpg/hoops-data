@@ -9,7 +9,7 @@
       "country": "IR",
       "flag": "🇮🇷",
       "priority": 1,
-      "updatedAt": "2026-09-30T06:13:46.044805+00:00",
+      "updatedAt": "2026-09-30T12:14:54.785369+00:00",
       "groups": [
         {
           "name": "لیگ برتر بسکتبال",
@@ -539,7 +539,7 @@
       "country": "US",
       "flag": "🏀",
       "priority": 2,
-      "updatedAt": "2026-09-30T06:13:48.639751+00:00",
+      "updatedAt": "2026-09-30T12:14:57.247139+00:00",
       "groups": [
         {
           "name": "کنفرانس شرق",
@@ -1645,7 +1645,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 3,
-      "updatedAt": "2026-09-30T06:13:52.152050+00:00",
+      "updatedAt": "2026-09-30T12:15:00.242998+00:00",
       "groups": [
         {
           "name": "لیگ غرب آسیا",
@@ -2144,7 +2144,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 4,
-      "updatedAt": "2026-09-30T06:13:54.360703+00:00",
+      "updatedAt": "2026-09-30T12:15:10.529804+00:00",
       "groups": [
         {
           "name": "گروهی ",
@@ -2489,7 +2489,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 5,
-      "updatedAt": "2026-09-30T06:13:57.042248+00:00",
+      "updatedAt": "2026-09-30T12:15:14.558542+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -3101,7 +3101,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 6,
-      "updatedAt": "2026-09-30T06:14:02.033009+00:00",
+      "updatedAt": "2026-09-30T12:15:18.133657+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4155,7 +4155,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 7,
-      "updatedAt": "2026-09-30T06:14:05.279619+00:00",
+      "updatedAt": "2026-09-30T12:15:22.273640+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4618,7 +4618,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 8,
-      "updatedAt": "2026-09-30T06:14:07.905388+00:00",
+      "updatedAt": "2026-09-30T12:15:26.757131+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -5677,7 +5677,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 9,
-      "updatedAt": "2026-09-30T06:14:09.706041+00:00",
+      "updatedAt": "2026-09-30T12:15:30.847991+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -5691,7 +5691,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 10,
-      "updatedAt": "2026-09-30T06:14:12.638247+00:00",
+      "updatedAt": "2026-09-30T12:15:33.772668+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -6154,7 +6154,7 @@
       "country": "EU",
       "flag": "🇪🇺",
       "priority": 11,
-      "updatedAt": "2026-09-30T06:14:16.520505+00:00",
+      "updatedAt": "2026-09-30T12:15:36.633616+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6168,7 +6168,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 12,
-      "updatedAt": "2026-09-30T06:14:18.021337+00:00",
+      "updatedAt": "2026-09-30T12:15:38.565628+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6182,7 +6182,7 @@
       "country": "US",
       "flag": "🏆",
       "priority": 13,
-      "updatedAt": "2026-09-30T06:14:19.810578+00:00",
+      "updatedAt": "2026-09-30T12:15:41.070184+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6196,7 +6196,7 @@
       "country": "WO",
       "flag": "🤝",
       "priority": 14,
-      "updatedAt": "2026-09-30T06:14:21.602959+00:00",
+      "updatedAt": "2026-09-30T12:15:43.905152+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -7804,38 +7804,6 @@
       "url": "https://www.varzesh3.com/basketball/match/180042/بازی-بروکلین-نتس-ایندیانا-پیسرز"
     },
     {
-      "id": 180043,
-      "leagueId": "lg-209",
-      "leagueRef": 209,
-      "leagueName": "NBA",
-      "leagueNameEn": "NBA",
-      "leagueFlag": "🏀",
-      "date": "1405/08/04",
-      "dateIso": "2027-02-04",
-      "time": "02:30",
-      "status": 1,
-      "statusFa": "برنامه‌ریزی‌شده",
-      "statusShort": "برنامه",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "مینه سوتا تیمبرولوز",
-        "shortName": "مینه سوتا تیمبرولوز",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/tnkjgu5f.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "تورنتو رپترز",
-        "shortName": "تورنتو رپترز",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ltpmlnwx.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180043/بازی-مینه-سوتا-تیمبرولوز-تورنتو-رپترز"
-    },
-    {
       "id": 180044,
       "leagueId": "lg-209",
       "leagueRef": 209,
@@ -7866,6 +7834,38 @@
       "quarters": [],
       "winner": null,
       "url": "https://www.varzesh3.com/basketball/match/180044/بازی-نیویورک-نیکس-اورلاندو-مجیک"
+    },
+    {
+      "id": 180043,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/04",
+      "dateIso": "2027-02-04",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "مینه سوتا تیمبرولوز",
+        "shortName": "مینه سوتا تیمبرولوز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/tnkjgu5f.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "تورنتو رپترز",
+        "shortName": "تورنتو رپترز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ltpmlnwx.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180043/بازی-مینه-سوتا-تیمبرولوز-تورنتو-رپترز"
     },
     {
       "id": 180045,
@@ -11682,59 +11682,6 @@
       "url": "https://www.varzesh3.com/basketball/match/139824/بازی-نیوزیلند-گوام"
     },
     {
-      "id": 139823,
-      "leagueId": "lg-214",
-      "leagueRef": 214,
-      "leagueName": "انتخابی جام جهانی بسکتبال آسیا",
-      "leagueNameEn": "Asia World Cup Qualifier",
-      "leagueFlag": "🌏",
-      "date": "1405/04/15",
-      "dateIso": "2026-10-15",
-      "time": "14:00",
-      "status": 7,
-      "statusFa": "تمام‌شده",
-      "statusShort": "تمام",
-      "isLive": false,
-      "host": {
-        "id": 902653,
-        "name": "استرالیا",
-        "shortName": "استرالیا",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/3ffp3g5d.png?w=144"
-      },
-      "guest": {
-        "id": 900982,
-        "name": "فیلیپین",
-        "shortName": "فیلیپین",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/rtn4mzcu.png?w=144"
-      },
-      "hostScore": 92,
-      "guestScore": 49,
-      "quarters": [
-        {
-          "quarter": 1,
-          "host": 33,
-          "guest": 14
-        },
-        {
-          "quarter": 2,
-          "host": 8,
-          "guest": 13
-        },
-        {
-          "quarter": 3,
-          "host": 22,
-          "guest": 10
-        },
-        {
-          "quarter": 4,
-          "host": 29,
-          "guest": 12
-        }
-      ],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/139823/بازی-استرالیا-فیلیپین"
-    },
-    {
       "id": 139826,
       "leagueId": "lg-214",
       "leagueRef": 214,
@@ -11786,6 +11733,59 @@
       ],
       "winner": null,
       "url": "https://www.varzesh3.com/basketball/match/139826/بازی-کره-جنوبی-ژاپن"
+    },
+    {
+      "id": 139823,
+      "leagueId": "lg-214",
+      "leagueRef": 214,
+      "leagueName": "انتخابی جام جهانی بسکتبال آسیا",
+      "leagueNameEn": "Asia World Cup Qualifier",
+      "leagueFlag": "🌏",
+      "date": "1405/04/15",
+      "dateIso": "2026-10-15",
+      "time": "14:00",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
+      "isLive": false,
+      "host": {
+        "id": 902653,
+        "name": "استرالیا",
+        "shortName": "استرالیا",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/3ffp3g5d.png?w=144"
+      },
+      "guest": {
+        "id": 900982,
+        "name": "فیلیپین",
+        "shortName": "فیلیپین",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/rtn4mzcu.png?w=144"
+      },
+      "hostScore": 92,
+      "guestScore": 49,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 33,
+          "guest": 14
+        },
+        {
+          "quarter": 2,
+          "host": 8,
+          "guest": 13
+        },
+        {
+          "quarter": 3,
+          "host": 22,
+          "guest": 10
+        },
+        {
+          "quarter": 4,
+          "host": 29,
+          "guest": 12
+        }
+      ],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/139823/بازی-استرالیا-فیلیپین"
     },
     {
       "id": 139822,
@@ -22828,5 +22828,5 @@
   "liveCount": 0,
   "staleDropped": 3,
   "version": 2,
-  "generatedAt": "2026-09-30T06:14:24.592383+00:00"
+  "generatedAt": "2026-09-30T12:15:44.686370+00:00"
 }
