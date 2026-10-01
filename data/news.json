@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-01T06:15:35.767404+00:00",
-  "count": 77,
+  "generatedAt": "2026-10-01T12:15:37.130775+00:00",
+  "count": 76,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 134
+      "items": 127
     },
     {
       "source": "bbc",
@@ -21,11 +21,69 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -74,
+      "items": -68,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2433100",
+      "title": "برنامه ویژه آبادان: دوئل با کاله و چهارجانبه تهران!",
+      "summary": "تیم بسکتبال پالایش آبادان برنامه ویژه‌ای را برای پیش فصل در نظر گرفته است.",
+      "url": "https://www.varzesh3.com/news/2433100/برنامه-ویژه-آبادان-دوئل-با-کاله-و-چهارجانبه-تهران",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/01/C/2nwjgcbh.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-01T09:41:55Z",
+      "views": "817",
+      "comments": "1"
+    },
+    {
+      "id": "bbc-cb41315eced4",
+      "title": "Jordan 'Last Dance' jersey sells for £9m",
+      "summary": "A Michael Jordan jersey from his 'Last Dance' season sells for $12.3m, a record for a piece of Jordan memorabilia.",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/cx5yly6p2nyvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9807/live/276c3d20-bd59-11f1-aca8-694fa68533ef.jpg",
+      "source": "bbc",
+      "sourceName": "بی‌بی‌سی ورزشی",
+      "sourceNameEn": "BBC Sport",
+      "language": "en",
+      "category": "Basketball",
+      "publishedAt": "2026-10-01T09:36:13+00:00"
+    },
+    {
+      "id": "varzesh3-2433088",
+      "title": "بازی مرگ و زندگی گرگان برای رسیدن به نیمه‌نهایی!",
+      "summary": "شهرداری گرگان امروز مقابل تیم العلا عربستان قرار می‌گیرد و برنده این مسابقه به مرحله نیمه نهایی مسابقات سوپرلیگ غرب آسیا خواهد رفت.",
+      "url": "https://www.varzesh3.com/news/2433088/بازی-مرگ-و-زندگی-گرگان-برای-رسیدن-به-نیمه-نهایی",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/01/B/43ysnlzr.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-01T09:01:53Z",
+      "views": "2.5K",
+      "comments": "2"
+    },
+    {
+      "id": "varzesh3-2433075",
+      "title": "اسلامشهر از رئال مادرید بازیکن گرفت!",
+      "summary": "ویکتور آرتیاگا اسپانیایی در فصل جدید لیگ برتر بسکتبال با پیراهن طبیعت به پارکت خواهد رفت.",
+      "url": "https://www.varzesh3.com/news/2433075/اسلامشهر-از-رئال-مادرید-بازیکن-گرفت",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/01/B/er5g0icz.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-01T08:33:40Z",
+      "views": "5.8K",
+      "comments": "12"
+    },
     {
       "id": "varzesh3-2432965",
       "title": "دو مهره استقلال برای فصل جدید ماندنی شدند",
@@ -38,7 +96,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-30T17:06:19Z",
-      "views": "13.4K",
+      "views": "16.8K",
       "comments": "6"
     },
     {
@@ -55,21 +113,6 @@
       "publishedAt": "2026-09-30T07:52:23Z",
       "views": "9.6K",
       "comments": "10"
-    },
-    {
-      "id": "varzesh3-2432856",
-      "title": "دبل‌دبل سجاد برای شکست تیم پرستاره قطری!",
-      "summary": "در شب پیروزی حساس شهرداری گرگان مقابل العربي قطر در سوپرلیگ غرب آسیا، یک نام بیش از همه توی چشم آمد؛ سجاد پذیرفته!",
-      "url": "https://www.varzesh3.com/news/2432856/دبل-دبل-سجاد-برای-شکست-تیم-پرستاره-قطری",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/30/B/3omzt4ay.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-30T06:51:27Z",
-      "views": "16.1K",
-      "comments": "4"
     },
     {
       "id": "varzesh3-2432786",
@@ -98,7 +141,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T21:15:56Z",
-      "views": "9.3K",
+      "views": "9.8K",
       "comments": "7"
     },
     {
@@ -113,23 +156,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T16:57:43Z",
-      "views": "8K",
+      "views": "8.2K",
       "comments": "5"
-    },
-    {
-      "id": "varzesh3-2432598",
-      "title": "جدال حساس شهرداری گرگان و العربی در زوک میکائیل",
-      "summary": "تیم شهرداری گرگان عصر امروز در دومین بازی سوپرلیگ غرب آسیا مقابل حریف قطری قرار خواهد گرفت.",
-      "url": "https://www.varzesh3.com/news/2432598/جدال-حساس-شهرداری-گرگان-و-العربی-در-زوک-میکائیل",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/29/B/bsrzinco.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-29T09:23:41Z",
-      "views": "2.1K",
-      "comments": "6"
     },
     {
       "id": "varzesh3-2432593",
@@ -143,7 +171,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T08:53:22Z",
-      "views": "986",
+      "views": "994",
       "comments": "1"
     },
     {
@@ -531,7 +559,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-24T13:25:54Z",
-      "views": "52K",
+      "views": "52.1K",
       "comments": "71"
     },
     {
@@ -760,21 +788,6 @@
       "comments": "7"
     },
     {
-      "id": "varzesh3-2430914",
-      "title": "ایلیاوی: ‏بسکتبال ایران از بازیکن تا رئیس جوان است",
-      "summary": "امیر ایلیاوی پیشکسوت بسکتبال ایران در گفتگویی از عملکرد ملی‌پوشان و رویکرد بسکتبال ایران در سال‌های اخیر تمجید کرد.",
-      "url": "https://www.varzesh3.com/news/2430914/ایلیاوی-بسکتبال-ایران-از-بازیکن-تا-رئیس-جوان-است",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/22/C/zljaaptw.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-22T12:15:36Z",
-      "views": "9.7K",
-      "comments": "0"
-    },
-    {
       "id": "varzesh3-2430873",
       "title": "مصدومیت نگران‌کننده ستاره بسکتبال دختران ایران",
       "summary": "فرناز خدامرادی، بازیکن تیم ملی بسکتبال سه‌نفره زنان ایران، در جریان دیدار برابر ژاپن در بازی‌های آسیایی آیچی-ناگویا ۲۰۲۶ از ناحیه زانو دچار مصدومیت شد.",
@@ -908,21 +921,6 @@
       "publishedAt": "2026-09-21T09:37:08Z",
       "views": "4.7K",
       "comments": "7"
-    },
-    {
-      "id": "varzesh3-2430448",
-      "title": "زمان شروع لیگ برتر بسکتبال مشخص شد",
-      "summary": "سازمان لیگ بسکتبال نشست هماهنگی فصل جدید رقابت های لیگ برتر باشگاه های کشور در سال جاری را برگزار کرد.",
-      "url": "https://www.varzesh3.com/news/2430448/زمان-شروع-لیگ-برتر-بسکتبال-مشخص-شد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/20/C/effnrziz.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-20T12:22:31Z",
-      "views": "2.3K",
-      "comments": "4"
     },
     {
       "id": "bbc-da611dd70844",
@@ -1068,19 +1066,6 @@
       "language": "en",
       "category": "Basketball",
       "publishedAt": "2026-08-18T13:39:42+00:00"
-    },
-    {
-      "id": "bbc-f9f50fd6ef7a",
-      "title": "Done in a weekend - the $12.5bn LA Lakers sale that shocked the NBA",
-      "summary": "The Los Angeles Lakers' record $12.5bn (£9.3bn) sale was agreed in the space of a weekend, leaving the NBA world and fans in shock.",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/crrvprlvq7eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52c1/live/e8137120-9742-11f1-bdf7-47bb0c1615d1.jpg",
-      "source": "bbc",
-      "sourceName": "بی‌بی‌سی ورزشی",
-      "sourceNameEn": "BBC Sport",
-      "language": "en",
-      "category": "Basketball",
-      "publishedAt": "2026-08-13T20:00:33+00:00"
     },
     {
       "id": "bbc-fc2459776751",
