@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-01T12:15:37.130775+00:00",
+  "generatedAt": "2026-10-01T18:14:45.800374+00:00",
   "count": 76,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 127
+      "items": 128
     },
     {
       "source": "bbc",
@@ -21,11 +21,39 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -68,
+      "items": -70,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "isna-1f657492e892",
+      "title": "شهرداری گرگان از صعود به نیمه‌نهایی سوپرلیگ غرب آسیا بازماند",
+      "summary": "شهرداری گرگان در سومین دیدار خود از مرحله هشت تیم پایانی سوپرلیگ بسکتبال غرب آسیا با نتیجه ۹۹ بر ۸۴ مقابل العلا عربستان شکست خورد و از صعود به مرحله نیمه‌نهایی بازماند.",
+      "url": "https://www.isna.ir/news/1405070905952/%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D8%A7%D8%B2-%D8%B5%D8%B9%D9%88%D8%AF-%D8%A8%D9%87-%D9%86%DB%8C%D9%85%D9%87-%D9%86%D9%87%D8%A7%DB%8C%DB%8C-%D8%B3%D9%88%D9%BE%D8%B1%D9%84%DB%8C%DA%AF-%D8%BA%D8%B1%D8%A8-%D8%A2%D8%B3%DB%8C%D8%A7-%D8%A8%D8%A7%D8%B2%D9%85%D8%A7%D9%86%D8%AF",
+      "imageUrl": "https://cdn.isna.ir/d/2026/10/01/4/63998110.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "ورزشی > توپ و تور",
+      "publishedAt": "2026-10-01T16:57:20+00:00"
+    },
+    {
+      "id": "varzesh3-2433165",
+      "title": "مدال‌آور بازی‌های آسیایی ناگویا به استقلال پیوست",
+      "summary": "محمدبصیر مومنی، ملی‌پوش بسکتبال ایران و دارنده مدال برنز بازی‌های آسیایی ناگویا، به تیم بسکتبال مردان استقلال پیوست.",
+      "url": "https://www.varzesh3.com/news/2433165/مدال-آور-بازی-های-آسیایی-ناگویا-به-استقلال-پیوست",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/01/D/t4bpwhky.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-01T15:44:11Z",
+      "views": "6.6K",
+      "comments": "7"
+    },
     {
       "id": "varzesh3-2433100",
       "title": "برنامه ویژه آبادان: دوئل با کاله و چهارجانبه تهران!",
@@ -38,7 +66,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T09:41:55Z",
-      "views": "817",
+      "views": "1.3K",
       "comments": "1"
     },
     {
@@ -66,8 +94,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T09:01:53Z",
-      "views": "2.5K",
-      "comments": "2"
+      "views": "4.1K",
+      "comments": "4"
     },
     {
       "id": "varzesh3-2433075",
@@ -81,8 +109,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T08:33:40Z",
-      "views": "5.8K",
-      "comments": "12"
+      "views": "7.2K",
+      "comments": "15"
     },
     {
       "id": "varzesh3-2432965",
@@ -96,7 +124,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-30T17:06:19Z",
-      "views": "16.8K",
+      "views": "18.7K",
       "comments": "6"
     },
     {
@@ -126,7 +154,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T21:44:17Z",
-      "views": "2.9K",
+      "views": "3K",
       "comments": "2"
     },
     {
@@ -141,7 +169,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T21:15:56Z",
-      "views": "9.8K",
+      "views": "10.1K",
       "comments": "7"
     },
     {
@@ -156,7 +184,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T16:57:43Z",
-      "views": "8.2K",
+      "views": "8.3K",
       "comments": "5"
     },
     {
@@ -171,7 +199,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T08:53:22Z",
-      "views": "994",
+      "views": "1K",
       "comments": "1"
     },
     {
@@ -201,7 +229,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T16:24:07Z",
-      "views": "9.1K",
+      "views": "9.2K",
       "comments": "8"
     },
     {
@@ -321,7 +349,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-27T10:36:26Z",
-      "views": "9.9K",
+      "views": "10K",
       "comments": "10"
     },
     {
@@ -398,21 +426,6 @@
       "publishedAt": "2026-09-26T06:01:17Z",
       "views": "6K",
       "comments": "3"
-    },
-    {
-      "id": "varzesh3-2431723",
-      "title": "لرزان‌ترین صندلی لیگ برتر فعلا ثابت ماند!",
-      "summary": "محمد نوری به کار خود روی نیمکت صنعت نفت آبادان ادامه خواهد داد و با حمایت هیئت مدیره این باشگاه، هدایت طلایی‌پوشان را در ادامه رقابت‌های لیگ برتر بر عهده خواهد داشت.",
-      "url": "https://www.varzesh3.com/news/2431723/لرزان-ترین-صندلی-لیگ-برتر-فعلا-ثابت-ماند",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/25/A/org3bwzx.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-25T20:02:36Z",
-      "views": "14.1K",
-      "comments": "29"
     },
     {
       "id": "varzesh3-2431673",
@@ -741,21 +754,6 @@
       "publishedAt": "2026-09-23T09:57:34Z",
       "views": "4.9K",
       "comments": "5"
-    },
-    {
-      "id": "varzesh3-2431091",
-      "title": "مشحون: اگر جنگ نبود، مدال بسکتبال طلا بود",
-      "summary": "‏رضا مشحون در گفتگو با ورزش سه مدال برنز ایران را با توجه به عدم برگزاری بازی‌های تدارکاتی بسیار ارزشمند و مسیر را رو به موفقیت دانست.",
-      "url": "https://www.varzesh3.com/news/2431091/مشحون-اگر-مشکل-تدارکات-نداشتیم-مدالمان-طلا-می-شد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/23/B/pexv0nka.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-23T07:55:30Z",
-      "views": "7.6K",
-      "comments": "9"
     },
     {
       "id": "varzesh3-2431076",
