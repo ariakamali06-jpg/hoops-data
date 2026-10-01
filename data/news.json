@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-01T00:16:09.240476+00:00",
-  "count": 76,
+  "generatedAt": "2026-10-01T06:15:35.767404+00:00",
+  "count": 77,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 131
+      "items": 134
     },
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -72,
+      "items": -74,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,7 +38,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-30T17:06:19Z",
-      "views": "10.9K",
+      "views": "13.4K",
       "comments": "6"
     },
     {
@@ -53,8 +53,23 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-30T07:52:23Z",
-      "views": "9.5K",
+      "views": "9.6K",
       "comments": "10"
+    },
+    {
+      "id": "varzesh3-2432856",
+      "title": "دبل‌دبل سجاد برای شکست تیم پرستاره قطری!",
+      "summary": "در شب پیروزی حساس شهرداری گرگان مقابل العربي قطر در سوپرلیگ غرب آسیا، یک نام بیش از همه توی چشم آمد؛ سجاد پذیرفته!",
+      "url": "https://www.varzesh3.com/news/2432856/دبل-دبل-سجاد-برای-شکست-تیم-پرستاره-قطری",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/30/B/3omzt4ay.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-09-30T06:51:27Z",
+      "views": "16.1K",
+      "comments": "4"
     },
     {
       "id": "varzesh3-2432786",
@@ -83,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T21:15:56Z",
-      "views": "9.1K",
+      "views": "9.3K",
       "comments": "7"
     },
     {
@@ -98,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T16:57:43Z",
-      "views": "7.8K",
+      "views": "8K",
       "comments": "5"
     },
     {
@@ -219,7 +234,7 @@
       "category": "ورزشی",
       "publishedAt": "2026-09-28T03:15:00Z",
       "views": "46.4K",
-      "comments": "64"
+      "comments": "65"
     },
     {
       "id": "varzesh3-2432250",
@@ -443,7 +458,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-25T06:05:32Z",
-      "views": "18.3K",
+      "views": "18.4K",
       "comments": "28"
     },
     {
