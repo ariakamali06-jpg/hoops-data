@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-01T18:14:45.800374+00:00",
+  "generatedAt": "2026-10-02T00:15:10.520939+00:00",
   "count": 76,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 128
+      "items": 135
     },
     {
       "source": "bbc",
@@ -21,23 +21,40 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -70,
+      "items": -76,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
     {
-      "id": "isna-1f657492e892",
-      "title": "شهرداری گرگان از صعود به نیمه‌نهایی سوپرلیگ غرب آسیا بازماند",
-      "summary": "شهرداری گرگان در سومین دیدار خود از مرحله هشت تیم پایانی سوپرلیگ بسکتبال غرب آسیا با نتیجه ۹۹ بر ۸۴ مقابل العلا عربستان شکست خورد و از صعود به مرحله نیمه‌نهایی بازماند.",
-      "url": "https://www.isna.ir/news/1405070905952/%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D8%A7%D8%B2-%D8%B5%D8%B9%D9%88%D8%AF-%D8%A8%D9%87-%D9%86%DB%8C%D9%85%D9%87-%D9%86%D9%87%D8%A7%DB%8C%DB%8C-%D8%B3%D9%88%D9%BE%D8%B1%D9%84%DB%8C%DA%AF-%D8%BA%D8%B1%D8%A8-%D8%A2%D8%B3%DB%8C%D8%A7-%D8%A8%D8%A7%D8%B2%D9%85%D8%A7%D9%86%D8%AF",
-      "imageUrl": "https://cdn.isna.ir/d/2026/10/01/4/63998110.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
+      "id": "varzesh3-2433197",
+      "title": "امیدواری نوری با برد نفت آبادان مقابل نساجی",
+      "summary": "نفت آبادان در دیداری تدارکاتی مقابل نساجی قائمشهر به برتری رسید تا محمد نوری، سرمربی این تیم، با شرایط امیدوارکننده‌تری آماده بازگشت به رقابت‌های رسمی شود.",
+      "url": "https://www.varzesh3.com/news/2433197/امیدواری-نوری-با-برد-نفت-آبادان-مقابل-نساجی",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/01/D/lyjd1wzg.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
       "language": "fa",
-      "category": "ورزشی > توپ و تور",
-      "publishedAt": "2026-10-01T16:57:20+00:00"
+      "category": "ورزشی",
+      "publishedAt": "2026-10-01T19:14:21Z",
+      "views": "5.6K",
+      "comments": "13"
+    },
+    {
+      "id": "varzesh3-2433184",
+      "title": "شاگردان حاتمی برای این مسابقات آماده نبودند",
+      "summary": "شهرداری گرگان با شکست مقابل تیم عربستانی، از مسابقات سوپرلیگ غرب آسیا کنار رفت.",
+      "url": "https://www.varzesh3.com/news/2433184/شاگردان-حاتمی-برای-این-مسابقات-آماده-نبودند",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/01/D/ytqzzm0n.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-01T17:18:10Z",
+      "views": "5.6K",
+      "comments": "5"
     },
     {
       "id": "varzesh3-2433165",
@@ -51,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T15:44:11Z",
-      "views": "6.6K",
+      "views": "12.3K",
       "comments": "7"
     },
     {
@@ -66,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T09:41:55Z",
-      "views": "1.3K",
+      "views": "1.4K",
       "comments": "1"
     },
     {
@@ -94,7 +111,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T09:01:53Z",
-      "views": "4.1K",
+      "views": "4.6K",
       "comments": "4"
     },
     {
@@ -109,7 +126,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T08:33:40Z",
-      "views": "7.2K",
+      "views": "8K",
       "comments": "15"
     },
     {
@@ -124,7 +141,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-30T17:06:19Z",
-      "views": "18.7K",
+      "views": "19.5K",
       "comments": "6"
     },
     {
@@ -139,8 +156,23 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-30T07:52:23Z",
-      "views": "9.6K",
+      "views": "9.7K",
       "comments": "10"
+    },
+    {
+      "id": "varzesh3-2432856",
+      "title": "دبل‌دبل سجاد برای شکست تیم پرستاره قطری!",
+      "summary": "در شب پیروزی حساس شهرداری گرگان مقابل العربي قطر در سوپرلیگ غرب آسیا، یک نام بیش از همه توی چشم آمد؛ سجاد پذیرفته!",
+      "url": "https://www.varzesh3.com/news/2432856/دبل-دبل-سجاد-برای-شکست-تیم-پرستاره-قطری",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/30/B/3omzt4ay.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-09-30T06:51:27Z",
+      "views": "16.3K",
+      "comments": "4"
     },
     {
       "id": "varzesh3-2432786",
@@ -169,7 +201,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T21:15:56Z",
-      "views": "10.1K",
+      "views": "10.3K",
       "comments": "7"
     },
     {
@@ -321,21 +353,6 @@
       "publishedAt": "2026-09-27T17:25:52Z",
       "views": "12.9K",
       "comments": "7"
-    },
-    {
-      "id": "varzesh3-2432168",
-      "title": "‏رونمایی از کهکشان جدید گرگان در گروه مرگ آسیا!",
-      "summary": "‏شهرداری گرگان با هدایت مهران حاتمی و جذب ستاره‌هایی چون جردن استیونس، در گروه مرگ فینال ۸ سوپرلیگ غرب آسیا به مصاف ساجس لبنان می‌رود.",
-      "url": "https://www.varzesh3.com/news/2432168/رونمایی-از-کهکشان-جدید-گرگان-در-گروه-مرگ-آسیا",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/27/D/2v2w4lk1.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-27T15:44:19Z",
-      "views": "8.8K",
-      "comments": "4"
     },
     {
       "id": "varzesh3-2432085",
@@ -739,21 +756,6 @@
       "publishedAt": "2026-09-23T11:15:08Z",
       "views": "18.9K",
       "comments": "44"
-    },
-    {
-      "id": "varzesh3-2431134",
-      "title": "معزی‌فر: حداقل حق بسکتبال ایران برنز بود",
-      "summary": "‏دبیرکل فدراسیون بسکتبال بعد از کسب مدال برنز بازی‌های آسیایی ناگویا از شرایط سخت این تیم صحبت کرد.",
-      "url": "https://www.varzesh3.com/news/2431134/معزی-فر-حداقل-حق-بسکتبال-ایران-برنز-بود",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/23/C/vsld43wx.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-23T09:57:34Z",
-      "views": "4.9K",
-      "comments": "5"
     },
     {
       "id": "varzesh3-2431076",
