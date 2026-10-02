@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-02T12:13:39.874211+00:00",
-  "count": 76,
+  "generatedAt": "2026-10-02T18:14:04.464180+00:00",
+  "count": 75,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 133
+      "items": 132
     },
     {
       "source": "bbc",
@@ -21,11 +21,54 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -74,
+      "items": -75,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2433409",
+      "title": "یک خرید جوان دیگر برای بسکتبال استقلال",
+      "summary": "امیرحسین غلام‌زاده با عقد قرارداد به تیم بسکتبال استقلال پیوست تا فصل آینده زیر نظر مهران شاهین‌طبع به میدان برود.",
+      "url": "https://www.varzesh3.com/news/2433409/یک-خرید-جوان-دیگر-برای-بسکتبال-استقلال",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/02/D/5jpkqshq.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-02T16:25:53Z",
+      "views": "1.8K",
+      "comments": "3"
+    },
+    {
+      "id": "isna-1131f8f55397",
+      "title": "هفته هفتم لیگ برتر فوتسال/ پیروزی صدرنشین و شکست مدعیان",
+      "summary": "هفته هفتم لیگ برتر فوتسال امروز (جمعه) برگزار شد که گهر زمین سیرجان و گیتی‌پسند اصفهان برابر حریفان خود به پیروزی رسیدند و مس سونگون و پالایش نفت بندرعباس مقابل رقبای خود شکست خوردند. گهر زمین با این پیروزی ۱۹ امتیازی شد و صدر جدول را حفظ کرد.",
+      "url": "https://www.isna.ir/news/1405071006335/%D9%87%D9%81%D8%AA%D9%87-%D9%87%D9%81%D8%AA%D9%85-%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D9%81%D9%88%D8%AA%D8%B3%D8%A7%D9%84-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D8%B5%D8%AF%D8%B1%D9%86%D8%B4%DB%8C%D9%86-%D9%88-%D8%B4%DA%A9%D8%B3%D8%AA-%D9%85%D8%AF%D8%B9%DB%8C%D8%A7%D9%86",
+      "imageUrl": "https://cdn.isna.ir/d/2026/09/05/4/63961300.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "ورزشی > فوتبال، فوتسال",
+      "publishedAt": "2026-10-02T15:53:46+00:00"
+    },
+    {
+      "id": "varzesh3-2433395",
+      "title": "استوارت یک‌تنه گرگان را به ایران فرستاد!",
+      "summary": "در شب شکست ۹۹ بر ۸۴ شهرداری گرگان مقابل  ستاره آمریکایی عربستانی‌ها شب عجیبی داشت و به هرشکلی که دلش خواست امتیاز گرفت!",
+      "url": "https://www.varzesh3.com/news/2433395/استوارت-یک-تنه-گرگان-را-به-ایران-فرستاد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/02/D/klla2fyv.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-02T15:33:32Z",
+      "views": "6.1K",
+      "comments": "3"
+    },
     {
       "id": "varzesh3-2433197",
       "title": "امیدواری نوری با برد نفت آبادان مقابل نساجی",
@@ -38,7 +81,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T19:14:21Z",
-      "views": "7.2K",
+      "views": "7.7K",
       "comments": "13"
     },
     {
@@ -53,7 +96,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T17:18:10Z",
-      "views": "6.9K",
+      "views": "7.1K",
       "comments": "8"
     },
     {
@@ -68,7 +111,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T15:44:11Z",
-      "views": "14.7K",
+      "views": "15.7K",
       "comments": "7"
     },
     {
@@ -141,7 +184,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-30T17:06:19Z",
-      "views": "21.1K",
+      "views": "22K",
       "comments": "8"
     },
     {
@@ -157,7 +200,7 @@
       "category": "ورزشی",
       "publishedAt": "2026-09-30T07:52:23Z",
       "views": "9.7K",
-      "comments": "10"
+      "comments": "12"
     },
     {
       "id": "varzesh3-2432856",
@@ -203,21 +246,6 @@
       "publishedAt": "2026-09-29T21:15:56Z",
       "views": "10.3K",
       "comments": "7"
-    },
-    {
-      "id": "varzesh3-2432700",
-      "title": "اولین برد شهرداری گرگان در Final8 سوپرلیگ غرب آسیا",
-      "summary": "شهرداری گرگان با پیروزی مقابل العربی قطر در بازی پایانی مقابل العلا عربستان به زمین خواهد رفت.",
-      "url": "https://www.varzesh3.com/news/2432700/اولین-برد-شهرداری-گرگان-در-final8-سوپرلیگ-غرب-آسیا",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/29/D/ebzxtndz.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-29T16:57:43Z",
-      "views": "8.3K",
-      "comments": "5"
     },
     {
       "id": "varzesh3-2432593",
@@ -743,36 +771,6 @@
       "comments": "18"
     },
     {
-      "id": "varzesh3-2431156",
-      "title": "واریز پاداش ۷.۲ میلیاردی به حساب بسکتبالیست‌ها",
-      "summary": "‏دبیرکل کمیته ملی المپیک از واریز بلافاصله ۷ میلیارد و ۲۰۰ میلیون تومان پاداش مدال برنز تیم ملی بسکتبال مردان ایران در بازی‌های آسیایی ۲۰۲۶ خبر داد.",
-      "url": "https://www.varzesh3.com/news/2431156/واریز-پاداش-۷-۲-میلیاردی-به-حساب-بسکتبالیست-ها",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/23/C/0riljrk5.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-23T11:15:08Z",
-      "views": "18.9K",
-      "comments": "44"
-    },
-    {
-      "id": "varzesh3-2431076",
-      "title": "صدرنشینی بسکتبال ایران بدون بازیکن تعویضی!",
-      "summary": "‏تیم ملی بسکتبال ۳x۳ دختران ایران با برتری مقابل چین تایپه و کسب سومین پیروزی متوالی، مقتدرانه به مرحله بعدی بازی‌های آسیایی ناگویا صعود کرد.",
-      "url": "https://www.varzesh3.com/news/2431076/صدرنشینی-بسکتبال-ایران-بدون-بازیکن-تعویضی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/23/B/2wi1mqjb.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-23T07:07:50Z",
-      "views": "9.7K",
-      "comments": "13"
-    },
-    {
       "id": "varzesh3-2430930",
       "title": "خدامرادی ادامه بازی‌های آسیایی را از دست داد",
       "summary": "فرناز خدامرادی، بازیکن تیم ملی بسکتبال سه‌نفره بانوان ایران، به دلیل مصدومیت قادر به ادامه رقابت‌های بازی‌های آسیایی آیچی-ناگویا ۲۰۲۶ نخواهد بود.",
@@ -801,21 +799,6 @@
       "publishedAt": "2026-09-22T09:17:18Z",
       "views": "7.7K",
       "comments": "9"
-    },
-    {
-      "id": "varzesh3-2430860",
-      "title": "سیستانی: برای صدرنشینی مالزی را هم می‌بریم",
-      "summary": "سرمربی تیم ملی بسکتبال سه به سه بعد از کسب دو پیروزی و صعود به مرحله بعدی از انگیزه‌های صدرنشینی تیمش صحبت کرد.",
-      "url": "https://www.varzesh3.com/news/2430860/سیستانی-برای-صدرنشینی-مالزی-را-هم-می-بریم",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/22/B/fir0gvsq.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-22T08:08:30Z",
-      "views": "8K",
-      "comments": "2"
     },
     {
       "id": "varzesh3-2430856",
