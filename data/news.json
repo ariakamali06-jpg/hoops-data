@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-02T00:15:10.520939+00:00",
+  "generatedAt": "2026-10-02T06:13:33.923495+00:00",
   "count": 76,
   "sources": [
     {
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 135
+      "items": 133
     },
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -76,
+      "items": -74,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,7 +38,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T19:14:21Z",
-      "views": "5.6K",
+      "views": "6.5K",
       "comments": "13"
     },
     {
@@ -53,8 +53,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T17:18:10Z",
-      "views": "5.6K",
-      "comments": "5"
+      "views": "6.4K",
+      "comments": "6"
     },
     {
       "id": "varzesh3-2433165",
@@ -68,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T15:44:11Z",
-      "views": "12.3K",
+      "views": "13.6K",
       "comments": "7"
     },
     {
@@ -111,7 +111,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T09:01:53Z",
-      "views": "4.6K",
+      "views": "4.7K",
       "comments": "4"
     },
     {
@@ -126,7 +126,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T08:33:40Z",
-      "views": "8K",
+      "views": "8.1K",
       "comments": "15"
     },
     {
@@ -141,7 +141,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-30T17:06:19Z",
-      "views": "19.5K",
+      "views": "19.9K",
       "comments": "6"
     },
     {
@@ -276,7 +276,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T15:08:42Z",
-      "views": "16.7K",
+      "views": "16.8K",
       "comments": "65"
     },
     {
