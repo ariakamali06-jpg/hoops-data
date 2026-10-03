@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-02T18:14:04.464180+00:00",
-  "count": 75,
+  "generatedAt": "2026-10-03T00:14:36.152515+00:00",
+  "count": 74,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 132
+      "items": 137
     },
     {
       "source": "bbc",
@@ -21,11 +21,26 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -75,
+      "items": -80,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2433441",
+      "title": "پالایش آبادان با ستاره‌های ملی کامل شد",
+      "summary": "‏تیم بسکتبال پالایش نفت آبادان با بازگشت ملی‌پوشانش در دیداری تدارکاتی برابر کاله مازندران قرار گرفت.",
+      "url": "https://www.varzesh3.com/news/2433441/پالایش-آبادان-با-ستاره-های-ملی-کامل-شد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/02/D/dy5syty0.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-02T18:33:01Z",
+      "views": "1.7K",
+      "comments": "0"
+    },
     {
       "id": "varzesh3-2433409",
       "title": "یک خرید جوان دیگر برای بسکتبال استقلال",
@@ -38,21 +53,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-02T16:25:53Z",
-      "views": "1.8K",
-      "comments": "3"
-    },
-    {
-      "id": "isna-1131f8f55397",
-      "title": "هفته هفتم لیگ برتر فوتسال/ پیروزی صدرنشین و شکست مدعیان",
-      "summary": "هفته هفتم لیگ برتر فوتسال امروز (جمعه) برگزار شد که گهر زمین سیرجان و گیتی‌پسند اصفهان برابر حریفان خود به پیروزی رسیدند و مس سونگون و پالایش نفت بندرعباس مقابل رقبای خود شکست خوردند. گهر زمین با این پیروزی ۱۹ امتیازی شد و صدر جدول را حفظ کرد.",
-      "url": "https://www.isna.ir/news/1405071006335/%D9%87%D9%81%D8%AA%D9%87-%D9%87%D9%81%D8%AA%D9%85-%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D9%81%D9%88%D8%AA%D8%B3%D8%A7%D9%84-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D8%B5%D8%AF%D8%B1%D9%86%D8%B4%DB%8C%D9%86-%D9%88-%D8%B4%DA%A9%D8%B3%D8%AA-%D9%85%D8%AF%D8%B9%DB%8C%D8%A7%D9%86",
-      "imageUrl": "https://cdn.isna.ir/d/2026/09/05/4/63961300.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
-      "language": "fa",
-      "category": "ورزشی > فوتبال، فوتسال",
-      "publishedAt": "2026-10-02T15:53:46+00:00"
+      "views": "3.6K",
+      "comments": "7"
     },
     {
       "id": "varzesh3-2433395",
@@ -66,23 +68,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-02T15:33:32Z",
-      "views": "6.1K",
+      "views": "8.4K",
       "comments": "3"
-    },
-    {
-      "id": "varzesh3-2433197",
-      "title": "امیدواری نوری با برد نفت آبادان مقابل نساجی",
-      "summary": "نفت آبادان در دیداری تدارکاتی مقابل نساجی قائمشهر به برتری رسید تا محمد نوری، سرمربی این تیم، با شرایط امیدوارکننده‌تری آماده بازگشت به رقابت‌های رسمی شود.",
-      "url": "https://www.varzesh3.com/news/2433197/امیدواری-نوری-با-برد-نفت-آبادان-مقابل-نساجی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/01/D/lyjd1wzg.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-01T19:14:21Z",
-      "views": "7.7K",
-      "comments": "13"
     },
     {
       "id": "varzesh3-2433184",
@@ -96,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T17:18:10Z",
-      "views": "7.1K",
+      "views": "7.2K",
       "comments": "8"
     },
     {
@@ -111,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T15:44:11Z",
-      "views": "15.7K",
+      "views": "16.7K",
       "comments": "7"
     },
     {
@@ -169,7 +156,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T08:33:40Z",
-      "views": "8.2K",
+      "views": "8.3K",
       "comments": "15"
     },
     {
@@ -186,21 +173,6 @@
       "publishedAt": "2026-09-30T17:06:19Z",
       "views": "22K",
       "comments": "8"
-    },
-    {
-      "id": "varzesh3-2432866",
-      "title": "غرامت سنگین ذوب‌آهن به بازیکن لیگ یکی",
-      "summary": "باشگاه ذوب آهن اصفهان در پرونده شکایت بازیکن سابق این تیم محکوم شد.",
-      "url": "https://www.varzesh3.com/news/2432866/غرامت-سنگین-ذوب-آهن-به-بازیکن-لیگ-یکی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2025/08/20/C/fod0czhp.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-30T07:52:23Z",
-      "views": "9.7K",
-      "comments": "12"
     },
     {
       "id": "varzesh3-2432856",
@@ -244,7 +216,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T21:15:56Z",
-      "views": "10.3K",
+      "views": "10.4K",
       "comments": "7"
     },
     {
@@ -259,7 +231,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T08:53:22Z",
-      "views": "1K",
+      "views": "1.1K",
       "comments": "1"
     },
     {
@@ -349,7 +321,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T03:15:00Z",
-      "views": "46.4K",
+      "views": "46.5K",
       "comments": "65"
     },
     {
@@ -379,7 +351,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-27T17:25:52Z",
-      "views": "12.9K",
+      "views": "13K",
       "comments": "7"
     },
     {
@@ -424,7 +396,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-26T14:39:20Z",
-      "views": "12.9K",
+      "views": "13K",
       "comments": "13"
     },
     {
@@ -771,6 +743,21 @@
       "comments": "18"
     },
     {
+      "id": "varzesh3-2431156",
+      "title": "واریز پاداش ۷.۲ میلیاردی به حساب بسکتبالیست‌ها",
+      "summary": "‏دبیرکل کمیته ملی المپیک از واریز بلافاصله ۷ میلیارد و ۲۰۰ میلیون تومان پاداش مدال برنز تیم ملی بسکتبال مردان ایران در بازی‌های آسیایی ۲۰۲۶ خبر داد.",
+      "url": "https://www.varzesh3.com/news/2431156/واریز-پاداش-۷-۲-میلیاردی-به-حساب-بسکتبالیست-ها",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/23/C/0riljrk5.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-09-23T11:15:08Z",
+      "views": "18.9K",
+      "comments": "44"
+    },
+    {
       "id": "varzesh3-2430930",
       "title": "خدامرادی ادامه بازی‌های آسیایی را از دست داد",
       "summary": "فرناز خدامرادی، بازیکن تیم ملی بسکتبال سه‌نفره بانوان ایران، به دلیل مصدومیت قادر به ادامه رقابت‌های بازی‌های آسیایی آیچی-ناگویا ۲۰۲۶ نخواهد بود.",
@@ -799,6 +786,21 @@
       "publishedAt": "2026-09-22T09:17:18Z",
       "views": "7.7K",
       "comments": "9"
+    },
+    {
+      "id": "varzesh3-2430860",
+      "title": "سیستانی: برای صدرنشینی مالزی را هم می‌بریم",
+      "summary": "سرمربی تیم ملی بسکتبال سه به سه بعد از کسب دو پیروزی و صعود به مرحله بعدی از انگیزه‌های صدرنشینی تیمش صحبت کرد.",
+      "url": "https://www.varzesh3.com/news/2430860/سیستانی-برای-صدرنشینی-مالزی-را-هم-می-بریم",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/22/B/fir0gvsq.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-09-22T08:08:30Z",
+      "views": "8K",
+      "comments": "2"
     },
     {
       "id": "varzesh3-2430856",
@@ -874,21 +876,6 @@
       "publishedAt": "2026-09-21T11:50:10Z",
       "views": "14.4K",
       "comments": "18"
-    },
-    {
-      "id": "varzesh3-2430662",
-      "title": "‏شاهکار دختران بسکتبالیست ایران در ناگویا!",
-      "summary": "دختران بسکتبالیست ایران در دومین بازی امروز بعد از شکست ازبکستان، ژاپن را هم با نمایشی فوق‌العاده شکست دادند.",
-      "url": "https://www.varzesh3.com/news/2430662/شاهکار-دختران-بسکتبالیست-ایران-در-ناگویا",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/21/C/gaz1aizy.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-21T11:26:56Z",
-      "views": "17.9K",
-      "comments": "15"
     },
     {
       "id": "varzesh3-2430627",
