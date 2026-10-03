@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-03T00:14:36.152515+00:00",
-  "count": 74,
+  "generatedAt": "2026-10-03T06:18:27.487521+00:00",
+  "count": 73,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 137
+      "items": 136
     },
     {
       "source": "bbc",
@@ -27,6 +27,21 @@
   ],
   "news": [
     {
+      "id": "varzesh3-2433494",
+      "title": "سرمربی سابق ذوب‌آهن، سرمربی جدید لیگ عراق",
+      "summary": "میودراگ رادولوویچ، سرمربی مونته‌نگرویی سابق تیم ملی لبنان، به عنوان سرمربی جدید تیم المینا عراق انتخاب شد.",
+      "url": "https://www.varzesh3.com/news/2433494/سرمربی-سابق-ذوب-آهن-سرمربی-جدید-لیگ-عراق",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/01/22/D/yyxasyux.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-02T22:07:32Z",
+      "views": "10K",
+      "comments": "2"
+    },
+    {
       "id": "varzesh3-2433441",
       "title": "پالایش آبادان با ستاره‌های ملی کامل شد",
       "summary": "‏تیم بسکتبال پالایش نفت آبادان با بازگشت ملی‌پوشانش در دیداری تدارکاتی برابر کاله مازندران قرار گرفت.",
@@ -38,8 +53,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-02T18:33:01Z",
-      "views": "1.7K",
-      "comments": "0"
+      "views": "2.3K",
+      "comments": "1"
     },
     {
       "id": "varzesh3-2433409",
@@ -53,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-02T16:25:53Z",
-      "views": "3.6K",
+      "views": "4.1K",
       "comments": "7"
     },
     {
@@ -68,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-02T15:33:32Z",
-      "views": "8.4K",
+      "views": "9.1K",
       "comments": "3"
     },
     {
@@ -83,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T17:18:10Z",
-      "views": "7.2K",
+      "views": "7.3K",
       "comments": "8"
     },
     {
@@ -98,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T15:44:11Z",
-      "views": "16.7K",
+      "views": "17K",
       "comments": "7"
     },
     {
@@ -171,7 +186,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-30T17:06:19Z",
-      "views": "22K",
+      "views": "22.1K",
       "comments": "8"
     },
     {
@@ -278,21 +293,6 @@
       "publishedAt": "2026-09-28T15:08:42Z",
       "views": "16.8K",
       "comments": "65"
-    },
-    {
-      "id": "varzesh3-2432432",
-      "title": "‏ارتش ۳ نفره خارجی‌های گرگان: ۷۶ امتیاز از ۹۷ امتیاز!",
-      "summary": "شهرداری گرگان در شبی که با درخشش مثلث خارجی فوق‌العاده بود، در دفاع چندان موفق نبودند و بازی را واگذار کردند.",
-      "url": "https://www.varzesh3.com/news/2432432/ارتش-۳-نفره-خارجی-های-گرگان-۷۶-امتیاز-از-۹۷-امتیاز",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/28/D/ircwpunk.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-28T15:02:03Z",
-      "views": "10.1K",
-      "comments": "8"
     },
     {
       "id": "varzesh3-2432278",
@@ -741,21 +741,6 @@
       "publishedAt": "2026-09-23T11:15:12Z",
       "views": "7K",
       "comments": "18"
-    },
-    {
-      "id": "varzesh3-2431156",
-      "title": "واریز پاداش ۷.۲ میلیاردی به حساب بسکتبالیست‌ها",
-      "summary": "‏دبیرکل کمیته ملی المپیک از واریز بلافاصله ۷ میلیارد و ۲۰۰ میلیون تومان پاداش مدال برنز تیم ملی بسکتبال مردان ایران در بازی‌های آسیایی ۲۰۲۶ خبر داد.",
-      "url": "https://www.varzesh3.com/news/2431156/واریز-پاداش-۷-۲-میلیاردی-به-حساب-بسکتبالیست-ها",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/23/C/0riljrk5.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-23T11:15:08Z",
-      "views": "18.9K",
-      "comments": "44"
     },
     {
       "id": "varzesh3-2430930",
