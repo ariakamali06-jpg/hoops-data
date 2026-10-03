@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-03T06:18:27.487521+00:00",
+  "generatedAt": "2026-10-03T14:55:53.587962+00:00",
   "count": 73,
   "sources": [
     {
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 136
+      "items": 141
     },
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -80,
+      "items": -85,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,8 +38,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-02T22:07:32Z",
-      "views": "10K",
-      "comments": "2"
+      "views": "11.4K",
+      "comments": "3"
     },
     {
       "id": "varzesh3-2433441",
@@ -53,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-02T18:33:01Z",
-      "views": "2.3K",
+      "views": "2.5K",
       "comments": "1"
     },
     {
@@ -68,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-02T16:25:53Z",
-      "views": "4.1K",
+      "views": "4.3K",
       "comments": "7"
     },
     {
@@ -83,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-02T15:33:32Z",
-      "views": "9.1K",
+      "views": "9.3K",
       "comments": "3"
     },
     {
@@ -99,7 +99,7 @@
       "category": "ورزشی",
       "publishedAt": "2026-10-01T17:18:10Z",
       "views": "7.3K",
-      "comments": "8"
+      "comments": "9"
     },
     {
       "id": "varzesh3-2433165",
@@ -113,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T15:44:11Z",
-      "views": "17K",
+      "views": "17.8K",
       "comments": "7"
     },
     {
@@ -201,7 +201,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-30T06:51:27Z",
-      "views": "16.3K",
+      "views": "16.4K",
       "comments": "4"
     },
     {
@@ -232,7 +232,7 @@
       "category": "ورزشی",
       "publishedAt": "2026-09-29T21:15:56Z",
       "views": "10.4K",
-      "comments": "7"
+      "comments": "8"
     },
     {
       "id": "varzesh3-2432593",
@@ -336,7 +336,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-27T21:37:05Z",
-      "views": "5K",
+      "views": "5.1K",
       "comments": "7"
     },
     {
