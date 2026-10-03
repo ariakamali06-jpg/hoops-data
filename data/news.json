@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-03T14:55:53.587962+00:00",
-  "count": 73,
+  "generatedAt": "2026-10-03T22:14:30.869439+00:00",
+  "count": 74,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 141
+      "items": 142
     },
     {
       "source": "bbc",
@@ -21,11 +21,24 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -85,
+      "items": -86,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "isna-0ad916106eeb",
+      "title": "تعویض ریل‌های فرسوده قطارشهری مشهد تا پایان ماه جاری تکمیل می‌شود",
+      "summary": "مدیرعامل شرکت بهره برداری قطارشهری شهرداری مشهد از تکمیل تعویض ریل‌های فرسوده قطارشهری مشهد تا پایان ماه جاری خبر داد و گفت: با پیگیری‌های انجام شده از طریق دوره ششم مدیریت شهری، موفق به تأمین ۹۰ شاخه ریل تولید داخل از شرکت ذوب‌آهن شدیم.",
+      "url": "https://www.isna.ir/news/1405071207172/%D8%AA%D8%B9%D9%88%DB%8C%D8%B6-%D8%B1%DB%8C%D9%84-%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D8%B3%D9%88%D8%AF%D9%87-%D9%82%D8%B7%D8%A7%D8%B1%D8%B4%D9%87%D8%B1%DB%8C-%D9%85%D8%B4%D9%87%D8%AF-%D8%AA%D8%A7-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%85%D8%A7%D9%87-%D8%AC%D8%A7%D8%B1%DB%8C-%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
+      "imageUrl": "https://cdn.isna.ir/d/2025/01/30/4/63336196.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > خراسان رضوی",
+      "publishedAt": "2026-10-03T20:50:44+00:00"
+    },
     {
       "id": "varzesh3-2433494",
       "title": "سرمربی سابق ذوب‌آهن، سرمربی جدید لیگ عراق",
@@ -38,7 +51,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-02T22:07:32Z",
-      "views": "11.4K",
+      "views": "11.9K",
       "comments": "3"
     },
     {
@@ -53,7 +66,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-02T18:33:01Z",
-      "views": "2.5K",
+      "views": "2.6K",
       "comments": "1"
     },
     {
@@ -83,7 +96,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-02T15:33:32Z",
-      "views": "9.3K",
+      "views": "9.4K",
       "comments": "3"
     },
     {
@@ -98,7 +111,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T17:18:10Z",
-      "views": "7.3K",
+      "views": "7.4K",
       "comments": "9"
     },
     {
@@ -113,7 +126,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T15:44:11Z",
-      "views": "17.8K",
+      "views": "18.1K",
       "comments": "7"
     },
     {
@@ -156,7 +169,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T09:01:53Z",
-      "views": "4.7K",
+      "views": "4.8K",
       "comments": "4"
     },
     {
