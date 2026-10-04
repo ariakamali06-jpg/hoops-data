@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-04T11:20:48.040197+00:00",
-  "count": 74,
+  "generatedAt": "2026-10-04T18:12:54.800896+00:00",
+  "count": 72,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 141
+      "items": 138
     },
     {
       "source": "bbc",
@@ -21,11 +21,56 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -84,
+      "items": -83,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2433843",
+      "title": "قرعه استقلال در لیگ برتر بسکتبال مشخص شد",
+      "summary": "برنامه دور رفت تیم‌های بسکتبال مردان و زنان استقلال در فصل جدید لیگ برتر مشخص شد.",
+      "url": "https://www.varzesh3.com/news/2433843/قرعه-استقلال-در-لیگ-برتر-بسکتبال-مشخص-شد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/04/D/qdr21mrl.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-04T14:38:15Z",
+      "views": "1.3K",
+      "comments": "11"
+    },
+    {
+      "id": "varzesh3-2433816",
+      "title": "حضور ناگهانی سپاهان اصفهان در بسکتبال زنان!",
+      "summary": "باشگاه سپاهان اصفهان در فصل جدید لیگ برتر بسکتبال زنان حضور خواهد داشت.",
+      "url": "https://www.varzesh3.com/news/2433816/حضور-ناگهانی-سپاهان-اصفهان-در-بسکتبال-زنان",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/04/C/uto301fp.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-04T12:00:58Z",
+      "views": "1.3K",
+      "comments": "1"
+    },
+    {
+      "id": "varzesh3-2433811",
+      "title": "برنامه هفته اول لیگ برتر بسکتبال مشخص شد",
+      "summary": "مراسم قرعه‌کشی فصل جدید لیگ برتر بسکتبال با حضور مسئولان، پیشکسوتان، بازیکنان و نمایندگان باشگاه‌ها برگزار شد.",
+      "url": "https://www.varzesh3.com/news/2433811/برنامه-هفته-اول-لیگ-برتر-بسکتبال-مشخص-شد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/08/31/A/jkdu5zjh.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-04T11:49:41Z",
+      "views": "1.5K",
+      "comments": "2"
+    },
     {
       "id": "varzesh3-2433765",
       "title": "میامی هیت برای یک شب وایس سیتی می‌شود!",
@@ -38,8 +83,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T08:18:44Z",
-      "views": "1.3K",
-      "comments": "1"
+      "views": "1.9K",
+      "comments": "2"
     },
     {
       "id": "varzesh3-2433757",
@@ -53,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T07:44:03Z",
-      "views": "2.4K",
+      "views": "3.7K",
       "comments": "2"
     },
     {
@@ -68,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-02T18:33:01Z",
-      "views": "2.6K",
+      "views": "2.7K",
       "comments": "1"
     },
     {
@@ -98,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-02T15:33:32Z",
-      "views": "9.4K",
+      "views": "9.5K",
       "comments": "3"
     },
     {
@@ -143,7 +188,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T09:41:55Z",
-      "views": "1.5K",
+      "views": "1.6K",
       "comments": "1"
     },
     {
@@ -186,7 +231,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T08:33:40Z",
-      "views": "8.3K",
+      "views": "8.4K",
       "comments": "15"
     },
     {
@@ -203,21 +248,6 @@
       "publishedAt": "2026-09-30T17:06:19Z",
       "views": "22.1K",
       "comments": "8"
-    },
-    {
-      "id": "varzesh3-2432856",
-      "title": "دبل‌دبل سجاد برای شکست تیم پرستاره قطری!",
-      "summary": "در شب پیروزی حساس شهرداری گرگان مقابل العربي قطر در سوپرلیگ غرب آسیا، یک نام بیش از همه توی چشم آمد؛ سجاد پذیرفته!",
-      "url": "https://www.varzesh3.com/news/2432856/دبل-دبل-سجاد-برای-شکست-تیم-پرستاره-قطری",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/30/B/3omzt4ay.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-30T06:51:27Z",
-      "views": "16.4K",
-      "comments": "4"
     },
     {
       "id": "varzesh3-2432786",
@@ -321,7 +351,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T05:08:18Z",
-      "views": "2.5K",
+      "views": "2.6K",
       "comments": "3"
     },
     {
@@ -336,7 +366,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T03:15:00Z",
-      "views": "46.5K",
+      "views": "46.6K",
       "comments": "65"
     },
     {
@@ -623,21 +653,6 @@
       "comments": "23"
     },
     {
-      "id": "varzesh3-2431286",
-      "title": "بازیکن هیوستون راکتس در نیروی زمینی!",
-      "summary": "ارسلان کاظمی کاپیتان تیم ملی بسکتبال و پیتر گریگوریان بعد از کسب مدال برنز بازی‌های آسیایی گفتگویی ویژه با ورزش سه داشتند.",
-      "url": "https://www.varzesh3.com/news/2431286/بازیکن-هیوستون-راکتس-در-نیروی-زمینی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/24/C/0eufhvbe.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-24T11:24:23Z",
-      "views": "26.9K",
-      "comments": "13"
-    },
-    {
       "id": "varzesh3-2431406",
       "title": "شکست باورنکردنی ایران با دو مصدوم در بسکتبال سه نفره!",
       "summary": "تیم ملی بسکتبال سه‌نفره دختران ایران در مرحله یک‌چهارم نهایی بازی‌های آسیایی ناگویا مقابل تایلند به میدان رفت و با نتیجه ۱۲بر۱۱ شکست خورد.",
@@ -863,36 +878,6 @@
       "comments": "6"
     },
     {
-      "id": "varzesh3-2430669",
-      "title": "کرانی: بازی فیزیکی و تجربه قبلی کلید شکست ژاپن بود",
-      "summary": "مهسا کرانی بازیکن تیم ملی بسکتبال سه به سه ایران بعد از پیروزی مقابل ازبکستان و ژاپن از شرایط تیم ایران در این مسابقات صحبت کرد.",
-      "url": "https://www.varzesh3.com/news/2430669/کرانی-بازی-فیزیکی-و-تجربه-قبلی-کلید-شکست-ژاپن-بود",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/21/C/r3gbz3ep.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-21T11:50:10Z",
-      "views": "14.4K",
-      "comments": "18"
-    },
-    {
-      "id": "varzesh3-2430627",
-      "title": "استارت دختران بسکتبالیست با پیروزی مقابل ازبکستان",
-      "summary": "تیم ملی بسکتبال سه به سه زنان ایران در اولین مسابقه با نتیجه ای قاطع ازبکستان را شکست داد.",
-      "url": "https://www.varzesh3.com/news/2430627/استارت-دختران-بسکتبالیست-با-پیروزی-مقابل-ازبسکتان",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/21/C/wyjmqdyv.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-21T09:37:08Z",
-      "views": "4.7K",
-      "comments": "7"
-    },
-    {
       "id": "bbc-da611dd70844",
       "title": "Britain beat Germany to win World Championship bronze",
       "summary": "Great Britain men's team win bronze at the Wheelchair Basketball World Championships by defeating Germany, but GB women lose out in third-place play-off.",
@@ -904,21 +889,6 @@
       "language": "en",
       "category": "Basketball",
       "publishedAt": "2026-09-19T19:17:38+00:00"
-    },
-    {
-      "id": "varzesh3-2430112",
-      "title": "‏استارت بسکتبال سه‌نفره در بازی‌های آسیایی ناگویا",
-      "summary": "تیم‌های بسکتبال سه نفره ایران برای شروع بازی‌هایشان در ناگویا به محل برگزاری مسابقات رسیدند.",
-      "url": "https://www.varzesh3.com/news/2430112/استارت-بسکتبال-سه-نفره-در-بازی-های-آسیایی-ناگویا",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/19/B/g0olalqk.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-19T08:21:11Z",
-      "views": "3.2K",
-      "comments": "1"
     },
     {
       "id": "bbc-7df37d9ec687",
