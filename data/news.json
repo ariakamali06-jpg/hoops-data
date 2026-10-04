@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-04T03:07:24.275368+00:00",
+  "generatedAt": "2026-10-04T11:20:48.040197+00:00",
   "count": 74,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 143
+      "items": 141
     },
     {
       "source": "bbc",
@@ -21,38 +21,40 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -87,
+      "items": -84,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
     {
-      "id": "isna-0ad916106eeb",
-      "title": "تعویض ریل‌های فرسوده قطارشهری مشهد تا پایان ماه جاری تکمیل می‌شود",
-      "summary": "مدیرعامل شرکت بهره برداری قطارشهری شهرداری مشهد از تکمیل تعویض ریل‌های فرسوده قطارشهری مشهد تا پایان ماه جاری خبر داد و گفت: با پیگیری‌های انجام شده از طریق دوره ششم مدیریت شهری، موفق به تأمین ۹۰ شاخه ریل تولید داخل از شرکت ذوب‌آهن شدیم.",
-      "url": "https://www.isna.ir/news/1405071207172/%D8%AA%D8%B9%D9%88%DB%8C%D8%B6-%D8%B1%DB%8C%D9%84-%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D8%B3%D9%88%D8%AF%D9%87-%D9%82%D8%B7%D8%A7%D8%B1%D8%B4%D9%87%D8%B1%DB%8C-%D9%85%D8%B4%D9%87%D8%AF-%D8%AA%D8%A7-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%85%D8%A7%D9%87-%D8%AC%D8%A7%D8%B1%DB%8C-%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%D9%85%DB%8C-%D8%B4%D9%88%D8%AF",
-      "imageUrl": "https://cdn.isna.ir/d/2025/01/30/4/63336196.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
-      "language": "fa",
-      "category": "استان‌ها > خراسان رضوی",
-      "publishedAt": "2026-10-03T20:50:44+00:00"
-    },
-    {
-      "id": "varzesh3-2433494",
-      "title": "سرمربی سابق ذوب‌آهن، سرمربی جدید لیگ عراق",
-      "summary": "میودراگ رادولوویچ، سرمربی مونته‌نگرویی سابق تیم ملی لبنان، به عنوان سرمربی جدید تیم المینا عراق انتخاب شد.",
-      "url": "https://www.varzesh3.com/news/2433494/سرمربی-سابق-ذوب-آهن-سرمربی-جدید-لیگ-عراق",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/01/22/D/yyxasyux.webp",
+      "id": "varzesh3-2433765",
+      "title": "میامی هیت برای یک شب وایس سیتی می‌شود!",
+      "summary": "تیم بسکتبال میامی هیت در آستانه عرضه GTA 6، با پیراهن و زمین ویژه «وایس سیتی» به میدان می‌رود.",
+      "url": "https://www.varzesh3.com/news/2433765/میامی-هیت-برای-یک-شب-وایس-سیتی-می-شود",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/04/B/jabhni3z.webp",
       "source": "varzesh3",
       "sourceName": "ورزش سه",
       "sourceNameEn": "Varzesh3",
       "language": "fa",
       "category": "ورزشی",
-      "publishedAt": "2026-10-02T22:07:32Z",
-      "views": "12K",
-      "comments": "3"
+      "publishedAt": "2026-10-04T08:18:44Z",
+      "views": "1.3K",
+      "comments": "1"
+    },
+    {
+      "id": "varzesh3-2433757",
+      "title": "چرا لبران جیمز در فیلادلفیا شماره 9 پوشید؟",
+      "summary": "لبران جیمز در تمرینات تیم بسکتبال فیلادلفیا به احترام یکی از اسطوره‌های NBA شماره 9 را به تن کرده است.",
+      "url": "https://www.varzesh3.com/news/2433757/چرا-لبران-جیمز-در-فیلادلفیا-شماره-9-پوشید",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/04/B/wsbckgmk.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-04T07:44:03Z",
+      "views": "2.4K",
+      "comments": "2"
     },
     {
       "id": "varzesh3-2433441",
@@ -81,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-02T16:25:53Z",
-      "views": "4.4K",
+      "views": "4.5K",
       "comments": "7"
     },
     {
@@ -289,7 +291,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T16:24:07Z",
-      "views": "9.2K",
+      "views": "9.3K",
       "comments": "8"
     },
     {
