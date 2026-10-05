@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-05T12:14:51.094574+00:00",
-  "count": 73,
+  "generatedAt": "2026-10-05T18:14:12.122323+00:00",
+  "count": 70,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 141
+      "items": 143
     },
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -85,
+      "items": -90,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,7 +38,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-05T10:02:27Z",
-      "views": "1.4K",
+      "views": "3.8K",
       "comments": "1"
     },
     {
@@ -53,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-05T04:14:00Z",
-      "views": "8.1K",
+      "views": "9.3K",
       "comments": "11"
     },
     {
@@ -68,8 +68,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T14:38:15Z",
-      "views": "2.9K",
-      "comments": "13"
+      "views": "3.1K",
+      "comments": "16"
     },
     {
       "id": "varzesh3-2433816",
@@ -98,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T11:49:41Z",
-      "views": "2.3K",
+      "views": "2.5K",
       "comments": "3"
     },
     {
@@ -113,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T08:18:44Z",
-      "views": "2.5K",
+      "views": "2.6K",
       "comments": "2"
     },
     {
@@ -128,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T07:44:03Z",
-      "views": "4.8K",
+      "views": "5K",
       "comments": "4"
     },
     {
@@ -306,7 +306,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-29T21:15:56Z",
-      "views": "10.4K",
+      "views": "10.5K",
       "comments": "8"
     },
     {
@@ -816,51 +816,6 @@
       "publishedAt": "2026-09-22T09:17:18Z",
       "views": "7.7K",
       "comments": "9"
-    },
-    {
-      "id": "varzesh3-2430860",
-      "title": "سیستانی: برای صدرنشینی مالزی را هم می‌بریم",
-      "summary": "سرمربی تیم ملی بسکتبال سه به سه بعد از کسب دو پیروزی و صعود به مرحله بعدی از انگیزه‌های صدرنشینی تیمش صحبت کرد.",
-      "url": "https://www.varzesh3.com/news/2430860/سیستانی-برای-صدرنشینی-مالزی-را-هم-می-بریم",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/22/B/fir0gvsq.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-22T08:08:30Z",
-      "views": "8K",
-      "comments": "2"
-    },
-    {
-      "id": "varzesh3-2430856",
-      "title": "محمد غفاری: چین با تمام ستارگانش آمد، اما ما بردیم",
-      "summary": "تیم ملی بسکتبال سه به سه ایران با دو برد شیرین مقابل چین و هنگ‌کنگ، مقتدرانه راهی مرحله حذفی شد.",
-      "url": "https://www.varzesh3.com/news/2430856/محمد-غفاری-چین-با-تمام-ستارگانش-آمد-اما-ما-بردیم",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/22/B/s5euyxrt.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-22T07:38:09Z",
-      "views": "13.5K",
-      "comments": "8"
-    },
-    {
-      "id": "varzesh3-2430853",
-      "title": "بصیر مومنی:بعد از ۴ ماه تمرین سخت، فقط طلا!",
-      "summary": "بازیکن تیم بسکتبال سه به سه بعد از دو پیروزی متوالی درباره انگیزه‌اش برای ادامه مسابقات صحبت کرد.",
-      "url": "https://www.varzesh3.com/news/2430853/بصیر-مومنی-۴-ماه-سخت-تمرین-کردیم-فقط-طلا-می-خواهیم",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/22/B/narwgh2b.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-22T07:33:49Z",
-      "views": "6.9K",
-      "comments": "7"
     },
     {
       "id": "varzesh3-2430836",
