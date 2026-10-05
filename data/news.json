@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-05T00:16:05.203465+00:00",
-  "count": 71,
+  "generatedAt": "2026-10-05T06:17:47.479254+00:00",
+  "count": 72,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 142
+      "items": 141
     },
     {
       "source": "bbc",
@@ -21,11 +21,26 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -88,
+      "items": -86,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2433941",
+      "title": "عباسی: مقابل پرسپولیس حرف‌های زیادی داریم",
+      "summary": "مدافع صنعت نفت آبادان معتقد است پیروزی تدارکاتی مقابل نساجی، نشان‌دهنده آمادگی و هماهنگی بیشتر شاگردان محمد نوری برای شروع دوباره لیگ برتر است.",
+      "url": "https://www.varzesh3.com/news/2433941/عباسی-مقابل-پرسپولیس-حرف-های-زیادی-داریم",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/05/A/zrxp1idk.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-05T04:14:00Z",
+      "views": "4.4K",
+      "comments": "7"
+    },
     {
       "id": "varzesh3-2433843",
       "title": "قرعه استقلال در لیگ برتر بسکتبال مشخص شد",
@@ -38,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T14:38:15Z",
-      "views": "2.3K",
+      "views": "2.5K",
       "comments": "12"
     },
     {
@@ -53,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T12:00:58Z",
-      "views": "1.6K",
+      "views": "1.8K",
       "comments": "1"
     },
     {
@@ -68,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T11:49:41Z",
-      "views": "1.9K",
+      "views": "2.1K",
       "comments": "3"
     },
     {
@@ -83,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T08:18:44Z",
-      "views": "2.2K",
+      "views": "2.4K",
       "comments": "2"
     },
     {
@@ -98,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T07:44:03Z",
-      "views": "4.4K",
+      "views": "4.6K",
       "comments": "4"
     },
     {
