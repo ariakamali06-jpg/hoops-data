@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-04T18:12:54.800896+00:00",
-  "count": 72,
+  "generatedAt": "2026-10-05T00:16:05.203465+00:00",
+  "count": 71,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 138
+      "items": 142
     },
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -83,
+      "items": -88,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,8 +38,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T14:38:15Z",
-      "views": "1.3K",
-      "comments": "11"
+      "views": "2.3K",
+      "comments": "12"
     },
     {
       "id": "varzesh3-2433816",
@@ -53,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T12:00:58Z",
-      "views": "1.3K",
+      "views": "1.6K",
       "comments": "1"
     },
     {
@@ -68,8 +68,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T11:49:41Z",
-      "views": "1.5K",
-      "comments": "2"
+      "views": "1.9K",
+      "comments": "3"
     },
     {
       "id": "varzesh3-2433765",
@@ -83,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T08:18:44Z",
-      "views": "1.9K",
+      "views": "2.2K",
       "comments": "2"
     },
     {
@@ -98,8 +98,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T07:44:03Z",
-      "views": "3.7K",
-      "comments": "2"
+      "views": "4.4K",
+      "comments": "4"
     },
     {
       "id": "varzesh3-2433441",
@@ -336,7 +336,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T15:08:42Z",
-      "views": "16.8K",
+      "views": "16.9K",
       "comments": "65"
     },
     {
@@ -695,7 +695,7 @@
       "category": "ورزشی",
       "publishedAt": "2026-09-24T06:25:26Z",
       "views": "4.9K",
-      "comments": "4"
+      "comments": "5"
     },
     {
       "id": "varzesh3-2431309",
@@ -771,21 +771,6 @@
       "publishedAt": "2026-09-23T11:15:12Z",
       "views": "7K",
       "comments": "18"
-    },
-    {
-      "id": "varzesh3-2430930",
-      "title": "خدامرادی ادامه بازی‌های آسیایی را از دست داد",
-      "summary": "فرناز خدامرادی، بازیکن تیم ملی بسکتبال سه‌نفره بانوان ایران، به دلیل مصدومیت قادر به ادامه رقابت‌های بازی‌های آسیایی آیچی-ناگویا ۲۰۲۶ نخواهد بود.",
-      "url": "https://www.varzesh3.com/news/2430930/خدامرادی-ادامه-بازی-های-آسیایی-را-از-دست-داد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/22/C/e0bj1alj.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-22T14:14:45Z",
-      "views": "11.7K",
-      "comments": "7"
     },
     {
       "id": "varzesh3-2430873",
