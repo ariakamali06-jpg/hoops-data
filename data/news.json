@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-05T06:17:47.479254+00:00",
-  "count": 72,
+  "generatedAt": "2026-10-05T12:14:51.094574+00:00",
+  "count": 73,
   "sources": [
     {
       "source": "isna",
@@ -21,11 +21,26 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -86,
+      "items": -85,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2434000",
+      "title": "جیمز مسن‌ترین بازیکن NBA",
+      "summary": "فوق ستاره تیم بسکتبال فیلادلفیا برای چهارمین فصل متوالی مسن‌ترین بازیکن NBA است.",
+      "url": "https://www.varzesh3.com/news/2434000/جیمز-مسن-ترین-بازیکن-nba",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/04/B/wsbckgmk.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-05T10:02:27Z",
+      "views": "1.4K",
+      "comments": "1"
+    },
     {
       "id": "varzesh3-2433941",
       "title": "عباسی: مقابل پرسپولیس حرف‌های زیادی داریم",
@@ -38,8 +53,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-05T04:14:00Z",
-      "views": "4.4K",
-      "comments": "7"
+      "views": "8.1K",
+      "comments": "11"
     },
     {
       "id": "varzesh3-2433843",
@@ -53,8 +68,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T14:38:15Z",
-      "views": "2.5K",
-      "comments": "12"
+      "views": "2.9K",
+      "comments": "13"
     },
     {
       "id": "varzesh3-2433816",
@@ -68,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T12:00:58Z",
-      "views": "1.8K",
+      "views": "1.9K",
       "comments": "1"
     },
     {
@@ -83,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T11:49:41Z",
-      "views": "2.1K",
+      "views": "2.3K",
       "comments": "3"
     },
     {
@@ -98,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T08:18:44Z",
-      "views": "2.4K",
+      "views": "2.5K",
       "comments": "2"
     },
     {
@@ -113,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T07:44:03Z",
-      "views": "4.6K",
+      "views": "4.8K",
       "comments": "4"
     },
     {
@@ -188,7 +203,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-01T15:44:11Z",
-      "views": "18.1K",
+      "views": "18.2K",
       "comments": "7"
     },
     {
@@ -247,7 +262,7 @@
       "category": "ورزشی",
       "publishedAt": "2026-10-01T08:33:40Z",
       "views": "8.4K",
-      "comments": "15"
+      "comments": "16"
     },
     {
       "id": "varzesh3-2432965",
