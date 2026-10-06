@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-05T18:14:12.122323+00:00",
-  "count": 70,
+  "generatedAt": "2026-10-06T00:16:27.857863+00:00",
+  "count": 69,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 143
+      "items": 144
     },
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -90,
+      "items": -92,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,7 +38,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-05T10:02:27Z",
-      "views": "3.8K",
+      "views": "4.8K",
       "comments": "1"
     },
     {
@@ -53,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-05T04:14:00Z",
-      "views": "9.3K",
+      "views": "9.8K",
       "comments": "11"
     },
     {
@@ -68,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T14:38:15Z",
-      "views": "3.1K",
+      "views": "3.2K",
       "comments": "16"
     },
     {
@@ -98,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T11:49:41Z",
-      "views": "2.5K",
+      "views": "2.7K",
       "comments": "3"
     },
     {
@@ -113,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T08:18:44Z",
-      "views": "2.6K",
+      "views": "2.8K",
       "comments": "2"
     },
     {
@@ -128,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T07:44:03Z",
-      "views": "5K",
+      "views": "5.2K",
       "comments": "4"
     },
     {
@@ -831,21 +831,6 @@
       "publishedAt": "2026-09-22T06:51:32Z",
       "views": "3.5K",
       "comments": "0"
-    },
-    {
-      "id": "varzesh3-2430810",
-      "title": "شروع طوفانی بسکتبال سه به سه با شکست چین!",
-      "summary": "تیم پسران بسکتبال سه به سه ایران با شکست چین شرو ع فوق‌العاده‌ای در بازی‌های آسیایی داشت.",
-      "url": "https://www.varzesh3.com/news/2430810/شروع-طوفانی-بسکتبال-سه-به-سه-با-شکست-چین",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/22/B/a4wasil0.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-22T04:37:30Z",
-      "views": "4.4K",
-      "comments": "6"
     },
     {
       "id": "bbc-da611dd70844",
