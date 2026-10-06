@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-06T06:14:03.824580+00:00",
-  "count": 68,
+  "generatedAt": "2026-10-06T12:13:35.831127+00:00",
+  "count": 69,
   "sources": [
     {
       "source": "isna",
@@ -21,11 +21,26 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -93,
+      "items": -92,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2434224",
+      "title": "فوری: اخراج صنعت نفت از هتل!",
+      "summary": "اعضای تیم صنعت نفت آبادان در آستانه هفته هشتم لیگ برتر با بلاتکلیفی باورنکردنی مواجه شده‌اند.",
+      "url": "https://www.varzesh3.com/news/2434224/فوری-اخراج-صنعت-نفت-از-هتل",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/12/D/xokoifxi.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-06T10:00:07Z",
+      "views": "20.7K",
+      "comments": "52"
+    },
     {
       "id": "varzesh3-2434168",
       "title": "حضور لژیونر بسکتبال ایران در لیگ صربستان",
@@ -38,8 +53,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T05:21:32Z",
-      "views": "644",
-      "comments": "0"
+      "views": "3.3K",
+      "comments": "1"
     },
     {
       "id": "varzesh3-2434000",
@@ -53,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-05T10:02:27Z",
-      "views": "5.5K",
+      "views": "6.2K",
       "comments": "1"
     },
     {
@@ -68,8 +83,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-05T04:14:00Z",
-      "views": "10.1K",
-      "comments": "11"
+      "views": "10.3K",
+      "comments": "12"
     },
     {
       "id": "varzesh3-2433843",
@@ -83,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T14:38:15Z",
-      "views": "3.2K",
+      "views": "3.3K",
       "comments": "16"
     },
     {
@@ -113,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T11:49:41Z",
-      "views": "2.7K",
+      "views": "2.8K",
       "comments": "3"
     },
     {
@@ -143,7 +158,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T07:44:03Z",
-      "views": "5.2K",
+      "views": "5.3K",
       "comments": "4"
     },
     {
@@ -291,7 +306,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-30T17:06:19Z",
-      "views": "22.1K",
+      "views": "22.2K",
       "comments": "8"
     },
     {
