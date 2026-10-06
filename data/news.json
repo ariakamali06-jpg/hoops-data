@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-06T00:16:27.857863+00:00",
-  "count": 69,
+  "generatedAt": "2026-10-06T06:14:03.824580+00:00",
+  "count": 68,
   "sources": [
     {
       "source": "isna",
@@ -21,11 +21,26 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -92,
+      "items": -93,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2434168",
+      "title": "حضور لژیونر بسکتبال ایران در لیگ صربستان",
+      "summary": "‏سالار طاهری، ملی‌پوش جوان بسکتبال ایران، در هفته نخست لیگ صربستان ۲۰ دقیقه برای تامیش به میدان رفت و با کارایی ۱۸ عملکرد مطلوبی ثبت کرد.",
+      "url": "https://www.varzesh3.com/news/2434168/حضور-لژیونر-بسکتبال-ایران-در-لیگ-صربستان",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/06/B/mlp15zxt.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-06T05:21:32Z",
+      "views": "644",
+      "comments": "0"
+    },
     {
       "id": "varzesh3-2434000",
       "title": "جیمز مسن‌ترین بازیکن NBA",
@@ -38,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-05T10:02:27Z",
-      "views": "4.8K",
+      "views": "5.5K",
       "comments": "1"
     },
     {
@@ -53,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-05T04:14:00Z",
-      "views": "9.8K",
+      "views": "10.1K",
       "comments": "11"
     },
     {
@@ -83,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T12:00:58Z",
-      "views": "1.9K",
+      "views": "2K",
       "comments": "1"
     },
     {
@@ -741,36 +756,6 @@
       "publishedAt": "2026-09-23T22:01:52Z",
       "views": "7K",
       "comments": "1"
-    },
-    {
-      "id": "varzesh3-2431209",
-      "title": "مصدومیت ستاره بسکتبال زنان: تمرین و مسابقه ممنوع!",
-      "summary": "‏دکتر مجید صادقی با تشریح آخرین وضعیت مصدومیت فرناز خدامرادی، از ممنوعیت کامل تمرین و بازی برای این ملی‌پوش خبر داد.",
-      "url": "https://www.varzesh3.com/news/2431209/مصدومیت-ستاره-بسکتبال-زنان-تمرین-و-مسابقه-ممنوع",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/23/D/g1hcfnzb.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-23T15:46:01Z",
-      "views": "7.6K",
-      "comments": "4"
-    },
-    {
-      "id": "varzesh3-2431202",
-      "title": "بسکتبال ایران در چین ترند شد!",
-      "summary": "‏فریادهای سرمربی تیم ملی بسکتبال چین در جریان دیدار رده‌بندی بازی‌های آسیایی مقابل ایران، پس از شکست چین به سوژه داغ شبکه‌های اجتماعی تبدیل شد و در حالی که ادعا می‌کرد ایران شوت‌زن ندارد بازیکنان 15 پرتاب سه امتیازی ثبت کردند.",
-      "url": "https://www.varzesh3.com/news/2431202/بسکتبال-ایران-در-چین-ترند-شد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/23/D/nmkk0fdx.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-23T15:04:51Z",
-      "views": "21.1K",
-      "comments": "16"
     },
     {
       "id": "varzesh3-2431197",
