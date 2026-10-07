@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-07T12:15:35.712297+00:00",
-  "count": 71,
+  "generatedAt": "2026-10-07T18:13:37.797360+00:00",
+  "count": 69,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 139
+      "items": 138
     },
     {
       "source": "bbc",
@@ -27,17 +27,34 @@
   ],
   "news": [
     {
-      "id": "isna-99232e455f25",
-      "title": "درود به مدیران توانمندی که با این قدرت شرایط اسفناک سقوط را برای نفت آبادان فراهم می‌کنند!",
-      "summary": "یک پیشکسوت فوتبال با اشاره به وضعیت بحرانی در نفت آبادان، گفت: باید درود فرستاد به مدیران توانمندی که با این قدرت شرایط اسفناک سقوط را برای تیم نعت نفت آبادان فراهم می‌کنند.",
-      "url": "https://www.isna.ir/news/1405071510141/%D8%AF%D8%B1%D9%88%D8%AF-%D8%A8%D9%87-%D9%85%D8%AF%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D9%88%D8%A7%D9%86%D9%85%D9%86%D8%AF%DB%8C-%DA%A9%D9%87-%D8%A8%D8%A7-%D8%A7%DB%8C%D9%86-%D9%82%D8%AF%D8%B1%D8%AA-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%D8%A7%D8%B3%D9%81%D9%86%D8%A7%DA%A9-%D8%B3%D9%82%D9%88%D8%B7-%D8%B1%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C",
-      "imageUrl": "https://cdn.isna.ir/d/off/khouzestan/2019/09/25/4/61444701.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
+      "id": "varzesh3-2434528",
+      "title": "توقف رویای NBA در اروپا: آمریکایی‌ها استعمار می‌خواهند!",
+      "summary": "‏۱۳ باشگاه سهام‌دار یورولیگ در پاسخی قاطع، پیشنهاد مشارکت NBA برای ایجاد یک لیگ رقیب در اروپا را رد کردند؛ پیشنهادی که مدیران اروپایی آن را استعماری توصیف کرده‌اند.",
+      "url": "https://www.varzesh3.com/news/2434528/توقف-رویای-nba-در-اروپا-آمریکایی-ها-استعمار-می-خواهند",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/07/D/41nj1rf3.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
       "language": "fa",
-      "category": "استان‌ها > خوزستان",
-      "publishedAt": "2026-10-07T12:10:29+00:00"
+      "category": "ورزشی",
+      "publishedAt": "2026-10-07T16:46:06Z",
+      "views": "981",
+      "comments": "2"
+    },
+    {
+      "id": "varzesh3-2434511",
+      "title": "پیروزی نانسی در لیگ اروپا با لژیونر ایرانی",
+      "summary": "محمد امینی، ملی‌پوش بسکتبال ایران، در نخستین بازی خود برای نانسی فرانسه در جام اروپا، ۲۱ دقیقه بازی کرد و در پیروزی این تیم نقش‌ آفرینی کرد.",
+      "url": "https://www.varzesh3.com/news/2434511/پیروزی-نانسی-در-لیگ-اروپا-با-لژیونر-ایرانی",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/07/D/skwckrvg.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-07T15:23:52Z",
+      "views": "3K",
+      "comments": "4"
     },
     {
       "id": "varzesh3-2434339",
@@ -51,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T17:26:00Z",
-      "views": "1.5K",
+      "views": "1.7K",
       "comments": "4"
     },
     {
@@ -66,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T16:50:19Z",
-      "views": "20K",
+      "views": "20.2K",
       "comments": "6"
     },
     {
@@ -81,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T16:18:19Z",
-      "views": "5.6K",
+      "views": "7.1K",
       "comments": "2"
     },
     {
@@ -96,8 +113,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T15:48:38Z",
-      "views": "6K",
-      "comments": "11"
+      "views": "6.3K",
+      "comments": "12"
     },
     {
       "id": "varzesh3-2434315",
@@ -111,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T15:46:50Z",
-      "views": "3.2K",
+      "views": "3.4K",
       "comments": "2"
     },
     {
@@ -126,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T10:00:07Z",
-      "views": "35.1K",
+      "views": "35.4K",
       "comments": "83"
     },
     {
@@ -141,7 +158,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T05:21:32Z",
-      "views": "4.6K",
+      "views": "4.9K",
       "comments": "2"
     },
     {
@@ -158,21 +175,6 @@
       "publishedAt": "2026-10-05T10:02:27Z",
       "views": "6.8K",
       "comments": "2"
-    },
-    {
-      "id": "varzesh3-2433941",
-      "title": "عباسی: مقابل پرسپولیس حرف‌های زیادی داریم",
-      "summary": "مدافع صنعت نفت آبادان معتقد است پیروزی تدارکاتی مقابل نساجی، نشان‌دهنده آمادگی و هماهنگی بیشتر شاگردان محمد نوری برای شروع دوباره لیگ برتر است.",
-      "url": "https://www.varzesh3.com/news/2433941/عباسی-مقابل-پرسپولیس-حرف-های-زیادی-داریم",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/05/A/zrxp1idk.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-05T04:14:00Z",
-      "views": "10.6K",
-      "comments": "13"
     },
     {
       "id": "varzesh3-2433843",
@@ -216,7 +218,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T11:49:41Z",
-      "views": "2.9K",
+      "views": "3K",
       "comments": "3"
     },
     {
@@ -246,7 +248,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T07:44:03Z",
-      "views": "5.4K",
+      "views": "5.5K",
       "comments": "4"
     },
     {
@@ -801,21 +803,6 @@
       "comments": "18"
     },
     {
-      "id": "varzesh3-2431353",
-      "title": "‏تایلند حریف بسکتبال 3*3 زنان در یک‌چهارم نهایی",
-      "summary": "تیم بسکتبال سه به سه ایران امروز ظهر برای رسیدن به نیمه نهایی مقابل تایلند قرار خواهد گرفت.",
-      "url": "https://www.varzesh3.com/news/2431353/تایلند-حریف-بسکتبال-3-3-زنان-در-یک-چهارم-نهایی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/24/B/3dwjnqex.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-24T06:25:26Z",
-      "views": "4.9K",
-      "comments": "5"
-    },
-    {
       "id": "varzesh3-2431197",
       "title": "حریفان ایران در بسکتبال 3*3 مشخص شد",
       "summary": "تیم‌های ملی بسکتبال سه‌نفره زنان و مردان ایران پس از صعود مقتدرانه از مرحله گروهی، فردا در رقابت‌های حساس مرحله یک‌چهارم نهایی بازی‌های آسیایی ناگویا به میدان می‌روند.",
@@ -844,21 +831,6 @@
       "publishedAt": "2026-09-23T11:15:12Z",
       "views": "7K",
       "comments": "18"
-    },
-    {
-      "id": "varzesh3-2430873",
-      "title": "مصدومیت نگران‌کننده ستاره بسکتبال دختران ایران",
-      "summary": "فرناز خدامرادی، بازیکن تیم ملی بسکتبال سه‌نفره زنان ایران، در جریان دیدار برابر ژاپن در بازی‌های آسیایی آیچی-ناگویا ۲۰۲۶ از ناحیه زانو دچار مصدومیت شد.",
-      "url": "https://www.varzesh3.com/news/2430873/مصدومیت-نگران-کننده-ستاره-بسکتبال-دختران-ایران",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/22/B/myognq0i.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-22T09:17:18Z",
-      "views": "7.7K",
-      "comments": "9"
     },
     {
       "id": "bbc-da611dd70844",
