@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-07T18:13:37.797360+00:00",
+  "generatedAt": "2026-10-08T00:15:15.846415+00:00",
   "count": 69,
   "sources": [
     {
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 138
+      "items": 136
     },
     {
       "source": "bbc",
@@ -21,11 +21,56 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -86,
+      "items": -84,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2434586",
+      "title": "دوایت بایکس تماشاگر سومین برد دختران استقلال",
+      "summary": "ستاره آمریکایی تیم بسکتبال استقلال از نزدیک سومین پیروزی متوالی تیم هاکی روی یخ دختران این باشگاه را تماشا کرد.",
+      "url": "https://www.varzesh3.com/news/2434586/دوایت-بایکس-تماشاگر-سومین-برد-دختران-استقلال",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/08/A/kgk1jwpo.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-07T21:50:50Z",
+      "views": "722",
+      "comments": "2"
+    },
+    {
+      "id": "varzesh3-2434575",
+      "title": "تریر با ستاره ایرانی قهرمان گرجستان را جارو کرد!",
+      "summary": "تیم بسکتبال گلادیتورز تریر در اولین حضور خود در رقابت‌های اروپایی پس از ۲۵ سال دوری با درخشش بهنام یخچالی برد مهمی را کسب کرد.",
+      "url": "https://www.varzesh3.com/news/2434575/تریر-با-ستاره-ایرانی-قهرمان-گرجستان-را-جارو-کرد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/08/A/dpkk0kno.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-07T21:31:51Z",
+      "views": "1.1K",
+      "comments": "1"
+    },
+    {
+      "id": "varzesh3-2434567",
+      "title": "انتقاد اسطوره بسکتبال از اِن‌بی‌اِی: اروپا بهتر است!",
+      "summary": "شکیل اونیل، اسطوره بسکتبال، در مصاحبه‌ای از ان‌بی‌ای انتقاد کرد.",
+      "url": "https://www.varzesh3.com/news/2434567/انتقاد-اسطوره-بسکتبال-از-اِن-بی-اِی-اروپا-بهتر-است",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/08/A/sp2dnsfn.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-07T20:32:31Z",
+      "views": "1.6K",
+      "comments": "2"
+    },
     {
       "id": "varzesh3-2434528",
       "title": "توقف رویای NBA در اروپا: آمریکایی‌ها استعمار می‌خواهند!",
@@ -38,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T16:46:06Z",
-      "views": "981",
+      "views": "2.9K",
       "comments": "2"
     },
     {
@@ -53,8 +98,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T15:23:52Z",
-      "views": "3K",
-      "comments": "4"
+      "views": "5.1K",
+      "comments": "5"
     },
     {
       "id": "varzesh3-2434339",
@@ -68,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T17:26:00Z",
-      "views": "1.7K",
+      "views": "1.8K",
       "comments": "4"
     },
     {
@@ -98,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T16:18:19Z",
-      "views": "7.1K",
+      "views": "8.3K",
       "comments": "2"
     },
     {
@@ -113,7 +158,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T15:48:38Z",
-      "views": "6.3K",
+      "views": "6.6K",
       "comments": "12"
     },
     {
@@ -128,7 +173,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T15:46:50Z",
-      "views": "3.4K",
+      "views": "3.7K",
       "comments": "2"
     },
     {
@@ -143,7 +188,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T10:00:07Z",
-      "views": "35.4K",
+      "views": "35.5K",
       "comments": "83"
     },
     {
@@ -158,7 +203,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T05:21:32Z",
-      "views": "4.9K",
+      "views": "5.1K",
       "comments": "2"
     },
     {
@@ -293,7 +338,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-02T15:33:32Z",
-      "views": "9.5K",
+      "views": "9.6K",
       "comments": "3"
     },
     {
@@ -353,21 +398,6 @@
       "language": "en",
       "category": "Basketball",
       "publishedAt": "2026-10-01T09:36:13+00:00"
-    },
-    {
-      "id": "varzesh3-2433088",
-      "title": "بازی مرگ و زندگی گرگان برای رسیدن به نیمه‌نهایی!",
-      "summary": "شهرداری گرگان امروز مقابل تیم العلا عربستان قرار می‌گیرد و برنده این مسابقه به مرحله نیمه نهایی مسابقات سوپرلیگ غرب آسیا خواهد رفت.",
-      "url": "https://www.varzesh3.com/news/2433088/بازی-مرگ-و-زندگی-گرگان-برای-رسیدن-به-نیمه-نهایی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/01/B/43ysnlzr.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-01T09:01:53Z",
-      "views": "4.8K",
-      "comments": "4"
     },
     {
       "id": "varzesh3-2433075",
@@ -728,21 +758,6 @@
       "publishedAt": "2026-09-24T22:27:55+00:00"
     },
     {
-      "id": "varzesh3-2431515",
-      "title": "بسکتبالیست‌های ایران به ژاپن میزبان رحم نکردند!",
-      "summary": "تیم بسکتبال سه به سه ایران با نتیجه بیست و یک بر سه ژاپن را شکست داد و عملا حریفش را نابود کرد، پسران ایران شانس جدی کسب مدال هستند و فردا مقابل قطر در نیمه نهایی به زمین خواهند رفت.",
-      "url": "https://www.varzesh3.com/news/2431515/بسکتبالیست-های-ایران-به-ژاپن-میزبان-رحم-نکردند",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/24/A/tb1n5sja.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-24T20:01:49Z",
-      "views": "20.1K",
-      "comments": "12"
-    },
-    {
       "id": "varzesh3-2431450",
       "title": "اشک‌های دختران شایسته ایران پای سکو (عکس)",
       "summary": "دختران بسکتبال سه به سه به عجیب‌ترین شکل ممکن از مسابقات کنار رفتند، آنها دقایقی از مسابقه با دو بازیکن در زمین حاضر بودند و یک اتفاق تلخ و بدشانسی بزرگ باعث حذف آنها شد.",
@@ -816,21 +831,6 @@
       "publishedAt": "2026-09-23T14:29:01Z",
       "views": "11.7K",
       "comments": "11"
-    },
-    {
-      "id": "varzesh3-2431157",
-      "title": "صعود قاطعانه بسکتبال ۳x۳ به جمع ۸ تیم برتر",
-      "summary": "‏تیم ملی بسکتبال سه‌نفره مردان ایران با شکست قاطع مالزی و کسب سومین پیروزی متوالی، مقتدرانه راهی مرحله یک‌چهارم نهایی بازی‌های آسیایی ۲۰۲۶ شد.",
-      "url": "https://www.varzesh3.com/news/2431157/صعود-قاطعانه-بسکتبال-۳x۳-به-جمع-۸-تیم-برتر",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/23/C/yjowhodi.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-23T11:15:12Z",
-      "views": "7K",
-      "comments": "18"
     },
     {
       "id": "bbc-da611dd70844",
