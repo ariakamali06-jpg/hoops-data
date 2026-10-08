@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-08T00:15:15.846415+00:00",
-  "count": 69,
+  "generatedAt": "2026-10-08T06:15:29.596480+00:00",
+  "count": 67,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 136
+      "items": 140
     },
     {
       "source": "bbc",
@@ -21,11 +21,26 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -84,
+      "items": -90,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2434487",
+      "title": "رسمی: موناکو اعلام ورشکستگی کرد",
+      "summary": "باشگاه موناکو از طریق شبکه‌های اجتماعی اعلام کرد که اعلام ورشکستگی کرده و پروژه‌ای را که بیش از یک دهه در بسکتبال فرانسه حضور داشت، منحل می‌کند.",
+      "url": "https://www.varzesh3.com/news/2434487/رسمی-موناکو-اعلام-ورشکستگی-کرد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/07/C/3edqmdmy.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-08T03:15:19Z",
+      "views": "12.5K",
+      "comments": "7"
+    },
     {
       "id": "varzesh3-2434586",
       "title": "دوایت بایکس تماشاگر سومین برد دختران استقلال",
@@ -38,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T21:50:50Z",
-      "views": "722",
+      "views": "2.5K",
       "comments": "2"
     },
     {
@@ -53,8 +68,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T21:31:51Z",
-      "views": "1.1K",
-      "comments": "1"
+      "views": "3.8K",
+      "comments": "2"
     },
     {
       "id": "varzesh3-2434567",
@@ -68,8 +83,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T20:32:31Z",
-      "views": "1.6K",
-      "comments": "2"
+      "views": "3.1K",
+      "comments": "3"
     },
     {
       "id": "varzesh3-2434528",
@@ -83,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T16:46:06Z",
-      "views": "2.9K",
+      "views": "3.7K",
       "comments": "2"
     },
     {
@@ -98,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T15:23:52Z",
-      "views": "5.1K",
+      "views": "5.8K",
       "comments": "5"
     },
     {
@@ -128,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T16:50:19Z",
-      "views": "20.2K",
+      "views": "20.3K",
       "comments": "6"
     },
     {
@@ -143,7 +158,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T16:18:19Z",
-      "views": "8.3K",
+      "views": "8.7K",
       "comments": "2"
     },
     {
@@ -158,7 +173,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T15:48:38Z",
-      "views": "6.6K",
+      "views": "6.8K",
       "comments": "12"
     },
     {
@@ -188,7 +203,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T10:00:07Z",
-      "views": "35.5K",
+      "views": "35.6K",
       "comments": "83"
     },
     {
@@ -203,7 +218,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T05:21:32Z",
-      "views": "5.1K",
+      "views": "5.4K",
       "comments": "2"
     },
     {
@@ -278,7 +293,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T08:18:44Z",
-      "views": "2.8K",
+      "views": "2.9K",
       "comments": "2"
     },
     {
@@ -340,21 +355,6 @@
       "publishedAt": "2026-10-02T15:33:32Z",
       "views": "9.6K",
       "comments": "3"
-    },
-    {
-      "id": "varzesh3-2433184",
-      "title": "شاگردان حاتمی برای این مسابقات آماده نبودند",
-      "summary": "شهرداری گرگان با شکست مقابل تیم عربستانی، از مسابقات سوپرلیگ غرب آسیا کنار رفت.",
-      "url": "https://www.varzesh3.com/news/2433184/شاگردان-حاتمی-برای-این-مسابقات-آماده-نبودند",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/01/D/ytqzzm0n.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-01T17:18:10Z",
-      "views": "7.5K",
-      "comments": "9"
     },
     {
       "id": "varzesh3-2433165",
@@ -758,21 +758,6 @@
       "publishedAt": "2026-09-24T22:27:55+00:00"
     },
     {
-      "id": "varzesh3-2431450",
-      "title": "اشک‌های دختران شایسته ایران پای سکو (عکس)",
-      "summary": "دختران بسکتبال سه به سه به عجیب‌ترین شکل ممکن از مسابقات کنار رفتند، آنها دقایقی از مسابقه با دو بازیکن در زمین حاضر بودند و یک اتفاق تلخ و بدشانسی بزرگ باعث حذف آنها شد.",
-      "url": "https://www.varzesh3.com/news/2431450/اشک-های-دختران-ایران-برای-مدالی-که-در-مشت-شان-بود",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/24/C/t00hyarh.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-24T13:25:54Z",
-      "views": "52.1K",
-      "comments": "71"
-    },
-    {
       "id": "varzesh3-2431429",
       "title": "صعود بسکتبال 3x3 ایران به نیمه نهایی",
       "summary": "تیم ملی بسکتبال سه‌نفره مردان ایران در مرحله یک‌چهارم نهایی بازی‌های آسیایی ناگویا با نمایشی مقتدرانه مقابل ژاپن به پیروزی رسید و با نتیجه ۲۱ بر ۳ راهی مرحله نیمه‌نهایی شد.",
@@ -816,21 +801,6 @@
       "publishedAt": "2026-09-24T07:47:04Z",
       "views": "13.1K",
       "comments": "18"
-    },
-    {
-      "id": "varzesh3-2431197",
-      "title": "حریفان ایران در بسکتبال 3*3 مشخص شد",
-      "summary": "تیم‌های ملی بسکتبال سه‌نفره زنان و مردان ایران پس از صعود مقتدرانه از مرحله گروهی، فردا در رقابت‌های حساس مرحله یک‌چهارم نهایی بازی‌های آسیایی ناگویا به میدان می‌روند.",
-      "url": "https://www.varzesh3.com/news/2431197/حریفان-ایران-در-بسکتبال-3-3-مشخص-شد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/23/C/1jfjgjsz.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-23T14:29:01Z",
-      "views": "11.7K",
-      "comments": "11"
     },
     {
       "id": "bbc-da611dd70844",
