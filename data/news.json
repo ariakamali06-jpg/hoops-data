@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-08T06:15:29.596480+00:00",
-  "count": 67,
+  "generatedAt": "2026-10-08T12:14:53.789167+00:00",
+  "count": 70,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 140
+      "items": 138
     },
     {
       "source": "bbc",
@@ -21,11 +21,69 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -90,
+      "items": -86,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "isna-59718684e034",
+      "title": "نوری: بازی سختی با پرسپولیس داریم‌",
+      "summary": "سرمربی تیم فوتبال صنعت‌نفت آبادان می‌گوید تیمش بازی سختی مقابل پرسپولیس در پیش دارد.",
+      "url": "https://www.isna.ir/news/1405071610712/%D9%86%D9%88%D8%B1%DB%8C-%D8%A8%D8%A7%D8%B2%DB%8C-%D8%B3%D8%AE%D8%AA%DB%8C-%D8%A8%D8%A7-%D9%BE%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3-%D8%AF%D8%A7%D8%B1%DB%8C%D9%85",
+      "imageUrl": "https://cdn.isna.ir/d/2022/08/14/4/62349220.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "ورزشی > فوتبال، فوتسال",
+      "publishedAt": "2026-10-08T11:42:04+00:00"
+    },
+    {
+      "id": "varzesh3-2434671",
+      "title": "نفت آبادان با ترکیبی ترسناک در اولین بازی پیش فصل!",
+      "summary": "پالایش نفت آبادان با ترکیبی از ستاره‌های ملی‌پوش و مهره‌های باتجربه، اولین بازی پیش‌فصل خود را مقابل گلنور اصفهان آغاز کرد تا پیش از تقابل با استقلال به مرز آمادگی برسد.",
+      "url": "https://www.varzesh3.com/news/2434671/نفت-آبادان-با-ترکیبی-ترسناک-در-اولین-بازی-پیش-فصل",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/08/C/isdf3ggv.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-08T11:24:38Z",
+      "views": "549",
+      "comments": "2"
+    },
+    {
+      "id": "varzesh3-2434663",
+      "title": "تنفر مایکل جردن از بسکتبال اینستاگرامی!",
+      "summary": "مایکل جردن که به اعتقاد بسیاری از هواداران بسکتبال بهترین بازیکن تاریخ است نگاهی متفاوت به تفاوت‌های دوران خود و عصر حاضر انداخت.",
+      "url": "https://www.varzesh3.com/news/2434663/تنفر-مایکل-جردن-از-بسکتبال-اینستاگرامی",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/08/C/yisft0dh.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-08T10:19:14Z",
+      "views": "1.3K",
+      "comments": "6"
+    },
+    {
+      "id": "varzesh3-2434654",
+      "title": "بازگشت پادشاه سه امتیازی بعد از 528 روز!",
+      "summary": "دیمین لیلارد پس از ۵۲۸ روز دوری، با هدفی بزرگ به پرتالند بازگشت تا در سال ۲۰۲۷ رکورد تاریخی مسابقات سه امتیازی NBA را بشکند.",
+      "url": "https://www.varzesh3.com/news/2434654/بازگشت-پادشاه-سه-امتیازی-بعد-از-528-روز",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/08/B/d10ddw3i.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-08T08:58:58Z",
+      "views": "3.8K",
+      "comments": "7"
+    },
     {
       "id": "varzesh3-2434487",
       "title": "رسمی: موناکو اعلام ورشکستگی کرد",
@@ -38,8 +96,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T03:15:19Z",
-      "views": "12.5K",
-      "comments": "7"
+      "views": "25.4K",
+      "comments": "13"
     },
     {
       "id": "varzesh3-2434586",
@@ -53,7 +111,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T21:50:50Z",
-      "views": "2.5K",
+      "views": "3.4K",
       "comments": "2"
     },
     {
@@ -68,8 +126,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T21:31:51Z",
-      "views": "3.8K",
-      "comments": "2"
+      "views": "5K",
+      "comments": "3"
     },
     {
       "id": "varzesh3-2434567",
@@ -83,7 +141,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T20:32:31Z",
-      "views": "3.1K",
+      "views": "4K",
       "comments": "3"
     },
     {
@@ -98,7 +156,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T16:46:06Z",
-      "views": "3.7K",
+      "views": "4.2K",
       "comments": "2"
     },
     {
@@ -113,7 +171,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T15:23:52Z",
-      "views": "5.8K",
+      "views": "6.3K",
       "comments": "5"
     },
     {
@@ -128,7 +186,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T17:26:00Z",
-      "views": "1.8K",
+      "views": "1.9K",
       "comments": "4"
     },
     {
@@ -158,7 +216,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T16:18:19Z",
-      "views": "8.7K",
+      "views": "9.1K",
       "comments": "2"
     },
     {
@@ -173,7 +231,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T15:48:38Z",
-      "views": "6.8K",
+      "views": "7.1K",
       "comments": "12"
     },
     {
@@ -233,7 +291,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-05T10:02:27Z",
-      "views": "6.8K",
+      "views": "6.9K",
       "comments": "2"
     },
     {
@@ -683,21 +741,6 @@
       "publishedAt": "2026-09-25T15:33:50Z",
       "views": "15.9K",
       "comments": "13"
-    },
-    {
-      "id": "varzesh3-2431633",
-      "title": "بسکتبال با 9 بازیکن رکوردار معافیت از خدمت سربازی!",
-      "summary": "9 بازیکن تیم‌های ملی بسکتبال ایران با کسب دو مدال برنز از سربازی معاف شدند و یک رکورد جالب در کاروان ورزشی ایران ثبت کردند.",
-      "url": "https://www.varzesh3.com/news/2431633/بسکتبال-با-9-بازیکن-رکوردار-معافیت-از-خدمت-سربازی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/25/C/wdp4bk10.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-25T12:05:02Z",
-      "views": "15.2K",
-      "comments": "11"
     },
     {
       "id": "varzesh3-2431623",
