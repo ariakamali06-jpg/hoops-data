@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-09T06:15:10.722300+00:00",
+  "generatedAt": "2026-10-09T12:13:38.412832+00:00",
   "count": 67,
   "sources": [
     {
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 149
+      "items": 146
     },
     {
       "source": "bbc",
@@ -21,11 +21,82 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -99,
+      "items": -96,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2434978",
+      "title": "شروع عصر جدید در لیکرز: پسر جانشین پدر!",
+      "summary": "در روزهایی که لبران و برانی جیمز دیگر هم‌تیمی نیستند رقابت جالبی بین آنها در رسانه‌های بسکتبالی شکل گرفته است.",
+      "url": "https://www.varzesh3.com/news/2434978/شروع-عصر-جدید-در-لیکرز-پسر-جانشین-پدر",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/09/C/urwe5zdd.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-09T12:01:06Z",
+      "views": "307",
+      "comments": "0"
+    },
+    {
+      "id": "varzesh3-2434920",
+      "title": "خشم هواداران اتلتیکو از رفاقت مالک جدید با وینیسیوس!",
+      "summary": "هواداران اتلتیکو مادرید بعد از اعلام خبری مبنی بر اینکه شای الکساندر MVP بسکتبال آمریکا سهام این باشگاه را خریده است به این تصمیم اعتراض کردند.",
+      "url": "https://www.varzesh3.com/news/2434920/خشم-هواداران-اتلتیکو-از-رفاقت-مالک-جدید-با-وینیسیوس",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/09/B/vkjrrfxk.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-09T08:55:27Z",
+      "views": "2K",
+      "comments": "4"
+    },
+    {
+      "id": "varzesh3-2434910",
+      "title": "آرن داوودی با تیم ملی زیر 18 سال در لیگ برتر!",
+      "summary": "تیم ملی زیر 18 سال بسکتبال ایران به طور کامل به لیگ برتر بسکتبال منتقل شدند.",
+      "url": "https://www.varzesh3.com/news/2434910/آرن-داوودی-با-تیم-ملی-زیر-18-سال-در-لیگ-برتر",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/09/B/g4lcqq4s.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-09T08:09:11Z",
+      "views": "3K",
+      "comments": "0"
+    },
+    {
+      "id": "bbc-03a16270c2eb",
+      "title": "Wilson becomes first five-time MVP in WNBA history",
+      "summary": "A ceremony marking her record-extending fifth MVP award will take place on Friday night, but A'ja Wilson will not take part before a must-win game.",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/c8ly02yzg2w1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c97/live/51ce2c50-c3b1-11f1-a0b5-7b6bc14012a9.jpg",
+      "source": "bbc",
+      "sourceName": "بی‌بی‌سی ورزشی",
+      "sourceNameEn": "BBC Sport",
+      "language": "en",
+      "category": "Basketball",
+      "publishedAt": "2026-10-09T07:35:59+00:00"
+    },
+    {
+      "id": "bbc-da329cbe0d80",
+      "title": "James suffers defeat on 76ers debut in pre-season",
+      "summary": "LeBron James says it's \"going to take some time\" for his new team-mates to gel after suffering defeat on his debut for the Philadelphia 76ers in a pre-season game.",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/cqy0r90nxneeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ef/live/b01348b0-c3a5-11f1-b9ca-11d3cbe6f805.jpg",
+      "source": "bbc",
+      "sourceName": "بی‌بی‌سی ورزشی",
+      "sourceNameEn": "BBC Sport",
+      "language": "en",
+      "category": "Basketball",
+      "publishedAt": "2026-10-09T06:17:12+00:00"
+    },
     {
       "id": "varzesh3-2434811",
       "title": "طبیعت و نفت آبادان برنده روز اول پیش‌فصل!",
@@ -38,7 +109,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T18:36:23Z",
-      "views": "1.5K",
+      "views": "1.9K",
       "comments": "1"
     },
     {
@@ -53,8 +124,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T17:54:15Z",
-      "views": "32.9K",
-      "comments": "19"
+      "views": "33.9K",
+      "comments": "20"
     },
     {
       "id": "varzesh3-2434671",
@@ -68,7 +139,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T11:24:38Z",
-      "views": "4.3K",
+      "views": "4.7K",
       "comments": "3"
     },
     {
@@ -83,7 +154,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T10:19:14Z",
-      "views": "4.9K",
+      "views": "5.4K",
       "comments": "12"
     },
     {
@@ -98,7 +169,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T08:58:58Z",
-      "views": "8.9K",
+      "views": "9.5K",
       "comments": "8"
     },
     {
@@ -113,7 +184,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T03:15:19Z",
-      "views": "29K",
+      "views": "29.1K",
       "comments": "18"
     },
     {
@@ -128,7 +199,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T21:50:50Z",
-      "views": "4.3K",
+      "views": "4.4K",
       "comments": "2"
     },
     {
@@ -143,7 +214,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T21:31:51Z",
-      "views": "6.5K",
+      "views": "6.7K",
       "comments": "4"
     },
     {
@@ -158,7 +229,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T20:32:31Z",
-      "views": "5.2K",
+      "views": "5.4K",
       "comments": "3"
     },
     {
@@ -173,7 +244,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T16:46:06Z",
-      "views": "4.9K",
+      "views": "5.1K",
       "comments": "2"
     },
     {
@@ -188,7 +259,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T15:23:52Z",
-      "views": "7.1K",
+      "views": "7.2K",
       "comments": "5"
     },
     {
@@ -233,7 +304,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T16:18:19Z",
-      "views": "9.6K",
+      "views": "9.7K",
       "comments": "2"
     },
     {
@@ -309,7 +380,7 @@
       "category": "ورزشی",
       "publishedAt": "2026-10-04T14:38:15Z",
       "views": "3.4K",
-      "comments": "16"
+      "comments": "17"
     },
     {
       "id": "varzesh3-2433816",
@@ -368,7 +439,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T07:44:03Z",
-      "views": "5.5K",
+      "views": "5.6K",
       "comments": "4"
     },
     {
@@ -400,21 +471,6 @@
       "publishedAt": "2026-10-02T16:25:53Z",
       "views": "4.5K",
       "comments": "7"
-    },
-    {
-      "id": "varzesh3-2433395",
-      "title": "استوارت یک‌تنه گرگان را به ایران فرستاد!",
-      "summary": "در شب شکست ۹۹ بر ۸۴ شهرداری گرگان مقابل  ستاره آمریکایی عربستانی‌ها شب عجیبی داشت و به هرشکلی که دلش خواست امتیاز گرفت!",
-      "url": "https://www.varzesh3.com/news/2433395/استوارت-یک-تنه-گرگان-را-به-ایران-فرستاد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/02/D/klla2fyv.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-02T15:33:32Z",
-      "views": "9.6K",
-      "comments": "3"
     },
     {
       "id": "varzesh3-2433165",
@@ -685,21 +741,6 @@
       "comments": "13"
     },
     {
-      "id": "varzesh3-2431808",
-      "title": "ایران در فینال بسکتبال زنان ژاپن-کره نماینده دارد!",
-      "summary": "مهسا کارگری داور بسکتبال ایران بازی نهایی بین تیم های کره جنوبی و ژاپن را قضاوت خواهد کرد.",
-      "url": "https://www.varzesh3.com/news/2431808/ایران-در-فینال-بسکتبال-زنان-ژاپن-کره-نماینده-دارد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/26/B/osqxqxj5.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-26T07:18:09Z",
-      "views": "11.9K",
-      "comments": "2"
-    },
-    {
       "id": "varzesh3-2431796",
       "title": "غفاری: برای مدال پنج ماه از خانواده‌مان دور بودیم",
       "summary": "تیم ملی بسکتبال سه‌نفره ایران پس از ناکامی در نیمه‌نهایی، با جبران بدشانسی‌ها به مدال برنز بازی‌های آسیایی ناگویا رسید.",
@@ -728,21 +769,6 @@
       "publishedAt": "2026-09-26T06:01:17Z",
       "views": "6K",
       "comments": "3"
-    },
-    {
-      "id": "varzesh3-2431623",
-      "title": "رقیب ایران قهرمان بسکتبال زنان شد!",
-      "summary": "تیم بسکتبال سه به سه ژاپن که در مرحله گروهی مقابل ایران شکست خورده بود به مدال طلا بازی‌های آسیایی رسید.",
-      "url": "https://www.varzesh3.com/news/2431623/رقیب-ایران-قهرمان-بسکتبال-زنان-شد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/25/C/3xrn0adl.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-25T11:21:06Z",
-      "views": "16.2K",
-      "comments": "23"
     },
     {
       "id": "bbc-911018267eb9",
@@ -905,32 +931,6 @@
       "language": "en",
       "category": "Basketball",
       "publishedAt": "2026-08-24T12:24:00+00:00"
-    },
-    {
-      "id": "bbc-c08d3e252973",
-      "title": "Sex toys again thrown on court during WNBA matches",
-      "summary": "Chicago Sky guard Natasha Cloud brands spectators \"weird\" for throwing sex toys on court, disrupting matches on consecutive nights in the WNBA.",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/cp30e33kkxyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a8f/live/f2c7d8f0-9e03-11f1-afde-61b39e745f81.jpg",
-      "source": "bbc",
-      "sourceName": "بی‌بی‌سی ورزشی",
-      "sourceNameEn": "BBC Sport",
-      "language": "en",
-      "category": "Basketball",
-      "publishedAt": "2026-08-22T09:57:51+00:00"
-    },
-    {
-      "id": "bbc-4805d6951de2",
-      "title": "Buss trying to block her siblings' sale of family stake in Lakers",
-      "summary": "Los Angeles Lakers governor Jeanie Buss is trying to stop her siblings' sale of the family's remaining stake in the NBA franchise.",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/c5yvdz79w11o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46f6/live/20058780-9afe-11f1-a27d-25dca26018ed.jpg",
-      "source": "bbc",
-      "sourceName": "بی‌بی‌سی ورزشی",
-      "sourceNameEn": "BBC Sport",
-      "language": "en",
-      "category": "Basketball",
-      "publishedAt": "2026-08-18T13:39:42+00:00"
     },
     {
       "id": "bbc-fc2459776751",
