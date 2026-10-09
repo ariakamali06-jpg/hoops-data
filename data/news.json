@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-08T18:12:39.615116+00:00",
-  "count": 71,
+  "generatedAt": "2026-10-09T00:17:34.653216+00:00",
+  "count": 68,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 2
+      "items": 1
     },
     {
       "source": "varzesh3",
@@ -21,11 +21,39 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -95,
+      "items": -97,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "isna-91c9fbf98711",
+      "title": "دخالت مدیرعامل نساجی در مسائل فنی صحت دارد؟",
+      "summary": "در شرایطی که از ابتدای فصل بحث‌هایی درباره ورود شهاب زندی، مدیرعامل نساجی مازندران، به مسائل فنی این تیم مطرح بوده، انتشار ویدئویی از گفت‌وگوی او با سعید دقیقی پس از تساوی برابر ذوب‌آهن، بار دیگر این موضوع را به بحثی قابل توجه تبدیل کرده است؛ هرچند سرمربی جدید نساجی، ظاهرا مشکلی با این نوع همکاری ندارد و حتی از زوج خود با زندی به عنوان زوجی خفن یاد کرده است.",
+      "url": "https://www.isna.ir/news/1405071610884/%D8%AF%D8%AE%D8%A7%D9%84%D8%AA-%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84-%D9%86%D8%B3%D8%A7%D8%AC%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B3%D8%A7%D8%A6%D9%84-%D9%81%D9%86%DB%8C-%D8%B5%D8%AD%D8%AA-%D8%AF%D8%A7%D8%B1%D8%AF",
+      "imageUrl": "https://cdn.isna.ir/d/2026/08/28/4/63953111.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "ورزشی > فوتبال، فوتسال",
+      "publishedAt": "2026-10-08T19:30:00+00:00"
+    },
+    {
+      "id": "varzesh3-2434811",
+      "title": "طبیعت و نفت آبادان برنده روز اول پیش‌فصل!",
+      "summary": "طبیعت اسلامشهر و نفت آبادان با نمایشی مقتدرانه در بازی‌های فیزیکی پیروزی را از آن خود کردند.",
+      "url": "https://www.varzesh3.com/news/2434811/طبیعت-و-نفت-آبادان-برنده-روز-اول-پیش-فصل",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/08/D/14htn2wy.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-08T18:36:23Z",
+      "views": "1.2K",
+      "comments": "1"
+    },
     {
       "id": "varzesh3-2434801",
       "title": "کارشناسی جنجالی‌ترین صحنه امروز لیگ!",
@@ -38,49 +66,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T17:54:15Z",
-      "views": "5.3K",
-      "comments": "8"
-    },
-    {
-      "id": "isna-079c26606410",
-      "title": "بازگشت مدیرعامل مستعفی به باشگاه نفت آبادان",
-      "summary": "مدیرعامل مستعفی باشگاه نفت آبادان مجدداً به این باشگاه بازگشت.",
-      "url": "https://www.isna.ir/news/1405071610875/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84-%D9%85%D8%B3%D8%AA%D8%B9%D9%81%DB%8C-%D8%A8%D9%87-%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87-%D9%86%D9%81%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86",
-      "imageUrl": "https://cdn.isna.ir/d/2026/08/25/4/63947736.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
-      "language": "fa",
-      "category": "استان‌ها > خوزستان",
-      "publishedAt": "2026-10-08T17:36:47+00:00"
-    },
-    {
-      "id": "isna-b0042d1a6430",
-      "title": "دقیقی: درک می‌کنم که نساجی برای مردم شهر مهم است اما باید به من زمان بدهند",
-      "summary": "سعید دقیقی، سرمربی تیم نساجی پس از تساوی ۱ - ۱ مقابل ذوب آهن در هفته هشتم رقابت‌های لیگ برتر گفت: زوج من و زندی خفن خواهد بود و در ادامه بازی‌های خوبی را ارائه می‌دهیم.",
-      "url": "https://www.isna.ir/news/1405071610860/%D8%AF%D9%82%DB%8C%D9%82%DB%8C-%D8%AF%D8%B1%DA%A9-%D9%85%DB%8C-%DA%A9%D9%86%D9%85-%DA%A9%D9%87-%D9%86%D8%B3%D8%A7%D8%AC%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%B1%D8%AF%D9%85-%D8%B4%D9%87%D8%B1-%D9%85%D9%87%D9%85-%D8%A7%D8%B3%D8%AA-%D8%A7%D9%85%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D9%87",
-      "imageUrl": "https://cdn.isna.ir/d/2025/11/28/4/63670781.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
-      "language": "fa",
-      "category": "ورزشی > فوتبال، فوتسال",
-      "publishedAt": "2026-10-08T17:15:00+00:00"
-    },
-    {
-      "id": "varzesh3-2434671",
-      "title": "نفت آبادان با ترکیبی ترسناک در اولین بازی پیش فصل!",
-      "summary": "پالایش نفت آبادان با ترکیبی از ستاره‌های ملی‌پوش و مهره‌های باتجربه، اولین بازی پیش‌فصل خود را مقابل گلنور اصفهان آغاز کرد تا پیش از تقابل با استقلال به مرز آمادگی برسد.",
-      "url": "https://www.varzesh3.com/news/2434671/نفت-آبادان-با-ترکیبی-ترسناک-در-اولین-بازی-پیش-فصل",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/08/C/isdf3ggv.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-08T11:24:38Z",
-      "views": "3K",
-      "comments": "3"
+      "views": "30.6K",
+      "comments": "19"
     },
     {
       "id": "varzesh3-2434663",
@@ -94,8 +81,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T10:19:14Z",
-      "views": "3.5K",
-      "comments": "11"
+      "views": "4.6K",
+      "comments": "12"
     },
     {
       "id": "varzesh3-2434654",
@@ -109,7 +96,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T08:58:58Z",
-      "views": "6.8K",
+      "views": "8.2K",
       "comments": "8"
     },
     {
@@ -124,7 +111,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T03:15:19Z",
-      "views": "28.8K",
+      "views": "29K",
       "comments": "18"
     },
     {
@@ -139,7 +126,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T21:50:50Z",
-      "views": "3.9K",
+      "views": "4.2K",
       "comments": "2"
     },
     {
@@ -154,8 +141,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T21:31:51Z",
-      "views": "5.6K",
-      "comments": "3"
+      "views": "6.3K",
+      "comments": "4"
     },
     {
       "id": "varzesh3-2434567",
@@ -169,7 +156,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T20:32:31Z",
-      "views": "4.7K",
+      "views": "5.1K",
       "comments": "3"
     },
     {
@@ -184,7 +171,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T16:46:06Z",
-      "views": "4.5K",
+      "views": "4.7K",
       "comments": "2"
     },
     {
@@ -199,7 +186,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T15:23:52Z",
-      "views": "6.7K",
+      "views": "7.1K",
       "comments": "5"
     },
     {
@@ -244,7 +231,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T16:18:19Z",
-      "views": "9.5K",
+      "views": "9.6K",
       "comments": "2"
     },
     {
@@ -259,7 +246,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T15:48:38Z",
-      "views": "7.4K",
+      "views": "7.5K",
       "comments": "12"
     },
     {
@@ -274,8 +261,23 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T15:46:50Z",
-      "views": "3.8K",
+      "views": "3.9K",
       "comments": "2"
+    },
+    {
+      "id": "varzesh3-2434224",
+      "title": "فوری: اخراج صنعت نفت از هتل!",
+      "summary": "اعضای تیم صنعت نفت آبادان در آستانه هفته هشتم لیگ برتر با بلاتکلیفی باورنکردنی مواجه شده‌اند.",
+      "url": "https://www.varzesh3.com/news/2434224/فوری-اخراج-صنعت-نفت-از-هتل",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/12/D/xokoifxi.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-06T10:00:07Z",
+      "views": "35.7K",
+      "comments": "84"
     },
     {
       "id": "varzesh3-2434168",
@@ -741,36 +743,6 @@
       "comments": "3"
     },
     {
-      "id": "varzesh3-2431673",
-      "title": "خداحافظی یک ستاره دیگر از نسل طلایی بسکتبال!",
-      "summary": "آرن داوودی پیش از آغاز فصل جدید بسکتبال ایران رسما از دنیای بازیگری خداحافظی کرد و فصل جدید را در قامت سرمربی همراه تیم گلنور اصفهان خواهد بود.",
-      "url": "https://www.varzesh3.com/news/2431673/خداحافظی-یک-ستاره-دیگر-از-نسل-طلایی-بسکتبال",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/25/D/mk15lk5z.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-25T15:33:50Z",
-      "views": "15.9K",
-      "comments": "13"
-    },
-    {
-      "id": "varzesh3-2431633",
-      "title": "بسکتبال با 9 بازیکن رکوردار معافیت از خدمت سربازی!",
-      "summary": "9 بازیکن تیم‌های ملی بسکتبال ایران با کسب دو مدال برنز از سربازی معاف شدند و یک رکورد جالب در کاروان ورزشی ایران ثبت کردند.",
-      "url": "https://www.varzesh3.com/news/2431633/بسکتبال-با-9-بازیکن-رکوردار-معافیت-از-خدمت-سربازی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/25/C/wdp4bk10.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-25T12:05:02Z",
-      "views": "15.2K",
-      "comments": "11"
-    },
-    {
       "id": "varzesh3-2431623",
       "title": "رقیب ایران قهرمان بسکتبال زنان شد!",
       "summary": "تیم بسکتبال سه به سه ژاپن که در مرحله گروهی مقابل ایران شکست خورده بود به مدال طلا بازی‌های آسیایی رسید.",
@@ -784,21 +756,6 @@
       "publishedAt": "2026-09-25T11:21:06Z",
       "views": "16.2K",
       "comments": "23"
-    },
-    {
-      "id": "varzesh3-2431603",
-      "title": "بسکتبال ایران در مدال برنز دبل-دبل کرد",
-      "summary": "تیم بسکتبال سه به سه ایران با پیروزی مقابل فیلیپین به مدال برنز بازی‌های آسیایی رسید.",
-      "url": "https://www.varzesh3.com/news/2431603/بسکتبال-ایران-در-مدال-برنز-دبل-دبل-کرد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/25/C/v4gjfqhu.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-25T10:05:33Z",
-      "views": "13.5K",
-      "comments": "14"
     },
     {
       "id": "bbc-911018267eb9",
