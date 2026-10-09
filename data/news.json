@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-09T12:13:38.412832+00:00",
-  "count": 67,
+  "generatedAt": "2026-10-09T18:12:36.223661+00:00",
+  "count": 70,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 5
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 146
+      "items": 147
     },
     {
       "source": "bbc",
@@ -21,11 +21,76 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -96,
+      "items": -99,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "isna-8f4bd30f617a",
+      "title": "میثم تیموری: پرسپولیس با این تیمی که دارد می‌تواند قهرمان شود",
+      "summary": "بازیکن تیم نفت آبادان گفت: مشکلات مالی، بحث درون خانوادگی است و باید درون خانواده حل شود.",
+      "url": "https://www.isna.ir/news/1405071711261/%D9%85%DB%8C%D8%AB%D9%85-%D8%AA%DB%8C%D9%85%D9%88%D8%B1%DB%8C-%D9%BE%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3-%D8%A8%D8%A7-%D8%A7%DB%8C%D9%86-%D8%AA%DB%8C%D9%85%DB%8C-%DA%A9%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF-%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D8%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%B4%D9%88%D8%AF",
+      "imageUrl": "https://cdn.isna.ir/d/2026/10/09/4/64008096.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "ورزشی > ویدیوی ورزشی",
+      "publishedAt": "2026-10-09T17:20:00+00:00"
+    },
+    {
+      "id": "isna-b12ee4b0ae57",
+      "title": "فخرالدینی: با تغییر کادرفنی موافق نیستم/ از کار کردن با نوری لذت می‌برم",
+      "summary": "میلاد فخرالدینی، بازیکن صنعت نفت آبادان پس از شکست این تیم برابر پرسپولیس گفت: در هتل اجازه اسکان به بازیکنان ندادند و این اتفاق متاسفانه رخ داد. امکانات برای یک تیم خیلی تاثیر دارد. مردم آبادان شرایط سختی برای زندگی دارند و همین شرایط در تیم صنعت نفت هم وجود دارد. وقتی تیم نتیجه نمی‌گیرد، سرمربی تحت فشار قرار می‌گیرد. از کار کردن با محمدآقا (نوری) لذت می‌برم. من با تغییر کادرفنی موافق نیستم.",
+      "url": "https://www.isna.ir/news/1405071711263/%D9%81%D8%AE%D8%B1%D8%A7%D9%84%D8%AF%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%DA%A9%D8%A7%D8%AF%D8%B1%D9%81%D9%86%DB%8C-%D9%85%D9%88%D8%A7%D9%81%D9%82-%D9%86%DB%8C%D8%B3%D8%AA%D9%85-%D8%A7%D8%B2-%DA%A9%D8%A7%D8%B1-%DA%A9%D8%B1%D8%AF%D9%86-%D8%A8%D8%A7-%D9%86%D9%88%D8%B1%DB%8C",
+      "imageUrl": "https://cdn.isna.ir/d/2026/08/25/4/63947688.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "ورزشی > ویدیوی ورزشی",
+      "publishedAt": "2026-10-09T17:10:00+00:00"
+    },
+    {
+      "id": "isna-c87b0a8dff32",
+      "title": "علیپور: به دلیل مصدومیت در تیم ملی نبودم",
+      "summary": "علی علیپور، مهاجم پرسپولیس پس از پیروزی این تیم برابر صنعت نفت آبادان بیان کرد: بازی سختی برای ما بود و در دقایق آخر فشار وارد کردند. نظر کادرفنی تیم ملی مهم‌ترین چیز است و باید به آن احترام بگذاریم. در آخرین بازی دوستانه پرسپولیس من مصدوم شدم و نتوانستم در تیم ملی باشم. از برخی رسانه‌ها انتظار احترام دارم.",
+      "url": "https://www.isna.ir/news/1405071711272/%D8%B9%D9%84%DB%8C%D9%BE%D9%88%D8%B1-%D8%A8%D9%87-%D8%AF%D9%84%DB%8C%D9%84-%D9%85%D8%B5%D8%AF%D9%88%D9%85%DB%8C%D8%AA-%D8%AF%D8%B1-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C-%D9%86%D8%A8%D9%88%D8%AF%D9%85",
+      "imageUrl": "https://cdn.isna.ir/d/2026/08/29/4/63954540.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "ورزشی > ویدیوی ورزشی",
+      "publishedAt": "2026-10-09T16:59:24+00:00"
+    },
+    {
+      "id": "isna-13a29a9b3402",
+      "title": "نوری: برخی بازیکنان بی مسئولیت بازی می‌کنند/ شاید اصلا تیمی نتواند پرسپولیس را ببرد",
+      "summary": "سرمربی تیم فوتبال صنعت‌نفت آبادان می‌گوید تیمش روی اشتباهات فردی برابر پرسپولیس گل خورد.",
+      "url": "https://www.isna.ir/news/1405071711262/%D9%86%D9%88%D8%B1%DB%8C-%D8%A8%D8%B1%D8%AE%DB%8C-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86%D8%A7%D9%86-%D8%A8%DB%8C-%D9%85%D8%B3%D8%A6%D9%88%D9%84%DB%8C%D8%AA-%D8%A8%D8%A7%D8%B2%DB%8C-%D9%85%DB%8C-%DA%A9%D9%86%D9%86%D8%AF-%D8%B4%D8%A7%DB%8C%D8%AF-%D8%A7%D8%B5%D9%84%D8%A7-%D8%AA%DB%8C%D9%85%DB%8C-%D9%86%D8%AA%D9%88%D8%A7%D9%86%D8%AF",
+      "imageUrl": "https://cdn.isna.ir/d/2026/10/09/4/64008096.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "ورزشی > فوتبال، فوتسال",
+      "publishedAt": "2026-10-09T16:28:54+00:00"
+    },
+    {
+      "id": "isna-931df0f4f71a",
+      "title": "گوهری: زورمان به پرسپولیس نرسید",
+      "summary": "دروازه‌بان نفت آبادان گفت: در صحنه پنالتی علیپور عملکردم خوب بود اما خوش شانس نبودم.",
+      "url": "https://www.isna.ir/news/1405071711258/%DA%AF%D9%88%D9%87%D8%B1%DB%8C-%D8%B2%D9%88%D8%B1%D9%85%D8%A7%D9%86-%D8%A8%D9%87-%D9%BE%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3-%D9%86%D8%B1%D8%B3%DB%8C%D8%AF",
+      "imageUrl": "https://cdn.isna.ir/d/2026/10/09/4/64008094.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "ورزشی > ویدیوی ورزشی",
+      "publishedAt": "2026-10-09T16:25:00+00:00"
+    },
     {
       "id": "varzesh3-2434978",
       "title": "شروع عصر جدید در لیکرز: پسر جانشین پدر!",
@@ -38,7 +103,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T12:01:06Z",
-      "views": "307",
+      "views": "5.3K",
       "comments": "0"
     },
     {
@@ -53,8 +118,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T08:55:27Z",
-      "views": "2K",
-      "comments": "4"
+      "views": "3.4K",
+      "comments": "5"
     },
     {
       "id": "varzesh3-2434910",
@@ -68,7 +133,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T08:09:11Z",
-      "views": "3K",
+      "views": "4.7K",
       "comments": "0"
     },
     {
@@ -109,7 +174,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T18:36:23Z",
-      "views": "1.9K",
+      "views": "2.1K",
       "comments": "1"
     },
     {
@@ -124,8 +189,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T17:54:15Z",
-      "views": "33.9K",
-      "comments": "20"
+      "views": "34.2K",
+      "comments": "21"
     },
     {
       "id": "varzesh3-2434671",
@@ -139,7 +204,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T11:24:38Z",
-      "views": "4.7K",
+      "views": "4.9K",
       "comments": "3"
     },
     {
@@ -154,7 +219,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T10:19:14Z",
-      "views": "5.4K",
+      "views": "5.6K",
       "comments": "12"
     },
     {
@@ -169,8 +234,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T08:58:58Z",
-      "views": "9.5K",
-      "comments": "8"
+      "views": "9.9K",
+      "comments": "9"
     },
     {
       "id": "varzesh3-2434487",
@@ -185,7 +250,7 @@
       "category": "ورزشی",
       "publishedAt": "2026-10-08T03:15:19Z",
       "views": "29.1K",
-      "comments": "18"
+      "comments": "19"
     },
     {
       "id": "varzesh3-2434586",
@@ -199,7 +264,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T21:50:50Z",
-      "views": "4.4K",
+      "views": "4.6K",
       "comments": "2"
     },
     {
@@ -214,7 +279,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T21:31:51Z",
-      "views": "6.7K",
+      "views": "6.9K",
       "comments": "4"
     },
     {
@@ -229,7 +294,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T20:32:31Z",
-      "views": "5.4K",
+      "views": "5.5K",
       "comments": "3"
     },
     {
@@ -244,7 +309,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T16:46:06Z",
-      "views": "5.1K",
+      "views": "5.3K",
       "comments": "2"
     },
     {
@@ -259,7 +324,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T15:23:52Z",
-      "views": "7.2K",
+      "views": "7.4K",
       "comments": "5"
     },
     {
@@ -319,7 +384,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T15:48:38Z",
-      "views": "7.5K",
+      "views": "7.6K",
       "comments": "12"
     },
     {
@@ -379,7 +444,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T14:38:15Z",
-      "views": "3.4K",
+      "views": "3.5K",
       "comments": "17"
     },
     {
@@ -784,21 +849,6 @@
       "publishedAt": "2026-09-24T22:27:55+00:00"
     },
     {
-      "id": "varzesh3-2431429",
-      "title": "صعود بسکتبال 3x3 ایران به نیمه نهایی",
-      "summary": "تیم ملی بسکتبال سه‌نفره مردان ایران در مرحله یک‌چهارم نهایی بازی‌های آسیایی ناگویا با نمایشی مقتدرانه مقابل ژاپن به پیروزی رسید و با نتیجه ۲۱ بر ۳ راهی مرحله نیمه‌نهایی شد.",
-      "url": "https://www.varzesh3.com/news/2431429/صعود-بسکتبال-3x3-ایران-به-نیمه-نهایی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/24/C/0nfkiajx.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-24T12:12:01Z",
-      "views": "11.2K",
-      "comments": "23"
-    },
-    {
       "id": "varzesh3-2431406",
       "title": "شکست باورنکردنی ایران با دو مصدوم در بسکتبال سه نفره!",
       "summary": "تیم ملی بسکتبال سه‌نفره دختران ایران در مرحله یک‌چهارم نهایی بازی‌های آسیایی ناگویا مقابل تایلند به میدان رفت و با نتیجه ۱۲بر۱۱ شکست خورد.",
@@ -812,21 +862,6 @@
       "publishedAt": "2026-09-24T11:07:33Z",
       "views": "26.3K",
       "comments": "48"
-    },
-    {
-      "id": "varzesh3-2431368",
-      "title": "‏ژاپن محک جدی در مسیر دومین مدال بسکتبال ایران",
-      "summary": "تیم ملی بسکتبال سه‌نفره مردان ایران در مرحله یک‌چهارم نهایی بازی‌های آسیایی ناگویا ۲۰۲۶، امروز به مصاف ژاپن میزبان می‌رود.",
-      "url": "https://www.varzesh3.com/news/2431368/ژاپن-محک-جدی-در-مسیر-دومین-مدال-بسکتبال-ایران",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/24/B/sxps2pms.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-24T07:47:04Z",
-      "views": "13.1K",
-      "comments": "18"
     },
     {
       "id": "bbc-da611dd70844",
