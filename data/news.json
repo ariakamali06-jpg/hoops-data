@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-09T00:17:34.653216+00:00",
-  "count": 68,
+  "generatedAt": "2026-10-09T06:15:10.722300+00:00",
+  "count": 67,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 147
+      "items": 149
     },
     {
       "source": "bbc",
@@ -21,24 +21,11 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -97,
+      "items": -99,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
-    {
-      "id": "isna-91c9fbf98711",
-      "title": "دخالت مدیرعامل نساجی در مسائل فنی صحت دارد؟",
-      "summary": "در شرایطی که از ابتدای فصل بحث‌هایی درباره ورود شهاب زندی، مدیرعامل نساجی مازندران، به مسائل فنی این تیم مطرح بوده، انتشار ویدئویی از گفت‌وگوی او با سعید دقیقی پس از تساوی برابر ذوب‌آهن، بار دیگر این موضوع را به بحثی قابل توجه تبدیل کرده است؛ هرچند سرمربی جدید نساجی، ظاهرا مشکلی با این نوع همکاری ندارد و حتی از زوج خود با زندی به عنوان زوجی خفن یاد کرده است.",
-      "url": "https://www.isna.ir/news/1405071610884/%D8%AF%D8%AE%D8%A7%D9%84%D8%AA-%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84-%D9%86%D8%B3%D8%A7%D8%AC%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B3%D8%A7%D8%A6%D9%84-%D9%81%D9%86%DB%8C-%D8%B5%D8%AD%D8%AA-%D8%AF%D8%A7%D8%B1%D8%AF",
-      "imageUrl": "https://cdn.isna.ir/d/2026/08/28/4/63953111.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
-      "language": "fa",
-      "category": "ورزشی > فوتبال، فوتسال",
-      "publishedAt": "2026-10-08T19:30:00+00:00"
-    },
     {
       "id": "varzesh3-2434811",
       "title": "طبیعت و نفت آبادان برنده روز اول پیش‌فصل!",
@@ -51,7 +38,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T18:36:23Z",
-      "views": "1.2K",
+      "views": "1.5K",
       "comments": "1"
     },
     {
@@ -66,8 +53,23 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T17:54:15Z",
-      "views": "30.6K",
+      "views": "32.9K",
       "comments": "19"
+    },
+    {
+      "id": "varzesh3-2434671",
+      "title": "نفت آبادان با ترکیبی ترسناک در اولین بازی پیش فصل!",
+      "summary": "پالایش نفت آبادان با ترکیبی از ستاره‌های ملی‌پوش و مهره‌های باتجربه، اولین بازی پیش‌فصل خود را مقابل گلنور اصفهان آغاز کرد تا پیش از تقابل با استقلال به مرز آمادگی برسد.",
+      "url": "https://www.varzesh3.com/news/2434671/نفت-آبادان-با-ترکیبی-ترسناک-در-اولین-بازی-پیش-فصل",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/08/C/isdf3ggv.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-08T11:24:38Z",
+      "views": "4.3K",
+      "comments": "3"
     },
     {
       "id": "varzesh3-2434663",
@@ -81,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T10:19:14Z",
-      "views": "4.6K",
+      "views": "4.9K",
       "comments": "12"
     },
     {
@@ -96,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T08:58:58Z",
-      "views": "8.2K",
+      "views": "8.9K",
       "comments": "8"
     },
     {
@@ -126,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T21:50:50Z",
-      "views": "4.2K",
+      "views": "4.3K",
       "comments": "2"
     },
     {
@@ -141,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T21:31:51Z",
-      "views": "6.3K",
+      "views": "6.5K",
       "comments": "4"
     },
     {
@@ -156,7 +158,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T20:32:31Z",
-      "views": "5.1K",
+      "views": "5.2K",
       "comments": "3"
     },
     {
@@ -171,7 +173,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T16:46:06Z",
-      "views": "4.7K",
+      "views": "4.9K",
       "comments": "2"
     },
     {
@@ -265,21 +267,6 @@
       "comments": "2"
     },
     {
-      "id": "varzesh3-2434224",
-      "title": "فوری: اخراج صنعت نفت از هتل!",
-      "summary": "اعضای تیم صنعت نفت آبادان در آستانه هفته هشتم لیگ برتر با بلاتکلیفی باورنکردنی مواجه شده‌اند.",
-      "url": "https://www.varzesh3.com/news/2434224/فوری-اخراج-صنعت-نفت-از-هتل",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/12/D/xokoifxi.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-06T10:00:07Z",
-      "views": "35.7K",
-      "comments": "84"
-    },
-    {
       "id": "varzesh3-2434168",
       "title": "حضور لژیونر بسکتبال ایران در لیگ صربستان",
       "summary": "‏سالار طاهری، ملی‌پوش جوان بسکتبال ایران، در هفته نخست لیگ صربستان ۲۰ دقیقه برای تامیش به میدان رفت و با کارایی ۱۸ عملکرد مطلوبی ثبت کرد.",
@@ -306,7 +293,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-05T10:02:27Z",
-      "views": "6.9K",
+      "views": "7K",
       "comments": "2"
     },
     {
