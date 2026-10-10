@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-10T00:16:13.829935+00:00",
+  "generatedAt": "2026-10-10T06:13:10.876686+00:00",
   "count": 66,
   "sources": [
     {
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 145
+      "items": 148
     },
     {
       "source": "bbc",
@@ -21,11 +21,24 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -97,
+      "items": -100,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "isna-d090290bd06a",
+      "title": "دعوت ۶ دختر بسکتبالیست خوزستانی به اردوی آماده‌سازی تیم ملی",
+      "summary": "در ادامه روند شناسایی و پرورش استعدادهای بسکتبال کشور، ۶ بازیکن خوزستانی به اردوی آماده‌سازی تیم ملی بسکتبال زیر ۱۶ سال دعوت شدند..",
+      "url": "https://www.isna.ir/news/1405071811421/%D8%AF%D8%B9%D9%88%D8%AA-%DB%B6-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D8%A7%D8%B1%D8%AF%D9%88%DB%8C-%D8%A2%D9%85%D8%A7%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C",
+      "imageUrl": "https://cdn.isna.ir/d/2017/09/26/4/57562890.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > خوزستان",
+      "publishedAt": "2026-10-10T05:54:42+00:00"
+    },
     {
       "id": "varzesh3-2435112",
       "title": "گزینه‌های سرشناس برای نیمکت خالی لیگ برتر!",
@@ -38,21 +51,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T20:04:12Z",
-      "views": "13.3K",
-      "comments": "22"
-    },
-    {
-      "id": "isna-d13ea72ddb6d",
-      "title": "محمد نوری از نفت آبادان جدا شد",
-      "summary": "محمد نوری پس از شکست سنگین نفت آبادان مقابل پرسپولیس در هفته هشتم لیگ برتر از هدایت این تیم کنار رفت.",
-      "url": "https://www.isna.ir/news/1405071711303/%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D9%88%D8%B1%DB%8C-%D8%A7%D8%B2-%D9%86%D9%81%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86-%D8%AC%D8%AF%D8%A7-%D8%B4%D8%AF",
-      "imageUrl": "https://cdn.isna.ir/d/off/fars/2026/08/19/4/63940967.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
-      "language": "fa",
-      "category": "استان‌ها > خوزستان",
-      "publishedAt": "2026-10-09T18:46:26+00:00"
+      "views": "16.6K",
+      "comments": "24"
     },
     {
       "id": "varzesh3-2434978",
@@ -66,7 +66,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T12:01:06Z",
-      "views": "7.7K",
+      "views": "8.6K",
       "comments": "0"
     },
     {
@@ -81,8 +81,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T08:55:27Z",
-      "views": "4.2K",
-      "comments": "5"
+      "views": "4.4K",
+      "comments": "6"
     },
     {
       "id": "varzesh3-2434910",
@@ -96,7 +96,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T08:09:11Z",
-      "views": "5.8K",
+      "views": "6.1K",
       "comments": "0"
     },
     {
@@ -137,7 +137,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T18:36:23Z",
-      "views": "2.2K",
+      "views": "2.3K",
       "comments": "1"
     },
     {
@@ -152,7 +152,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T17:54:15Z",
-      "views": "34.3K",
+      "views": "34.4K",
       "comments": "21"
     },
     {
@@ -167,7 +167,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T11:24:38Z",
-      "views": "5.1K",
+      "views": "5.2K",
       "comments": "3"
     },
     {
@@ -182,7 +182,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T10:19:14Z",
-      "views": "6K",
+      "views": "6.1K",
       "comments": "12"
     },
     {
@@ -197,7 +197,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T08:58:58Z",
-      "views": "10.4K",
+      "views": "10.6K",
       "comments": "9"
     },
     {
@@ -242,7 +242,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T21:31:51Z",
-      "views": "7K",
+      "views": "7.1K",
       "comments": "4"
     },
     {
@@ -287,7 +287,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T15:23:52Z",
-      "views": "7.4K",
+      "views": "7.5K",
       "comments": "5"
     },
     {
