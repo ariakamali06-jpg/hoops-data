@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-10T06:13:10.876686+00:00",
-  "count": 66,
+  "generatedAt": "2026-10-10T12:12:25.594993+00:00",
+  "count": 65,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 148
+      "items": 150
     },
     {
       "source": "bbc",
@@ -21,23 +21,25 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -100,
+      "items": -102,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
     {
-      "id": "isna-d090290bd06a",
-      "title": "دعوت ۶ دختر بسکتبالیست خوزستانی به اردوی آماده‌سازی تیم ملی",
-      "summary": "در ادامه روند شناسایی و پرورش استعدادهای بسکتبال کشور، ۶ بازیکن خوزستانی به اردوی آماده‌سازی تیم ملی بسکتبال زیر ۱۶ سال دعوت شدند..",
-      "url": "https://www.isna.ir/news/1405071811421/%D8%AF%D8%B9%D9%88%D8%AA-%DB%B6-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84%DB%8C%D8%B3%D8%AA-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D8%A7%D8%B1%D8%AF%D9%88%DB%8C-%D8%A2%D9%85%D8%A7%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C",
-      "imageUrl": "https://cdn.isna.ir/d/2017/09/26/4/57562890.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
+      "id": "varzesh3-2435182",
+      "title": "تالار مشحون با چهره‌ای جدید میزبان بسکتبال ایران!",
+      "summary": "بعد از مدت‌ها دوری تالار آزادی از مسابقات باشگاهی امروز با سه مسابقه هیجان به پارکت تالار مشحون بازخواهد گشت.",
+      "url": "https://www.varzesh3.com/news/2435182/تالار-مشحون-با-چهره-ای-جدید-میزبان-بسکتبال-ایران",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/10/B/p1fg0jdr.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
       "language": "fa",
-      "category": "استان‌ها > خوزستان",
-      "publishedAt": "2026-10-10T05:54:42+00:00"
+      "category": "ورزشی",
+      "publishedAt": "2026-10-10T07:40:24Z",
+      "views": "4.9K",
+      "comments": "0"
     },
     {
       "id": "varzesh3-2435112",
@@ -51,8 +53,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T20:04:12Z",
-      "views": "16.6K",
-      "comments": "24"
+      "views": "19.1K",
+      "comments": "27"
     },
     {
       "id": "varzesh3-2434978",
@@ -66,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T12:01:06Z",
-      "views": "8.6K",
+      "views": "9.9K",
       "comments": "0"
     },
     {
@@ -81,8 +83,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T08:55:27Z",
-      "views": "4.4K",
-      "comments": "6"
+      "views": "4.9K",
+      "comments": "7"
     },
     {
       "id": "varzesh3-2434910",
@@ -96,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T08:09:11Z",
-      "views": "6.1K",
+      "views": "6.9K",
       "comments": "0"
     },
     {
@@ -167,7 +169,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T11:24:38Z",
-      "views": "5.2K",
+      "views": "5.3K",
       "comments": "3"
     },
     {
@@ -182,7 +184,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T10:19:14Z",
-      "views": "6.1K",
+      "views": "6.3K",
       "comments": "12"
     },
     {
@@ -197,7 +199,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T08:58:58Z",
-      "views": "10.6K",
+      "views": "10.8K",
       "comments": "9"
     },
     {
@@ -272,7 +274,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T16:46:06Z",
-      "views": "5.4K",
+      "views": "5.5K",
       "comments": "2"
     },
     {
@@ -392,7 +394,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-05T10:02:27Z",
-      "views": "7K",
+      "views": "7.1K",
       "comments": "2"
     },
     {
@@ -752,21 +754,6 @@
       "publishedAt": "2026-09-26T14:43:47Z",
       "views": "5.8K",
       "comments": "4"
-    },
-    {
-      "id": "varzesh3-2431939",
-      "title": "ناگویا و سه طلا: کره‌جنوبی قهرمان بسکتبال زنان و مردان!",
-      "summary": "تیم بسکتبال زنان کره‌جنوبی مانند تیم مردان این کشور در بازی فینال ژاپن را شکست داد و به مدال طلای بسکتبال زنان بازی‌های آسیایی 2026 رسید.",
-      "url": "https://www.varzesh3.com/news/2431939/ناگویا-و-سه-طلا-کره-جنوبی-قهرمان-بسکتبال-زنان-و-مردان",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/26/D/zzqwhvhl.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-26T14:39:20Z",
-      "views": "13K",
-      "comments": "13"
     },
     {
       "id": "varzesh3-2431796",
