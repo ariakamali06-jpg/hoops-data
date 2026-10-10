@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-09T18:12:36.223661+00:00",
-  "count": 70,
+  "generatedAt": "2026-10-10T00:16:13.829935+00:00",
+  "count": 66,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 5
+      "items": 1
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 147
+      "items": 145
     },
     {
       "source": "bbc",
@@ -21,75 +21,38 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -99,
+      "items": -97,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
     {
-      "id": "isna-8f4bd30f617a",
-      "title": "میثم تیموری: پرسپولیس با این تیمی که دارد می‌تواند قهرمان شود",
-      "summary": "بازیکن تیم نفت آبادان گفت: مشکلات مالی، بحث درون خانوادگی است و باید درون خانواده حل شود.",
-      "url": "https://www.isna.ir/news/1405071711261/%D9%85%DB%8C%D8%AB%D9%85-%D8%AA%DB%8C%D9%85%D9%88%D8%B1%DB%8C-%D9%BE%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3-%D8%A8%D8%A7-%D8%A7%DB%8C%D9%86-%D8%AA%DB%8C%D9%85%DB%8C-%DA%A9%D9%87-%D8%AF%D8%A7%D8%B1%D8%AF-%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D8%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D8%B4%D9%88%D8%AF",
-      "imageUrl": "https://cdn.isna.ir/d/2026/10/09/4/64008096.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
+      "id": "varzesh3-2435112",
+      "title": "گزینه‌های سرشناس برای نیمکت خالی لیگ برتر!",
+      "summary": "مدیران باشگاه صنعت نفت آبادان ۳ گزینه را در اولویت خود برای نشستن روی نیمکت مربیگری این تیم قرار داده‌اند.",
+      "url": "https://www.varzesh3.com/news/2435112/گزینه-های-سرشناس-برای-نیمکت-خالی-لیگ-برتر",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/07/15/A/mlxwbnoz.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
       "language": "fa",
-      "category": "ورزشی > ویدیوی ورزشی",
-      "publishedAt": "2026-10-09T17:20:00+00:00"
+      "category": "ورزشی",
+      "publishedAt": "2026-10-09T20:04:12Z",
+      "views": "13.3K",
+      "comments": "22"
     },
     {
-      "id": "isna-b12ee4b0ae57",
-      "title": "فخرالدینی: با تغییر کادرفنی موافق نیستم/ از کار کردن با نوری لذت می‌برم",
-      "summary": "میلاد فخرالدینی، بازیکن صنعت نفت آبادان پس از شکست این تیم برابر پرسپولیس گفت: در هتل اجازه اسکان به بازیکنان ندادند و این اتفاق متاسفانه رخ داد. امکانات برای یک تیم خیلی تاثیر دارد. مردم آبادان شرایط سختی برای زندگی دارند و همین شرایط در تیم صنعت نفت هم وجود دارد. وقتی تیم نتیجه نمی‌گیرد، سرمربی تحت فشار قرار می‌گیرد. از کار کردن با محمدآقا (نوری) لذت می‌برم. من با تغییر کادرفنی موافق نیستم.",
-      "url": "https://www.isna.ir/news/1405071711263/%D9%81%D8%AE%D8%B1%D8%A7%D9%84%D8%AF%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7-%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1-%DA%A9%D8%A7%D8%AF%D8%B1%D9%81%D9%86%DB%8C-%D9%85%D9%88%D8%A7%D9%81%D9%82-%D9%86%DB%8C%D8%B3%D8%AA%D9%85-%D8%A7%D8%B2-%DA%A9%D8%A7%D8%B1-%DA%A9%D8%B1%D8%AF%D9%86-%D8%A8%D8%A7-%D9%86%D9%88%D8%B1%DB%8C",
-      "imageUrl": "https://cdn.isna.ir/d/2026/08/25/4/63947688.jpg",
+      "id": "isna-d13ea72ddb6d",
+      "title": "محمد نوری از نفت آبادان جدا شد",
+      "summary": "محمد نوری پس از شکست سنگین نفت آبادان مقابل پرسپولیس در هفته هشتم لیگ برتر از هدایت این تیم کنار رفت.",
+      "url": "https://www.isna.ir/news/1405071711303/%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D9%88%D8%B1%DB%8C-%D8%A7%D8%B2-%D9%86%D9%81%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86-%D8%AC%D8%AF%D8%A7-%D8%B4%D8%AF",
+      "imageUrl": "https://cdn.isna.ir/d/off/fars/2026/08/19/4/63940967.jpg",
       "source": "isna",
       "sourceName": "ایسنا",
       "sourceNameEn": "ISNA",
       "language": "fa",
-      "category": "ورزشی > ویدیوی ورزشی",
-      "publishedAt": "2026-10-09T17:10:00+00:00"
-    },
-    {
-      "id": "isna-c87b0a8dff32",
-      "title": "علیپور: به دلیل مصدومیت در تیم ملی نبودم",
-      "summary": "علی علیپور، مهاجم پرسپولیس پس از پیروزی این تیم برابر صنعت نفت آبادان بیان کرد: بازی سختی برای ما بود و در دقایق آخر فشار وارد کردند. نظر کادرفنی تیم ملی مهم‌ترین چیز است و باید به آن احترام بگذاریم. در آخرین بازی دوستانه پرسپولیس من مصدوم شدم و نتوانستم در تیم ملی باشم. از برخی رسانه‌ها انتظار احترام دارم.",
-      "url": "https://www.isna.ir/news/1405071711272/%D8%B9%D9%84%DB%8C%D9%BE%D9%88%D8%B1-%D8%A8%D9%87-%D8%AF%D9%84%DB%8C%D9%84-%D9%85%D8%B5%D8%AF%D9%88%D9%85%DB%8C%D8%AA-%D8%AF%D8%B1-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C-%D9%86%D8%A8%D9%88%D8%AF%D9%85",
-      "imageUrl": "https://cdn.isna.ir/d/2026/08/29/4/63954540.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
-      "language": "fa",
-      "category": "ورزشی > ویدیوی ورزشی",
-      "publishedAt": "2026-10-09T16:59:24+00:00"
-    },
-    {
-      "id": "isna-13a29a9b3402",
-      "title": "نوری: برخی بازیکنان بی مسئولیت بازی می‌کنند/ شاید اصلا تیمی نتواند پرسپولیس را ببرد",
-      "summary": "سرمربی تیم فوتبال صنعت‌نفت آبادان می‌گوید تیمش روی اشتباهات فردی برابر پرسپولیس گل خورد.",
-      "url": "https://www.isna.ir/news/1405071711262/%D9%86%D9%88%D8%B1%DB%8C-%D8%A8%D8%B1%D8%AE%DB%8C-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86%D8%A7%D9%86-%D8%A8%DB%8C-%D9%85%D8%B3%D8%A6%D9%88%D9%84%DB%8C%D8%AA-%D8%A8%D8%A7%D8%B2%DB%8C-%D9%85%DB%8C-%DA%A9%D9%86%D9%86%D8%AF-%D8%B4%D8%A7%DB%8C%D8%AF-%D8%A7%D8%B5%D9%84%D8%A7-%D8%AA%DB%8C%D9%85%DB%8C-%D9%86%D8%AA%D9%88%D8%A7%D9%86%D8%AF",
-      "imageUrl": "https://cdn.isna.ir/d/2026/10/09/4/64008096.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
-      "language": "fa",
-      "category": "ورزشی > فوتبال، فوتسال",
-      "publishedAt": "2026-10-09T16:28:54+00:00"
-    },
-    {
-      "id": "isna-931df0f4f71a",
-      "title": "گوهری: زورمان به پرسپولیس نرسید",
-      "summary": "دروازه‌بان نفت آبادان گفت: در صحنه پنالتی علیپور عملکردم خوب بود اما خوش شانس نبودم.",
-      "url": "https://www.isna.ir/news/1405071711258/%DA%AF%D9%88%D9%87%D8%B1%DB%8C-%D8%B2%D9%88%D8%B1%D9%85%D8%A7%D9%86-%D8%A8%D9%87-%D9%BE%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3-%D9%86%D8%B1%D8%B3%DB%8C%D8%AF",
-      "imageUrl": "https://cdn.isna.ir/d/2026/10/09/4/64008094.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
-      "language": "fa",
-      "category": "ورزشی > ویدیوی ورزشی",
-      "publishedAt": "2026-10-09T16:25:00+00:00"
+      "category": "استان‌ها > خوزستان",
+      "publishedAt": "2026-10-09T18:46:26+00:00"
     },
     {
       "id": "varzesh3-2434978",
@@ -103,7 +66,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T12:01:06Z",
-      "views": "5.3K",
+      "views": "7.7K",
       "comments": "0"
     },
     {
@@ -118,7 +81,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T08:55:27Z",
-      "views": "3.4K",
+      "views": "4.2K",
       "comments": "5"
     },
     {
@@ -133,7 +96,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T08:09:11Z",
-      "views": "4.7K",
+      "views": "5.8K",
       "comments": "0"
     },
     {
@@ -174,7 +137,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T18:36:23Z",
-      "views": "2.1K",
+      "views": "2.2K",
       "comments": "1"
     },
     {
@@ -189,7 +152,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T17:54:15Z",
-      "views": "34.2K",
+      "views": "34.3K",
       "comments": "21"
     },
     {
@@ -204,7 +167,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T11:24:38Z",
-      "views": "4.9K",
+      "views": "5.1K",
       "comments": "3"
     },
     {
@@ -219,7 +182,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T10:19:14Z",
-      "views": "5.6K",
+      "views": "6K",
       "comments": "12"
     },
     {
@@ -234,7 +197,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T08:58:58Z",
-      "views": "9.9K",
+      "views": "10.4K",
       "comments": "9"
     },
     {
@@ -265,7 +228,7 @@
       "category": "ورزشی",
       "publishedAt": "2026-10-07T21:50:50Z",
       "views": "4.6K",
-      "comments": "2"
+      "comments": "3"
     },
     {
       "id": "varzesh3-2434575",
@@ -279,7 +242,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T21:31:51Z",
-      "views": "6.9K",
+      "views": "7K",
       "comments": "4"
     },
     {
@@ -294,7 +257,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T20:32:31Z",
-      "views": "5.5K",
+      "views": "5.7K",
       "comments": "3"
     },
     {
@@ -309,7 +272,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T16:46:06Z",
-      "views": "5.3K",
+      "views": "5.4K",
       "comments": "2"
     },
     {
@@ -339,7 +302,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T17:26:00Z",
-      "views": "2K",
+      "views": "2.1K",
       "comments": "4"
     },
     {
@@ -819,21 +782,6 @@
       "publishedAt": "2026-09-26T06:04:59Z",
       "views": "6K",
       "comments": "0"
-    },
-    {
-      "id": "varzesh3-2431791",
-      "title": "جعفری: عذرخواهی می‌کنم که مدالمان طلا نبود!",
-      "summary": "بازیکن تیم ملی بسکتبال سه به سه ایران بعد از کسب مدال از مردم ایران برای اینکه نتوانستند مدال خوش‌رنگ‌تری به دست آورند عذرخواهی کرد.",
-      "url": "https://www.varzesh3.com/news/2431791/جعفری-عذرخواهی-می-کنم-که-مدالمان-طلا-نبود",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/26/B/gz2xybr4.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-26T06:01:17Z",
-      "views": "6K",
-      "comments": "3"
     },
     {
       "id": "bbc-911018267eb9",
