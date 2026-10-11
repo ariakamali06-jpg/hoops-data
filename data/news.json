@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-11T06:13:33.201371+00:00",
-  "count": 63,
+  "generatedAt": "2026-10-11T12:12:59.085236+00:00",
+  "count": 61,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 148
+      "items": 154
     },
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -102,
+      "items": -110,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,8 +38,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-10T18:32:02Z",
-      "views": "4.8K",
-      "comments": "2"
+      "views": "5.8K",
+      "comments": "3"
     },
     {
       "id": "varzesh3-2435182",
@@ -53,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-10T07:40:24Z",
-      "views": "8.9K",
+      "views": "9.4K",
       "comments": "0"
     },
     {
@@ -68,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T20:04:12Z",
-      "views": "19.6K",
+      "views": "19.7K",
       "comments": "28"
     },
     {
@@ -83,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T12:01:06Z",
-      "views": "12.2K",
+      "views": "12.4K",
       "comments": "0"
     },
     {
@@ -98,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T08:55:27Z",
-      "views": "6.9K",
+      "views": "7.2K",
       "comments": "7"
     },
     {
@@ -113,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T08:09:11Z",
-      "views": "7.4K",
+      "views": "7.5K",
       "comments": "0"
     },
     {
@@ -349,7 +349,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T15:48:38Z",
-      "views": "7.6K",
+      "views": "7.7K",
       "comments": "12"
     },
     {
@@ -694,36 +694,6 @@
       "publishedAt": "2026-09-28T03:15:00Z",
       "views": "46.6K",
       "comments": "66"
-    },
-    {
-      "id": "varzesh3-2432250",
-      "title": "مهمان مرموز استقلال با رزومه NBA!",
-      "summary": "رسانه بسکتبال استقلال با انتشار ویدیویی از سفر یک بازیکن آمریکایی به تهران، هواداران این تیم را برای رونمایی از خریدی بزرگ آماده کرد.",
-      "url": "https://www.varzesh3.com/news/2432250/مهمان-مرموز-استقلال-با-رزومه-nba",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/08/07/C/b2uoc3oi.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-27T21:37:05Z",
-      "views": "5.1K",
-      "comments": "7"
-    },
-    {
-      "id": "varzesh3-2432190",
-      "title": "استپ‌بک امینی سالن را منفجر کرد، اما پاریس برد!",
-      "summary": "نانسی در حضور محمد امینی، یک بازی نزدیک و حساس مقابل پاریس بسکتبال انجام داد و در نهایت اسیر تجربه پاریسی‌ها شدند.",
-      "url": "https://www.varzesh3.com/news/2432190/استپ-بک-امینی-سالن-را-منفجر-کرد-اما-پاریس-برد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/27/D/knbsquee.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-27T17:25:52Z",
-      "views": "13K",
-      "comments": "7"
     },
     {
       "id": "varzesh3-2432085",
