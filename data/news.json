@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-10T18:11:01.147781+00:00",
+  "generatedAt": "2026-10-11T00:17:14.742401+00:00",
   "count": 65,
   "sources": [
     {
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 152
+      "items": 149
     },
     {
       "source": "bbc",
@@ -21,11 +21,26 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -104,
+      "items": -101,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2435344",
+      "title": "برد طبیعت، آبادان و استقلال در روز دوم پیش‌فصل",
+      "summary": "تیم‌های طبیعت، پالایش آبادان و استقلال در روز دوم مسابقات پیش فصل بسکتبال برنده از زمین خارج شدند.",
+      "url": "https://www.varzesh3.com/news/2435344/برد-طبیعت-آبادان-و-استقلال-در-روز-دوم-پیش-فصل",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/10/D/zsjpggik.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-10T18:32:02Z",
+      "views": "3.2K",
+      "comments": "1"
+    },
     {
       "id": "varzesh3-2435182",
       "title": "تالار مشحون با چهره‌ای جدید میزبان بسکتبال ایران!",
@@ -38,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-10T07:40:24Z",
-      "views": "7K",
+      "views": "8.3K",
       "comments": "0"
     },
     {
@@ -53,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T20:04:12Z",
-      "views": "19.5K",
+      "views": "19.6K",
       "comments": "28"
     },
     {
@@ -68,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T12:01:06Z",
-      "views": "11K",
+      "views": "11.7K",
       "comments": "0"
     },
     {
@@ -83,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T08:55:27Z",
-      "views": "5.3K",
+      "views": "6.2K",
       "comments": "7"
     },
     {
@@ -98,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T08:09:11Z",
-      "views": "7.2K",
+      "views": "7.3K",
       "comments": "0"
     },
     {
@@ -154,8 +169,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T17:54:15Z",
-      "views": "34.5K",
-      "comments": "21"
+      "views": "34.6K",
+      "comments": "25"
     },
     {
       "id": "varzesh3-2434671",
@@ -169,7 +184,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T11:24:38Z",
-      "views": "5.3K",
+      "views": "5.4K",
       "comments": "3"
     },
     {
@@ -184,7 +199,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T10:19:14Z",
-      "views": "6.3K",
+      "views": "6.4K",
       "comments": "12"
     },
     {
@@ -244,7 +259,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T21:31:51Z",
-      "views": "7.1K",
+      "views": "7.2K",
       "comments": "4"
     },
     {
@@ -469,7 +484,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-04T07:44:03Z",
-      "views": "5.6K",
+      "views": "5.7K",
       "comments": "4"
     },
     {
@@ -739,21 +754,6 @@
       "publishedAt": "2026-09-27T10:36:26Z",
       "views": "10K",
       "comments": "10"
-    },
-    {
-      "id": "varzesh3-2431940",
-      "title": "بدرقه ستاره بسکتبال به دنیای مربیگری!",
-      "summary": "ستاره‌ها و باشگاه‌های بسکتبال از سال‌ها حضور آرن داوودی در بسکتبال تقدیر کردند.",
-      "url": "https://www.varzesh3.com/news/2431940/بدرقه-ستاره-بسکتبال-به-دنیای-مربیگری",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/26/D/5u5u35dt.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-26T14:43:47Z",
-      "views": "5.8K",
-      "comments": "4"
     },
     {
       "id": "varzesh3-2431796",
