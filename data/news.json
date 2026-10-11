@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-11T00:17:14.742401+00:00",
-  "count": 65,
+  "generatedAt": "2026-10-11T06:13:33.201371+00:00",
+  "count": 63,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 149
+      "items": 148
     },
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -101,
+      "items": -102,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,8 +38,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-10T18:32:02Z",
-      "views": "3.2K",
-      "comments": "1"
+      "views": "4.8K",
+      "comments": "2"
     },
     {
       "id": "varzesh3-2435182",
@@ -53,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-10T07:40:24Z",
-      "views": "8.3K",
+      "views": "8.9K",
       "comments": "0"
     },
     {
@@ -83,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T12:01:06Z",
-      "views": "11.7K",
+      "views": "12.2K",
       "comments": "0"
     },
     {
@@ -98,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T08:55:27Z",
-      "views": "6.2K",
+      "views": "6.9K",
       "comments": "7"
     },
     {
@@ -113,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T08:09:11Z",
-      "views": "7.3K",
+      "views": "7.4K",
       "comments": "0"
     },
     {
@@ -154,23 +154,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T18:36:23Z",
-      "views": "2.3K",
+      "views": "2.4K",
       "comments": "1"
-    },
-    {
-      "id": "varzesh3-2434801",
-      "title": "کارشناسی جنجالی‌ترین صحنه امروز لیگ!",
-      "summary": "دیدار نساجی و ذوب‌آهن در هفته هشتم لیگ برتر با دو صحنه جنجالی همراه بود.",
-      "url": "https://www.varzesh3.com/news/2434801/کارشناسی-جنجالی-ترین-صحنه-امروز-لیگ",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/08/D/c3v5ci1s.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-08T17:54:15Z",
-      "views": "34.6K",
-      "comments": "25"
     },
     {
       "id": "varzesh3-2434671",
@@ -214,7 +199,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T08:58:58Z",
-      "views": "10.9K",
+      "views": "11K",
       "comments": "9"
     },
     {
@@ -782,21 +767,6 @@
       "language": "en",
       "category": "Basketball",
       "publishedAt": "2026-09-24T22:27:55+00:00"
-    },
-    {
-      "id": "varzesh3-2431406",
-      "title": "شکست باورنکردنی ایران با دو مصدوم در بسکتبال سه نفره!",
-      "summary": "تیم ملی بسکتبال سه‌نفره دختران ایران در مرحله یک‌چهارم نهایی بازی‌های آسیایی ناگویا مقابل تایلند به میدان رفت و با نتیجه ۱۲بر۱۱ شکست خورد.",
-      "url": "https://www.varzesh3.com/news/2431406/شکست-باورنکردنی-ایران-با-دو-مصدوم-در-بسکتبال-سه-نفره",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/24/C/axcqz1sg.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-24T11:07:33Z",
-      "views": "26.3K",
-      "comments": "48"
     },
     {
       "id": "bbc-da611dd70844",
