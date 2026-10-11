@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-11T12:12:59.085236+00:00",
-  "count": 61,
+  "generatedAt": "2026-10-11T18:11:06.067028+00:00",
+  "count": 62,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 154
+      "items": 152
     },
     {
       "source": "bbc",
@@ -21,11 +21,69 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -110,
+      "items": -108,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "isna-3be1ec42196f",
+      "title": "پورموسوی هم به آبادان بازگشت",
+      "summary": "جایگزین محمد نوری در تیم فوتبال نفت آبادان مشخص شد.",
+      "url": "https://www.isna.ir/news/1405071912782/%D9%BE%D9%88%D8%B1%D9%85%D9%88%D8%B3%D9%88%DB%8C-%D9%87%D9%85-%D8%A8%D9%87-%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA",
+      "imageUrl": "https://cdn.isna.ir/d/2018/01/14/4/57621708.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > خوزستان",
+      "publishedAt": "2026-10-11T17:36:27+00:00"
+    },
+    {
+      "id": "varzesh3-2435579",
+      "title": "گنگ‌ترین تیم لیگ اینجاست: جهرم! (عکس)",
+      "summary": "ظاهر خاص چند بازیکن تیم نفت زاگرس جنوبی جهرم چهره جالبی به این تیم در مسابقات پیش فصل بسکتبال داده است.",
+      "url": "https://www.varzesh3.com/news/2435579/گنگ-ترین-تیم-لیگ-اینجاست-جهرم-عکس",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/11/D/hmsgeop4.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-11T17:34:34Z",
+      "views": "1.9K",
+      "comments": "1"
+    },
+    {
+      "id": "varzesh3-2435551",
+      "title": "قضاوت داور ایرانی در دو فینال بسکتبال آسیا",
+      "summary": "مهسا کارگری با قضاوت در فینال بسکتبال زنان بازی‌های آسیایی ناگویا ۲۰۲۶ و فینال کاپ آسیا زیر ۱۸ سال دختران اتفاق جالبی را در تاریخ داوری بسکتبال ایران ثبت کرد.",
+      "url": "https://www.varzesh3.com/news/2435551/قضاوت-داور-ایرانی-در-دو-فینال-بسکتبال-آسیا",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/11/D/y2poofux.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-11T15:37:24Z",
+      "views": "1.9K",
+      "comments": "4"
+    },
+    {
+      "id": "varzesh3-2435548",
+      "title": "جنجال و کتک‌کاری عجیب در پیش‌فصل NBA",
+      "summary": "دو ستاره سرشناس تیم‌های ویزاردز و دیترویت در جریان بازی این تیم با هم درگیر و از زمین اخراج شدند.",
+      "url": "https://www.varzesh3.com/news/2435548/جنجال-و-کتک-کاری-عجیب-در-پیش-فصل-nba",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/11/D/o40dhcjy.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-11T15:33:15Z",
+      "views": "5.2K",
+      "comments": "0"
+    },
     {
       "id": "varzesh3-2435344",
       "title": "برد طبیعت، آبادان و استقلال در روز دوم پیش‌فصل",
@@ -38,7 +96,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-10T18:32:02Z",
-      "views": "5.8K",
+      "views": "6.4K",
       "comments": "3"
     },
     {
@@ -53,7 +111,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-10T07:40:24Z",
-      "views": "9.4K",
+      "views": "9.8K",
       "comments": "0"
     },
     {
@@ -83,7 +141,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T12:01:06Z",
-      "views": "12.4K",
+      "views": "12.5K",
       "comments": "0"
     },
     {
@@ -98,7 +156,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T08:55:27Z",
-      "views": "7.2K",
+      "views": "7.3K",
       "comments": "7"
     },
     {
@@ -214,7 +272,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T03:15:19Z",
-      "views": "29.2K",
+      "views": "29.3K",
       "comments": "19"
     },
     {
@@ -651,36 +709,6 @@
       "comments": "8"
     },
     {
-      "id": "varzesh3-2432434",
-      "title": "رسمی: دوایت بایکس آمریکایی استقلالی شد",
-      "summary": "گارد آمریکایی و بازیکن سابق تورنتو رپترز، لس‌آنجلس لیکرز و دیترویت پیستونز، به تیم بسکتبال مردان استقلال پیوست.",
-      "url": "https://www.varzesh3.com/news/2432434/رسمی-دوایت-بایکس-آمریکایی-استقلالی-شد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/28/A/s0vy3bel.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-28T15:08:42Z",
-      "views": "16.9K",
-      "comments": "65"
-    },
-    {
-      "id": "varzesh3-2432278",
-      "title": "‏شکست گرگان در شبی‌ که کام‌بک ناتمام ماند!",
-      "summary": "تیم‌های شهرداری گرگان و ساجس لبنان بسکتبالی به نمایش گذاشتند که تا ثانیه پایانی جذاب و نفس‌گیر بود.",
-      "url": "https://www.varzesh3.com/news/2432278/شکست-گرگان-در-شبی-که-کام-بک-ناتمام-ماند",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/28/B/geki0nnj.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-28T05:08:18Z",
-      "views": "2.6K",
-      "comments": "3"
-    },
-    {
       "id": "varzesh3-2432210",
       "title": "بغض سنگین دختران شایسته ایران در فرودگاه",
       "summary": "‏دختران بسکتبال سه‌نفره ایران پس از مصدومیت‌های تلخ و از دست رفتن رویای مدال در ناگویا، با عصا و چهره‌هایی غمگین در آغوش خانواده‌شان اشک ریختند.",
@@ -694,21 +722,6 @@
       "publishedAt": "2026-09-28T03:15:00Z",
       "views": "46.6K",
       "comments": "66"
-    },
-    {
-      "id": "varzesh3-2432085",
-      "title": "شرط عجیب ثروتمندترین بسکتبالیست برای فرزندانش!",
-      "summary": "شکیل اونیل اسطوره بسکتبال دنیا شرط‌هایی برای استفاده فرزندانش از ثروتش گذاشت و ارائه مدارک تحصیلی و کارآفرینی را راهی برای حمایتش از آنها عنوان کرده است!",
-      "url": "https://www.varzesh3.com/news/2432085/شرط-عجیب-ثروتمندترین-بسکتبالیست-برای-فرزندانش",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/27/C/nndn1guv.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-27T10:36:26Z",
-      "views": "10K",
-      "comments": "10"
     },
     {
       "id": "varzesh3-2431796",
