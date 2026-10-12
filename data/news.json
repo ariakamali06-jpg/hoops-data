@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-12T12:21:53.428070+00:00",
-  "count": 60,
+  "generatedAt": "2026-10-12T18:12:00.922759+00:00",
+  "count": 61,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 153
+      "items": 152
     },
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -110,
+      "items": -108,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,7 +38,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-11T19:41:00Z",
-      "views": "2.7K",
+      "views": "3K",
       "comments": "4"
     },
     {
@@ -53,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-11T17:34:34Z",
-      "views": "14.1K",
+      "views": "14.9K",
       "comments": "3"
     },
     {
@@ -68,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-11T15:37:24Z",
-      "views": "5.9K",
+      "views": "6.3K",
       "comments": "5"
     },
     {
@@ -83,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-11T15:33:15Z",
-      "views": "12.4K",
+      "views": "13.1K",
       "comments": "3"
     },
     {
@@ -113,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-10T07:40:24Z",
-      "views": "9.8K",
+      "views": "9.9K",
       "comments": "0"
     },
     {
@@ -158,7 +158,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T08:55:27Z",
-      "views": "7.4K",
+      "views": "7.5K",
       "comments": "7"
     },
     {
@@ -334,7 +334,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-07T16:46:06Z",
-      "views": "5.5K",
+      "views": "5.6K",
       "comments": "2"
     },
     {
@@ -379,7 +379,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-06T16:50:19Z",
-      "views": "20.4K",
+      "views": "20.5K",
       "comments": "6"
     },
     {
@@ -692,7 +692,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-09-28T16:24:07Z",
-      "views": "9.3K",
+      "views": "9.4K",
       "comments": "8"
     },
     {
@@ -709,6 +709,21 @@
       "publishedAt": "2026-09-28T03:15:00Z",
       "views": "46.6K",
       "comments": "66"
+    },
+    {
+      "id": "varzesh3-2431796",
+      "title": "غفاری: برای مدال پنج ماه از خانواده‌مان دور بودیم",
+      "summary": "تیم ملی بسکتبال سه‌نفره ایران پس از ناکامی در نیمه‌نهایی، با جبران بدشانسی‌ها به مدال برنز بازی‌های آسیایی ناگویا رسید.",
+      "url": "https://www.varzesh3.com/news/2431796/غفاری-برای-مدال-پنج-ماه-از-خانواده-مان-دور-بودیم",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/26/B/l2lnwbpb.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-09-26T06:04:59Z",
+      "views": "6K",
+      "comments": "0"
     },
     {
       "id": "bbc-911018267eb9",
