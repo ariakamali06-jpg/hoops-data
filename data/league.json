@@ -9,7 +9,7 @@
       "country": "IR",
       "flag": "🇮🇷",
       "priority": 1,
-      "updatedAt": "2026-10-11T18:11:07.479507+00:00",
+      "updatedAt": "2026-10-12T00:16:58.259621+00:00",
       "groups": [
         {
           "name": "لیگ برتر بسکتبال",
@@ -462,7 +462,7 @@
       "country": "US",
       "flag": "🏀",
       "priority": 2,
-      "updatedAt": "2026-10-11T18:11:10.177322+00:00",
+      "updatedAt": "2026-10-12T00:17:00.417131+00:00",
       "groups": [
         {
           "name": "کنفرانس شرق",
@@ -1568,7 +1568,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 3,
-      "updatedAt": "2026-10-11T18:11:13.524098+00:00",
+      "updatedAt": "2026-10-12T00:17:03.321073+00:00",
       "groups": [
         {
           "name": "لیگ غرب آسیا",
@@ -2067,7 +2067,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 4,
-      "updatedAt": "2026-10-11T18:11:15.858714+00:00",
+      "updatedAt": "2026-10-12T00:17:05.518654+00:00",
       "groups": [
         {
           "name": "گروهی ",
@@ -2412,7 +2412,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 5,
-      "updatedAt": "2026-10-11T18:11:18.270394+00:00",
+      "updatedAt": "2026-10-12T00:17:07.637798+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -3024,7 +3024,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 6,
-      "updatedAt": "2026-10-11T18:11:20.825375+00:00",
+      "updatedAt": "2026-10-12T00:17:09.857990+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4078,7 +4078,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 7,
-      "updatedAt": "2026-10-11T18:11:23.961714+00:00",
+      "updatedAt": "2026-10-12T00:17:12.262169+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4541,7 +4541,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 8,
-      "updatedAt": "2026-10-11T18:11:26.317370+00:00",
+      "updatedAt": "2026-10-12T00:17:14.194521+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -5600,7 +5600,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 9,
-      "updatedAt": "2026-10-11T18:11:28.158025+00:00",
+      "updatedAt": "2026-10-12T00:17:15.710630+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -5614,7 +5614,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 10,
-      "updatedAt": "2026-10-11T18:11:30.458984+00:00",
+      "updatedAt": "2026-10-12T00:17:17.703945+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -6077,7 +6077,7 @@
       "country": "EU",
       "flag": "🇪🇺",
       "priority": 11,
-      "updatedAt": "2026-10-11T18:11:32.270138+00:00",
+      "updatedAt": "2026-10-12T00:17:19.167899+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6091,7 +6091,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 12,
-      "updatedAt": "2026-10-11T18:11:34.002773+00:00",
+      "updatedAt": "2026-10-12T00:17:20.536666+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6105,7 +6105,7 @@
       "country": "US",
       "flag": "🏆",
       "priority": 13,
-      "updatedAt": "2026-10-11T18:11:35.786646+00:00",
+      "updatedAt": "2026-10-12T00:17:21.999679+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6119,7 +6119,7 @@
       "country": "WO",
       "flag": "🤝",
       "priority": 14,
-      "updatedAt": "2026-10-11T18:11:37.397588+00:00",
+      "updatedAt": "2026-10-12T00:17:23.397853+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6895,6 +6895,198 @@
       "url": "https://www.varzesh3.com/basketball/match/179954/بازی-لبنان-ژاپن"
     },
     {
+      "id": 181076,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iran Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/08/14",
+      "dateIso": "2027-02-14",
+      "time": "15:00",
+      "status": 0,
+      "statusFa": "نامشخص",
+      "statusShort": "؟",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "طبیعت",
+        "shortName": "طبیعت",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "پالایش نفت آبادان",
+        "shortName": "نفت آبادان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/181076/بازی-طبیعت-پالایش-نفت-آبادان"
+    },
+    {
+      "id": 181077,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iran Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/08/14",
+      "dateIso": "2027-02-14",
+      "time": "15:30",
+      "status": 0,
+      "statusFa": "نامشخص",
+      "statusShort": "؟",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "گلنور اصفهان",
+        "shortName": "گلنور اصفهان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "استقلال تهران",
+        "shortName": "استقلال تهران",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/181077/بازی-گلنور-اصفهان-استقلال-تهران"
+    },
+    {
+      "id": 181078,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iran Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/08/14",
+      "dateIso": "2027-02-14",
+      "time": "16:00",
+      "status": 0,
+      "statusFa": "نامشخص",
+      "statusShort": "؟",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "مهگل البرز",
+        "shortName": "البرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "رعد پدافند بابل",
+        "shortName": "بابل",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/181078/بازی-مهگل-البرز-رعد-پدافند-بابل"
+    },
+    {
+      "id": 181079,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iran Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/08/14",
+      "dateIso": "2027-02-14",
+      "time": "16:00",
+      "status": 0,
+      "statusFa": "نامشخص",
+      "statusShort": "؟",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "مس رفسنجان",
+        "shortName": "مس رفسنجان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1utikr2x.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "زاگرس جنوبی جهرم",
+        "shortName": "زاگرس جنوبی جهرم",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/181079/بازی-مس-رفسنجان-زاگرس-جنوبی-جهرم"
+    },
+    {
+      "id": 181080,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iran Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/08/14",
+      "dateIso": "2027-02-14",
+      "time": "16:30",
+      "status": 0,
+      "statusFa": "نامشخص",
+      "statusShort": "؟",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "شهرداری گرگان",
+        "shortName": "گرگان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "پاس کردستان",
+        "shortName": "کردستان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/181080/بازی-شهرداری-گرگان-پاس-کردستان"
+    },
+    {
+      "id": 181081,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iran Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/08/14",
+      "dateIso": "2027-02-14",
+      "time": "17:00",
+      "status": 0,
+      "statusFa": "نامشخص",
+      "statusShort": "؟",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "کاله",
+        "shortName": "کاله",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "نفت و گاز گچساران",
+        "shortName": "گچساران",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/uxm2jxui.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/181081/بازی-کاله-نفت-و-گاز-گچساران"
+    },
+    {
       "id": 180061,
       "leagueId": "lg-209",
       "leagueRef": 209,
@@ -7245,6 +7437,198 @@
       "quarters": [],
       "winner": null,
       "url": "https://www.varzesh3.com/basketball/match/180071/بازی-دالاس-ماوریکس-اوکلاهاما-سیتی-تاندر"
+    },
+    {
+      "id": 181070,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iran Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/08/07",
+      "dateIso": "2027-02-07",
+      "time": "15:00",
+      "status": 0,
+      "statusFa": "نامشخص",
+      "statusShort": "؟",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "رعد پدافند بابل",
+        "shortName": "بابل",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "مس رفسنجان",
+        "shortName": "مس رفسنجان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1utikr2x.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/181070/بازی-رعد-پدافند-بابل-مس-رفسنجان"
+    },
+    {
+      "id": 181071,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iran Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/08/07",
+      "dateIso": "2027-02-07",
+      "time": "15:30",
+      "status": 0,
+      "statusFa": "نامشخص",
+      "statusShort": "؟",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "استقلال تهران",
+        "shortName": "استقلال تهران",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "کاله",
+        "shortName": "کاله",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/181071/بازی-استقلال-تهران-کاله"
+    },
+    {
+      "id": 181072,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iran Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/08/07",
+      "dateIso": "2027-02-07",
+      "time": "16:00",
+      "status": 0,
+      "statusFa": "نامشخص",
+      "statusShort": "؟",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "مهگل البرز",
+        "shortName": "البرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "طبیعت",
+        "shortName": "طبیعت",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/181072/بازی-مهگل-البرز-طبیعت"
+    },
+    {
+      "id": 181073,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iran Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/08/07",
+      "dateIso": "2027-02-07",
+      "time": "16:00",
+      "status": 0,
+      "statusFa": "نامشخص",
+      "statusShort": "؟",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "زاگرس جنوبی جهرم",
+        "shortName": "زاگرس جنوبی جهرم",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "شهرداری گرگان",
+        "shortName": "گرگان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/181073/بازی-زاگرس-جنوبی-جهرم-شهرداری-گرگان"
+    },
+    {
+      "id": 181074,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iran Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/08/07",
+      "dateIso": "2027-02-07",
+      "time": "16:30",
+      "status": 0,
+      "statusFa": "نامشخص",
+      "statusShort": "؟",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "نفت و گاز گچساران",
+        "shortName": "گچساران",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/uxm2jxui.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "پالایش نفت آبادان",
+        "shortName": "نفت آبادان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/181074/بازی-نفت-و-گاز-گچساران-پالایش-نفت-آبادان"
+    },
+    {
+      "id": 181075,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iran Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/08/07",
+      "dateIso": "2027-02-07",
+      "time": "17:00",
+      "status": 0,
+      "statusFa": "نامشخص",
+      "statusShort": "؟",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "پاس کردستان",
+        "shortName": "کردستان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "گلنور اصفهان",
+        "shortName": "گلنور اصفهان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/181075/بازی-پاس-کردستان-گلنور-اصفهان"
     },
     {
       "id": 180057,
@@ -8591,38 +8975,6 @@
       "url": "https://www.varzesh3.com/basketball/match/180020/بازی-اوکلاهاما-سیتی-تاندر-دنور-ناگتس"
     },
     {
-      "id": 180980,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "1405/07/30",
-      "dateIso": "2027-01-30",
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "مس رفسنجان",
-        "shortName": "مس رفسنجان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1utikr2x.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "مهگل البرز",
-        "shortName": "البرز",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180980/بازی-مس-رفسنجان-مهگل-البرز"
-    },
-    {
       "id": 180981,
       "leagueId": "lg-32",
       "leagueRef": 32,
@@ -8653,38 +9005,6 @@
       "quarters": [],
       "winner": null,
       "url": "https://www.varzesh3.com/basketball/match/180981/بازی-طبیعت-نفت-و-گاز-گچساران"
-    },
-    {
-      "id": 180982,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "1405/07/30",
-      "dateIso": "2027-01-30",
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "شهرداری گرگان",
-        "shortName": "گرگان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "رعد پدافند بابل",
-        "shortName": "بابل",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180982/بازی-شهرداری-گرگان-رعد-پدافند-بابل"
     },
     {
       "id": 180983,
@@ -8719,7 +9039,7 @@
       "url": "https://www.varzesh3.com/basketball/match/180983/بازی-گلنور-اصفهان-زاگرس-جنوبی-جهرم"
     },
     {
-      "id": 180984,
+      "id": 180980,
       "leagueId": "lg-32",
       "leagueRef": 32,
       "leagueName": "لیگ برتر بسکتبال ایران",
@@ -8734,21 +9054,21 @@
       "isLive": false,
       "host": {
         "id": 0,
-        "name": "کاله",
-        "shortName": "کاله",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=144"
+        "name": "مس رفسنجان",
+        "shortName": "مس رفسنجان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1utikr2x.png?w=144"
       },
       "guest": {
         "id": 0,
-        "name": "پاس کردستان",
-        "shortName": "کردستان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=144"
+        "name": "مهگل البرز",
+        "shortName": "البرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=144"
       },
       "hostScore": null,
       "guestScore": null,
       "quarters": [],
       "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180984/بازی-کاله-پاس-کردستان"
+      "url": "https://www.varzesh3.com/basketball/match/180980/بازی-مس-رفسنجان-مهگل-البرز"
     },
     {
       "id": 180985,
@@ -8781,6 +9101,70 @@
       "quarters": [],
       "winner": null,
       "url": "https://www.varzesh3.com/basketball/match/180985/بازی-پالایش-نفت-آبادان-استقلال-تهران"
+    },
+    {
+      "id": 180982,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iran Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/07/30",
+      "dateIso": "2027-01-30",
+      "time": "",
+      "status": 0,
+      "statusFa": "نامشخص",
+      "statusShort": "؟",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "شهرداری گرگان",
+        "shortName": "گرگان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "رعد پدافند بابل",
+        "shortName": "بابل",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180982/بازی-شهرداری-گرگان-رعد-پدافند-بابل"
+    },
+    {
+      "id": 180984,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iran Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/07/30",
+      "dateIso": "2027-01-30",
+      "time": "",
+      "status": 0,
+      "statusFa": "نامشخص",
+      "statusShort": "؟",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "کاله",
+        "shortName": "کاله",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "پاس کردستان",
+        "shortName": "کردستان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180984/بازی-کاله-پاس-کردستان"
     },
     {
       "id": 180008,
@@ -21915,1356 +22299,12 @@
       ],
       "winner": "host",
       "url": "https://www.varzesh3.com/basketball/match/26766/بازی-فرانسه-برزیل"
-    },
-    {
-      "id": 181028,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "رعد پدافند بابل",
-        "shortName": "بابل",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "مس رفسنجان",
-        "shortName": "مس رفسنجان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1utikr2x.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181028/بازی-رعد-پدافند-بابل-مس-رفسنجان"
-    },
-    {
-      "id": 181029,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "مهگل البرز",
-        "shortName": "البرز",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "طبیعت",
-        "shortName": "طبیعت",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181029/بازی-مهگل-البرز-طبیعت"
-    },
-    {
-      "id": 181030,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "زاگرس جنوبی جهرم",
-        "shortName": "زاگرس جنوبی جهرم",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "شهرداری گرگان",
-        "shortName": "گرگان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181030/بازی-زاگرس-جنوبی-جهرم-شهرداری-گرگان"
-    },
-    {
-      "id": 181031,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "پاس کردستان",
-        "shortName": "کردستان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "گلنور اصفهان",
-        "shortName": "گلنور اصفهان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181031/بازی-پاس-کردستان-گلنور-اصفهان"
-    },
-    {
-      "id": 181032,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "استقلال تهران",
-        "shortName": "استقلال تهران",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "کاله",
-        "shortName": "کاله",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181032/بازی-استقلال-تهران-کاله"
-    },
-    {
-      "id": 181033,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "نفت و گاز گچساران",
-        "shortName": "گچساران",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/uxm2jxui.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "پالایش نفت آبادان",
-        "shortName": "نفت آبادان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181033/بازی-نفت-و-گاز-گچساران-پالایش-نفت-آبادان"
-    },
-    {
-      "id": 181034,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "مس رفسنجان",
-        "shortName": "مس رفسنجان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1utikr2x.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "زاگرس جنوبی جهرم",
-        "shortName": "زاگرس جنوبی جهرم",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181034/بازی-مس-رفسنجان-زاگرس-جنوبی-جهرم"
-    },
-    {
-      "id": 181035,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "مهگل البرز",
-        "shortName": "البرز",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "رعد پدافند بابل",
-        "shortName": "بابل",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181035/بازی-مهگل-البرز-رعد-پدافند-بابل"
-    },
-    {
-      "id": 181036,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "طبیعت",
-        "shortName": "طبیعت",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "پالایش نفت آبادان",
-        "shortName": "نفت آبادان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181036/بازی-طبیعت-پالایش-نفت-آبادان"
-    },
-    {
-      "id": 181037,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "شهرداری گرگان",
-        "shortName": "گرگان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "پاس کردستان",
-        "shortName": "کردستان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181037/بازی-شهرداری-گرگان-پاس-کردستان"
-    },
-    {
-      "id": 181038,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "گلنور اصفهان",
-        "shortName": "گلنور اصفهان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "استقلال تهران",
-        "shortName": "استقلال تهران",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181038/بازی-گلنور-اصفهان-استقلال-تهران"
-    },
-    {
-      "id": 181039,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "کاله",
-        "shortName": "کاله",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "نفت و گاز گچساران",
-        "shortName": "گچساران",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/uxm2jxui.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181039/بازی-کاله-نفت-و-گاز-گچساران"
-    },
-    {
-      "id": 181040,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "پاس کردستان",
-        "shortName": "کردستان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "مس رفسنجان",
-        "shortName": "مس رفسنجان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1utikr2x.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181040/بازی-پاس-کردستان-مس-رفسنجان"
-    },
-    {
-      "id": 181041,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "زاگرس جنوبی جهرم",
-        "shortName": "زاگرس جنوبی جهرم",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "مهگل البرز",
-        "shortName": "البرز",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181041/بازی-زاگرس-جنوبی-جهرم-مهگل-البرز"
-    },
-    {
-      "id": 181042,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "رعد پدافند بابل",
-        "shortName": "بابل",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "طبیعت",
-        "shortName": "طبیعت",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181042/بازی-رعد-پدافند-بابل-طبیعت"
-    },
-    {
-      "id": 181043,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "استقلال تهران",
-        "shortName": "استقلال تهران",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "شهرداری گرگان",
-        "shortName": "گرگان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181043/بازی-استقلال-تهران-شهرداری-گرگان"
-    },
-    {
-      "id": 181044,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "نفت و گاز گچساران",
-        "shortName": "گچساران",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/uxm2jxui.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "گلنور اصفهان",
-        "shortName": "گلنور اصفهان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181044/بازی-نفت-و-گاز-گچساران-گلنور-اصفهان"
-    },
-    {
-      "id": 181045,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "پالایش نفت آبادان",
-        "shortName": "نفت آبادان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "کاله",
-        "shortName": "کاله",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181045/بازی-پالایش-نفت-آبادان-کاله"
-    },
-    {
-      "id": 180986,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "مس رفسنجان",
-        "shortName": "مس رفسنجان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1utikr2x.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "استقلال تهران",
-        "shortName": "استقلال تهران",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180986/بازی-مس-رفسنجان-استقلال-تهران"
-    },
-    {
-      "id": 180987,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "مهگل البرز",
-        "shortName": "البرز",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "پاس کردستان",
-        "shortName": "کردستان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180987/بازی-مهگل-البرز-پاس-کردستان"
-    },
-    {
-      "id": 180988,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "رعد پدافند بابل",
-        "shortName": "بابل",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "زاگرس جنوبی جهرم",
-        "shortName": "زاگرس جنوبی جهرم",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180988/بازی-رعد-پدافند-بابل-زاگرس-جنوبی-جهرم"
-    },
-    {
-      "id": 180989,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "طبیعت",
-        "shortName": "طبیعت",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "کاله",
-        "shortName": "کاله",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180989/بازی-طبیعت-کاله"
-    },
-    {
-      "id": 180990,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "شهرداری گرگان",
-        "shortName": "گرگان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "نفت و گاز گچساران",
-        "shortName": "گچساران",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/uxm2jxui.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180990/بازی-شهرداری-گرگان-نفت-و-گاز-گچساران"
-    },
-    {
-      "id": 180991,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "گلنور اصفهان",
-        "shortName": "گلنور اصفهان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "پالایش نفت آبادان",
-        "shortName": "نفت آبادان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180991/بازی-گلنور-اصفهان-پالایش-نفت-آبادان"
-    },
-    {
-      "id": 180992,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "نفت و گاز گچساران",
-        "shortName": "گچساران",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/uxm2jxui.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "مس رفسنجان",
-        "shortName": "مس رفسنجان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1utikr2x.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180992/بازی-نفت-و-گاز-گچساران-مس-رفسنجان"
-    },
-    {
-      "id": 180993,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "استقلال تهران",
-        "shortName": "استقلال تهران",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "مهگل البرز",
-        "shortName": "البرز",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180993/بازی-استقلال-تهران-مهگل-البرز"
-    },
-    {
-      "id": 180994,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "پاس کردستان",
-        "shortName": "کردستان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "رعد پدافند بابل",
-        "shortName": "بابل",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180994/بازی-پاس-کردستان-رعد-پدافند-بابل"
-    },
-    {
-      "id": 180995,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "زاگرس جنوبی جهرم",
-        "shortName": "زاگرس جنوبی جهرم",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "طبیعت",
-        "shortName": "طبیعت",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180995/بازی-زاگرس-جنوبی-جهرم-طبیعت"
-    },
-    {
-      "id": 180996,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "پالایش نفت آبادان",
-        "shortName": "نفت آبادان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "شهرداری گرگان",
-        "shortName": "گرگان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180996/بازی-پالایش-نفت-آبادان-شهرداری-گرگان"
-    },
-    {
-      "id": 180997,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "کاله",
-        "shortName": "کاله",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "گلنور اصفهان",
-        "shortName": "گلنور اصفهان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180997/بازی-کاله-گلنور-اصفهان"
-    },
-    {
-      "id": 180998,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "مس رفسنجان",
-        "shortName": "مس رفسنجان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1utikr2x.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "پالایش نفت آبادان",
-        "shortName": "نفت آبادان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180998/بازی-مس-رفسنجان-پالایش-نفت-آبادان"
-    },
-    {
-      "id": 180999,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "مهگل البرز",
-        "shortName": "البرز",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "نفت و گاز گچساران",
-        "shortName": "گچساران",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/uxm2jxui.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180999/بازی-مهگل-البرز-نفت-و-گاز-گچساران"
-    },
-    {
-      "id": 181000,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "رعد پدافند بابل",
-        "shortName": "بابل",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "استقلال تهران",
-        "shortName": "استقلال تهران",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181000/بازی-رعد-پدافند-بابل-استقلال-تهران"
-    },
-    {
-      "id": 181001,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "زاگرس جنوبی جهرم",
-        "shortName": "زاگرس جنوبی جهرم",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "پاس کردستان",
-        "shortName": "کردستان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181001/بازی-زاگرس-جنوبی-جهرم-پاس-کردستان"
-    },
-    {
-      "id": 181002,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "طبیعت",
-        "shortName": "طبیعت",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "گلنور اصفهان",
-        "shortName": "گلنور اصفهان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181002/بازی-طبیعت-گلنور-اصفهان"
-    },
-    {
-      "id": 181003,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "شهرداری گرگان",
-        "shortName": "گرگان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "کاله",
-        "shortName": "کاله",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181003/بازی-شهرداری-گرگان-کاله"
-    },
-    {
-      "id": 181004,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "کاله",
-        "shortName": "کاله",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "مس رفسنجان",
-        "shortName": "مس رفسنجان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1utikr2x.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181004/بازی-کاله-مس-رفسنجان"
-    },
-    {
-      "id": 181005,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "پالایش نفت آبادان",
-        "shortName": "نفت آبادان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "مهگل البرز",
-        "shortName": "البرز",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181005/بازی-پالایش-نفت-آبادان-مهگل-البرز"
-    },
-    {
-      "id": 181006,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "نفت و گاز گچساران",
-        "shortName": "گچساران",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/uxm2jxui.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "رعد پدافند بابل",
-        "shortName": "بابل",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181006/بازی-نفت-و-گاز-گچساران-رعد-پدافند-بابل"
-    },
-    {
-      "id": 181007,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "استقلال تهران",
-        "shortName": "استقلال تهران",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "زاگرس جنوبی جهرم",
-        "shortName": "زاگرس جنوبی جهرم",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181007/بازی-استقلال-تهران-زاگرس-جنوبی-جهرم"
-    },
-    {
-      "id": 181008,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "پاس کردستان",
-        "shortName": "کردستان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "طبیعت",
-        "shortName": "طبیعت",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181008/بازی-پاس-کردستان-طبیعت"
-    },
-    {
-      "id": 181009,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "",
-      "dateIso": null,
-      "time": "",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "گلنور اصفهان",
-        "shortName": "گلنور اصفهان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "شهرداری گرگان",
-        "shortName": "گرگان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181009/بازی-گلنور-اصفهان-شهرداری-گرگان"
     }
   ],
-  "matchCount": 382,
+  "matchCount": 352,
   "teamCount": 160,
   "liveCount": 0,
   "staleDropped": 1,
   "version": 2,
-  "generatedAt": "2026-10-11T18:11:38.410565+00:00"
+  "generatedAt": "2026-10-12T00:17:24.775617+00:00"
 }
