@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-13T12:17:08.396145+00:00",
+  "generatedAt": "2026-10-13T18:16:53.374816+00:00",
   "count": 59,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 147
+      "items": 145
     },
     {
       "source": "bbc",
@@ -21,23 +21,70 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -106,
+      "items": -103,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
     {
-      "id": "isna-ce55ed235cde",
-      "title": "اعلام ترکیب ابتدایی ذوب‌آهن و سپاهان برای دربی اصفهان",
-      "summary": "ترکیب تیم‌های فوتبال ذوب‌آهن و سپاهان برای بازی معوقه هفته هفتم و شهرآورد اصفهان مشخص شد.",
-      "url": "https://www.isna.ir/news/1405072114158/%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8-%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%DB%8C%DB%8C-%D8%B0%D9%88%D8%A8-%D8%A2%D9%87%D9%86-%D9%88-%D8%B3%D9%BE%D8%A7%D9%87%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%B1%D8%A8%DB%8C-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
-      "imageUrl": "https://cdn.isna.ir/d/2026/10/08/4/64007415.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
+      "id": "varzesh3-2436157",
+      "title": "چراغ بسکتبال روشن شد: بازربیتر وحشتناک بصیر!",
+      "summary": "در حالی که مسابقات پیش فصل بسکتبال در تالار آزادی برگزار می‌شود بصیر مومنی صحنه هیجان‌انگیز و فوق‌العاده‌ای را در تالار آزادی ثبت کرد.",
+      "url": "https://www.varzesh3.com/news/2436157/چراغ-بسکتبال-روشن-شد-بازربیتر-وحشتناک-بصیر",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/13/D/cevlgqse.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
       "language": "fa",
-      "category": "استان‌ها > اصفهان",
-      "publishedAt": "2026-10-13T11:59:45+00:00"
+      "category": "ورزشی",
+      "publishedAt": "2026-10-13T17:23:18Z",
+      "views": "2K",
+      "comments": "1"
+    },
+    {
+      "id": "varzesh3-2436153",
+      "title": "ستاره‌های ملی تقدیم به شاهین‌طبع و مخدومی!",
+      "summary": "دو بازیکن تیم ملی بسکتبال ایران در بازی‌های پیش فصل عملکرد درخشانی داشتند.",
+      "url": "https://www.varzesh3.com/news/2436153/ستاره-های-ملی-تقدیم-به-شاهین-طبع-و-مخدومی",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/13/D/1hwbzsep.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-13T17:15:59Z",
+      "views": "1.1K",
+      "comments": "2"
+    },
+    {
+      "id": "varzesh3-2436104",
+      "title": "مربی تیم ملی تماشاگر دربی اصفهان",
+      "summary": "سعید الهویی با حضور در ورزشگاه فولادشهر، دیدار ذوب‌آهن و سپاهان از هفته هفتم لیگ برتر را از نزدیک تماشا می‌کند.",
+      "url": "https://www.varzesh3.com/news/2436104/مربی-تیم-ملی-تماشاگر-دربی-اصفهان",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2025/10/19/B/v34ddbex.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-13T13:44:10Z",
+      "views": "8K",
+      "comments": "6"
+    },
+    {
+      "id": "varzesh3-2436088",
+      "title": "نقش جدید لبران جیمز در تیم بسکتبال فیلادلفیا",
+      "summary": "لبران جیمز در فصل جدید NBA با حضور در تیم فیلادلفیا می‌تواند بیش از گذشته روی پاس گل و ریباند تمرکز کند.",
+      "url": "https://www.varzesh3.com/news/2436088/نقش-جدید-لبران-جیمز-در-تیم-بسکتبال-فیلادلفیا",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/13/C/hllzd5ud.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-13T12:55:56Z",
+      "views": "4.8K",
+      "comments": "2"
     },
     {
       "id": "varzesh3-2435994",
@@ -51,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T08:07:22Z",
-      "views": "2.6K",
+      "views": "3.6K",
       "comments": "0"
     },
     {
@@ -66,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T06:47:20Z",
-      "views": "4.5K",
+      "views": "6.1K",
       "comments": "1"
     },
     {
@@ -94,7 +141,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-12T20:41:05Z",
-      "views": "32.6K",
+      "views": "34.7K",
       "comments": "16"
     },
     {
@@ -109,7 +156,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-12T18:33:58Z",
-      "views": "5K",
+      "views": "5.2K",
       "comments": "2"
     },
     {
@@ -154,7 +201,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-11T15:37:24Z",
-      "views": "7K",
+      "views": "7.1K",
       "comments": "5"
     },
     {
@@ -169,7 +216,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-11T15:33:15Z",
-      "views": "14.1K",
+      "views": "14.2K",
       "comments": "3"
     },
     {
@@ -229,7 +276,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T12:01:06Z",
-      "views": "12.8K",
+      "views": "12.9K",
       "comments": "0"
     },
     {
@@ -362,36 +409,6 @@
       "publishedAt": "2026-10-08T03:15:19Z",
       "views": "29.3K",
       "comments": "19"
-    },
-    {
-      "id": "varzesh3-2434586",
-      "title": "دوایت بایکس تماشاگر سومین برد دختران استقلال",
-      "summary": "ستاره آمریکایی تیم بسکتبال استقلال از نزدیک سومین پیروزی متوالی تیم هاکی روی یخ دختران این باشگاه را تماشا کرد.",
-      "url": "https://www.varzesh3.com/news/2434586/دوایت-بایکس-تماشاگر-سومین-برد-دختران-استقلال",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/08/A/kgk1jwpo.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-07T21:50:50Z",
-      "views": "4.7K",
-      "comments": "3"
-    },
-    {
-      "id": "varzesh3-2434575",
-      "title": "تریر با ستاره ایرانی قهرمان گرجستان را جارو کرد!",
-      "summary": "تیم بسکتبال گلادیتورز تریر در اولین حضور خود در رقابت‌های اروپایی پس از ۲۵ سال دوری با درخشش بهنام یخچالی برد مهمی را کسب کرد.",
-      "url": "https://www.varzesh3.com/news/2434575/تریر-با-ستاره-ایرانی-قهرمان-گرجستان-را-جارو-کرد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/08/A/dpkk0kno.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-07T21:31:51Z",
-      "views": "7.3K",
-      "comments": "4"
     },
     {
       "id": "varzesh3-2434567",
@@ -675,21 +692,6 @@
       "publishedAt": "2026-10-01T08:33:40Z",
       "views": "8.4K",
       "comments": "16"
-    },
-    {
-      "id": "varzesh3-2432965",
-      "title": "دو مهره استقلال برای فصل جدید ماندنی شدند",
-      "summary": "حسین مکاریان و نوید خواجه‌زاده با تمدید قراردادهای خود، در فصل جدید لیگ برتر بسکتبال نیز پیراهن استقلال را بر تن خواهند کرد.",
-      "url": "https://www.varzesh3.com/news/2432965/دو-مهره-استقلال-برای-فصل-جدید-ماندنی-شدند",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/30/D/c5lybvol.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-30T17:06:19Z",
-      "views": "22.2K",
-      "comments": "8"
     },
     {
       "id": "varzesh3-2432210",
