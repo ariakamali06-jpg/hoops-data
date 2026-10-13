@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-13T06:17:03.442956+00:00",
-  "count": 60,
+  "generatedAt": "2026-10-13T12:17:08.396145+00:00",
+  "count": 59,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 153
+      "items": 147
     },
     {
       "source": "bbc",
@@ -21,11 +21,54 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -110,
+      "items": -106,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "isna-ce55ed235cde",
+      "title": "اعلام ترکیب ابتدایی ذوب‌آهن و سپاهان برای دربی اصفهان",
+      "summary": "ترکیب تیم‌های فوتبال ذوب‌آهن و سپاهان برای بازی معوقه هفته هفتم و شهرآورد اصفهان مشخص شد.",
+      "url": "https://www.isna.ir/news/1405072114158/%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8-%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%DB%8C%DB%8C-%D8%B0%D9%88%D8%A8-%D8%A2%D9%87%D9%86-%D9%88-%D8%B3%D9%BE%D8%A7%D9%87%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%B1%D8%A8%DB%8C-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86",
+      "imageUrl": "https://cdn.isna.ir/d/2026/10/08/4/64007415.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > اصفهان",
+      "publishedAt": "2026-10-13T11:59:45+00:00"
+    },
+    {
+      "id": "varzesh3-2435994",
+      "title": "شکست تامیش در حضور ملی‌پوش بسکتبال ایران",
+      "summary": "ملی‌پوش جوان تیم ملی بسکتبال در هفته دوم لیگ صربستان برای تیم تامیش به زمین رفت.",
+      "url": "https://www.varzesh3.com/news/2435994/شکست-تامیش-در-حضور-ملی-پوش-بسکتبال-ایران",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/13/B/mbwkkmir.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-13T08:07:22Z",
+      "views": "2.6K",
+      "comments": "0"
+    },
+    {
+      "id": "varzesh3-2435977",
+      "title": "درخواست عجیب ستاره NBA برای المپیک 2028",
+      "summary": "ستاره سابق NBA پس از خداحافظی از بسکتبال، خواهان حمل مشعل المپیک 2028 لس‌آنجلس شد.",
+      "url": "https://www.varzesh3.com/news/2435977/درخواست-عجیب-ستاره-nba-برای-المپیک-2028",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/13/B/qcxs0zlc.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-13T06:47:20Z",
+      "views": "4.5K",
+      "comments": "1"
+    },
     {
       "id": "bbc-589359499fa3",
       "title": "Jordan 'Last Dance' jersey sells for record £10.6m",
@@ -51,8 +94,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-12T20:41:05Z",
-      "views": "26.8K",
-      "comments": "13"
+      "views": "32.6K",
+      "comments": "16"
     },
     {
       "id": "varzesh3-2435856",
@@ -66,7 +109,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-12T18:33:58Z",
-      "views": "4.3K",
+      "views": "5K",
       "comments": "2"
     },
     {
@@ -81,7 +124,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-11T19:41:00Z",
-      "views": "3.3K",
+      "views": "3.4K",
       "comments": "4"
     },
     {
@@ -96,7 +139,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-11T17:34:34Z",
-      "views": "15.9K",
+      "views": "16K",
       "comments": "3"
     },
     {
@@ -111,7 +154,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-11T15:37:24Z",
-      "views": "6.9K",
+      "views": "7K",
       "comments": "5"
     },
     {
@@ -216,7 +259,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T08:09:11Z",
-      "views": "7.6K",
+      "views": "7.7K",
       "comments": "0"
     },
     {
@@ -381,21 +424,6 @@
       "comments": "2"
     },
     {
-      "id": "varzesh3-2434511",
-      "title": "پیروزی نانسی در لیگ اروپا با لژیونر ایرانی",
-      "summary": "محمد امینی، ملی‌پوش بسکتبال ایران، در نخستین بازی خود برای نانسی فرانسه در جام اروپا، ۲۱ دقیقه بازی کرد و در پیروزی این تیم نقش‌ آفرینی کرد.",
-      "url": "https://www.varzesh3.com/news/2434511/پیروزی-نانسی-در-لیگ-اروپا-با-لژیونر-ایرانی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/07/D/skwckrvg.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-07T15:23:52Z",
-      "views": "7.5K",
-      "comments": "5"
-    },
-    {
       "id": "varzesh3-2434339",
       "title": "برنامه کامل مسابقات پیش‌فصل لیگ برتر بسکتبال",
       "summary": "مسابقات پیش فصل بسکتبال ایران از پنجشنبه این هفته رسما آغاز خواهد شد.",
@@ -409,21 +437,6 @@
       "publishedAt": "2026-10-06T17:26:00Z",
       "views": "2.3K",
       "comments": "4"
-    },
-    {
-      "id": "varzesh3-2434330",
-      "title": "پاسخ تند بارسا به NBA: جوک می‌گویید!",
-      "summary": "لیگ بسکتبال اروپا به پیشنهاد ان‌بی‌ای واکنش منفی نشان داده و آن را استعمارگرانه دانسته است.",
-      "url": "https://www.varzesh3.com/news/2434330/پاسخ-تند-بارسا-به-nba-جوک-می-گویید",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/06/D/mrbgwi3v.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-06T16:50:19Z",
-      "views": "20.5K",
-      "comments": "6"
     },
     {
       "id": "varzesh3-2434323",
@@ -677,36 +690,6 @@
       "publishedAt": "2026-09-30T17:06:19Z",
       "views": "22.2K",
       "comments": "8"
-    },
-    {
-      "id": "varzesh3-2432774",
-      "title": "‏رفت و آمد لبران به تمرینات با هلیکوپتر دربست!",
-      "summary": "لبران جیمز، فوق‌ستاره دنیای بسکتبال، بار دیگر با سبک زندگی خاصش خبرساز شد.",
-      "url": "https://www.varzesh3.com/news/2432774/رفت-و-آمد-لبران-به-تمرینات-با-هلیکوپتر-دربست",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/30/A/pmvd2kc2.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-29T21:15:56Z",
-      "views": "10.5K",
-      "comments": "8"
-    },
-    {
-      "id": "varzesh3-2432593",
-      "title": "استارت رسمی لیگ برتر بسکتبال از ۳۰ مهر!",
-      "summary": "لیگ برتر بسکتبال ایران از 30 مهر و با چند تغییر مهم در قوانین برگزاری و بازیکنان خارجی از سر گرفته خواهد شد.",
-      "url": "https://www.varzesh3.com/news/2432593/استارت-رسمی-لیگ-برتر-بسکتبال-از-۳۰-مهر",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/29/B/3zils0ne.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-29T08:53:22Z",
-      "views": "1.1K",
-      "comments": "1"
     },
     {
       "id": "varzesh3-2432210",
