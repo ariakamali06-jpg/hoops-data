@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-14T06:25:35.195084+00:00",
-  "count": 60,
+  "generatedAt": "2026-10-14T12:27:48.212829+00:00",
+  "count": 57,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 144
+      "items": 141
     },
     {
       "source": "bbc",
@@ -38,8 +38,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-14T01:58:00Z",
-      "views": "7.6K",
-      "comments": "8"
+      "views": "12K",
+      "comments": "11"
     },
     {
       "id": "varzesh3-2436157",
@@ -53,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T17:23:18Z",
-      "views": "9.3K",
+      "views": "10.3K",
       "comments": "3"
     },
     {
@@ -68,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T17:15:59Z",
-      "views": "5.2K",
+      "views": "5.8K",
       "comments": "5"
     },
     {
@@ -98,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T12:55:56Z",
-      "views": "8.5K",
+      "views": "9.5K",
       "comments": "2"
     },
     {
@@ -113,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T08:07:22Z",
-      "views": "4.2K",
+      "views": "4.3K",
       "comments": "0"
     },
     {
@@ -128,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T06:47:20Z",
-      "views": "7.5K",
+      "views": "7.6K",
       "comments": "1"
     },
     {
@@ -156,7 +156,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-12T20:41:05Z",
-      "views": "35.1K",
+      "views": "35.3K",
       "comments": "16"
     },
     {
@@ -216,7 +216,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-11T15:37:24Z",
-      "views": "7.1K",
+      "views": "7.2K",
       "comments": "5"
     },
     {
@@ -246,7 +246,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-10T18:32:02Z",
-      "views": "6.8K",
+      "views": "6.9K",
       "comments": "3"
     },
     {
@@ -263,21 +263,6 @@
       "publishedAt": "2026-10-10T07:40:24Z",
       "views": "9.9K",
       "comments": "0"
-    },
-    {
-      "id": "varzesh3-2435112",
-      "title": "گزینه‌های سرشناس برای نیمکت خالی لیگ برتر!",
-      "summary": "مدیران باشگاه صنعت نفت آبادان ۳ گزینه را در اولویت خود برای نشستن روی نیمکت مربیگری این تیم قرار داده‌اند.",
-      "url": "https://www.varzesh3.com/news/2435112/گزینه-های-سرشناس-برای-نیمکت-خالی-لیگ-برتر",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/07/15/A/mlxwbnoz.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-09T20:04:12Z",
-      "views": "19.9K",
-      "comments": "28"
     },
     {
       "id": "varzesh3-2434978",
@@ -321,7 +306,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T08:09:11Z",
-      "views": "7.7K",
+      "views": "7.8K",
       "comments": "0"
     },
     {
@@ -409,21 +394,6 @@
       "publishedAt": "2026-10-08T08:58:58Z",
       "views": "11.1K",
       "comments": "9"
-    },
-    {
-      "id": "varzesh3-2434487",
-      "title": "رسمی: موناکو اعلام ورشکستگی کرد",
-      "summary": "باشگاه موناکو از طریق شبکه‌های اجتماعی اعلام کرد که اعلام ورشکستگی کرده و پروژه‌ای را که بیش از یک دهه در بسکتبال فرانسه حضور داشت، منحل می‌کند.",
-      "url": "https://www.varzesh3.com/news/2434487/رسمی-موناکو-اعلام-ورشکستگی-کرد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/07/C/3edqmdmy.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-08T03:15:19Z",
-      "views": "29.3K",
-      "comments": "19"
     },
     {
       "id": "varzesh3-2434567",
@@ -707,21 +677,6 @@
       "publishedAt": "2026-10-01T08:33:40Z",
       "views": "8.4K",
       "comments": "16"
-    },
-    {
-      "id": "varzesh3-2432210",
-      "title": "بغض سنگین دختران شایسته ایران در فرودگاه",
-      "summary": "‏دختران بسکتبال سه‌نفره ایران پس از مصدومیت‌های تلخ و از دست رفتن رویای مدال در ناگویا، با عصا و چهره‌هایی غمگین در آغوش خانواده‌شان اشک ریختند.",
-      "url": "https://www.varzesh3.com/news/2432210/قاب-تلخ-دختران-بسکتبالیست-اشک-در-آغوش-پدر-عکس",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/27/D/uhxr3op4.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-09-28T03:15:00Z",
-      "views": "46.6K",
-      "comments": "66"
     },
     {
       "id": "bbc-911018267eb9",
