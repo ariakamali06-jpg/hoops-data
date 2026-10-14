@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-14T12:27:48.212829+00:00",
+  "generatedAt": "2026-10-14T18:26:11.159196+00:00",
   "count": 57,
   "sources": [
     {
@@ -27,6 +27,21 @@
   ],
   "news": [
     {
+      "id": "varzesh3-2436418",
+      "title": "پایان هیجان انگیز پیش‌فصل بسکتبال ایران!",
+      "summary": "رقابت های پیش فصل لیگ برتر بسکتبال با برگزاری یک دیدار جذاب و تماشایی به پایان رسید.",
+      "url": "https://www.varzesh3.com/news/2436418/پایان-هیجان-انگیز-پیش-فصل-بسکتبال-ایران",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/14/D/mfa0223s.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-14T15:51:13Z",
+      "views": "2.4K",
+      "comments": "0"
+    },
+    {
       "id": "varzesh3-2436231",
       "title": "روزی که ویسی می‌خواست حاج‌صفی داشته باشد!",
       "summary": "سرمربی ذوب‌آهن در شرایطی پس از دربی اصفهان از عملکرد برخی شاگردانش رضایت نداشت که تیمش روزهای دشواری را در لیگ برتر سپری می‌کند.",
@@ -38,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-14T01:58:00Z",
-      "views": "12K",
+      "views": "12.5K",
       "comments": "11"
     },
     {
@@ -53,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T17:23:18Z",
-      "views": "10.3K",
+      "views": "10.8K",
       "comments": "3"
     },
     {
@@ -68,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T17:15:59Z",
-      "views": "5.8K",
+      "views": "6.1K",
       "comments": "5"
     },
     {
@@ -98,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T12:55:56Z",
-      "views": "9.5K",
+      "views": "10.3K",
       "comments": "2"
     },
     {
@@ -128,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T06:47:20Z",
-      "views": "7.6K",
+      "views": "7.7K",
       "comments": "1"
     },
     {
@@ -156,7 +171,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-12T20:41:05Z",
-      "views": "35.3K",
+      "views": "35.5K",
       "comments": "16"
     },
     {
@@ -201,7 +216,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-11T17:34:34Z",
-      "views": "16K",
+      "views": "16.1K",
       "comments": "3"
     },
     {
@@ -362,7 +377,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-08T11:24:38Z",
-      "views": "5.4K",
+      "views": "5.5K",
       "comments": "3"
     },
     {
@@ -634,21 +649,6 @@
       "publishedAt": "2026-10-01T15:44:11Z",
       "views": "18.2K",
       "comments": "7"
-    },
-    {
-      "id": "varzesh3-2433100",
-      "title": "برنامه ویژه آبادان: دوئل با کاله و چهارجانبه تهران!",
-      "summary": "تیم بسکتبال پالایش آبادان برنامه ویژه‌ای را برای پیش فصل در نظر گرفته است.",
-      "url": "https://www.varzesh3.com/news/2433100/برنامه-ویژه-آبادان-دوئل-با-کاله-و-چهارجانبه-تهران",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/01/C/2nwjgcbh.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-01T09:41:55Z",
-      "views": "1.6K",
-      "comments": "1"
     },
     {
       "id": "bbc-cb41315eced4",
