@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-14T00:23:46.367002+00:00",
-  "count": 59,
+  "generatedAt": "2026-10-14T06:25:35.195084+00:00",
+  "count": 60,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 145
+      "items": 144
     },
     {
       "source": "bbc",
@@ -21,11 +21,26 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -103,
+      "items": -101,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2436231",
+      "title": "روزی که ویسی می‌خواست حاج‌صفی داشته باشد!",
+      "summary": "سرمربی ذوب‌آهن در شرایطی پس از دربی اصفهان از عملکرد برخی شاگردانش رضایت نداشت که تیمش روزهای دشواری را در لیگ برتر سپری می‌کند.",
+      "url": "https://www.varzesh3.com/news/2436231/روزی-که-ویسی-می-خواست-حاج-صفی-داشته-باشد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/14/A/qi3gnt41.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-14T01:58:00Z",
+      "views": "7.6K",
+      "comments": "8"
+    },
     {
       "id": "varzesh3-2436157",
       "title": "چراغ بسکتبال روشن شد: بازربیتر وحشتناک بصیر!",
@@ -38,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T17:23:18Z",
-      "views": "7K",
+      "views": "9.3K",
       "comments": "3"
     },
     {
@@ -53,8 +68,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T17:15:59Z",
-      "views": "3.8K",
-      "comments": "4"
+      "views": "5.2K",
+      "comments": "5"
     },
     {
       "id": "varzesh3-2436104",
@@ -68,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T13:44:10Z",
-      "views": "8.8K",
+      "views": "8.9K",
       "comments": "6"
     },
     {
@@ -83,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T12:55:56Z",
-      "views": "7.1K",
+      "views": "8.5K",
       "comments": "2"
     },
     {
@@ -98,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T08:07:22Z",
-      "views": "4K",
+      "views": "4.2K",
       "comments": "0"
     },
     {
@@ -113,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T06:47:20Z",
-      "views": "7K",
+      "views": "7.5K",
       "comments": "1"
     },
     {
@@ -141,7 +156,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-12T20:41:05Z",
-      "views": "34.9K",
+      "views": "35.1K",
       "comments": "16"
     },
     {
@@ -156,7 +171,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-12T18:33:58Z",
-      "views": "5.2K",
+      "views": "5.3K",
       "comments": "2"
     },
     {
@@ -216,7 +231,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-11T15:33:15Z",
-      "views": "14.2K",
+      "views": "14.3K",
       "comments": "3"
     },
     {
