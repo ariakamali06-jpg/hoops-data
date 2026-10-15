@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-15T00:23:01.951553+00:00",
-  "count": 58,
+  "generatedAt": "2026-10-15T06:26:52.902137+00:00",
+  "count": 57,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 142
+      "items": 144
     },
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -101,
+      "items": -104,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,7 +38,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-14T15:51:13Z",
-      "views": "5.4K",
+      "views": "6.7K",
       "comments": "0"
     },
     {
@@ -68,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T17:23:18Z",
-      "views": "11.2K",
+      "views": "11.4K",
       "comments": "3"
     },
     {
@@ -83,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T17:15:59Z",
-      "views": "6.3K",
+      "views": "6.5K",
       "comments": "5"
     },
     {
@@ -98,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T13:44:10Z",
-      "views": "8.9K",
+      "views": "9K",
       "comments": "6"
     },
     {
@@ -113,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T12:55:56Z",
-      "views": "10.8K",
+      "views": "11K",
       "comments": "2"
     },
     {
@@ -186,7 +186,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-12T18:33:58Z",
-      "views": "5.3K",
+      "views": "5.4K",
       "comments": "2"
     },
     {
@@ -278,21 +278,6 @@
       "publishedAt": "2026-10-10T07:40:24Z",
       "views": "9.9K",
       "comments": "0"
-    },
-    {
-      "id": "varzesh3-2435112",
-      "title": "گزینه‌های سرشناس برای نیمکت خالی لیگ برتر!",
-      "summary": "مدیران باشگاه صنعت نفت آبادان ۳ گزینه را در اولویت خود برای نشستن روی نیمکت مربیگری این تیم قرار داده‌اند.",
-      "url": "https://www.varzesh3.com/news/2435112/گزینه-های-سرشناس-برای-نیمکت-خالی-لیگ-برتر",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/07/15/A/mlxwbnoz.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-09T20:04:12Z",
-      "views": "19.9K",
-      "comments": "28"
     },
     {
       "id": "varzesh3-2434978",
