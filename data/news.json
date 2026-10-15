@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-14T18:26:11.159196+00:00",
-  "count": 57,
+  "generatedAt": "2026-10-15T00:23:01.951553+00:00",
+  "count": 58,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 141
+      "items": 142
     },
     {
       "source": "bbc",
@@ -38,7 +38,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-14T15:51:13Z",
-      "views": "2.4K",
+      "views": "5.4K",
       "comments": "0"
     },
     {
@@ -53,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-14T01:58:00Z",
-      "views": "12.5K",
+      "views": "12.7K",
       "comments": "11"
     },
     {
@@ -68,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T17:23:18Z",
-      "views": "10.8K",
+      "views": "11.2K",
       "comments": "3"
     },
     {
@@ -83,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T17:15:59Z",
-      "views": "6.1K",
+      "views": "6.3K",
       "comments": "5"
     },
     {
@@ -113,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T12:55:56Z",
-      "views": "10.3K",
+      "views": "10.8K",
       "comments": "2"
     },
     {
@@ -143,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T06:47:20Z",
-      "views": "7.7K",
+      "views": "7.8K",
       "comments": "1"
     },
     {
@@ -171,7 +171,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-12T20:41:05Z",
-      "views": "35.5K",
+      "views": "35.6K",
       "comments": "16"
     },
     {
@@ -280,6 +280,21 @@
       "comments": "0"
     },
     {
+      "id": "varzesh3-2435112",
+      "title": "گزینه‌های سرشناس برای نیمکت خالی لیگ برتر!",
+      "summary": "مدیران باشگاه صنعت نفت آبادان ۳ گزینه را در اولویت خود برای نشستن روی نیمکت مربیگری این تیم قرار داده‌اند.",
+      "url": "https://www.varzesh3.com/news/2435112/گزینه-های-سرشناس-برای-نیمکت-خالی-لیگ-برتر",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/07/15/A/mlxwbnoz.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-09T20:04:12Z",
+      "views": "19.9K",
+      "comments": "28"
+    },
+    {
       "id": "varzesh3-2434978",
       "title": "شروع عصر جدید در لیکرز: پسر جانشین پدر!",
       "summary": "در روزهایی که لبران و برانی جیمز دیگر هم‌تیمی نیستند رقابت جالبی بین آنها در رسانه‌های بسکتبالی شکل گرفته است.",
@@ -291,7 +306,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-09T12:01:06Z",
-      "views": "12.9K",
+      "views": "13K",
       "comments": "0"
     },
     {
