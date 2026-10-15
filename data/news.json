@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-15T06:26:52.902137+00:00",
+  "generatedAt": "2026-10-15T16:21:16.162132+00:00",
   "count": 57,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 144
+      "items": 143
     },
     {
       "source": "bbc",
@@ -27,6 +27,34 @@
   ],
   "news": [
     {
+      "id": "isna-344935586769",
+      "title": "رهاسازی فوک خزری «برنا» پس از یک ماه درمان",
+      "summary": "مدیرکل دفتر حفاظت از زیست‌بوم‌ها و سواحل دریایی سازمان حفاظت محیط زیست از رهاسازی یک فرد فوک خزری پس از یک ماه درمان و مراقبت در مرکز امداد و نجات فوک خزری در پناهگاه حیات وحش میانکاله خبر داد.",
+      "url": "https://www.isna.ir/news/1405072315699/%D8%B1%D9%87%D8%A7%D8%B3%D8%A7%D8%B2%DB%8C-%D9%81%D9%88%DA%A9-%D8%AE%D8%B2%D8%B1%DB%8C-%D8%A8%D8%B1%D9%86%D8%A7-%D9%BE%D8%B3-%D8%A7%D8%B2-%DB%8C%DA%A9-%D9%85%D8%A7%D9%87-%D8%AF%D8%B1%D9%85%D8%A7%D9%86",
+      "imageUrl": "https://cdn.isna.ir/d/2026/10/15/4/64015614.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "اجتماعی > محیط زیست",
+      "publishedAt": "2026-10-15T15:36:21+00:00"
+    },
+    {
+      "id": "varzesh3-2436604",
+      "title": "رونمایی از ستاره آمریکایی استقلال در آبادان!",
+      "summary": "دوایت بایکس با تمریناتی هدفمند و مراقبت کادرفنی آبی‌ها برای شروع لیگ برتر بسکتبال ایران آماده می‌شود.",
+      "url": "https://www.varzesh3.com/news/2436604/رونمایی-از-ستاره-آمریکایی-استقلال-در-آبادان",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/15/C/ku4nujdi.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-15T11:52:13Z",
+      "views": "7.9K",
+      "comments": "1"
+    },
+    {
       "id": "varzesh3-2436418",
       "title": "پایان هیجان انگیز پیش‌فصل بسکتبال ایران!",
       "summary": "رقابت های پیش فصل لیگ برتر بسکتبال با برگزاری یک دیدار جذاب و تماشایی به پایان رسید.",
@@ -38,7 +66,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-14T15:51:13Z",
-      "views": "6.7K",
+      "views": "7.7K",
       "comments": "0"
     },
     {
@@ -53,7 +81,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-14T01:58:00Z",
-      "views": "12.7K",
+      "views": "12.8K",
       "comments": "11"
     },
     {
@@ -68,7 +96,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T17:23:18Z",
-      "views": "11.4K",
+      "views": "11.6K",
       "comments": "3"
     },
     {
@@ -83,7 +111,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T17:15:59Z",
-      "views": "6.5K",
+      "views": "6.6K",
       "comments": "5"
     },
     {
@@ -113,7 +141,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T12:55:56Z",
-      "views": "11K",
+      "views": "11.4K",
       "comments": "2"
     },
     {
@@ -128,7 +156,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T08:07:22Z",
-      "views": "4.3K",
+      "views": "4.4K",
       "comments": "0"
     },
     {
@@ -143,7 +171,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T06:47:20Z",
-      "views": "7.8K",
+      "views": "7.9K",
       "comments": "1"
     },
     {
@@ -171,7 +199,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-12T20:41:05Z",
-      "views": "35.6K",
+      "views": "35.8K",
       "comments": "16"
     },
     {
@@ -216,7 +244,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-11T17:34:34Z",
-      "views": "16.1K",
+      "views": "16.2K",
       "comments": "3"
     },
     {
@@ -231,7 +259,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-11T15:37:24Z",
-      "views": "7.2K",
+      "views": "7.3K",
       "comments": "5"
     },
     {
@@ -246,7 +274,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-11T15:33:15Z",
-      "views": "14.3K",
+      "views": "14.4K",
       "comments": "3"
     },
     {
@@ -424,21 +452,6 @@
       "publishedAt": "2026-10-07T20:32:31Z",
       "views": "5.9K",
       "comments": "3"
-    },
-    {
-      "id": "varzesh3-2434528",
-      "title": "توقف رویای NBA در اروپا: آمریکایی‌ها استعمار می‌خواهند!",
-      "summary": "‏۱۳ باشگاه سهام‌دار یورولیگ در پاسخی قاطع، پیشنهاد مشارکت NBA برای ایجاد یک لیگ رقیب در اروپا را رد کردند؛ پیشنهادی که مدیران اروپایی آن را استعماری توصیف کرده‌اند.",
-      "url": "https://www.varzesh3.com/news/2434528/توقف-رویای-nba-در-اروپا-آمریکایی-ها-استعمار-می-خواهند",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/07/D/41nj1rf3.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-07T16:46:06Z",
-      "views": "5.6K",
-      "comments": "2"
     },
     {
       "id": "varzesh3-2434339",
@@ -662,21 +675,6 @@
       "language": "en",
       "category": "Basketball",
       "publishedAt": "2026-10-01T09:36:13+00:00"
-    },
-    {
-      "id": "varzesh3-2433075",
-      "title": "اسلامشهر از رئال مادرید بازیکن گرفت!",
-      "summary": "ویکتور آرتیاگا اسپانیایی در فصل جدید لیگ برتر بسکتبال با پیراهن طبیعت به پارکت خواهد رفت.",
-      "url": "https://www.varzesh3.com/news/2433075/اسلامشهر-از-رئال-مادرید-بازیکن-گرفت",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/01/B/er5g0icz.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-01T08:33:40Z",
-      "views": "8.4K",
-      "comments": "16"
     },
     {
       "id": "bbc-911018267eb9",
