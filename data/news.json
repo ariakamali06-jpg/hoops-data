@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-16T20:31:51.347556+00:00",
-  "count": 56,
+  "generatedAt": "2026-10-17T03:05:02.168894+00:00",
+  "count": 58,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 144
+      "items": 143
     },
     {
       "source": "bbc",
@@ -21,11 +21,39 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -105,
+      "items": -103,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "isna-dcfe46afef0b",
+      "title": "دومین برد بسکتبال با ویلچر مردان ایران با عبور از سد کره جنوبی",
+      "summary": "",
+      "url": "https://www.isna.ir/news/1405072516180/%D8%AF%D9%88%D9%85%DB%8C%D9%86-%D8%A8%D8%B1%D8%AF-%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%A8%D8%A7-%D9%88%DB%8C%D9%84%DA%86%D8%B1-%D9%85%D8%B1%D8%AF%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D8%B9%D8%A8%D9%88%D8%B1-%D8%A7%D8%B2-%D8%B3%D8%AF-%DA%A9%D8%B1%D9%87-%D8%AC%D9%86%D9%88%D8%A8%DB%8C",
+      "imageUrl": "https://cdn.isna.ir/d/2026/10/17/4/64016484.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "ورزشی > توپ و تور",
+      "publishedAt": "2026-10-17T02:32:14+00:00"
+    },
+    {
+      "id": "varzesh3-2436897",
+      "title": "دنیای بسکتبال هم عاشق پپ گواردیولا!",
+      "summary": "پپ گواردیولا که برای تماشای مسابقه تیم محبوبش بارسلونا به سالن بسکتبال باشگاه رفته بود همه حواس‌ها را از بازی پرت کرد.",
+      "url": "https://www.varzesh3.com/news/2436897/دنیای-بسکتبال-هم-عاشق-پپ-گواردیولا",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/17/A/gkwgm124.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-16T21:04:56Z",
+      "views": "13.9K",
+      "comments": "25"
+    },
     {
       "id": "varzesh3-2436835",
       "title": "شکست زنان بسکتبال با ویلچر در گام اول",
@@ -38,7 +66,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T15:32:54Z",
-      "views": "3.7K",
+      "views": "5K",
       "comments": "3"
     },
     {
@@ -53,7 +81,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T14:31:04Z",
-      "views": "5.1K",
+      "views": "6.4K",
       "comments": "0"
     },
     {
@@ -68,7 +96,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T07:23:20Z",
-      "views": "6.9K",
+      "views": "7.5K",
       "comments": "2"
     },
     {
@@ -83,7 +111,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-15T11:52:13Z",
-      "views": "18K",
+      "views": "18.4K",
       "comments": "1"
     },
     {
@@ -158,7 +186,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T12:55:56Z",
-      "views": "11.8K",
+      "views": "11.9K",
       "comments": "2"
     },
     {
