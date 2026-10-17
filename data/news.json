@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-17T10:10:59.276286+00:00",
-  "count": 56,
+  "generatedAt": "2026-10-17T14:59:24.992757+00:00",
+  "count": 58,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "varzesh3",
@@ -21,11 +21,54 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -103,
+      "items": -102,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "isna-d0a18cd89824",
+      "title": "تخلیه ۲۳ مرکز غیرمجاز جمع‌آوری ضایعات در گرگان/۳ مکان از چرخه خرید و فروش ضایعات خارج شد",
+      "summary": "معاون محیط زیست و خدمات شهری شهرداری گرگان از تخلیه ۲۳ مکان غیرمجاز جمع‌آوری پسماند و ضایعات، پلمب چهار مکان و خروج سه مرکز از چرخه خرید و فروش ضایعات خبر داد و گفت: در جریان اجرای این طرح، چهار مکان به دلیل فعالیت غیرمجاز پلمب و سه مکان از چرخه خرید و فروش ضایعات خارج شد.",
+      "url": "https://www.isna.ir/news/1405072516803/%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%DB%B2%DB%B3-%D9%85%D8%B1%DA%A9%D8%B2-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%AC%D9%85%D8%B9-%D8%A2%D9%88%D8%B1%DB%8C-%D8%B6%D8%A7%DB%8C%D8%B9%D8%A7%D8%AA-%D8%AF%D8%B1-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%DB%B3-%D9%85%DA%A9%D8%A7%D9%86-%D8%A7%D8%B2-%DA%86%D8%B1%D8%AE%D9%87",
+      "imageUrl": "https://cdn.isna.ir/d/2025/05/05/4/63446875.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > گلستان",
+      "publishedAt": "2026-10-17T14:57:38+00:00"
+    },
+    {
+      "id": "varzesh3-2437016",
+      "title": "دومین شکست در کارنامه زنان بسکتبال با ویلچر",
+      "summary": "تیم ملی بسکتبال با ویلچر ایران در دومین بازی خود در بازی های پاراآسیایی ناگویا نتیجه را به تایلند واگذار کرد.",
+      "url": "https://www.varzesh3.com/news/2437016/دومین-شکست-در-کارنامه-زنان-بسکتبال-با-ویلچر",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/17/C/1ywjwg1w.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-17T11:51:22Z",
+      "views": "1.9K",
+      "comments": "1"
+    },
+    {
+      "id": "varzesh3-2436999",
+      "title": "مأموریت نویدکیا برای سومین برد متوالی",
+      "summary": "سپاهان پس از دو پیروزی متوالی مقابل فجر سپاسی و ذوب‌آهن، با هدف ثبت سومین برد پیاپی خود وارد قزوین شد تا در هفته نهم لیگ برتر به مصاف شمس‌آذر برود.",
+      "url": "https://www.varzesh3.com/news/2436999/مأموریت-نویدکیا-برای-سومین-برد-متوالی",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/17/C/pmz2wdea.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-17T11:07:48Z",
+      "views": "5.1K",
+      "comments": "7"
+    },
     {
       "id": "bbc-d0d1256c551b",
       "title": "Guardiola receives standing ovation at Barcelona EuroLeague match",
@@ -51,7 +94,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T06:23:45Z",
-      "views": "2K",
+      "views": "2.9K",
       "comments": "1"
     },
     {
@@ -66,8 +109,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T04:52:43Z",
-      "views": "3.9K",
-      "comments": "0"
+      "views": "4.7K",
+      "comments": "1"
     },
     {
       "id": "varzesh3-2436897",
@@ -81,8 +124,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T21:04:56Z",
-      "views": "37.4K",
-      "comments": "28"
+      "views": "41.3K",
+      "comments": "30"
     },
     {
       "id": "varzesh3-2436835",
@@ -96,7 +139,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T15:32:54Z",
-      "views": "6.3K",
+      "views": "6.6K",
       "comments": "3"
     },
     {
@@ -111,7 +154,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T14:31:04Z",
-      "views": "7.7K",
+      "views": "7.9K",
       "comments": "0"
     },
     {
@@ -126,7 +169,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T07:23:20Z",
-      "views": "8.1K",
+      "views": "8.3K",
       "comments": "2"
     },
     {
@@ -141,7 +184,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-15T11:52:13Z",
-      "views": "18.7K",
+      "views": "18.8K",
       "comments": "1"
     },
     {
@@ -186,7 +229,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T17:15:59Z",
-      "views": "6.6K",
+      "views": "6.7K",
       "comments": "5"
     },
     {
@@ -201,7 +244,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T12:55:56Z",
-      "views": "12K",
+      "views": "12.1K",
       "comments": "2"
     },
     {
@@ -259,7 +302,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-12T20:41:05Z",
-      "views": "36.4K",
+      "views": "36.5K",
       "comments": "16"
     },
     {
@@ -437,21 +480,6 @@
       "language": "en",
       "category": "Basketball",
       "publishedAt": "2026-10-09T06:17:12+00:00"
-    },
-    {
-      "id": "varzesh3-2434811",
-      "title": "طبیعت و نفت آبادان برنده روز اول پیش‌فصل!",
-      "summary": "طبیعت اسلامشهر و نفت آبادان با نمایشی مقتدرانه در بازی‌های فیزیکی پیروزی را از آن خود کردند.",
-      "url": "https://www.varzesh3.com/news/2434811/طبیعت-و-نفت-آبادان-برنده-روز-اول-پیش-فصل",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/08/D/14htn2wy.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-08T18:36:23Z",
-      "views": "2.4K",
-      "comments": "1"
     },
     {
       "id": "varzesh3-2434663",
