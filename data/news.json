@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-17T14:59:24.992757+00:00",
-  "count": 58,
+  "generatedAt": "2026-10-17T20:09:26.589193+00:00",
+  "count": 60,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 1
+      "items": 2
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 142
+      "items": 143
     },
     {
       "source": "bbc",
@@ -27,17 +27,60 @@
   ],
   "news": [
     {
-      "id": "isna-d0a18cd89824",
-      "title": "تخلیه ۲۳ مرکز غیرمجاز جمع‌آوری ضایعات در گرگان/۳ مکان از چرخه خرید و فروش ضایعات خارج شد",
-      "summary": "معاون محیط زیست و خدمات شهری شهرداری گرگان از تخلیه ۲۳ مکان غیرمجاز جمع‌آوری پسماند و ضایعات، پلمب چهار مکان و خروج سه مرکز از چرخه خرید و فروش ضایعات خبر داد و گفت: در جریان اجرای این طرح، چهار مکان به دلیل فعالیت غیرمجاز پلمب و سه مکان از چرخه خرید و فروش ضایعات خارج شد.",
-      "url": "https://www.isna.ir/news/1405072516803/%D8%AA%D8%AE%D9%84%DB%8C%D9%87-%DB%B2%DB%B3-%D9%85%D8%B1%DA%A9%D8%B2-%D8%BA%DB%8C%D8%B1%D9%85%D8%AC%D8%A7%D8%B2-%D8%AC%D9%85%D8%B9-%D8%A2%D9%88%D8%B1%DB%8C-%D8%B6%D8%A7%DB%8C%D8%B9%D8%A7%D8%AA-%D8%AF%D8%B1-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%DB%B3-%D9%85%DA%A9%D8%A7%D9%86-%D8%A7%D8%B2-%DA%86%D8%B1%D8%AE%D9%87",
-      "imageUrl": "https://cdn.isna.ir/d/2025/05/05/4/63446875.jpg",
+      "id": "isna-b29c295321e1",
+      "title": "پورموسوی: با همدلی و انگیزه بالا به برد رسیدیم",
+      "summary": "سرمربی تیم فوتبال صنعت‌نفت آبادان درباره بازی امشب تیمش مقابل آلومینیوم اراک که با برد همراه بود، توضیحاتی ارائه داد.",
+      "url": "https://www.isna.ir/news/1405072516911/%D9%BE%D9%88%D8%B1%D9%85%D9%88%D8%B3%D9%88%DB%8C-%D8%A8%D8%A7-%D9%87%D9%85%D8%AF%D9%84%DB%8C-%D9%88-%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87-%D8%A8%D8%A7%D9%84%D8%A7-%D8%A8%D9%87-%D8%A8%D8%B1%D8%AF-%D8%B1%D8%B3%DB%8C%D8%AF%DB%8C%D9%85",
+      "imageUrl": "https://cdn.isna.ir/d/off/isfahan/2026/07/11/4/63900114.jpg",
       "source": "isna",
       "sourceName": "ایسنا",
       "sourceNameEn": "ISNA",
       "language": "fa",
-      "category": "استان‌ها > گلستان",
-      "publishedAt": "2026-10-17T14:57:38+00:00"
+      "category": "استان‌ها > خوزستان",
+      "publishedAt": "2026-10-17T19:16:01+00:00"
+    },
+    {
+      "id": "isna-b6c03b713e72",
+      "title": "انتقاد پیروز قربانی از عملکرد تیمش مقابل نفت آبادان",
+      "summary": "سرمربی تیم فوتبال آلومینیوم اراک از عملکرد تیمش مقابل صنعت‌نفت آبادان انتقاد کرد و گفت: پیراهن لیگ برتری نباید به راحتی به بازیکنان برسد.",
+      "url": "https://www.isna.ir/news/1405072516905/%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2-%D9%82%D8%B1%D8%A8%D8%A7%D9%86%DB%8C-%D8%A7%D8%B2-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%AA%DB%8C%D9%85%D8%B4-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D9%86%D9%81%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86",
+      "imageUrl": "https://cdn.isna.ir/d/2025/10/02/4/63605155.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > خوزستان",
+      "publishedAt": "2026-10-17T18:55:38+00:00"
+    },
+    {
+      "id": "varzesh3-2437127",
+      "title": "طلسم ۴۶۴ روزه صنعت نفت با پورموسوی شکست!",
+      "summary": "صنعت نفت آبادان پس از شروعی دشوار در لیگ برتر و تغییر سرمربی، سرانجام در هفته نهم نخستین پیروزی فصل خود را جشن گرفت.",
+      "url": "https://www.varzesh3.com/news/2437127/طلسم-۴۶۴-روزه-صنعت-نفت-با-پورموسوی-شکست",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/17/D/5cuxpgq1.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-17T18:23:44Z",
+      "views": "8.5K",
+      "comments": "14"
+    },
+    {
+      "id": "varzesh3-2437100",
+      "title": "پرونده ۳ میلیاردی یورولیگ علیه NBA!",
+      "summary": "در بزرگ‌ترین تصمیم اقتصادی تاریخ بسکتبال اروپا، سهامداران یورولیگ از طرح تجاری ۱۰ ساله‌ای رونمایی کردند که می‌تواند معادلات قدرت بسکتبال جهان را تغییر دهد.",
+      "url": "https://www.varzesh3.com/news/2437100/پرونده-۳-میلیاردی-یورولیگ-علیه-nba",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/17/D/2sdcd1gr.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-17T16:54:26Z",
+      "views": "2.2K",
+      "comments": "1"
     },
     {
       "id": "varzesh3-2437016",
@@ -51,7 +94,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T11:51:22Z",
-      "views": "1.9K",
+      "views": "3.5K",
       "comments": "1"
     },
     {
@@ -66,8 +109,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T11:07:48Z",
-      "views": "5.1K",
-      "comments": "7"
+      "views": "6.5K",
+      "comments": "10"
     },
     {
       "id": "bbc-d0d1256c551b",
@@ -94,7 +137,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T06:23:45Z",
-      "views": "2.9K",
+      "views": "3.5K",
       "comments": "1"
     },
     {
@@ -109,7 +152,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T04:52:43Z",
-      "views": "4.7K",
+      "views": "5K",
       "comments": "1"
     },
     {
@@ -124,7 +167,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T21:04:56Z",
-      "views": "41.3K",
+      "views": "41.7K",
       "comments": "30"
     },
     {
@@ -139,7 +182,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T15:32:54Z",
-      "views": "6.6K",
+      "views": "6.7K",
       "comments": "3"
     },
     {
@@ -154,7 +197,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T14:31:04Z",
-      "views": "7.9K",
+      "views": "8K",
       "comments": "0"
     },
     {
@@ -169,7 +212,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T07:23:20Z",
-      "views": "8.3K",
+      "views": "8.4K",
       "comments": "2"
     },
     {
@@ -675,21 +718,6 @@
       "publishedAt": "2026-10-04T07:44:03Z",
       "views": "5.7K",
       "comments": "4"
-    },
-    {
-      "id": "varzesh3-2433409",
-      "title": "یک خرید جوان دیگر برای بسکتبال استقلال",
-      "summary": "امیرحسین غلام‌زاده با عقد قرارداد به تیم بسکتبال استقلال پیوست تا فصل آینده زیر نظر مهران شاهین‌طبع به میدان برود.",
-      "url": "https://www.varzesh3.com/news/2433409/یک-خرید-جوان-دیگر-برای-بسکتبال-استقلال",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/02/D/5jpkqshq.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-02T16:25:53Z",
-      "views": "4.5K",
-      "comments": "7"
     },
     {
       "id": "bbc-cb41315eced4",
