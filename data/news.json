@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-18T10:26:34.862261+00:00",
-  "count": 59,
+  "generatedAt": "2026-10-18T15:24:31.764513+00:00",
+  "count": 61,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 1
+      "items": 2
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 141
+      "items": 138
     },
     {
       "source": "bbc",
@@ -21,23 +21,51 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -100,
+      "items": -96,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
     {
-      "id": "isna-8bb8ee0645cd",
-      "title": "ارسال بیش از ۱۱۰۰ تن کود کشاورزی به اسلامشهر در نیمه نخست سال",
-      "summary": "مدیر شرکت خدمات حمایتی کشاورزی استان تهران از حمل و ارسال بیش از یک‌هزار و ۱۰۰ تن انواع کود کشاورزی به انبار کارگزاران شهرستان اسلامشهر و توزیع این نهاده‌ها میان کشاورزان و بهره‌برداران بخش کشاورزی در نیمه نخست سال جاری خبر داد.",
-      "url": "https://www.isna.ir/news/1405072617388/%D8%A7%D8%B1%D8%B3%D8%A7%D9%84-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B1%DB%B0%DB%B0-%D8%AA%D9%86-%DA%A9%D9%88%D8%AF-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D8%A8%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%AF%D8%B1-%D9%86%DB%8C%D9%85%D9%87-%D9%86%D8%AE%D8%B3%D8%AA-%D8%B3%D8%A7%D9%84",
-      "imageUrl": "https://cdn.isna.ir/d/2026/10/18/4/64018382.jpg",
+      "id": "isna-ccccfba95cf5",
+      "title": "سرمربی ذوب‌آهن: مسئولیت شکست ذوب‌آهن برعهده من است",
+      "summary": "سرمربی تیم فوتبال ذوب‌آهن گفت: در نیمه نخست منظم‌تر بودیم، اما به‌تدریج از سازمان تیمی خارج شدیم و برای برطرف کردن ایرادها، به‌ویژه در ساختار دفاعی، کار زیادی در پیش داریم.",
+      "url": "https://www.isna.ir/news/1405072617630/%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D8%B0%D9%88%D8%A8-%D8%A2%D9%87%D9%86-%D9%85%D8%B3%D8%A6%D9%88%D9%84%DB%8C%D8%AA-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%B0%D9%88%D8%A8-%D8%A2%D9%87%D9%86-%D8%A8%D8%B1%D8%B9%D9%87%D8%AF%D9%87-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA",
+      "imageUrl": "https://cdn.isna.ir/d/off/isfahan/2026/10/18/4/64018981.jpg",
       "source": "isna",
       "sourceName": "ایسنا",
       "sourceNameEn": "ISNA",
       "language": "fa",
-      "category": "استان‌ها > تهران",
-      "publishedAt": "2026-10-18T10:00:32+00:00"
+      "category": "استان‌ها > اصفهان",
+      "publishedAt": "2026-10-18T15:19:43+00:00"
+    },
+    {
+      "id": "isna-b9e0be4adf7f",
+      "title": "هفته نهم لیگ برتر فوتبال ایران؛ ذوب‌آهن - چادرملو",
+      "summary": "",
+      "url": "https://www.isna.ir/photo/1405072617627/%D9%87%D9%81%D8%AA%D9%87-%D9%86%D9%87%D9%85-%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B0%D9%88%D8%A8-%D8%A2%D9%87%D9%86-%DA%86%D8%A7%D8%AF%D8%B1%D9%85%D9%84%D9%88",
+      "imageUrl": "https://cdn.isna.ir/d/2026/10/18/4/64019074.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "عکس > خبری",
+      "publishedAt": "2026-10-18T15:12:37+00:00"
+    },
+    {
+      "id": "varzesh3-2437295",
+      "title": "‏تمدیدهای نجومی در آستانه ددلاین بزرگ NBA",
+      "summary": "در آستانه ددلاین نقل و انتقالات لیگ بسکتبال آمریکا تمدیدها با رقم های نجومی در حال انجام است و تیم ها برای تکمیل اسکوادشان دست به کارهای عجیبی می‌زنند!",
+      "url": "https://www.varzesh3.com/news/2437295/تمدیدهای-نجومی-در-آستانه-ددلاین-بزرگ-nba",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/18/C/oq0ezinr.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-18T12:26:01Z",
+      "views": "2.4K",
+      "comments": "1"
     },
     {
       "id": "varzesh3-2437209",
@@ -51,7 +79,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T07:27:02Z",
-      "views": "2.1K",
+      "views": "3.5K",
       "comments": "5"
     },
     {
@@ -66,7 +94,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T06:58:34Z",
-      "views": "3.4K",
+      "views": "5.2K",
       "comments": "4"
     },
     {
@@ -81,7 +109,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T06:32:46Z",
-      "views": "8K",
+      "views": "10.9K",
       "comments": "0"
     },
     {
@@ -96,8 +124,23 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T23:52:22Z",
-      "views": "7.1K",
-      "comments": "15"
+      "views": "8.3K",
+      "comments": "19"
+    },
+    {
+      "id": "varzesh3-2437175",
+      "title": "دوئل غول‌های اروپایی NBA: دانچیچ برابر یوکیچ!",
+      "summary": "آخرین شب پیش‌فصل در لس‌آنجلس به نام ستاره صربستانی سند خورد؛ دنور ناگتس با رهبری نیکولا یوکیچ، لیکرزِ لوکا دانچیچ را شکست داد.",
+      "url": "https://www.varzesh3.com/news/2437175/دوئل-غول-های-اروپایی-nba-دانچیچ-برابر-یوکیچ",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/18/A/omuixqtr.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-17T21:36:12Z",
+      "views": "7.9K",
+      "comments": "1"
     },
     {
       "id": "varzesh3-2437159",
@@ -111,7 +154,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T20:27:55Z",
-      "views": "7.9K",
+      "views": "8.4K",
       "comments": "3"
     },
     {
@@ -126,7 +169,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T18:23:44Z",
-      "views": "12.8K",
+      "views": "12.9K",
       "comments": "16"
     },
     {
@@ -141,7 +184,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T16:54:26Z",
-      "views": "4.4K",
+      "views": "4.6K",
       "comments": "2"
     },
     {
@@ -156,7 +199,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T11:51:22Z",
-      "views": "4.6K",
+      "views": "5.1K",
       "comments": "1"
     },
     {
@@ -171,7 +214,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T11:07:48Z",
-      "views": "6.7K",
+      "views": "6.8K",
       "comments": "10"
     },
     {
@@ -199,7 +242,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T06:23:45Z",
-      "views": "3.7K",
+      "views": "3.8K",
       "comments": "1"
     },
     {
@@ -214,7 +257,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T04:52:43Z",
-      "views": "5.3K",
+      "views": "5.5K",
       "comments": "1"
     },
     {
@@ -229,7 +272,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T21:04:56Z",
-      "views": "42K",
+      "views": "42.1K",
       "comments": "30"
     },
     {
@@ -244,7 +287,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T15:32:54Z",
-      "views": "6.9K",
+      "views": "7K",
       "comments": "3"
     },
     {
@@ -259,7 +302,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T14:31:04Z",
-      "views": "8K",
+      "views": "8.1K",
       "comments": "0"
     },
     {
@@ -274,7 +317,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T07:23:20Z",
-      "views": "8.5K",
+      "views": "8.6K",
       "comments": "2"
     },
     {
@@ -319,7 +362,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T17:23:18Z",
-      "views": "11.7K",
+      "views": "11.8K",
       "comments": "3"
     },
     {
@@ -422,7 +465,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-12T18:33:58Z",
-      "views": "5.4K",
+      "views": "5.5K",
       "comments": "2"
     },
     {
@@ -467,7 +510,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-11T15:37:24Z",
-      "views": "7.3K",
+      "views": "7.4K",
       "comments": "5"
     },
     {
@@ -689,21 +732,6 @@
       "category": "ورزشی",
       "publishedAt": "2026-10-06T05:21:32Z",
       "views": "5.5K",
-      "comments": "2"
-    },
-    {
-      "id": "varzesh3-2434000",
-      "title": "جیمز مسن‌ترین بازیکن NBA",
-      "summary": "فوق ستاره تیم بسکتبال فیلادلفیا برای چهارمین فصل متوالی مسن‌ترین بازیکن NBA است.",
-      "url": "https://www.varzesh3.com/news/2434000/جیمز-مسن-ترین-بازیکن-nba",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/04/B/wsbckgmk.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-05T10:02:27Z",
-      "views": "7.2K",
       "comments": "2"
     },
     {
