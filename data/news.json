@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-18T03:07:37.645893+00:00",
-  "count": 57,
+  "generatedAt": "2026-10-18T10:26:34.862261+00:00",
+  "count": 59,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 143
+      "items": 141
     },
     {
       "source": "bbc",
@@ -21,11 +21,69 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -103,
+      "items": -100,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "isna-8bb8ee0645cd",
+      "title": "ارسال بیش از ۱۱۰۰ تن کود کشاورزی به اسلامشهر در نیمه نخست سال",
+      "summary": "مدیر شرکت خدمات حمایتی کشاورزی استان تهران از حمل و ارسال بیش از یک‌هزار و ۱۰۰ تن انواع کود کشاورزی به انبار کارگزاران شهرستان اسلامشهر و توزیع این نهاده‌ها میان کشاورزان و بهره‌برداران بخش کشاورزی در نیمه نخست سال جاری خبر داد.",
+      "url": "https://www.isna.ir/news/1405072617388/%D8%A7%D8%B1%D8%B3%D8%A7%D9%84-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B1%DB%B0%DB%B0-%D8%AA%D9%86-%DA%A9%D9%88%D8%AF-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-%D8%A8%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%AF%D8%B1-%D9%86%DB%8C%D9%85%D9%87-%D9%86%D8%AE%D8%B3%D8%AA-%D8%B3%D8%A7%D9%84",
+      "imageUrl": "https://cdn.isna.ir/d/2026/10/18/4/64018382.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > تهران",
+      "publishedAt": "2026-10-18T10:00:32+00:00"
+    },
+    {
+      "id": "varzesh3-2437209",
+      "title": "استقلالِ جوان شاهین‌طبع: مدعی جام قهرمانی بسکتبال!",
+      "summary": "تیم بسکتبال استقلال تهران در آستانه مسابقات لیگ برتر با اسکوادی جوان اما با حضور بازیکنان ملی‌پوش وارد رقابت‌ها خواهد شد و همچنان یکی از مدعیان اصلی قهرمانی است.",
+      "url": "https://www.varzesh3.com/news/2437209/استقلالِ-جوان-شاهین-طبع-مدعی-جام-قهرمانی-بسکتبال",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/18/B/spnxbnfa.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-18T07:27:02Z",
+      "views": "2.1K",
+      "comments": "5"
+    },
+    {
+      "id": "varzesh3-2437205",
+      "title": "غول فرانسوی شانس اصلی MVP فصل جدید NBA",
+      "summary": "در آستانه شروع مسابقات NBA نظرسنجی بین مدیران تیم‌ها برگزار شد که نتیجه آن برتری مطلق ومبانیاما بود.",
+      "url": "https://www.varzesh3.com/news/2437205/غول-فرانسوی-شانس-اصلی-mvp-فصل-جدید-nba",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/18/B/nznqjwq1.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-18T06:58:34Z",
+      "views": "3.4K",
+      "comments": "4"
+    },
+    {
+      "id": "varzesh3-2437201",
+      "title": "تعظیم بهترین بازیکن اروپا به گواردیولا! (عکس)",
+      "summary": "ساشا وزنکوف ستاره تیم بسکتبال المپیاکوس علاقه جالبی به گواردیولا نشان داد و بلافاصله بعد از کسب پیروزی به سمت او رفت و به شکل جالبی ادای احترام کرد.",
+      "url": "https://www.varzesh3.com/news/2437201/تعظیم-بهترین-بازیکن-اروپا-به-گواردیولا-عکس",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/18/B/wqggedfd.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-18T06:32:46Z",
+      "views": "8K",
+      "comments": "0"
+    },
     {
       "id": "varzesh3-2437164",
       "title": "ترکیب احتمالی سپاهان برای ثبت سومین برد متوالی",
@@ -38,23 +96,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T23:52:22Z",
-      "views": "1.7K",
-      "comments": "1"
-    },
-    {
-      "id": "varzesh3-2437175",
-      "title": "دوئل غول‌های اروپایی NBA: دانچیچ برابر یوکیچ!",
-      "summary": "آخرین شب پیش‌فصل در لس‌آنجلس به نام ستاره صربستانی سند خورد؛ دنور ناگتس با رهبری نیکولا یوکیچ، لیکرزِ لوکا دانچیچ را شکست داد.",
-      "url": "https://www.varzesh3.com/news/2437175/دوئل-غول-های-اروپایی-nba-دانچیچ-برابر-یوکیچ",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/18/A/omuixqtr.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-17T21:36:12Z",
-      "views": "2.6K",
-      "comments": "0"
+      "views": "7.1K",
+      "comments": "15"
     },
     {
       "id": "varzesh3-2437159",
@@ -68,8 +111,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T20:27:55Z",
-      "views": "4K",
-      "comments": "2"
+      "views": "7.9K",
+      "comments": "3"
     },
     {
       "id": "varzesh3-2437127",
@@ -83,8 +126,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T18:23:44Z",
-      "views": "11.5K",
-      "comments": "15"
+      "views": "12.8K",
+      "comments": "16"
     },
     {
       "id": "varzesh3-2437100",
@@ -98,8 +141,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T16:54:26Z",
-      "views": "3.3K",
-      "comments": "1"
+      "views": "4.4K",
+      "comments": "2"
     },
     {
       "id": "varzesh3-2437016",
@@ -113,7 +156,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T11:51:22Z",
-      "views": "3.9K",
+      "views": "4.6K",
       "comments": "1"
     },
     {
@@ -171,7 +214,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T04:52:43Z",
-      "views": "5.1K",
+      "views": "5.3K",
       "comments": "1"
     },
     {
@@ -186,7 +229,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T21:04:56Z",
-      "views": "41.9K",
+      "views": "42K",
       "comments": "30"
     },
     {
@@ -201,8 +244,23 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T15:32:54Z",
-      "views": "6.8K",
+      "views": "6.9K",
       "comments": "3"
+    },
+    {
+      "id": "varzesh3-2436825",
+      "title": "بازگشت قهرمان فصل گذشته NBA به کالبد قهرمانان!",
+      "summary": "قهرمان فصل گذشته NBA بعد از چهار شکست بلاخره در بازی با رپترز توانست حریفش را در آستانه شروع مسابقات شکست دهد.",
+      "url": "https://www.varzesh3.com/news/2436825/بازگشت-قهرمان-فصل-گذشته-nba-به-کالبد-قهرمانان",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/16/D/ilgcsct0.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-16T14:31:04Z",
+      "views": "8K",
+      "comments": "0"
     },
     {
       "id": "varzesh3-2436720",
@@ -231,7 +289,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-15T11:52:13Z",
-      "views": "18.8K",
+      "views": "18.9K",
       "comments": "1"
     },
     {
@@ -291,7 +349,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T12:55:56Z",
-      "views": "12.1K",
+      "views": "12.2K",
       "comments": "2"
     },
     {
@@ -647,36 +705,6 @@
       "publishedAt": "2026-10-05T10:02:27Z",
       "views": "7.2K",
       "comments": "2"
-    },
-    {
-      "id": "varzesh3-2433843",
-      "title": "قرعه استقلال در لیگ برتر بسکتبال مشخص شد",
-      "summary": "برنامه دور رفت تیم‌های بسکتبال مردان و زنان استقلال در فصل جدید لیگ برتر مشخص شد.",
-      "url": "https://www.varzesh3.com/news/2433843/قرعه-استقلال-در-لیگ-برتر-بسکتبال-مشخص-شد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/04/D/qdr21mrl.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-04T14:38:15Z",
-      "views": "3.5K",
-      "comments": "17"
-    },
-    {
-      "id": "varzesh3-2433816",
-      "title": "حضور ناگهانی سپاهان اصفهان در بسکتبال زنان!",
-      "summary": "باشگاه سپاهان اصفهان در فصل جدید لیگ برتر بسکتبال زنان حضور خواهد داشت.",
-      "url": "https://www.varzesh3.com/news/2433816/حضور-ناگهانی-سپاهان-اصفهان-در-بسکتبال-زنان",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/04/C/uto301fp.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-04T12:00:58Z",
-      "views": "2K",
-      "comments": "1"
     },
     {
       "id": "bbc-cb41315eced4",
