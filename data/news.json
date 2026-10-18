@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-18T15:24:31.764513+00:00",
-  "count": 61,
+  "generatedAt": "2026-10-18T20:08:13.901889+00:00",
+  "count": 60,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 2
+      "items": 0
     },
     {
       "source": "varzesh3",
@@ -21,36 +21,25 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -96,
+      "items": -95,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
     {
-      "id": "isna-ccccfba95cf5",
-      "title": "سرمربی ذوب‌آهن: مسئولیت شکست ذوب‌آهن برعهده من است",
-      "summary": "سرمربی تیم فوتبال ذوب‌آهن گفت: در نیمه نخست منظم‌تر بودیم، اما به‌تدریج از سازمان تیمی خارج شدیم و برای برطرف کردن ایرادها، به‌ویژه در ساختار دفاعی، کار زیادی در پیش داریم.",
-      "url": "https://www.isna.ir/news/1405072617630/%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D8%B0%D9%88%D8%A8-%D8%A2%D9%87%D9%86-%D9%85%D8%B3%D8%A6%D9%88%D9%84%DB%8C%D8%AA-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%B0%D9%88%D8%A8-%D8%A2%D9%87%D9%86-%D8%A8%D8%B1%D8%B9%D9%87%D8%AF%D9%87-%D9%85%D9%86-%D8%A7%D8%B3%D8%AA",
-      "imageUrl": "https://cdn.isna.ir/d/off/isfahan/2026/10/18/4/64018981.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
+      "id": "varzesh3-2437425",
+      "title": "عجیب‌ترین بسکتبالیست دنیا هم‌تیمی لبران جیمز!",
+      "summary": "بسکتبالیست بلند قامت سنگالی بعد از چند فصل حضور در خارج از NBA سرانجام توانست رضایت مدعی اصلی قهرمانی این فصل را برای حضور در لیست جلب کند.",
+      "url": "https://www.varzesh3.com/news/2437425/عجیب-ترین-بسکتبالیست-دنیا-هم-تیمی-لبران-جیمز",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/18/D/wc3uo2rs.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
       "language": "fa",
-      "category": "استان‌ها > اصفهان",
-      "publishedAt": "2026-10-18T15:19:43+00:00"
-    },
-    {
-      "id": "isna-b9e0be4adf7f",
-      "title": "هفته نهم لیگ برتر فوتبال ایران؛ ذوب‌آهن - چادرملو",
-      "summary": "",
-      "url": "https://www.isna.ir/photo/1405072617627/%D9%87%D9%81%D8%AA%D9%87-%D9%86%D9%87%D9%85-%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B0%D9%88%D8%A8-%D8%A2%D9%87%D9%86-%DA%86%D8%A7%D8%AF%D8%B1%D9%85%D9%84%D9%88",
-      "imageUrl": "https://cdn.isna.ir/d/2026/10/18/4/64019074.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
-      "language": "fa",
-      "category": "عکس > خبری",
-      "publishedAt": "2026-10-18T15:12:37+00:00"
+      "category": "ورزشی",
+      "publishedAt": "2026-10-18T18:13:04Z",
+      "views": "7.8K",
+      "comments": "0"
     },
     {
       "id": "varzesh3-2437295",
@@ -64,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T12:26:01Z",
-      "views": "2.4K",
+      "views": "5K",
       "comments": "1"
     },
     {
@@ -79,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T07:27:02Z",
-      "views": "3.5K",
+      "views": "4.4K",
       "comments": "5"
     },
     {
@@ -94,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T06:58:34Z",
-      "views": "5.2K",
+      "views": "6.4K",
       "comments": "4"
     },
     {
@@ -109,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T06:32:46Z",
-      "views": "10.9K",
+      "views": "12.7K",
       "comments": "0"
     },
     {
@@ -124,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T23:52:22Z",
-      "views": "8.3K",
+      "views": "8.4K",
       "comments": "19"
     },
     {
@@ -139,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T21:36:12Z",
-      "views": "7.9K",
+      "views": "8.5K",
       "comments": "1"
     },
     {
@@ -154,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T20:27:55Z",
-      "views": "8.4K",
+      "views": "8.8K",
       "comments": "3"
     },
     {
@@ -184,7 +173,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T16:54:26Z",
-      "views": "4.6K",
+      "views": "4.7K",
       "comments": "2"
     },
     {
@@ -199,7 +188,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T11:51:22Z",
-      "views": "5.1K",
+      "views": "5.4K",
       "comments": "1"
     },
     {
@@ -257,7 +246,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T04:52:43Z",
-      "views": "5.5K",
+      "views": "5.6K",
       "comments": "1"
     },
     {
@@ -272,7 +261,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T21:04:56Z",
-      "views": "42.1K",
+      "views": "42.2K",
       "comments": "30"
     },
     {
@@ -287,7 +276,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T15:32:54Z",
-      "views": "7K",
+      "views": "7.1K",
       "comments": "3"
     },
     {
@@ -317,7 +306,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T07:23:20Z",
-      "views": "8.6K",
+      "views": "8.7K",
       "comments": "2"
     },
     {
@@ -392,7 +381,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T12:55:56Z",
-      "views": "12.2K",
+      "views": "12.3K",
       "comments": "2"
     },
     {
@@ -450,7 +439,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-12T20:41:05Z",
-      "views": "36.6K",
+      "views": "36.7K",
       "comments": "16"
     },
     {
