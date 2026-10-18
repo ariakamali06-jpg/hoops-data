@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-17T20:09:26.589193+00:00",
-  "count": 60,
+  "generatedAt": "2026-10-18T03:07:37.645893+00:00",
+  "count": 57,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 2
+      "items": 0
     },
     {
       "source": "varzesh3",
@@ -21,36 +21,55 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -102,
+      "items": -103,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
     {
-      "id": "isna-b29c295321e1",
-      "title": "پورموسوی: با همدلی و انگیزه بالا به برد رسیدیم",
-      "summary": "سرمربی تیم فوتبال صنعت‌نفت آبادان درباره بازی امشب تیمش مقابل آلومینیوم اراک که با برد همراه بود، توضیحاتی ارائه داد.",
-      "url": "https://www.isna.ir/news/1405072516911/%D9%BE%D9%88%D8%B1%D9%85%D9%88%D8%B3%D9%88%DB%8C-%D8%A8%D8%A7-%D9%87%D9%85%D8%AF%D9%84%DB%8C-%D9%88-%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87-%D8%A8%D8%A7%D9%84%D8%A7-%D8%A8%D9%87-%D8%A8%D8%B1%D8%AF-%D8%B1%D8%B3%DB%8C%D8%AF%DB%8C%D9%85",
-      "imageUrl": "https://cdn.isna.ir/d/off/isfahan/2026/07/11/4/63900114.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
+      "id": "varzesh3-2437164",
+      "title": "ترکیب احتمالی سپاهان برای ثبت سومین برد متوالی",
+      "summary": "سپاهان پس از دو پیروزی متوالی مقابل فجر سپاسی و ذوب‌آهن، امروز به دنبال سومین برد پیاپی خود در هفته نهم لیگ برتر است.",
+      "url": "https://www.varzesh3.com/news/2437164/ترکیب-احتمالی-سپاهان-برای-ثبت-سومین-برد-متوالی",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/18/A/sir2n3p3.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
       "language": "fa",
-      "category": "استان‌ها > خوزستان",
-      "publishedAt": "2026-10-17T19:16:01+00:00"
+      "category": "ورزشی",
+      "publishedAt": "2026-10-17T23:52:22Z",
+      "views": "1.7K",
+      "comments": "1"
     },
     {
-      "id": "isna-b6c03b713e72",
-      "title": "انتقاد پیروز قربانی از عملکرد تیمش مقابل نفت آبادان",
-      "summary": "سرمربی تیم فوتبال آلومینیوم اراک از عملکرد تیمش مقابل صنعت‌نفت آبادان انتقاد کرد و گفت: پیراهن لیگ برتری نباید به راحتی به بازیکنان برسد.",
-      "url": "https://www.isna.ir/news/1405072516905/%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2-%D9%82%D8%B1%D8%A8%D8%A7%D9%86%DB%8C-%D8%A7%D8%B2-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%D8%AA%DB%8C%D9%85%D8%B4-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D9%86%D9%81%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86",
-      "imageUrl": "https://cdn.isna.ir/d/2025/10/02/4/63605155.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
+      "id": "varzesh3-2437175",
+      "title": "دوئل غول‌های اروپایی NBA: دانچیچ برابر یوکیچ!",
+      "summary": "آخرین شب پیش‌فصل در لس‌آنجلس به نام ستاره صربستانی سند خورد؛ دنور ناگتس با رهبری نیکولا یوکیچ، لیکرزِ لوکا دانچیچ را شکست داد.",
+      "url": "https://www.varzesh3.com/news/2437175/دوئل-غول-های-اروپایی-nba-دانچیچ-برابر-یوکیچ",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/18/A/omuixqtr.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
       "language": "fa",
-      "category": "استان‌ها > خوزستان",
-      "publishedAt": "2026-10-17T18:55:38+00:00"
+      "category": "ورزشی",
+      "publishedAt": "2026-10-17T21:36:12Z",
+      "views": "2.6K",
+      "comments": "0"
+    },
+    {
+      "id": "varzesh3-2437159",
+      "title": "برد تیم فرانسوی با درخشش لژیونر بسکتبال ایران",
+      "summary": "محمد امینی در پیروزی تیمش در لیگ فرانسه ستاره اصلی نانسی بود و شب فوق‌العاده‌ای را پشت سرگذاشت.",
+      "url": "https://www.varzesh3.com/news/2437159/برد-تیم-فرانسوی-با-درخشش-لژیونر-بسکتبال-ایران",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/17/A/th4nwtd3.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-17T20:27:55Z",
+      "views": "4K",
+      "comments": "2"
     },
     {
       "id": "varzesh3-2437127",
@@ -64,8 +83,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T18:23:44Z",
-      "views": "8.5K",
-      "comments": "14"
+      "views": "11.5K",
+      "comments": "15"
     },
     {
       "id": "varzesh3-2437100",
@@ -79,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T16:54:26Z",
-      "views": "2.2K",
+      "views": "3.3K",
       "comments": "1"
     },
     {
@@ -94,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T11:51:22Z",
-      "views": "3.5K",
+      "views": "3.9K",
       "comments": "1"
     },
     {
@@ -109,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T11:07:48Z",
-      "views": "6.5K",
+      "views": "6.7K",
       "comments": "10"
     },
     {
@@ -137,7 +156,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T06:23:45Z",
-      "views": "3.5K",
+      "views": "3.7K",
       "comments": "1"
     },
     {
@@ -152,7 +171,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T04:52:43Z",
-      "views": "5K",
+      "views": "5.1K",
       "comments": "1"
     },
     {
@@ -167,7 +186,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T21:04:56Z",
-      "views": "41.7K",
+      "views": "41.9K",
       "comments": "30"
     },
     {
@@ -182,23 +201,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T15:32:54Z",
-      "views": "6.7K",
+      "views": "6.8K",
       "comments": "3"
-    },
-    {
-      "id": "varzesh3-2436825",
-      "title": "بازگشت قهرمان فصل گذشته NBA به کالبد قهرمانان!",
-      "summary": "قهرمان فصل گذشته NBA بعد از چهار شکست بلاخره در بازی با رپترز توانست حریفش را در آستانه شروع مسابقات شکست دهد.",
-      "url": "https://www.varzesh3.com/news/2436825/بازگشت-قهرمان-فصل-گذشته-nba-به-کالبد-قهرمانان",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/16/D/ilgcsct0.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-16T14:31:04Z",
-      "views": "8K",
-      "comments": "0"
     },
     {
       "id": "varzesh3-2436720",
@@ -212,7 +216,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T07:23:20Z",
-      "views": "8.4K",
+      "views": "8.5K",
       "comments": "2"
     },
     {
@@ -345,7 +349,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-12T20:41:05Z",
-      "views": "36.5K",
+      "views": "36.6K",
       "comments": "16"
     },
     {
@@ -673,51 +677,6 @@
       "publishedAt": "2026-10-04T12:00:58Z",
       "views": "2K",
       "comments": "1"
-    },
-    {
-      "id": "varzesh3-2433811",
-      "title": "برنامه هفته اول لیگ برتر بسکتبال مشخص شد",
-      "summary": "مراسم قرعه‌کشی فصل جدید لیگ برتر بسکتبال با حضور مسئولان، پیشکسوتان، بازیکنان و نمایندگان باشگاه‌ها برگزار شد.",
-      "url": "https://www.varzesh3.com/news/2433811/برنامه-هفته-اول-لیگ-برتر-بسکتبال-مشخص-شد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/08/31/A/jkdu5zjh.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-04T11:49:41Z",
-      "views": "3K",
-      "comments": "3"
-    },
-    {
-      "id": "varzesh3-2433765",
-      "title": "میامی هیت برای یک شب وایس سیتی می‌شود!",
-      "summary": "تیم بسکتبال میامی هیت در آستانه عرضه GTA 6، با پیراهن و زمین ویژه «وایس سیتی» به میدان می‌رود.",
-      "url": "https://www.varzesh3.com/news/2433765/میامی-هیت-برای-یک-شب-وایس-سیتی-می-شود",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/04/B/jabhni3z.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-04T08:18:44Z",
-      "views": "3K",
-      "comments": "2"
-    },
-    {
-      "id": "varzesh3-2433757",
-      "title": "چرا لبران جیمز در فیلادلفیا شماره 9 پوشید؟",
-      "summary": "لبران جیمز در تمرینات تیم بسکتبال فیلادلفیا به احترام یکی از اسطوره‌های NBA شماره 9 را به تن کرده است.",
-      "url": "https://www.varzesh3.com/news/2433757/چرا-لبران-جیمز-در-فیلادلفیا-شماره-9-پوشید",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/04/B/wsbckgmk.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-04T07:44:03Z",
-      "views": "5.7K",
-      "comments": "4"
     },
     {
       "id": "bbc-cb41315eced4",
