@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "source": "FIBA LiveStats Official + ESPN Public API",
-  "generated": "2026-10-19T08:18:53Z",
+  "generated": "2026-10-19T08:24:45Z",
   "count": 281,
   "byLeague": {
     "wnba": 9,
