@@ -1,0 +1,5635 @@
+{
+  "schema": 2,
+  "source": "FIBA LiveStats Official + ESPN Public API",
+  "generated": "2026-10-19T08:18:53Z",
+  "count": 281,
+  "byLeague": {
+    "wnba": 9,
+    "nba": 35,
+    "women": 67,
+    "div1": 76,
+    "men": 94
+  },
+  "games": [
+    {
+      "id": "espn_wnba_401918305",
+      "date": "2026-10-17",
+      "tipoff": "2026-10-17T19:30Z",
+      "league": "wnba",
+      "home": {
+        "name": "Golden State Valkyries",
+        "nameLocal": "گلدن استیت والکریز",
+        "code": "GS",
+        "logo": "",
+        "score": 68
+      },
+      "away": {
+        "name": "Atlanta Dream",
+        "nameLocal": "آتلانتا دریم",
+        "code": "ATL",
+        "logo": "",
+        "score": 64
+      }
+    },
+    {
+      "id": "espn_nba_401898408",
+      "date": "2026-10-17",
+      "tipoff": "2026-10-17T00:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Dallas Mavericks",
+        "nameLocal": "دالاس ماوریکس",
+        "code": "DAL",
+        "logo": "",
+        "score": 111
+      },
+      "away": {
+        "name": "Atlanta Hawks",
+        "nameLocal": "آتلانتا هاوکس",
+        "code": "ATL",
+        "logo": "",
+        "score": 135
+      }
+    },
+    {
+      "id": "espn_nba_401898843",
+      "date": "2026-10-17",
+      "tipoff": "2026-10-17T00:00Z",
+      "league": "nba",
+      "home": {
+        "name": "San Antonio Spurs",
+        "nameLocal": "سن آنتونیو اسپرز",
+        "code": "SA",
+        "logo": "",
+        "score": 126
+      },
+      "away": {
+        "name": "Sacramento Kings",
+        "nameLocal": "ساکرامنتو کینگز",
+        "code": "SAC",
+        "logo": "",
+        "score": 97
+      }
+    },
+    {
+      "id": "espn_nba_401901822",
+      "date": "2026-10-17",
+      "tipoff": "2026-10-17T00:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Memphis Grizzlies",
+        "nameLocal": "ممفیس گریزلیز",
+        "code": "MEM",
+        "logo": "",
+        "score": 116
+      },
+      "away": {
+        "name": "Charlotte Hornets",
+        "nameLocal": "شارلوت هورنتس",
+        "code": "CHA",
+        "logo": "",
+        "score": 98
+      }
+    },
+    {
+      "id": "espn_nba_401906509",
+      "date": "2026-10-17",
+      "tipoff": "2026-10-17T00:00Z",
+      "league": "nba",
+      "home": {
+        "name": "New Orleans Pelicans",
+        "nameLocal": "نیواورلینز پلیکانز",
+        "code": "NO",
+        "logo": "",
+        "score": 107
+      },
+      "away": {
+        "name": "Washington Wizards",
+        "nameLocal": "واشینگتن ویزاردز",
+        "code": "WSH",
+        "logo": "",
+        "score": 106
+      }
+    },
+    {
+      "id": "espn_nba_401908943",
+      "date": "2026-10-17",
+      "tipoff": "2026-10-17T00:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Chicago Bulls",
+        "nameLocal": "شیکاگو بولز",
+        "code": "CHI",
+        "logo": "",
+        "score": 133
+      },
+      "away": {
+        "name": "Minnesota Timberwolves",
+        "nameLocal": "مینه سوتا تیمبرولوز",
+        "code": "MIN",
+        "logo": "",
+        "score": 116
+      }
+    },
+    {
+      "id": "espn_nba_401898409",
+      "date": "2026-10-17",
+      "tipoff": "2026-10-17T02:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Golden State Warriors",
+        "nameLocal": "گلدن استیت واریرز",
+        "code": "GS",
+        "logo": "",
+        "score": 128
+      },
+      "away": {
+        "name": "Portland Trail Blazers",
+        "nameLocal": "پورتلند تریل بلیزرز",
+        "code": "POR",
+        "logo": "",
+        "score": 118
+      }
+    },
+    {
+      "id": "espn_nba_401908948",
+      "date": "2026-10-17",
+      "tipoff": "2026-10-17T02:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Phoenix Suns",
+        "nameLocal": "فینیکس سانز",
+        "code": "PHX",
+        "logo": "",
+        "score": 116
+      },
+      "away": {
+        "name": "Utah Jazz",
+        "nameLocal": "یوتا جاز",
+        "code": "UTAH",
+        "logo": "",
+        "score": 119
+      }
+    },
+    {
+      "id": "espn_nba_401898719",
+      "date": "2026-10-17",
+      "tipoff": "2026-10-17T02:30Z",
+      "league": "nba",
+      "home": {
+        "name": "Los Angeles Lakers",
+        "nameLocal": "لس آنجلس لیکرز",
+        "code": "LAL",
+        "logo": "",
+        "score": 106
+      },
+      "away": {
+        "name": "Denver Nuggets",
+        "nameLocal": "دنور ناگتس",
+        "code": "DEN",
+        "logo": "",
+        "score": 121
+      }
+    },
+    {
+      "id": "espn_nba_401908622",
+      "date": "2026-10-16",
+      "tipoff": "2026-10-16T00:30Z",
+      "league": "nba",
+      "home": {
+        "name": "Houston Rockets",
+        "nameLocal": "هیوستون راکتس",
+        "code": "HOU",
+        "logo": "",
+        "score": 116
+      },
+      "away": {
+        "name": "Oklahoma City Thunder",
+        "nameLocal": "اوکلاهاما سیتی تاندر",
+        "code": "OKC",
+        "logo": "",
+        "score": 89
+      }
+    },
+    {
+      "id": "espn_nba_401898406",
+      "date": "2026-10-16",
+      "tipoff": "2026-10-16T23:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Orlando Magic",
+        "nameLocal": "اورلاندو مجیک",
+        "code": "ORL",
+        "logo": "",
+        "score": 136
+      },
+      "away": {
+        "name": "Miami Heat",
+        "nameLocal": "میامی هیت",
+        "code": "MIA",
+        "logo": "",
+        "score": 115
+      }
+    },
+    {
+      "id": "espn_nba_401898407",
+      "date": "2026-10-16",
+      "tipoff": "2026-10-16T23:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Philadelphia 76ers",
+        "nameLocal": "فیلادلفیا سونی سیکسرز",
+        "code": "PHI",
+        "logo": "",
+        "score": 120
+      },
+      "away": {
+        "name": "Boston Celtics",
+        "nameLocal": "بوستون سلتیکس",
+        "code": "BOS",
+        "logo": "",
+        "score": 125
+      }
+    },
+    {
+      "id": "espn_nba_401908946",
+      "date": "2026-10-16",
+      "tipoff": "2026-10-16T23:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Detroit Pistons",
+        "nameLocal": "دیترویت پیستونز",
+        "code": "DET",
+        "logo": "",
+        "score": 129
+      },
+      "away": {
+        "name": "Toronto Raptors",
+        "nameLocal": "تورنتو رپترز",
+        "code": "TOR",
+        "logo": "",
+        "score": 125
+      }
+    },
+    {
+      "id": "espn_nba_401914126",
+      "date": "2026-10-16",
+      "tipoff": "2026-10-16T23:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Indiana Pacers",
+        "nameLocal": "ایندیانا پیسرز",
+        "code": "IND",
+        "logo": "",
+        "score": 127
+      },
+      "away": {
+        "name": "Milwaukee Bucks",
+        "nameLocal": "میلواکی باکس",
+        "code": "MIL",
+        "logo": "",
+        "score": 128
+      }
+    },
+    {
+      "id": "espn_nba_401898722",
+      "date": "2026-10-15",
+      "tipoff": "2026-10-15T00:00Z",
+      "league": "nba",
+      "home": {
+        "name": "San Antonio Spurs",
+        "nameLocal": "سن آنتونیو اسپرز",
+        "code": "SA",
+        "logo": "",
+        "score": 123
+      },
+      "away": {
+        "name": "Phoenix Suns",
+        "nameLocal": "فینیکس سانز",
+        "code": "PHX",
+        "logo": "",
+        "score": 103
+      }
+    },
+    {
+      "id": "espn_nba_401901825",
+      "date": "2026-10-15",
+      "tipoff": "2026-10-15T00:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Dallas Mavericks",
+        "nameLocal": "دالاس ماوریکس",
+        "code": "DAL",
+        "logo": "",
+        "score": 97
+      },
+      "away": {
+        "name": "New Orleans Pelicans",
+        "nameLocal": "نیواورلینز پلیکانز",
+        "code": "NO",
+        "logo": "",
+        "score": 101
+      }
+    },
+    {
+      "id": "espn_nba_401908942",
+      "date": "2026-10-15",
+      "tipoff": "2026-10-15T00:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Milwaukee Bucks",
+        "nameLocal": "میلواکی باکس",
+        "code": "MIL",
+        "logo": "",
+        "score": 104
+      },
+      "away": {
+        "name": "Chicago Bulls",
+        "nameLocal": "شیکاگو بولز",
+        "code": "CHI",
+        "logo": "",
+        "score": 125
+      }
+    },
+    {
+      "id": "espn_nba_401914125",
+      "date": "2026-10-15",
+      "tipoff": "2026-10-15T00:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Minnesota Timberwolves",
+        "nameLocal": "مینه سوتا تیمبرولوز",
+        "code": "MIN",
+        "logo": "",
+        "score": 106
+      },
+      "away": {
+        "name": "Detroit Pistons",
+        "nameLocal": "دیترویت پیستونز",
+        "code": "DET",
+        "logo": "",
+        "score": 128
+      }
+    },
+    {
+      "id": "espn_nba_401918011",
+      "date": "2026-10-15",
+      "tipoff": "2026-10-15T02:30Z",
+      "league": "nba",
+      "home": {
+        "name": "LA Clippers",
+        "nameLocal": "لس آنجلس کلیپرز",
+        "code": "LAC",
+        "logo": "",
+        "score": 122
+      },
+      "away": {
+        "name": "Denver Nuggets",
+        "nameLocal": "دنور ناگتس",
+        "code": "DEN",
+        "logo": "",
+        "score": 110
+      }
+    },
+    {
+      "id": "espn_nba_401908945",
+      "date": "2026-10-15",
+      "tipoff": "2026-10-15T23:30Z",
+      "league": "nba",
+      "home": {
+        "name": "New York Knicks",
+        "nameLocal": "نیویورک نیکس",
+        "code": "NY",
+        "logo": "",
+        "score": 122
+      },
+      "away": {
+        "name": "Toronto Raptors",
+        "nameLocal": "تورنتو رپترز",
+        "code": "TOR",
+        "logo": "",
+        "score": 120
+      }
+    },
+    {
+      "id": "espn_nba_401908621",
+      "date": "2026-10-14",
+      "tipoff": "2026-10-14T00:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Oklahoma City Thunder",
+        "nameLocal": "اوکلاهاما سیتی تاندر",
+        "code": "OKC",
+        "logo": "",
+        "score": 114
+      },
+      "away": {
+        "name": "Indiana Pacers",
+        "nameLocal": "ایندیانا پیسرز",
+        "code": "IND",
+        "logo": "",
+        "score": 112
+      }
+    },
+    {
+      "id": "espn_nba_401898718",
+      "date": "2026-10-14",
+      "tipoff": "2026-10-14T02:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Los Angeles Lakers",
+        "nameLocal": "لس آنجلس لیکرز",
+        "code": "LAL",
+        "logo": "",
+        "score": 89
+      },
+      "away": {
+        "name": "Golden State Warriors",
+        "nameLocal": "گلدن استیت واریرز",
+        "code": "GS",
+        "logo": "",
+        "score": 101
+      }
+    },
+    {
+      "id": "espn_nba_401901826",
+      "date": "2026-10-14",
+      "tipoff": "2026-10-14T02:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Sacramento Kings",
+        "nameLocal": "ساکرامنتو کینگز",
+        "code": "SAC",
+        "logo": "",
+        "score": 98
+      },
+      "away": {
+        "name": "Portland Trail Blazers",
+        "nameLocal": "پورتلند تریل بلیزرز",
+        "code": "POR",
+        "logo": "",
+        "score": 110
+      }
+    },
+    {
+      "id": "espn_nba_401898404",
+      "date": "2026-10-14",
+      "tipoff": "2026-10-14T23:30Z",
+      "league": "nba",
+      "home": {
+        "name": "Miami Heat",
+        "nameLocal": "میامی هیت",
+        "code": "MIA",
+        "logo": "",
+        "score": 144
+      },
+      "away": {
+        "name": "Brooklyn Nets",
+        "nameLocal": "بروکلین نتس",
+        "code": "BKN",
+        "logo": "",
+        "score": 128
+      }
+    },
+    {
+      "id": "espn_nba_401898405",
+      "date": "2026-10-14",
+      "tipoff": "2026-10-14T23:30Z",
+      "league": "nba",
+      "home": {
+        "name": "Boston Celtics",
+        "nameLocal": "بوستون سلتیکس",
+        "code": "BOS",
+        "logo": "",
+        "score": 114
+      },
+      "away": {
+        "name": "Charlotte Hornets",
+        "nameLocal": "شارلوت هورنتس",
+        "code": "CHA",
+        "logo": "",
+        "score": 93
+      }
+    },
+    {
+      "id": "espn_nba_401898721",
+      "date": "2026-10-13",
+      "tipoff": "2026-10-13T01:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Utah Jazz",
+        "nameLocal": "یوتا جاز",
+        "code": "UTAH",
+        "logo": "",
+        "score": 119
+      },
+      "away": {
+        "name": "San Antonio Spurs",
+        "nameLocal": "سن آنتونیو اسپرز",
+        "code": "SA",
+        "logo": "",
+        "score": 109
+      }
+    },
+    {
+      "id": "espn_nba_401898403",
+      "date": "2026-10-13",
+      "tipoff": "2026-10-13T23:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Orlando Magic",
+        "nameLocal": "اورلاندو مجیک",
+        "code": "ORL",
+        "logo": "",
+        "score": 132
+      },
+      "away": {
+        "name": "Cleveland Cavaliers",
+        "nameLocal": "کلیولند کاوالیرز",
+        "code": "CLE",
+        "logo": "",
+        "score": 116
+      }
+    },
+    {
+      "id": "espn_nba_401908944",
+      "date": "2026-10-13",
+      "tipoff": "2026-10-13T23:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Toronto Raptors",
+        "nameLocal": "تورنتو رپترز",
+        "code": "TOR",
+        "logo": "",
+        "score": 148
+      },
+      "away": {
+        "name": "New York Knicks",
+        "nameLocal": "نیویورک نیکس",
+        "code": "NY",
+        "logo": "",
+        "score": 98
+      }
+    },
+    {
+      "id": "espn_nba_401908941",
+      "date": "2026-10-12",
+      "tipoff": "2026-10-12T01:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Denver Nuggets",
+        "nameLocal": "دنور ناگتس",
+        "code": "DEN",
+        "logo": "",
+        "score": 133
+      },
+      "away": {
+        "name": "Chicago Bulls",
+        "nameLocal": "شیکاگو بولز",
+        "code": "CHI",
+        "logo": "",
+        "score": 128
+      }
+    },
+    {
+      "id": "espn_nba_401914130",
+      "date": "2026-10-12",
+      "tipoff": "2026-10-12T20:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Portland Trail Blazers",
+        "nameLocal": "پورتلند تریل بلیزرز",
+        "code": "POR",
+        "logo": "",
+        "score": 119
+      },
+      "away": {
+        "name": "London Lions",
+        "nameLocal": "London Lions",
+        "code": "LON",
+        "logo": "",
+        "score": 66
+      }
+    },
+    {
+      "id": "espn_nba_401898402",
+      "date": "2026-10-12",
+      "tipoff": "2026-10-12T23:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Atlanta Hawks",
+        "nameLocal": "آتلانتا هاوکس",
+        "code": "ATL",
+        "logo": "",
+        "score": 113
+      },
+      "away": {
+        "name": "Oklahoma City Thunder",
+        "nameLocal": "اوکلاهاما سیتی تاندر",
+        "code": "OKC",
+        "logo": "",
+        "score": 110
+      }
+    },
+    {
+      "id": "espn_nba_401901824",
+      "date": "2026-10-12",
+      "tipoff": "2026-10-12T23:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Washington Wizards",
+        "nameLocal": "واشینگتن ویزاردز",
+        "code": "WSH",
+        "logo": "",
+        "score": 122
+      },
+      "away": {
+        "name": "Brooklyn Nets",
+        "nameLocal": "بروکلین نتس",
+        "code": "BKN",
+        "logo": "",
+        "score": 131
+      }
+    },
+    {
+      "id": "espn_nba_401914124",
+      "date": "2026-10-12",
+      "tipoff": "2026-10-12T23:30Z",
+      "league": "nba",
+      "home": {
+        "name": "New York Knicks",
+        "nameLocal": "نیویورک نیکس",
+        "code": "NY",
+        "logo": "",
+        "score": 104
+      },
+      "away": {
+        "name": "Minnesota Timberwolves",
+        "nameLocal": "مینه سوتا تیمبرولوز",
+        "code": "MIN",
+        "logo": "",
+        "score": 122
+      }
+    },
+    {
+      "id": "espn_nba_401898400",
+      "date": "2026-10-11",
+      "tipoff": "2026-10-11T10:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Houston Rockets",
+        "nameLocal": "هیوستون راکتس",
+        "code": "HOU",
+        "logo": "",
+        "score": 115
+      },
+      "away": {
+        "name": "Dallas Mavericks",
+        "nameLocal": "دالاس ماوریکس",
+        "code": "DAL",
+        "logo": "",
+        "score": 132
+      }
+    },
+    {
+      "id": "espn_nba_401898401",
+      "date": "2026-10-11",
+      "tipoff": "2026-10-11T22:30Z",
+      "league": "nba",
+      "home": {
+        "name": "Cleveland Cavaliers",
+        "nameLocal": "کلیولند کاوالیرز",
+        "code": "CLE",
+        "logo": "",
+        "score": 119
+      },
+      "away": {
+        "name": "Orlando Magic",
+        "nameLocal": "اورلاندو مجیک",
+        "code": "ORL",
+        "logo": "",
+        "score": 105
+      }
+    },
+    {
+      "id": "espn_nba_401901821",
+      "date": "2026-10-11",
+      "tipoff": "2026-10-11T23:00Z",
+      "league": "nba",
+      "home": {
+        "name": "Charlotte Hornets",
+        "nameLocal": "شارلوت هورنتس",
+        "code": "CHA",
+        "logo": "",
+        "score": 105
+      },
+      "away": {
+        "name": "Milwaukee Bucks",
+        "nameLocal": "میلواکی باکس",
+        "code": "MIL",
+        "logo": "",
+        "score": 90
+      }
+    },
+    {
+      "id": "espn_wnba_401918300",
+      "date": "2026-10-10",
+      "tipoff": "2026-10-10T01:30Z",
+      "league": "wnba",
+      "home": {
+        "name": "Las Vegas Aces",
+        "nameLocal": "لاس وگاس ایسز",
+        "code": "LV",
+        "logo": "",
+        "score": 77
+      },
+      "away": {
+        "name": "Golden State Valkyries",
+        "nameLocal": "گلدن استیت والکریز",
+        "code": "GS",
+        "logo": "",
+        "score": 87
+      }
+    },
+    {
+      "id": "espn_wnba_401918299",
+      "date": "2026-10-09",
+      "tipoff": "2026-10-09T23:30Z",
+      "league": "wnba",
+      "home": {
+        "name": "New York Liberty",
+        "nameLocal": "نیویورک لیبرتی",
+        "code": "NY",
+        "logo": "",
+        "score": 83
+      },
+      "away": {
+        "name": "Atlanta Dream",
+        "nameLocal": "آتلانتا دریم",
+        "code": "ATL",
+        "logo": "",
+        "score": 85
+      }
+    },
+    {
+      "id": "espn_wnba_401918298",
+      "date": "2026-10-08",
+      "tipoff": "2026-10-08T01:30Z",
+      "league": "wnba",
+      "home": {
+        "name": "Golden State Valkyries",
+        "nameLocal": "گلدن استیت والکریز",
+        "code": "GS",
+        "logo": "",
+        "score": 83
+      },
+      "away": {
+        "name": "Las Vegas Aces",
+        "nameLocal": "لاس وگاس ایسز",
+        "code": "LV",
+        "logo": "",
+        "score": 81
+      }
+    },
+    {
+      "id": "espn_wnba_401918297",
+      "date": "2026-10-07",
+      "tipoff": "2026-10-07T23:30Z",
+      "league": "wnba",
+      "home": {
+        "name": "Atlanta Dream",
+        "nameLocal": "آتلانتا دریم",
+        "code": "ATL",
+        "logo": "",
+        "score": 101
+      },
+      "away": {
+        "name": "New York Liberty",
+        "nameLocal": "نیویورک لیبرتی",
+        "code": "NY",
+        "logo": "",
+        "score": 98
+      }
+    },
+    {
+      "id": "espn_wnba_401918295",
+      "date": "2026-10-04",
+      "tipoff": "2026-10-04T18:00Z",
+      "league": "wnba",
+      "home": {
+        "name": "Atlanta Dream",
+        "nameLocal": "آتلانتا دریم",
+        "code": "ATL",
+        "logo": "",
+        "score": 92
+      },
+      "away": {
+        "name": "New York Liberty",
+        "nameLocal": "نیویورک لیبرتی",
+        "code": "NY",
+        "logo": "",
+        "score": 82
+      }
+    },
+    {
+      "id": "espn_wnba_401918296",
+      "date": "2026-10-04",
+      "tipoff": "2026-10-04T20:00Z",
+      "league": "wnba",
+      "home": {
+        "name": "Golden State Valkyries",
+        "nameLocal": "گلدن استیت والکریز",
+        "code": "GS",
+        "logo": "",
+        "score": 71
+      },
+      "away": {
+        "name": "Las Vegas Aces",
+        "nameLocal": "لاس وگاس ایسز",
+        "code": "LV",
+        "logo": "",
+        "score": 60
+      }
+    },
+    {
+      "id": "espn_wnba_401918294",
+      "date": "2026-10-03",
+      "tipoff": "2026-10-03T01:00Z",
+      "league": "wnba",
+      "home": {
+        "name": "Golden State Valkyries",
+        "nameLocal": "گلدن استیت والکریز",
+        "code": "GS",
+        "logo": "",
+        "score": 77
+      },
+      "away": {
+        "name": "Dallas Wings",
+        "nameLocal": "دالاس وینگز",
+        "code": "DAL",
+        "logo": "",
+        "score": 73
+      }
+    },
+    {
+      "id": "espn_wnba_401918022",
+      "date": "2026-10-02",
+      "tipoff": "2026-10-02T01:00Z",
+      "league": "wnba",
+      "home": {
+        "name": "Las Vegas Aces",
+        "nameLocal": "لاس وگاس ایسز",
+        "code": "LV",
+        "logo": "",
+        "score": 94
+      },
+      "away": {
+        "name": "Indiana Fever",
+        "nameLocal": "ایندیانا فیور",
+        "code": "IND",
+        "logo": "",
+        "score": 83
+      }
+    },
+    {
+      "id": "2820670",
+      "date": "2026-02-27",
+      "tipoff": "6:30 pm GMT 27/2/26",
+      "league": "women",
+      "home": {
+        "name": "A.B.Sahar",
+        "nameLocal": "A.B.Sahar",
+        "code": "SBA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/aab76ccb97ea90aa57f7adc76b67f1b0S1.png",
+        "score": 81
+      },
+      "away": {
+        "name": "Esteghlal Tehran Women",
+        "nameLocal": "Esteghlal Tehran Women",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/eaaa188674fafdb071e96c36cd26c882S1.png",
+        "score": 84
+      }
+    },
+    {
+      "id": "2820673",
+      "date": "2026-02-27",
+      "tipoff": "7:00 pm GMT 27/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Mohkamkar Isfahan",
+        "nameLocal": "Mohkamkar Isfahan",
+        "code": "MHK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d598bb4395327c4071a8a1f5b1138c2fS1.png",
+        "score": 77
+      },
+      "away": {
+        "name": "Noboogh Arak",
+        "nameLocal": "Noboogh Arak",
+        "code": "NAK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d018e20f2801cab0b432dd58e7697e9dS1.png",
+        "score": 72
+      }
+    },
+    {
+      "id": "2817387",
+      "date": "2026-02-22",
+      "tipoff": "7:00 pm GMT 22/2/26",
+      "league": "women",
+      "home": {
+        "name": "Palayesh Naft Abadan Women",
+        "nameLocal": "Palayesh Naft Abadan Women",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/63893718c3fcb3fcffe2fe846dd47644S1.png",
+        "score": 61
+      },
+      "away": {
+        "name": "A.B.Sahar",
+        "nameLocal": "A.B.Sahar",
+        "code": "SBA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/aab76ccb97ea90aa57f7adc76b67f1b0S1.png",
+        "score": 81
+      }
+    },
+    {
+      "id": "2817384",
+      "date": "2026-02-20",
+      "tipoff": "5:00 pm GMT 20/2/26",
+      "league": "women",
+      "home": {
+        "name": "A.B.Sahar",
+        "nameLocal": "A.B.Sahar",
+        "code": "SBA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/aab76ccb97ea90aa57f7adc76b67f1b0S1.png",
+        "score": 68
+      },
+      "away": {
+        "name": "Palayesh Naft Abadan Women",
+        "nameLocal": "Palayesh Naft Abadan Women",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/63893718c3fcb3fcffe2fe846dd47644S1.png",
+        "score": 58
+      }
+    },
+    {
+      "id": "2817385",
+      "date": "2026-02-20",
+      "tipoff": "7:00 pm GMT 20/2/26",
+      "league": "women",
+      "home": {
+        "name": "Bahman Group Tehran",
+        "nameLocal": "Bahman Group Tehran",
+        "code": "BHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/23c3bf4a4ee357d00f43ecb2d053342dS1.png",
+        "score": 50
+      },
+      "away": {
+        "name": "Esteghlal Tehran Women",
+        "nameLocal": "Esteghlal Tehran Women",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/eaaa188674fafdb071e96c36cd26c882S1.png",
+        "score": 72
+      }
+    },
+    {
+      "id": "2817388",
+      "date": "2026-02-20",
+      "tipoff": "7:00 pm GMT 20/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Kavan Basketball Qeshm",
+        "nameLocal": "Kavan Basketball Qeshm",
+        "code": "KBQ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b8325a94cd3841dd437f701662e5d5d5S1.png",
+        "score": 89
+      },
+      "away": {
+        "name": "Golnoor Shahr Qods",
+        "nameLocal": "Golnoor Shahr Qods",
+        "code": "GOL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e0cd170380dcec0f72ef395472ae3819S1.png",
+        "score": 82
+      }
+    },
+    {
+      "id": "2817389",
+      "date": "2026-02-20",
+      "tipoff": "7:00 pm GMT 20/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Mehr Parsa Alborz",
+        "nameLocal": "Mehr Parsa Alborz",
+        "code": "MPA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/051b5c5637d4aae15de384dd6a0bb646S1.png",
+        "score": 66
+      },
+      "away": {
+        "name": "Arvand Sirjan",
+        "nameLocal": "Arvand Sirjan",
+        "code": "ARV",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e1225da92aa1b353d2508be74eb5d31cS1.png",
+        "score": 74
+      }
+    },
+    {
+      "id": "2817390",
+      "date": "2026-02-20",
+      "tipoff": "7:00 pm GMT 20/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Noboogh Arak",
+        "nameLocal": "Noboogh Arak",
+        "code": "NAK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d018e20f2801cab0b432dd58e7697e9dS1.png",
+        "score": 113
+      },
+      "away": {
+        "name": "Moghavemat Shahrdari Tabriza",
+        "nameLocal": "Moghavemat Shahrdari Tabriza",
+        "code": "MST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/64ffa9a49b52680636cdc36f0b23a501S1.png",
+        "score": 107
+      }
+    },
+    {
+      "id": "2817391",
+      "date": "2026-02-20",
+      "tipoff": "7:00 pm GMT 20/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Niroo Zamini Tehran",
+        "nameLocal": "Niroo Zamini Tehran",
+        "code": "NRZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/644e7273e3c1d010ed12745c01026d3aS1.png",
+        "score": 86
+      },
+      "away": {
+        "name": "Naft-Gaz Gachsaran",
+        "nameLocal": "Naft-Gaz Gachsaran",
+        "code": "NGG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/f2137e81fb7e16d08be643976e28bea2S1.png",
+        "score": 91
+      }
+    },
+    {
+      "id": "2817392",
+      "date": "2026-02-20",
+      "tipoff": "7:00 pm GMT 20/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Gaz Tehran",
+        "nameLocal": "Gaz Tehran",
+        "code": "GAZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/212523870256536fb330c330fe8553c0S1.png",
+        "score": 64
+      },
+      "away": {
+        "name": "Naft Tehransar",
+        "nameLocal": "Naft Tehransar",
+        "code": "NFT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d4882b26aa801121348862d48a37f7faS1.png",
+        "score": 69
+      }
+    },
+    {
+      "id": "2817394",
+      "date": "2026-02-20",
+      "tipoff": "7:00 pm GMT 20/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Multi Cafe Mashhad",
+        "nameLocal": "Multi Cafe Mashhad",
+        "code": "MCM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/61500542f3eb5c164ed7896f4058c8efS1.png",
+        "score": 93
+      },
+      "away": {
+        "name": "Oghab Tehran",
+        "nameLocal": "Oghab Tehran",
+        "code": "NHO",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/752504736b1c489f41f17f698fe9e9efS1.png",
+        "score": 80
+      }
+    },
+    {
+      "id": "2817395",
+      "date": "2026-02-20",
+      "tipoff": "7:00 pm GMT 20/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Sanat Mes Rafsanjan",
+        "nameLocal": "Sanat Mes Rafsanjan",
+        "code": "SMR",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/eded016d17b4841bac0185ab699ffd52S1.png",
+        "score": 70
+      },
+      "away": {
+        "name": "Gol Gohar Sirjan",
+        "nameLocal": "Gol Gohar Sirjan",
+        "code": "GGS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b430cc29063043fa435e11dbdabac0b6S1.png",
+        "score": 60
+      }
+    },
+    {
+      "id": "2817396",
+      "date": "2026-02-20",
+      "tipoff": "7:00 pm GMT 20/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Kalleh Tehran",
+        "nameLocal": "Kalleh Tehran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/5a3bead6cb63fc0d1321a9f06c7a968aS1.png",
+        "score": 99
+      },
+      "away": {
+        "name": "Ghahremanan Javid Zanjan",
+        "nameLocal": "Ghahremanan Javid Zanjan",
+        "code": "GJZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/8eb7941f006c0a971200b0a811c94169S1.png",
+        "score": 73
+      }
+    },
+    {
+      "id": "2816417",
+      "date": "2026-02-17",
+      "tipoff": "3:00 pm GMT 17/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Arvand Sirjan",
+        "nameLocal": "Arvand Sirjan",
+        "code": "ARV",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e1225da92aa1b353d2508be74eb5d31cS1.png",
+        "score": 84
+      },
+      "away": {
+        "name": "Kavan Basketball Qeshm",
+        "nameLocal": "Kavan Basketball Qeshm",
+        "code": "KBQ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b8325a94cd3841dd437f701662e5d5d5S1.png",
+        "score": 77
+      }
+    },
+    {
+      "id": "2816418",
+      "date": "2026-02-17",
+      "tipoff": "3:00 pm GMT 17/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Mohkamkar Isfahan",
+        "nameLocal": "Mohkamkar Isfahan",
+        "code": "MHK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d598bb4395327c4071a8a1f5b1138c2fS1.png",
+        "score": 79
+      },
+      "away": {
+        "name": "Mehr Parsa Alborz",
+        "nameLocal": "Mehr Parsa Alborz",
+        "code": "MPA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/051b5c5637d4aae15de384dd6a0bb646S1.png",
+        "score": 63
+      }
+    },
+    {
+      "id": "2816419",
+      "date": "2026-02-17",
+      "tipoff": "3:00 pm GMT 17/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Niroo Zamini Tehran",
+        "nameLocal": "Niroo Zamini Tehran",
+        "code": "NRZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/644e7273e3c1d010ed12745c01026d3aS1.png",
+        "score": 86
+      },
+      "away": {
+        "name": "Noboogh Arak",
+        "nameLocal": "Noboogh Arak",
+        "code": "NAK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d018e20f2801cab0b432dd58e7697e9dS1.png",
+        "score": 82
+      }
+    },
+    {
+      "id": "2816420",
+      "date": "2026-02-17",
+      "tipoff": "3:00 pm GMT 17/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Naft-Gaz Gachsaran",
+        "nameLocal": "Naft-Gaz Gachsaran",
+        "code": "NGG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/f2137e81fb7e16d08be643976e28bea2S1.png",
+        "score": 90
+      },
+      "away": {
+        "name": "Golnoor Shahr Qods",
+        "nameLocal": "Golnoor Shahr Qods",
+        "code": "GOL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e0cd170380dcec0f72ef395472ae3819S1.png",
+        "score": 75
+      }
+    },
+    {
+      "id": "2816423",
+      "date": "2026-02-17",
+      "tipoff": "3:00 pm GMT 17/2/26",
+      "league": "men",
+      "home": {
+        "name": "Gaz Tehran",
+        "nameLocal": "Gaz Tehran",
+        "code": "GAZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/212523870256536fb330c330fe8553c0S1.png",
+        "score": 107
+      },
+      "away": {
+        "name": "Kalleh Tehran",
+        "nameLocal": "Kalleh Tehran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/5a3bead6cb63fc0d1321a9f06c7a968aS1.png",
+        "score": 104
+      }
+    },
+    {
+      "id": "2816427",
+      "date": "2026-02-17",
+      "tipoff": "6:00 pm GMT 17/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Naft Tehransar",
+        "nameLocal": "Naft Tehransar",
+        "code": "NFT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d4882b26aa801121348862d48a37f7faS1.png",
+        "score": 80
+      },
+      "away": {
+        "name": "Oghab Tehran",
+        "nameLocal": "Oghab Tehran",
+        "code": "NHO",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/752504736b1c489f41f17f698fe9e9efS1.png",
+        "score": 74
+      }
+    },
+    {
+      "id": "2816428",
+      "date": "2026-02-17",
+      "tipoff": "3:00 pm GMT 17/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Naft Omidiye",
+        "nameLocal": "Naft Omidiye",
+        "code": "NFO",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9bfbcfd165794f0a557c16987e0b672cS1.png",
+        "score": 72
+      },
+      "away": {
+        "name": "Sanat Mes Rafsanjan",
+        "nameLocal": "Sanat Mes Rafsanjan",
+        "code": "SMR",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/eded016d17b4841bac0185ab699ffd52S1.png",
+        "score": 82
+      }
+    },
+    {
+      "id": "2816429",
+      "date": "2026-02-17",
+      "tipoff": "3:00 pm GMT 17/2/26",
+      "league": "women",
+      "home": {
+        "name": "Ghahremanan Javid Zanjan",
+        "nameLocal": "Ghahremanan Javid Zanjan",
+        "code": "GJZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/8eb7941f006c0a971200b0a811c94169S1.png",
+        "score": 87
+      },
+      "away": {
+        "name": "Anamis Minab",
+        "nameLocal": "Anamis Minab",
+        "code": "ANM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/deb6e0ac71a838434f9338fc3afdb236S1.png",
+        "score": 42
+      }
+    },
+    {
+      "id": "2814475",
+      "date": "2026-02-15",
+      "tipoff": "11:00 am GMT 15/2/26",
+      "league": "women",
+      "home": {
+        "name": "Bahman Group Tehran",
+        "nameLocal": "Bahman Group Tehran",
+        "code": "BHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/23c3bf4a4ee357d00f43ecb2d053342dS1.png",
+        "score": 94
+      },
+      "away": {
+        "name": "Setad Meli Gaz",
+        "nameLocal": "Setad Meli Gaz",
+        "code": "GAZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/6bb766e960ed7ecce43d942f30e8595aS1.png",
+        "score": 62
+      }
+    },
+    {
+      "id": "2814476",
+      "date": "2026-02-15",
+      "tipoff": "1:00 pm GMT 15/2/26",
+      "league": "women",
+      "home": {
+        "name": "A.B.Sahar",
+        "nameLocal": "A.B.Sahar",
+        "code": "SBA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/aab76ccb97ea90aa57f7adc76b67f1b0S1.png",
+        "score": 81
+      },
+      "away": {
+        "name": "Academy Basketball Nika",
+        "nameLocal": "Academy Basketball Nika",
+        "code": "ABN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/aa9fd916b5c076deb6ba58b5f77aa739S1.png",
+        "score": 23
+      }
+    },
+    {
+      "id": "2814477",
+      "date": "2026-02-15",
+      "tipoff": "3:00 pm GMT 15/2/26",
+      "league": "women",
+      "home": {
+        "name": "Palayesh Naft Abadan Women",
+        "nameLocal": "Palayesh Naft Abadan Women",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/63893718c3fcb3fcffe2fe846dd47644S1.png",
+        "score": 73
+      },
+      "away": {
+        "name": "Kaspian Tehran",
+        "nameLocal": "Caspian Tehran",
+        "code": "KSP",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/80ec5ce5a8e36bb4548db700334da027S1.png",
+        "score": 40
+      }
+    },
+    {
+      "id": "2813257",
+      "date": "2026-02-13",
+      "tipoff": "3:00 pm GMT 13/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Kavan Basketball Qeshm",
+        "nameLocal": "Kavan Basketball Qeshm",
+        "code": "KBQ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b8325a94cd3841dd437f701662e5d5d5S1.png",
+        "score": 89
+      },
+      "away": {
+        "name": "Mohkamkar Isfahan",
+        "nameLocal": "Mohkamkar Isfahan",
+        "code": "MHK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d598bb4395327c4071a8a1f5b1138c2fS1.png",
+        "score": 71
+      }
+    },
+    {
+      "id": "2813258",
+      "date": "2026-02-13",
+      "tipoff": "3:00 pm GMT 13/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Hirkan Rasht",
+        "nameLocal": "Hirkan Rasht",
+        "code": "HRK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/53721437e44885153c53fddb80d9a864S1.png",
+        "score": 76
+      },
+      "away": {
+        "name": "Niroo Zamini Tehran",
+        "nameLocal": "Niroo Zamini Tehran",
+        "code": "NRZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/644e7273e3c1d010ed12745c01026d3aS1.png",
+        "score": 88
+      }
+    },
+    {
+      "id": "2813259",
+      "date": "2026-02-13",
+      "tipoff": "3:00 pm GMT 13/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Mehr Parsa Alborz",
+        "nameLocal": "Mehr Parsa Alborz",
+        "code": "MPA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/051b5c5637d4aae15de384dd6a0bb646S1.png",
+        "score": 82
+      },
+      "away": {
+        "name": "Moghavemat Shahrdari Tabriza",
+        "nameLocal": "Moghavemat Shahrdari Tabriz",
+        "code": "MST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/64ffa9a49b52680636cdc36f0b23a501S1.png",
+        "score": 83
+      }
+    },
+    {
+      "id": "2813260",
+      "date": "2026-02-13",
+      "tipoff": "3:00 pm GMT 13/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Noboogh Arak",
+        "nameLocal": "Noboogh Arak",
+        "code": "NAK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d018e20f2801cab0b432dd58e7697e9dS1.png",
+        "score": 69
+      },
+      "away": {
+        "name": "Naft-Gaz Gachsaran",
+        "nameLocal": "Naft-Gaz Gachsaran",
+        "code": "NGG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/f2137e81fb7e16d08be643976e28bea2S1.png",
+        "score": 70
+      }
+    },
+    {
+      "id": "2813261",
+      "date": "2026-02-13",
+      "tipoff": "3:00 pm GMT 13/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Golnoor Shahr Qods",
+        "nameLocal": "Golnoor Shahr Qods",
+        "code": "GOL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e0cd170380dcec0f72ef395472ae3819S1.png",
+        "score": 79
+      },
+      "away": {
+        "name": "Arvand Sirjan",
+        "nameLocal": "Arvand Sirjan",
+        "code": "ARV",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e1225da92aa1b353d2508be74eb5d31cS1.png",
+        "score": 84
+      }
+    },
+    {
+      "id": "2813265",
+      "date": "2026-02-13",
+      "tipoff": "3:00 pm GMT 13/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Kalleh Tehran",
+        "nameLocal": "Kalleh Tehran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/5a3bead6cb63fc0d1321a9f06c7a968aS1.png",
+        "score": 71
+      },
+      "away": {
+        "name": "Naft Tehransar",
+        "nameLocal": "Naft Tehransar",
+        "code": "NFT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d4882b26aa801121348862d48a37f7faS1.png",
+        "score": 74
+      }
+    },
+    {
+      "id": "2813266",
+      "date": "2026-02-13",
+      "tipoff": "3:00 pm GMT 13/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Multi Cafe Mashhad",
+        "nameLocal": "Multi Cafe Mashhad",
+        "code": "MCM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/61500542f3eb5c164ed7896f4058c8efS1.png",
+        "score": 90
+      },
+      "away": {
+        "name": "Naft Omidiye",
+        "nameLocal": "Naft Omidiye",
+        "code": "NFO",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9bfbcfd165794f0a557c16987e0b672cS1.png",
+        "score": 77
+      }
+    },
+    {
+      "id": "2813267",
+      "date": "2026-02-13",
+      "tipoff": "3:00 pm GMT 13/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Oghab Tehran",
+        "nameLocal": "Oghab Tehran",
+        "code": "NHO",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/752504736b1c489f41f17f698fe9e9efS1.png",
+        "score": 78
+      },
+      "away": {
+        "name": "Gol Gohar Sirjan",
+        "nameLocal": "Gol Gohar Sirjan",
+        "code": "GGS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b430cc29063043fa435e11dbdabac0b6S1.png",
+        "score": 85
+      }
+    },
+    {
+      "id": "2813268",
+      "date": "2026-02-13",
+      "tipoff": "3:00 pm GMT 13/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Sanat Mes Rafsanjan",
+        "nameLocal": "Sanat Mes Rafsanjan",
+        "code": "SMR",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/eded016d17b4841bac0185ab699ffd52S1.png",
+        "score": 70
+      },
+      "away": {
+        "name": "Ghahremanan Javid Zanjan",
+        "nameLocal": "Ghahremanan Javid Zanjan",
+        "code": "GJZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/8eb7941f006c0a971200b0a811c94169S1.png",
+        "score": 53
+      }
+    },
+    {
+      "id": "2812799",
+      "date": "2026-02-12",
+      "tipoff": "3:00 pm GMT 12/2/26",
+      "league": "men",
+      "home": {
+        "name": "Shahrdari Gorgan",
+        "nameLocal": "Shahrdari Gorgan",
+        "code": "SHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/662790cb2cf2100db5db3cc34ffcb64aS1.png",
+        "score": 103
+      },
+      "away": {
+        "name": "Pas Kordestan",
+        "nameLocal": "Pas Kordestan",
+        "code": "PAS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2119aa0de5ff445b20400ceef6e5832eS1.png",
+        "score": 58
+      }
+    },
+    {
+      "id": "2814471",
+      "date": "2026-02-12",
+      "tipoff": "12:30 pm GMT 12/2/26",
+      "league": "women",
+      "home": {
+        "name": "Ghahveh Batsam Mashhad",
+        "nameLocal": "Ghahveh Batsam Mashhad",
+        "code": "GBM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d6178ead9b674e9609127e1770ac0dd4S1.png",
+        "score": 58
+      },
+      "away": {
+        "name": "Esteghlal Tehran Women",
+        "nameLocal": "Esteghlal Tehran Women",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/eaaa188674fafdb071e96c36cd26c882S1.png",
+        "score": 75
+      }
+    },
+    {
+      "id": "2814472",
+      "date": "2026-02-12",
+      "tipoff": "1:00 pm GMT 12/2/26",
+      "league": "women",
+      "home": {
+        "name": "Academy Basketball Nika",
+        "nameLocal": "Academy Basketball Nika",
+        "code": "ABN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/aa9fd916b5c076deb6ba58b5f77aa739S1.png",
+        "score": 52
+      },
+      "away": {
+        "name": "A.B.Sahar",
+        "nameLocal": "A.B.Sahar",
+        "code": "SBA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/aab76ccb97ea90aa57f7adc76b67f1b0S1.png",
+        "score": 87
+      }
+    },
+    {
+      "id": "2814473",
+      "date": "2026-02-12",
+      "tipoff": "1:00 pm GMT 12/2/26",
+      "league": "women",
+      "home": {
+        "name": "Kaspian Tehran",
+        "nameLocal": "Kaspian Tehran",
+        "code": "KSP",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/80ec5ce5a8e36bb4548db700334da027S1.png",
+        "score": 61
+      },
+      "away": {
+        "name": "Palayesh Naft Abadan Women",
+        "nameLocal": "Palayesh Naft Abadan Women",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/63893718c3fcb3fcffe2fe846dd47644S1.png",
+        "score": 68
+      }
+    },
+    {
+      "id": "2814474",
+      "date": "2026-02-12",
+      "tipoff": "3:00 pm GMT 12/2/26",
+      "league": "women",
+      "home": {
+        "name": "Setad Meli Gaz",
+        "nameLocal": "Setad Meli Gaz",
+        "code": "GAZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/6bb766e960ed7ecce43d942f30e8595aS1.png",
+        "score": 65
+      },
+      "away": {
+        "name": "Bahman Group Tehran",
+        "nameLocal": "Bahman Group Tehran",
+        "code": "BHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/23c3bf4a4ee357d00f43ecb2d053342dS1.png",
+        "score": 90
+      }
+    },
+    {
+      "id": "2813160",
+      "date": "2026-02-10",
+      "tipoff": "3:00 pm GMT 10/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Moghavemat Shahrdari Tabriza",
+        "nameLocal": "Moghavemat Shahrdari Tabriza",
+        "code": "MST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/64ffa9a49b52680636cdc36f0b23a501S1.png",
+        "score": 91
+      },
+      "away": {
+        "name": "Kavan Basketball Qeshm",
+        "nameLocal": "Kavan Basketball Qeshm",
+        "code": "KBQ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b8325a94cd3841dd437f701662e5d5d5S1.png",
+        "score": 83
+      }
+    },
+    {
+      "id": "2813161",
+      "date": "2026-02-10",
+      "tipoff": "3:00 pm GMT 10/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Naft-Gaz Gachsaran",
+        "nameLocal": "Naft-Gaz Gachsaran",
+        "code": "NGG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/f2137e81fb7e16d08be643976e28bea2S1.png",
+        "score": 71
+      },
+      "away": {
+        "name": "Arvand Sirjan",
+        "nameLocal": "Arvand Sirjan",
+        "code": "ARV",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e1225da92aa1b353d2508be74eb5d31cS1.png",
+        "score": 68
+      }
+    },
+    {
+      "id": "2813163",
+      "date": "2026-02-10",
+      "tipoff": "4:00 pm GMT 10/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Noboogh Arak",
+        "nameLocal": "Noboogh Arak",
+        "code": "NAK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d018e20f2801cab0b432dd58e7697e9dS1.png",
+        "score": 62
+      },
+      "away": {
+        "name": "Hirkan Rasht",
+        "nameLocal": "Hirkan Rasht",
+        "code": "HRK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/53721437e44885153c53fddb80d9a864S1.png",
+        "score": 56
+      }
+    },
+    {
+      "id": "2813164",
+      "date": "2026-02-10",
+      "tipoff": "3:00 pm GMT 10/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Mohkamkar Isfahan",
+        "nameLocal": "Mohkamkar Isfahan",
+        "code": "MHK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d598bb4395327c4071a8a1f5b1138c2fS1.png",
+        "score": 65
+      },
+      "away": {
+        "name": "Golnoor Shahr Qods",
+        "nameLocal": "Golnoor Shahr Qods",
+        "code": "GOL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e0cd170380dcec0f72ef395472ae3819S1.png",
+        "score": 54
+      }
+    },
+    {
+      "id": "2813166",
+      "date": "2026-02-10",
+      "tipoff": "3:00 pm GMT 10/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Niroo Zamini Tehran",
+        "nameLocal": "Niroo Zamini Tehran",
+        "code": "NRZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/644e7273e3c1d010ed12745c01026d3aS1.png",
+        "score": 93
+      },
+      "away": {
+        "name": "Mehr Parsa Alborz",
+        "nameLocal": "Mehr Parsa Alborz",
+        "code": "MPA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/051b5c5637d4aae15de384dd6a0bb646S1.png",
+        "score": 71
+      }
+    },
+    {
+      "id": "2813167",
+      "date": "2026-02-10",
+      "tipoff": "3:00 pm GMT 10/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Gaz Tehran",
+        "nameLocal": "Gaz Tehran",
+        "code": "GAZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/212523870256536fb330c330fe8553c0S1.png",
+        "score": 85
+      },
+      "away": {
+        "name": "Sanat Mes Rafsanjan",
+        "nameLocal": "Sanat Mes Rafsanjan",
+        "code": "SMR",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/eded016d17b4841bac0185ab699ffd52S1.png",
+        "score": 81
+      }
+    },
+    {
+      "id": "2813169",
+      "date": "2026-02-10",
+      "tipoff": "3:00 pm GMT 10/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Naft Omidiye",
+        "nameLocal": "Naft Omidiye",
+        "code": "NFO",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9bfbcfd165794f0a557c16987e0b672cS1.png",
+        "score": 86
+      },
+      "away": {
+        "name": "Oghab Tehran",
+        "nameLocal": "Oghab Tehran",
+        "code": "NHO",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/752504736b1c489f41f17f698fe9e9efS1.png",
+        "score": 76
+      }
+    },
+    {
+      "id": "2813170",
+      "date": "2026-02-10",
+      "tipoff": "4:00 pm GMT 10/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Naft Tehransar",
+        "nameLocal": "Naft Tehransar",
+        "code": "NFT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d4882b26aa801121348862d48a37f7faS1.png",
+        "score": 78
+      },
+      "away": {
+        "name": "Gol Gohar Sirjan",
+        "nameLocal": "Gol Gohar Sirjan",
+        "code": "GGS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b430cc29063043fa435e11dbdabac0b6S1.png",
+        "score": 64
+      }
+    },
+    {
+      "id": "2813171",
+      "date": "2026-02-10",
+      "tipoff": "3:00 pm GMT 10/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Ghahremanan Javid Zanjan",
+        "nameLocal": "Ghahremanan Javid Zanjan",
+        "code": "GJZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/8eb7941f006c0a971200b0a811c94169S1.png",
+        "score": 76
+      },
+      "away": {
+        "name": "Multi Cafe Mashhad",
+        "nameLocal": "Multi Cafe Mashhad",
+        "code": "MCM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/61500542f3eb5c164ed7896f4058c8efS1.png",
+        "score": 83
+      }
+    },
+    {
+      "id": "2806833",
+      "date": "2026-02-06",
+      "tipoff": "11:00 am GMT 6/2/26",
+      "league": "women",
+      "home": {
+        "name": "Academy Basketball Nika",
+        "nameLocal": "Academy Basketball Nika",
+        "code": "ABN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/aa9fd916b5c076deb6ba58b5f77aa739S1.png",
+        "score": 59
+      },
+      "away": {
+        "name": "Esteghlal Tehran Women",
+        "nameLocal": "Esteghlal Tehran Women",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/eaaa188674fafdb071e96c36cd26c882S1.png",
+        "score": 84
+      }
+    },
+    {
+      "id": "2806834",
+      "date": "2026-02-06",
+      "tipoff": "1:00 pm GMT 6/2/26",
+      "league": "women",
+      "home": {
+        "name": "Kaspian Tehran",
+        "nameLocal": "Kaspian Tehran",
+        "code": "KSP",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/80ec5ce5a8e36bb4548db700334da027S1.png",
+        "score": 29
+      },
+      "away": {
+        "name": "Ghahveh Batsam Mashhad",
+        "nameLocal": "Ghahveh Batsam Mashhad",
+        "code": "GBM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d6178ead9b674e9609127e1770ac0dd4S1.png",
+        "score": 23
+      }
+    },
+    {
+      "id": "2806835",
+      "date": "2026-02-06",
+      "tipoff": "1:00 pm GMT 6/2/26",
+      "league": "women",
+      "home": {
+        "name": "A.B.Sahar",
+        "nameLocal": "A.B.Sahar",
+        "code": "SBA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/4f4484fcf30d7d2889fd06ca26a330a7S1.png",
+        "score": 79
+      },
+      "away": {
+        "name": "Palayesh Naft Abadan Women",
+        "nameLocal": "Palayesh Naft Abadan Women",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/63893718c3fcb3fcffe2fe846dd47644S1.png",
+        "score": 56
+      }
+    },
+    {
+      "id": "2811375",
+      "date": "2026-02-06",
+      "tipoff": "3:00 pm GMT 6/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Kavan Basketball Qeshm",
+        "nameLocal": "Kavan Basketball Qeshm",
+        "code": "KBQ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b8325a94cd3841dd437f701662e5d5d5S1.png",
+        "score": 81
+      },
+      "away": {
+        "name": "Niroo Zamini Tehran",
+        "nameLocal": "Niroo Zamini Tehran",
+        "code": "NRZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/644e7273e3c1d010ed12745c01026d3aS1.png",
+        "score": 85
+      }
+    },
+    {
+      "id": "2811377",
+      "date": "2026-02-06",
+      "tipoff": "3:00 pm GMT 6/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Arvand Sirjan",
+        "nameLocal": "Arvand Sirjan",
+        "code": "ARV",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e1225da92aa1b353d2508be74eb5d31cS1.png",
+        "score": 24
+      },
+      "away": {
+        "name": "Mohkamkar Isfahan",
+        "nameLocal": "Mohkamkar Isfahan",
+        "code": "MHK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d598bb4395327c4071a8a1f5b1138c2fS1.png",
+        "score": 11
+      }
+    },
+    {
+      "id": "2811378",
+      "date": "2026-02-06",
+      "tipoff": "3:00 pm GMT 6/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Mehr Parsa Alborz",
+        "nameLocal": "Mehr Parsa Alborz",
+        "code": "MPA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/051b5c5637d4aae15de384dd6a0bb646S1.png",
+        "score": 71
+      },
+      "away": {
+        "name": "Noboogh Arak",
+        "nameLocal": "Noboogh Arak",
+        "code": "NAK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d018e20f2801cab0b432dd58e7697e9dS1.png",
+        "score": 78
+      }
+    },
+    {
+      "id": "2811382",
+      "date": "2026-02-06",
+      "tipoff": "3:00 pm GMT 6/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Multi Cafe Mashhad",
+        "nameLocal": "Multi Cafe Mashhad",
+        "code": "MCM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/61500542f3eb5c164ed7896f4058c8efS1.png",
+        "score": 76
+      },
+      "away": {
+        "name": "Gaz Tehran",
+        "nameLocal": "Gaz Tehran",
+        "code": "GAZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/212523870256536fb330c330fe8553c0S1.png",
+        "score": 69
+      }
+    },
+    {
+      "id": "2811383",
+      "date": "2026-02-06",
+      "tipoff": "3:00 pm GMT 6/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Oghab Tehran",
+        "nameLocal": "Oghab Tehran",
+        "code": "NHO",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/752504736b1c489f41f17f698fe9e9efS1.png",
+        "score": 80
+      },
+      "away": {
+        "name": "Ghahremanan Javid Zanjan",
+        "nameLocal": "Ghahremanan Javid Zanjan",
+        "code": "GJZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/8eb7941f006c0a971200b0a811c94169S1.png",
+        "score": 69
+      }
+    },
+    {
+      "id": "2811399",
+      "date": "2026-02-06",
+      "tipoff": "3:00 pm GMT 6/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Sanat Mes Rafsanjan",
+        "nameLocal": "Sanat Mes Rafsanjan",
+        "code": "SMR",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/eded016d17b4841bac0185ab699ffd52S1.png",
+        "score": 96
+      },
+      "away": {
+        "name": "Kalleh Tehran",
+        "nameLocal": "Kalleh Tehran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/5a3bead6cb63fc0d1321a9f06c7a968aS1.png",
+        "score": 72
+      }
+    },
+    {
+      "id": "2811412",
+      "date": "2026-02-06",
+      "tipoff": "3:00 pm GMT 6/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Gol Gohar Sirjan",
+        "nameLocal": "Gol Gohar Sirjan",
+        "code": "ggs",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b430cc29063043fa435e11dbdabac0b6S1.png",
+        "score": 101
+      },
+      "away": {
+        "name": "Naft Omidiye",
+        "nameLocal": "Naft Omidiye",
+        "code": "nfo",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9bfbcfd165794f0a557c16987e0b672cS1.png",
+        "score": 82
+      }
+    },
+    {
+      "id": "2811370",
+      "date": "2026-02-05",
+      "tipoff": "3:00 pm GMT 5/2/26",
+      "league": "men",
+      "home": {
+        "name": "Rad Padafand Havaei",
+        "nameLocal": "Raad Padafand Havaei",
+        "code": "RPH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d0f6d5ac9a5202b69e54fba4ab84a892S1.png",
+        "score": 80
+      },
+      "away": {
+        "name": "Tabiat",
+        "nameLocal": "Tabiat",
+        "code": "TBT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ecd0073db87f47f753d0cf4df04b28b6S1.png",
+        "score": 82
+      }
+    },
+    {
+      "id": "2811372",
+      "date": "2026-02-05",
+      "tipoff": "4:00 pm GMT 5/2/26",
+      "league": "men",
+      "home": {
+        "name": "Golnoor Isfahan",
+        "nameLocal": "Golnoor Isfahan",
+        "code": "GLN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/a4ce421f7f5beb73c1b372417470ed0aS1.png",
+        "score": 53
+      },
+      "away": {
+        "name": "Esteghlal Tehran",
+        "nameLocal": "Esteghlal Tehran",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d613de0c873049090e5b375c6b7f9b8eS1.png",
+        "score": 62
+      }
+    },
+    {
+      "id": "2811373",
+      "date": "2026-02-05",
+      "tipoff": "3:00 pm GMT 5/2/26",
+      "league": "men",
+      "home": {
+        "name": "Palayesh Naft Abadan",
+        "nameLocal": "Palayesh Naft Abadan",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9ea4a3ba54a133fd72fb6dcb55cbe3f4S1.png",
+        "score": 79
+      },
+      "away": {
+        "name": "Pas Kordestan",
+        "nameLocal": "Pas Kordestan",
+        "code": "PAS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2119aa0de5ff445b20400ceef6e5832eS1.png",
+        "score": 66
+      }
+    },
+    {
+      "id": "2811379",
+      "date": "2026-02-05",
+      "tipoff": "3:00 pm GMT 5/2/26",
+      "league": "div1",
+      "home": {
+        "name": "Golnoor Shahr Qods",
+        "nameLocal": "Golnoor Shahr Qods",
+        "code": "GOL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e0cd170380dcec0f72ef395472ae3819S1.png",
+        "score": 83
+      },
+      "away": {
+        "name": "Moghavemat Shahrdari Tabriza",
+        "nameLocal": "Moghavemat Shahrdari Tabriz",
+        "code": "MST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/64ffa9a49b52680636cdc36f0b23a501S1.png",
+        "score": 71
+      }
+    },
+    {
+      "id": "2810028",
+      "date": "2026-02-02",
+      "tipoff": "3:00 pm GMT 2/2/26",
+      "league": "men",
+      "home": {
+        "name": "Rad Padafand Havaei",
+        "nameLocal": "Rad Padafand Havaei",
+        "code": "RPH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d0f6d5ac9a5202b69e54fba4ab84a892S1.png",
+        "score": 84
+      },
+      "away": {
+        "name": "Mahgol Alborz",
+        "nameLocal": "Mahgol Alborz",
+        "code": "MAH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/f718ba74cd2192a1aef0ebde74d728cdS1.png",
+        "score": 85
+      }
+    },
+    {
+      "id": "2810031",
+      "date": "2026-02-02",
+      "tipoff": "3:00 pm GMT 2/2/26",
+      "league": "men",
+      "home": {
+        "name": "Petro Novin Mahshahr",
+        "nameLocal": "Petro Novin Mahshahr",
+        "code": "PNM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9312904e5c48649deeeaa6f6c48b54cdS1.png",
+        "score": 61
+      },
+      "away": {
+        "name": "Palayesh Naft Abadan",
+        "nameLocal": "Palayesh Naft Abadan",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9ea4a3ba54a133fd72fb6dcb55cbe3f4S1.png",
+        "score": 76
+      }
+    },
+    {
+      "id": "2810039",
+      "date": "2026-02-02",
+      "tipoff": "3:00 pm GMT 2/2/26",
+      "league": "men",
+      "home": {
+        "name": "Naft Zagros Jonobi",
+        "nameLocal": "Naft Zagros Jonobi",
+        "code": "NZJ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/091b19158a9ce46739f5bc142e799d54S1.png",
+        "score": 80
+      },
+      "away": {
+        "name": "Golnoor Isfahan",
+        "nameLocal": "Golnoor Isfahan",
+        "code": "GLN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/a4ce421f7f5beb73c1b372417470ed0aS1.png",
+        "score": 63
+      }
+    },
+    {
+      "id": "2810040",
+      "date": "2026-02-02",
+      "tipoff": "3:00 pm GMT 2/2/26",
+      "league": "men",
+      "home": {
+        "name": "Esteghlal Tehran",
+        "nameLocal": "Esteghlal Tehran",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d613de0c873049090e5b375c6b7f9b8eS1.png",
+        "score": 77
+      },
+      "away": {
+        "name": "Tabiat",
+        "nameLocal": "Tabiat",
+        "code": "TBT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ecd0073db87f47f753d0cf4df04b28b6S1.png",
+        "score": 74
+      }
+    },
+    {
+      "id": "2806830",
+      "date": "2026-01-30",
+      "tipoff": "1:00 pm GMT 30/1/26",
+      "league": "women",
+      "home": {
+        "name": "Bahman Group Tehran",
+        "nameLocal": "Bahman Group Tehran",
+        "code": "BHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/23c3bf4a4ee357d00f43ecb2d053342dS1.png",
+        "score": 57
+      },
+      "away": {
+        "name": "A.B.Sahar",
+        "nameLocal": "A.B.Sahar",
+        "code": "SBA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/4f4484fcf30d7d2889fd06ca26a330a7S1.png",
+        "score": 72
+      }
+    },
+    {
+      "id": "2807984",
+      "date": "2026-01-30",
+      "tipoff": "3:00 pm GMT 30/1/26",
+      "league": "div1",
+      "home": {
+        "name": "Moghavemat Shahrdari Tabriza",
+        "nameLocal": "Moghavemat Shahrdari Tabriza",
+        "code": "MST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/64ffa9a49b52680636cdc36f0b23a501S1.png",
+        "score": 74
+      },
+      "away": {
+        "name": "Arvand Sirjan",
+        "nameLocal": "Arvand Sirjan",
+        "code": "ARV",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e1225da92aa1b353d2508be74eb5d31cS1.png",
+        "score": 67
+      }
+    },
+    {
+      "id": "2807986",
+      "date": "2026-01-30",
+      "tipoff": "3:00 pm GMT 30/1/26",
+      "league": "div1",
+      "home": {
+        "name": "Naft-Gaz Gachsaran",
+        "nameLocal": "Naft-Gaz Gachsaran",
+        "code": "NGG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/f2137e81fb7e16d08be643976e28bea2S1.png",
+        "score": 12
+      },
+      "away": {
+        "name": "Mohkamkar Isfahan",
+        "nameLocal": "Mohkamkar Isfahan",
+        "code": "MHK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d598bb4395327c4071a8a1f5b1138c2fS1.png",
+        "score": 8
+      }
+    },
+    {
+      "id": "2807987",
+      "date": "2026-01-30",
+      "tipoff": "3:00 pm GMT 30/1/26",
+      "league": "div1",
+      "home": {
+        "name": "Noboogh Arak",
+        "nameLocal": "Noboogh Arak",
+        "code": "NAK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d018e20f2801cab0b432dd58e7697e9dS1.png",
+        "score": 74
+      },
+      "away": {
+        "name": "Kavan Basketball Qeshm",
+        "nameLocal": "Kavan Basketball Qeshm",
+        "code": "KBQ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b8325a94cd3841dd437f701662e5d5d5S1.png",
+        "score": 78
+      }
+    },
+    {
+      "id": "2808337",
+      "date": "2026-01-30",
+      "tipoff": "3:00 pm GMT 30/1/26",
+      "league": "div1",
+      "home": {
+        "name": "Naft Tehransar",
+        "nameLocal": "Naft Tehransar",
+        "code": "NFT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d4882b26aa801121348862d48a37f7faS1.png",
+        "score": 112
+      },
+      "away": {
+        "name": "Naft Omidiye",
+        "nameLocal": "Naft Omidiye",
+        "code": "NFO",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9bfbcfd165794f0a557c16987e0b672cS1.png",
+        "score": 57
+      }
+    },
+    {
+      "id": "2808338",
+      "date": "2026-01-30",
+      "tipoff": "3:00 pm GMT 30/1/26",
+      "league": "div1",
+      "home": {
+        "name": "Kalleh Tehran",
+        "nameLocal": "Kalleh Tehran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/5a3bead6cb63fc0d1321a9f06c7a968aS1.png",
+        "score": 66
+      },
+      "away": {
+        "name": "Multi Cafe Mashhad",
+        "nameLocal": "Multi Cafe Mashhad",
+        "code": "MCM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/61500542f3eb5c164ed7896f4058c8efS1.png",
+        "score": 91
+      }
+    },
+    {
+      "id": "2797646",
+      "date": "2026-01-05",
+      "tipoff": "3:00 pm GMT 5/1/26",
+      "league": "men",
+      "home": {
+        "name": "Tabiat",
+        "nameLocal": "Tabiat",
+        "code": "TBT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ecd0073db87f47f753d0cf4df04b28b6S1.png",
+        "score": 83
+      },
+      "away": {
+        "name": "Pas Kordestan",
+        "nameLocal": "Pas Kordestan",
+        "code": "PAS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2119aa0de5ff445b20400ceef6e5832eS1.png",
+        "score": 61
+      }
+    },
+    {
+      "id": "2797647",
+      "date": "2026-01-05",
+      "tipoff": "4:00 pm GMT 5/1/26",
+      "league": "men",
+      "home": {
+        "name": "Mahgol Alborz",
+        "nameLocal": "Mahgol Alborz",
+        "code": "MAH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/f718ba74cd2192a1aef0ebde74d728cdS1.png",
+        "score": 64
+      },
+      "away": {
+        "name": "Esteghlal Tehran",
+        "nameLocal": "Esteghlal Tehran",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d613de0c873049090e5b375c6b7f9b8eS1.png",
+        "score": 86
+      }
+    },
+    {
+      "id": "2797648",
+      "date": "2026-01-05",
+      "tipoff": "4:00 pm GMT 5/1/26",
+      "league": "men",
+      "home": {
+        "name": "Palayesh Naft Abadan",
+        "nameLocal": "Palayesh Naft Abadan",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9ea4a3ba54a133fd72fb6dcb55cbe3f4S1.png",
+        "score": 88
+      },
+      "away": {
+        "name": "Golnoor Isfahan",
+        "nameLocal": "Golnoor Isfahan",
+        "code": "GLN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e6a0e59b40aa10c5576098fb3abb8f09S1.png",
+        "score": 69
+      }
+    },
+    {
+      "id": "2797649",
+      "date": "2026-01-05",
+      "tipoff": "4:30 pm GMT 5/1/26",
+      "league": "men",
+      "home": {
+        "name": "Rad Padafand Havaei",
+        "nameLocal": "Rad Padafand Havaei",
+        "code": "RPH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d0f6d5ac9a5202b69e54fba4ab84a892S1.png",
+        "score": 72
+      },
+      "away": {
+        "name": "Naft Zagros Jonobi",
+        "nameLocal": "Naft Zagros Jonobi",
+        "code": "NZJ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2719c166403340f741a9254d770fcdacS1.png",
+        "score": 78
+      }
+    },
+    {
+      "id": "2797324",
+      "date": "2026-01-03",
+      "tipoff": "4:00 pm GMT 3/1/26",
+      "league": "men",
+      "home": {
+        "name": "Shahrdari Gorgan",
+        "nameLocal": "Shahrdari Gorgan",
+        "code": "SHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/662790cb2cf2100db5db3cc34ffcb64aS1.png",
+        "score": 77
+      },
+      "away": {
+        "name": "Kalleh Mazandaran",
+        "nameLocal": "Kalleh Mazandaran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9ef87c6cddbcca9f07bfd0903e9f0fb3S1.png",
+        "score": 80
+      }
+    },
+    {
+      "id": "2796932",
+      "date": "2026-01-02",
+      "tipoff": "3:00 pm GMT 2/1/26",
+      "league": "div1",
+      "home": {
+        "name": "Kavan Basketball Qeshm",
+        "nameLocal": "Kavan Basketball Qeshm",
+        "code": "KBQ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b8325a94cd3841dd437f701662e5d5d5S1.png",
+        "score": 86
+      },
+      "away": {
+        "name": "Mehr Parsa Alborz",
+        "nameLocal": "Mehr Parsa Alborz",
+        "code": "MPA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/051b5c5637d4aae15de384dd6a0bb646S1.png",
+        "score": 74
+      }
+    },
+    {
+      "id": "2796933",
+      "date": "2026-01-02",
+      "tipoff": "3:30 pm GMT 2/1/26",
+      "league": "div1",
+      "home": {
+        "name": "Moghavemat Shahrdari Tabriza",
+        "nameLocal": "Moghavemat Shahrdari Tabriza",
+        "code": "MST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/64ffa9a49b52680636cdc36f0b23a501S1.png",
+        "score": 71
+      },
+      "away": {
+        "name": "Naft-Gaz Gachsaran",
+        "nameLocal": "Naft-Gaz Gachsaran",
+        "code": "NGG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/f2137e81fb7e16d08be643976e28bea2S1.png",
+        "score": 76
+      }
+    },
+    {
+      "id": "2796934",
+      "date": "2026-01-02",
+      "tipoff": "4:00 pm GMT 2/1/26",
+      "league": "div1",
+      "home": {
+        "name": "Mohkamkar Isfahan",
+        "nameLocal": "Mohkamkar Isfahan",
+        "code": "MHK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d598bb4395327c4071a8a1f5b1138c2fS1.png",
+        "score": 85
+      },
+      "away": {
+        "name": "Niroo Zamini Tehran",
+        "nameLocal": "Niroo Zamini Tehran",
+        "code": "NRZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/644e7273e3c1d010ed12745c01026d3aS1.png",
+        "score": 74
+      }
+    },
+    {
+      "id": "2796935",
+      "date": "2026-01-02",
+      "tipoff": "4:00 pm GMT 2/1/26",
+      "league": "div1",
+      "home": {
+        "name": "Arvand Sirjan",
+        "nameLocal": "Arvand Sirjan",
+        "code": "ARV",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e1225da92aa1b353d2508be74eb5d31cS1.png",
+        "score": 58
+      },
+      "away": {
+        "name": "Noboogh Arak",
+        "nameLocal": "Noboogh Arak",
+        "code": "NAK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d018e20f2801cab0b432dd58e7697e9dS1.png",
+        "score": 55
+      }
+    },
+    {
+      "id": "2796936",
+      "date": "2026-01-02",
+      "tipoff": "4:30 pm GMT 2/1/26",
+      "league": "div1",
+      "home": {
+        "name": "Golnoor Shahr Qods",
+        "nameLocal": "Golnoor Shahr Qods",
+        "code": "GOL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e0cd170380dcec0f72ef395472ae3819S1.png",
+        "score": 82
+      },
+      "away": {
+        "name": "Hirkan Rasht",
+        "nameLocal": "Hirkan Rasht",
+        "code": "HRK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/53721437e44885153c53fddb80d9a864S1.png",
+        "score": 77
+      }
+    },
+    {
+      "id": "2796937",
+      "date": "2026-01-02",
+      "tipoff": "3:00 pm GMT 2/1/26",
+      "league": "div1",
+      "home": {
+        "name": "Multi Cafe Mashhad",
+        "nameLocal": "Multi Cafe Mashhad",
+        "code": "MCM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/61500542f3eb5c164ed7896f4058c8efS1.png",
+        "score": 70
+      },
+      "away": {
+        "name": "Sanat Mes Rafsanjan",
+        "nameLocal": "Sanat Mes Rafsanjan",
+        "code": "SMR",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/eded016d17b4841bac0185ab699ffd52S1.png",
+        "score": 78
+      }
+    },
+    {
+      "id": "2796938",
+      "date": "2026-01-02",
+      "tipoff": "4:30 pm GMT 2/1/26",
+      "league": "div1",
+      "home": {
+        "name": "Ghahremanan Javid Zanjan",
+        "nameLocal": "Ghahremanan Javid Zanjan",
+        "code": "GJZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/8eb7941f006c0a971200b0a811c94169S1.png",
+        "score": 70
+      },
+      "away": {
+        "name": "Naft Tehransar",
+        "nameLocal": "Naft Tehransar",
+        "code": "NFT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d4882b26aa801121348862d48a37f7faS1.png",
+        "score": 78
+      }
+    },
+    {
+      "id": "2796940",
+      "date": "2026-01-02",
+      "tipoff": "3:00 pm GMT 2/1/26",
+      "league": "div1",
+      "home": {
+        "name": "Gol Gohar Sirjan",
+        "nameLocal": "Gol Gohar Sirjan",
+        "code": "GGS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b430cc29063043fa435e11dbdabac0b6S1.png",
+        "score": 70
+      },
+      "away": {
+        "name": "Kalleh Tehran",
+        "nameLocal": "Kalleh Tehran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/5a3bead6cb63fc0d1321a9f06c7a968aS1.png",
+        "score": 57
+      }
+    },
+    {
+      "id": "2796941",
+      "date": "2026-01-02",
+      "tipoff": "4:00 pm GMT 2/1/26",
+      "league": "women",
+      "home": {
+        "name": "Oghab Tehran",
+        "nameLocal": "Oghab Tehran",
+        "code": "NHO",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/752504736b1c489f41f17f698fe9e9efS1.png",
+        "score": 74
+      },
+      "away": {
+        "name": "Anamis Minab",
+        "nameLocal": "Anamis Minab",
+        "code": "ANM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/deb6e0ac71a838434f9338fc3afdb236S1.png",
+        "score": 60
+      }
+    },
+    {
+      "id": "2796526",
+      "date": "2025-12-30",
+      "tipoff": "11:00 am GMT 30/12/25",
+      "league": "women",
+      "home": {
+        "name": "Academy Basketball Nika",
+        "nameLocal": "Academy Basketball Nika",
+        "code": "ABN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/aa9fd916b5c076deb6ba58b5f77aa739S1.png",
+        "score": 56
+      },
+      "away": {
+        "name": "Kaspian Tehran",
+        "nameLocal": "Kaspian Tehran",
+        "code": "KSP",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/80ec5ce5a8e36bb4548db700334da027S1.png",
+        "score": 62
+      }
+    },
+    {
+      "id": "2796527",
+      "date": "2025-12-30",
+      "tipoff": "5:00 pm GMT 30/12/25",
+      "league": "women",
+      "home": {
+        "name": "Faraver Sharif Sabz",
+        "nameLocal": "Faraver Sharif Sabz",
+        "code": "FSH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1b750dacb36ee8ac77d531ed657d99f1S1.png",
+        "score": 22
+      },
+      "away": {
+        "name": "A.B.Sahar",
+        "nameLocal": "A.B.Sahar",
+        "code": "SBA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/4f4484fcf30d7d2889fd06ca26a330a7S1.png",
+        "score": 52
+      }
+    },
+    {
+      "id": "2796528",
+      "date": "2025-12-30",
+      "tipoff": "1:00 pm GMT 30/12/25",
+      "league": "women",
+      "home": {
+        "name": "Setad Meli Gaz",
+        "nameLocal": "Setad Meli Gaz",
+        "code": "GAZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/6bb766e960ed7ecce43d942f30e8595aS1.png",
+        "score": 53
+      },
+      "away": {
+        "name": "Ghahveh Batsam Mashhad",
+        "nameLocal": "Ghahveh Batsam Mashhad",
+        "code": "GBM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d6178ead9b674e9609127e1770ac0dd4S1.png",
+        "score": 72
+      }
+    },
+    {
+      "id": "2796529",
+      "date": "2025-12-30",
+      "tipoff": "3:00 pm GMT 30/12/25",
+      "league": "women",
+      "home": {
+        "name": "Esteghlal Tehran Women",
+        "nameLocal": "Esteghlal Tehran Women",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/eaaa188674fafdb071e96c36cd26c882S1.png",
+        "score": 71
+      },
+      "away": {
+        "name": "Palayesh Naft Abadan Women",
+        "nameLocal": "Palayesh Naft Abadan Women",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/63893718c3fcb3fcffe2fe846dd47644S1.png",
+        "score": 63
+      }
+    },
+    {
+      "id": "2796041",
+      "date": "2025-12-29",
+      "tipoff": "3:00 pm GMT 29/12/25",
+      "league": "men",
+      "home": {
+        "name": "Naft Zagros Jonobi",
+        "nameLocal": "Naft Zagros Jonobi",
+        "code": "NZJ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2719c166403340f741a9254d770fcdacS1.png",
+        "score": 88
+      },
+      "away": {
+        "name": "Mahgol Alborz",
+        "nameLocal": "Mahgol Alborz",
+        "code": "MAH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/f718ba74cd2192a1aef0ebde74d728cdS1.png",
+        "score": 72
+      }
+    },
+    {
+      "id": "2796042",
+      "date": "2025-12-29",
+      "tipoff": "4:00 pm GMT 29/12/25",
+      "league": "men",
+      "home": {
+        "name": "Esteghlal Tehran",
+        "nameLocal": "Esteghlal Tehran",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d613de0c873049090e5b375c6b7f9b8eS1.png",
+        "score": 71
+      },
+      "away": {
+        "name": "Palayesh Naft Abadan",
+        "nameLocal": "Palayesh Naft Abadan",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9ea4a3ba54a133fd72fb6dcb55cbe3f4S1.png",
+        "score": 74
+      }
+    },
+    {
+      "id": "2796043",
+      "date": "2025-12-29",
+      "tipoff": "4:30 pm GMT 29/12/25",
+      "league": "men",
+      "home": {
+        "name": "Pas Kordestan",
+        "nameLocal": "Pas Kordestan",
+        "code": "PAS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2119aa0de5ff445b20400ceef6e5832eS1.png",
+        "score": 83
+      },
+      "away": {
+        "name": "Petro Novin Mahshahr",
+        "nameLocal": "Petro Novin Mahshahr",
+        "code": "PNM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/924beec8d2097c2d030cd1f12a908337S1.png",
+        "score": 69
+      }
+    },
+    {
+      "id": "2796045",
+      "date": "2025-12-29",
+      "tipoff": "5:30 pm GMT 29/12/25",
+      "league": "men",
+      "home": {
+        "name": "Kalleh Mazandaran",
+        "nameLocal": "Kalleh Mazandaran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9ef87c6cddbcca9f07bfd0903e9f0fb3S1.png",
+        "score": 70
+      },
+      "away": {
+        "name": "Tabiat",
+        "nameLocal": "Tabiat",
+        "code": "TBT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ecd0073db87f47f753d0cf4df04b28b6S1.png",
+        "score": 73
+      }
+    },
+    {
+      "id": "2796046",
+      "date": "2025-12-29",
+      "tipoff": "5:00 pm GMT 29/12/25",
+      "league": "men",
+      "home": {
+        "name": "Golnoor Isfahan",
+        "nameLocal": "Golnoor Isfahan",
+        "code": "GLN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e6a0e59b40aa10c5576098fb3abb8f09S1.png",
+        "score": 83
+      },
+      "away": {
+        "name": "Shahrdari Gorgan",
+        "nameLocal": "Shahrdari Gorgan",
+        "code": "SHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/662790cb2cf2100db5db3cc34ffcb64aS1.png",
+        "score": 82
+      }
+    },
+    {
+      "id": "2795364",
+      "date": "2025-12-26",
+      "tipoff": "3:00 pm GMT 26/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Kavan Basketball Qeshm",
+        "nameLocal": "Kavan Basketball Qeshm",
+        "code": "KBQ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b8325a94cd3841dd437f701662e5d5d5S1.png",
+        "score": 70
+      },
+      "away": {
+        "name": "Naft-Gaz Gachsaran",
+        "nameLocal": "Naft-Gaz Gachsaran",
+        "code": "NGG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/f51cd885e11ccf9e8ad4d285d0c5da3eS1.png",
+        "score": 76
+      }
+    },
+    {
+      "id": "2795365",
+      "date": "2025-12-26",
+      "tipoff": "3:30 pm GMT 26/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Hirkan Rasht",
+        "nameLocal": "Hirkan Rasht",
+        "code": "HRK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/53721437e44885153c53fddb80d9a864S1.png",
+        "score": 67
+      },
+      "away": {
+        "name": "Arvand Sirjan",
+        "nameLocal": "Arvand Sirjan",
+        "code": "ARV",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e1225da92aa1b353d2508be74eb5d31cS1.png",
+        "score": 75
+      }
+    },
+    {
+      "id": "2795366",
+      "date": "2025-12-26",
+      "tipoff": "4:00 pm GMT 26/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Niroo Zamini Tehran",
+        "nameLocal": "Niroo Zamini Tehran",
+        "code": "NRZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/644e7273e3c1d010ed12745c01026d3aS1.png",
+        "score": 93
+      },
+      "away": {
+        "name": "Moghavemat Shahrdari Tabriza",
+        "nameLocal": "Moghavemat Shahrdari Tabriza",
+        "code": "MST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/64ffa9a49b52680636cdc36f0b23a501S1.png",
+        "score": 96
+      }
+    },
+    {
+      "id": "2795368",
+      "date": "2025-12-26",
+      "tipoff": "4:00 pm GMT 26/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Noboogh Arak",
+        "nameLocal": "Noboogh Arak",
+        "code": "NAK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d018e20f2801cab0b432dd58e7697e9dS1.png",
+        "score": 66
+      },
+      "away": {
+        "name": "Mohkamkar Isfahan",
+        "nameLocal": "Mohkamkar Isfahan",
+        "code": "MHK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d598bb4395327c4071a8a1f5b1138c2fS1.png",
+        "score": 62
+      }
+    },
+    {
+      "id": "2795369",
+      "date": "2025-12-26",
+      "tipoff": "4:00 pm GMT 26/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Multi Cafe Mashhad",
+        "nameLocal": "Multi Cafe Mashhad",
+        "code": "MCM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/61500542f3eb5c164ed7896f4058c8efS1.png",
+        "score": 84
+      },
+      "away": {
+        "name": "Naft Tehransar",
+        "nameLocal": "Naft Tehransar",
+        "code": "NFT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d4882b26aa801121348862d48a37f7faS1.png",
+        "score": 106
+      }
+    },
+    {
+      "id": "2795371",
+      "date": "2025-12-26",
+      "tipoff": "3:00 pm GMT 26/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Gaz Tehran",
+        "nameLocal": "Gaz Tehran",
+        "code": "GAZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/212523870256536fb330c330fe8553c0S1.png",
+        "score": 98
+      },
+      "away": {
+        "name": "Ghahremanan Javid Zanjan",
+        "nameLocal": "Ghahremanan Javid Zanjan",
+        "code": "GJZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/8eb7941f006c0a971200b0a811c94169S1.png",
+        "score": 88
+      }
+    },
+    {
+      "id": "2795372",
+      "date": "2025-12-26",
+      "tipoff": "4:00 pm GMT 26/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Kalleh Tehran",
+        "nameLocal": "Kalleh Tehran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/5a3bead6cb63fc0d1321a9f06c7a968aS1.png",
+        "score": 80
+      },
+      "away": {
+        "name": "Naft Omidiye",
+        "nameLocal": "Naft Omidiye",
+        "code": "NFO",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9bfbcfd165794f0a557c16987e0b672cS1.png",
+        "score": 71
+      }
+    },
+    {
+      "id": "2795381",
+      "date": "2025-12-26",
+      "tipoff": "3:00 pm GMT 26/12/25",
+      "league": "women",
+      "home": {
+        "name": "Kaspian Tehran",
+        "nameLocal": "Kaspian Tehran",
+        "code": "KSP",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/80ec5ce5a8e36bb4548db700334da027S1.png",
+        "score": 82
+      },
+      "away": {
+        "name": "Faraver Sharif Sabz",
+        "nameLocal": "Faraver Sharif Sabz",
+        "code": "FSH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1b750dacb36ee8ac77d531ed657d99f1S1.png",
+        "score": 32
+      }
+    },
+    {
+      "id": "2795382",
+      "date": "2025-12-26",
+      "tipoff": "12:00 pm GMT 26/12/25",
+      "league": "women",
+      "home": {
+        "name": "Ghahveh Batsam Mashhad",
+        "nameLocal": "Ghahveh Batsam Mashhad",
+        "code": "GBM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d6178ead9b674e9609127e1770ac0dd4S1.png",
+        "score": 89
+      },
+      "away": {
+        "name": "Academy Basketball Nika",
+        "nameLocal": "Academy Basketball Nika",
+        "code": "ABN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/aa9fd916b5c076deb6ba58b5f77aa739S1.png",
+        "score": 75
+      }
+    },
+    {
+      "id": "2795383",
+      "date": "2025-12-26",
+      "tipoff": "5:00 pm GMT 26/12/25",
+      "league": "women",
+      "home": {
+        "name": "Bahman Group Tehran",
+        "nameLocal": "Bahman Group Tehran",
+        "code": "BHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/23c3bf4a4ee357d00f43ecb2d053342dS1.png",
+        "score": 67
+      },
+      "away": {
+        "name": "Esteghlal Tehran Women",
+        "nameLocal": "Esteghlal Tehran Women",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/eaaa188674fafdb071e96c36cd26c882S1.png",
+        "score": 55
+      }
+    },
+    {
+      "id": "2795384",
+      "date": "2025-12-26",
+      "tipoff": "3:00 pm GMT 26/12/25",
+      "league": "women",
+      "home": {
+        "name": "Palayesh Naft Abadan Women",
+        "nameLocal": "Palayesh Naft Abadan Women",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/63893718c3fcb3fcffe2fe846dd47644S1.png",
+        "score": 105
+      },
+      "away": {
+        "name": "Setad Meli Gaz",
+        "nameLocal": "Setad Meli Gaz",
+        "code": "GAZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/6bb766e960ed7ecce43d942f30e8595aS1.png",
+        "score": 50
+      }
+    },
+    {
+      "id": "2795363",
+      "date": "2025-12-25",
+      "tipoff": "3:00 pm GMT 25/12/25",
+      "league": "men",
+      "home": {
+        "name": "Naft Zagros Jonobi",
+        "nameLocal": "Naft Zagros Jonobi",
+        "code": "NZJ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2719c166403340f741a9254d770fcdacS1.png",
+        "score": 66
+      },
+      "away": {
+        "name": "Shahrdari Gorgan",
+        "nameLocal": "Shahrdari Gorgan",
+        "code": "SHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/662790cb2cf2100db5db3cc34ffcb64aS1.png",
+        "score": 74
+      }
+    },
+    {
+      "id": "2795062",
+      "date": "2025-12-23",
+      "tipoff": "11:30 am GMT 23/12/25",
+      "league": "women",
+      "home": {
+        "name": "A.B.Sahar",
+        "nameLocal": "A.B.Sahar",
+        "code": "SBA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/4f4484fcf30d7d2889fd06ca26a330a7S1.png",
+        "score": 54
+      },
+      "away": {
+        "name": "Kaspian Tehran",
+        "nameLocal": "Kaspian Tehran",
+        "code": "KSP",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/80ec5ce5a8e36bb4548db700334da027S1.png",
+        "score": 43
+      }
+    },
+    {
+      "id": "2795063",
+      "date": "2025-12-23",
+      "tipoff": "11:00 am GMT 23/12/25",
+      "league": "women",
+      "home": {
+        "name": "Setad Meli Gaz",
+        "nameLocal": "Setad Meli Gaz",
+        "code": "GAZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/6bb766e960ed7ecce43d942f30e8595aS1.png",
+        "score": 48
+      },
+      "away": {
+        "name": "Bahman Group Tehran",
+        "nameLocal": "Bahman Group Tehran",
+        "code": "BHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/23c3bf4a4ee357d00f43ecb2d053342dS1.png",
+        "score": 77
+      }
+    },
+    {
+      "id": "2795064",
+      "date": "2025-12-23",
+      "tipoff": "1:00 pm GMT 23/12/25",
+      "league": "women",
+      "home": {
+        "name": "Academy Basketball Nika",
+        "nameLocal": "Academy Basketball Nika",
+        "code": "ABN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/aa9fd916b5c076deb6ba58b5f77aa739S1.png",
+        "score": 72
+      },
+      "away": {
+        "name": "Palayesh Naft Abadan Women",
+        "nameLocal": "Palayesh Naft Abadan Women",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e7be8178542da9811ebf51a5d7c6e4bcS1.png",
+        "score": 96
+      }
+    },
+    {
+      "id": "2795065",
+      "date": "2025-12-23",
+      "tipoff": "3:00 pm GMT 23/12/25",
+      "league": "women",
+      "home": {
+        "name": "Faraver Sharif Sabz",
+        "nameLocal": "Faraver Sharif Sabz",
+        "code": "FSH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1b750dacb36ee8ac77d531ed657d99f1S1.png",
+        "score": 38
+      },
+      "away": {
+        "name": "Ghahveh Batsam Mashhad",
+        "nameLocal": "Ghahveh Batsam Mashhad",
+        "code": "GBM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d6178ead9b674e9609127e1770ac0dd4S1.png",
+        "score": 63
+      }
+    },
+    {
+      "id": "2794662",
+      "date": "2025-12-22",
+      "tipoff": "3:00 pm GMT 22/12/25",
+      "league": "men",
+      "home": {
+        "name": "Rad Padafand Havaei",
+        "nameLocal": "Rad Padafand Havaei",
+        "code": "RPH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1e84ec1d31349f90c608b433bddcb18dS1.png",
+        "score": 78
+      },
+      "away": {
+        "name": "Pas Kordestan",
+        "nameLocal": "Pas Kordestan",
+        "code": "PAS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2119aa0de5ff445b20400ceef6e5832eS1.png",
+        "score": 56
+      }
+    },
+    {
+      "id": "2794663",
+      "date": "2025-12-22",
+      "tipoff": "3:30 pm GMT 22/12/25",
+      "league": "men",
+      "home": {
+        "name": "Tabiat",
+        "nameLocal": "Tabiat",
+        "code": "TBT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/156b60a93b918b6cb1fb856f3c74e3ecS1.png",
+        "score": 97
+      },
+      "away": {
+        "name": "Petro Novin Mahshahr",
+        "nameLocal": "Petro Novin Mahshahr",
+        "code": "PNM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/924beec8d2097c2d030cd1f12a908337S1.png",
+        "score": 79
+      }
+    },
+    {
+      "id": "2794664",
+      "date": "2025-12-22",
+      "tipoff": "5:30 pm GMT 22/12/25",
+      "league": "men",
+      "home": {
+        "name": "Kalleh Mazandaran",
+        "nameLocal": "Kalleh Mazandaran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9ef87c6cddbcca9f07bfd0903e9f0fb3S1.png",
+        "score": 89
+      },
+      "away": {
+        "name": "Golnoor Isfahan",
+        "nameLocal": "Golnoor Isfahan",
+        "code": "GLN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e6a0e59b40aa10c5576098fb3abb8f09S1.png",
+        "score": 73
+      }
+    },
+    {
+      "id": "2794665",
+      "date": "2025-12-22",
+      "tipoff": "4:00 pm GMT 22/12/25",
+      "league": "men",
+      "home": {
+        "name": "Palayesh Naft Abadan",
+        "nameLocal": "Palayesh Naft Abadan",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9ea4a3ba54a133fd72fb6dcb55cbe3f4S1.png",
+        "score": 113
+      },
+      "away": {
+        "name": "Naft Zagros Jonobi",
+        "nameLocal": "Naft Zagros Jonobi",
+        "code": "NZJ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2719c166403340f741a9254d770fcdacS1.png",
+        "score": 90
+      }
+    },
+    {
+      "id": "2794666",
+      "date": "2025-12-22",
+      "tipoff": "5:00 pm GMT 22/12/25",
+      "league": "men",
+      "home": {
+        "name": "Shahrdari Gorgan",
+        "nameLocal": "Shahrdari Gorgan",
+        "code": "SHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/662790cb2cf2100db5db3cc34ffcb64aS1.png",
+        "score": 70
+      },
+      "away": {
+        "name": "Esteghlal Tehran",
+        "nameLocal": "Esteghlal Tehran",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d613de0c873049090e5b375c6b7f9b8eS1.png",
+        "score": 73
+      }
+    },
+    {
+      "id": "2793647",
+      "date": "2025-12-19",
+      "tipoff": "12:00 pm GMT 19/12/25",
+      "league": "women",
+      "home": {
+        "name": "Bahman Group Tehran",
+        "nameLocal": "Bahman Group Tehran",
+        "code": "BHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/23c3bf4a4ee357d00f43ecb2d053342dS1.png",
+        "score": 66
+      },
+      "away": {
+        "name": "Academy Basketball Nika",
+        "nameLocal": "Academy Basketball Nika",
+        "code": "ABN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/aa9fd916b5c076deb6ba58b5f77aa739S1.png",
+        "score": 60
+      }
+    },
+    {
+      "id": "2793648",
+      "date": "2025-12-19",
+      "tipoff": "1:00 pm GMT 19/12/25",
+      "league": "women",
+      "home": {
+        "name": "Ghahveh Batsam Mashhad",
+        "nameLocal": "Ghahveh Batsam Mashhad",
+        "code": "GBM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d6178ead9b674e9609127e1770ac0dd4S1.png",
+        "score": 56
+      },
+      "away": {
+        "name": "A.B.Sahar",
+        "nameLocal": "A.B.Sahar",
+        "code": "SBA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/4f4484fcf30d7d2889fd06ca26a330a7S1.png",
+        "score": 68
+      }
+    },
+    {
+      "id": "2793649",
+      "date": "2025-12-19",
+      "tipoff": "2:00 pm GMT 19/12/25",
+      "league": "women",
+      "home": {
+        "name": "Esteghlal Tehran Women",
+        "nameLocal": "Esteghlal Tehran Women",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ead6b62c1cf6e8fbac2edc7c09a57c06S1.png",
+        "score": 87
+      },
+      "away": {
+        "name": "Setad Meli Gaz",
+        "nameLocal": "Setad Meli Gaz",
+        "code": "GAZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/6bb766e960ed7ecce43d942f30e8595aS1.png",
+        "score": 39
+      }
+    },
+    {
+      "id": "2792006",
+      "date": "2025-12-15",
+      "tipoff": "4:00 pm GMT 15/12/25",
+      "league": "men",
+      "home": {
+        "name": "Esteghlal Tehran",
+        "nameLocal": "Esteghlal Tehran",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d613de0c873049090e5b375c6b7f9b8eS1.png",
+        "score": 79
+      },
+      "away": {
+        "name": "Kalleh Mazandaran",
+        "nameLocal": "Kalleh Mazandaran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9ef87c6cddbcca9f07bfd0903e9f0fb3S1.png",
+        "score": 82
+      }
+    },
+    {
+      "id": "2792007",
+      "date": "2025-12-15",
+      "tipoff": "4:30 pm GMT 15/12/25",
+      "league": "men",
+      "home": {
+        "name": "Pas Kordestan",
+        "nameLocal": "Pas Kordestan",
+        "code": "PAS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2119aa0de5ff445b20400ceef6e5832eS1.png",
+        "score": 90
+      },
+      "away": {
+        "name": "Mahgol Alborz",
+        "nameLocal": "Mahgol Alborz",
+        "code": "MAH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/f12f37db3504b92674e04ca6c365e413S1.png",
+        "score": 86
+      }
+    },
+    {
+      "id": "2792008",
+      "date": "2025-12-15",
+      "tipoff": "5:00 pm GMT 15/12/25",
+      "league": "men",
+      "home": {
+        "name": "Golnoor Isfahan",
+        "nameLocal": "Golnoor Isfahan",
+        "code": "GLN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e6a0e59b40aa10c5576098fb3abb8f09S1.png",
+        "score": 72
+      },
+      "away": {
+        "name": "Tabiat",
+        "nameLocal": "Tabiat",
+        "code": "TBT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/156b60a93b918b6cb1fb856f3c74e3ecS1.png",
+        "score": 68
+      }
+    },
+    {
+      "id": "2792009",
+      "date": "2025-12-15",
+      "tipoff": "5:00 pm GMT 15/12/25",
+      "league": "men",
+      "home": {
+        "name": "Petro Novin Mahshahr",
+        "nameLocal": "Petro Novin Mahshahr",
+        "code": "PNM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/924beec8d2097c2d030cd1f12a908337S1.png",
+        "score": 74
+      },
+      "away": {
+        "name": "Rad Padafand Havaei",
+        "nameLocal": "Rad Padafand Havaei",
+        "code": "RPH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1e84ec1d31349f90c608b433bddcb18dS1.png",
+        "score": 77
+      }
+    },
+    {
+      "id": "2786062",
+      "date": "2025-12-12",
+      "tipoff": "12:00 pm GMT 12/12/25",
+      "league": "women",
+      "home": {
+        "name": "Esteghlal Tehran Women",
+        "nameLocal": "Esteghlal Tehran Women",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ead6b62c1cf6e8fbac2edc7c09a57c06S1.png",
+        "score": 87
+      },
+      "away": {
+        "name": "Academy Basketball Nika",
+        "nameLocal": "Academy Basketball Nika",
+        "code": "NKA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/84a2b5c9332f85a8d6fdd39f4e6bf604S1.png",
+        "score": 36
+      }
+    },
+    {
+      "id": "2786063",
+      "date": "2025-12-12",
+      "tipoff": "1:00 pm GMT 12/12/25",
+      "league": "women",
+      "home": {
+        "name": "Ghahveh Batsam Mashhad",
+        "nameLocal": "Ghahveh Batsam Mashhad",
+        "code": "GBM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/91f5d8c70841545a686ae08dd5f9bbefS1.png",
+        "score": 71
+      },
+      "away": {
+        "name": "Kaspian Tehran",
+        "nameLocal": "Kaspian Tehran",
+        "code": "KSP",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/80ec5ce5a8e36bb4548db700334da027S1.png",
+        "score": 66
+      }
+    },
+    {
+      "id": "2786064",
+      "date": "2025-12-12",
+      "tipoff": "2:00 pm GMT 12/12/25",
+      "league": "women",
+      "home": {
+        "name": "Bahman Group Tehran",
+        "nameLocal": "Bahman Group Tehran",
+        "code": "BHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/23c3bf4a4ee357d00f43ecb2d053342dS1.png",
+        "score": 91
+      },
+      "away": {
+        "name": "Faraver Sharif Sabz",
+        "nameLocal": "Faraver Sharif Sabz",
+        "code": "FSH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1b750dacb36ee8ac77d531ed657d99f1S1.png",
+        "score": 22
+      }
+    },
+    {
+      "id": "2786065",
+      "date": "2025-12-12",
+      "tipoff": "3:00 pm GMT 12/12/25",
+      "league": "women",
+      "home": {
+        "name": "Palayesh Naft Abadan Women",
+        "nameLocal": "Palayesh Naft Abadan Women",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/c5f2e4d5b02f9417f5f9968723459d2dS1.png",
+        "score": 57
+      },
+      "away": {
+        "name": "A.B.Sahar",
+        "nameLocal": "A.B.Sahar",
+        "code": "SBA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/070d8208c4d4c2c40efb532545d3d97bS1.png",
+        "score": 58
+      }
+    },
+    {
+      "id": "2790634",
+      "date": "2025-12-12",
+      "tipoff": "3:00 pm GMT 12/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Kavan Basketball Qeshm",
+        "nameLocal": "Kavan Basketball Qeshm",
+        "code": "KBQ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b8325a94cd3841dd437f701662e5d5d5S1.png",
+        "score": 85
+      },
+      "away": {
+        "name": "Arvand Sirjan",
+        "nameLocal": "Arvand Sirjan",
+        "code": "ARV",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e1225da92aa1b353d2508be74eb5d31cS1.png",
+        "score": 76
+      }
+    },
+    {
+      "id": "2790635",
+      "date": "2025-12-12",
+      "tipoff": "3:30 pm GMT 12/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Hirkan Rasht",
+        "nameLocal": "Hirkan Rasht",
+        "code": "HRK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/53721437e44885153c53fddb80d9a864S1.png",
+        "score": 87
+      },
+      "away": {
+        "name": "Moghavemat Shahrdari Tabriza",
+        "nameLocal": "Moghavemat Shahrdari Tabriza",
+        "code": "MST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/64ffa9a49b52680636cdc36f0b23a501S1.png",
+        "score": 86
+      }
+    },
+    {
+      "id": "2790636",
+      "date": "2025-12-12",
+      "tipoff": "4:00 pm GMT 12/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Mehr Parsa Alborz",
+        "nameLocal": "Mehr Parsa Alborz",
+        "code": "MPA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/051b5c5637d4aae15de384dd6a0bb646S1.png",
+        "score": 98
+      },
+      "away": {
+        "name": "Mohkamkar Isfahan",
+        "nameLocal": "Mohkamkar Isfahan",
+        "code": "MHK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d598bb4395327c4071a8a1f5b1138c2fS1.png",
+        "score": 95
+      }
+    },
+    {
+      "id": "2790639",
+      "date": "2025-12-12",
+      "tipoff": "4:00 pm GMT 12/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Golnoor Shahr Qods",
+        "nameLocal": "Golnoor Shahr Qods",
+        "code": "GOL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e0cd170380dcec0f72ef395472ae3819S1.png",
+        "score": 97
+      },
+      "away": {
+        "name": "Naft-Gaz Gachsaran",
+        "nameLocal": "Naft-Gaz Gachsaran",
+        "code": "NGG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/f51cd885e11ccf9e8ad4d285d0c5da3eS1.png",
+        "score": 92
+      }
+    },
+    {
+      "id": "2790641",
+      "date": "2025-12-12",
+      "tipoff": "3:00 pm GMT 12/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Multi Cafe Mashhad",
+        "nameLocal": "Multi Cafe Mashhad",
+        "code": "MCM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7728565a6180764238076619bfb6f271S1.png",
+        "score": 69
+      },
+      "away": {
+        "name": "Gol Gohar Sirjan",
+        "nameLocal": "Gol Gohar Sirjan",
+        "code": "GGS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b430cc29063043fa435e11dbdabac0b6S1.png",
+        "score": 77
+      }
+    },
+    {
+      "id": "2790647",
+      "date": "2025-12-12",
+      "tipoff": "4:30 pm GMT 12/12/25",
+      "league": "men",
+      "home": {
+        "name": "Kalleh Tehran",
+        "nameLocal": "Kalleh Tehran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/5a3bead6cb63fc0d1321a9f06c7a968aS1.png",
+        "score": 82
+      },
+      "away": {
+        "name": "Gaz Tehran",
+        "nameLocal": "Gaz Tehran",
+        "code": "GAZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/212523870256536fb330c330fe8553c0S1.png",
+        "score": 71
+      }
+    },
+    {
+      "id": "2789413",
+      "date": "2025-12-11",
+      "tipoff": "4:30 pm GMT 11/12/25",
+      "league": "men",
+      "home": {
+        "name": "Tabiat",
+        "nameLocal": "Tabiat",
+        "code": "TBT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/156b60a93b918b6cb1fb856f3c74e3ecS1.png",
+        "score": 70
+      },
+      "away": {
+        "name": "Esteghlal Tehran",
+        "nameLocal": "Esteghlal Tehran",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/57f39b50dee248770c132ee6a2d05a3bS1.png",
+        "score": 80
+      }
+    },
+    {
+      "id": "2790648",
+      "date": "2025-12-11",
+      "tipoff": "5:00 pm GMT 11/12/25",
+      "league": "men",
+      "home": {
+        "name": "Petro Novin Mahshahr",
+        "nameLocal": "Petro Novin Mahshahr",
+        "code": "PNM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/924beec8d2097c2d030cd1f12a908337S1.png",
+        "score": 62
+      },
+      "away": {
+        "name": "Shahrdari Gorgan",
+        "nameLocal": "Shahrdari Gorgan",
+        "code": "SHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/662790cb2cf2100db5db3cc34ffcb64aS1.png",
+        "score": 73
+      }
+    },
+    {
+      "id": "2789414",
+      "date": "2025-12-08",
+      "tipoff": "3:00 pm GMT 8/12/25",
+      "league": "men",
+      "home": {
+        "name": "Naft Zagros Jonobi",
+        "nameLocal": "Naft Zagros Jonobi",
+        "code": "NZJ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2719c166403340f741a9254d770fcdacS1.png",
+        "score": 87
+      },
+      "away": {
+        "name": "Kalleh Mazandaran",
+        "nameLocal": "Kalleh Mazandaran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9ef87c6cddbcca9f07bfd0903e9f0fb3S1.png",
+        "score": 104
+      }
+    },
+    {
+      "id": "2789415",
+      "date": "2025-12-08",
+      "tipoff": "4:00 pm GMT 8/12/25",
+      "league": "men",
+      "home": {
+        "name": "Esteghlal Tehran",
+        "nameLocal": "Esteghlal Tehran",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/57f39b50dee248770c132ee6a2d05a3bS1.png",
+        "score": 76
+      },
+      "away": {
+        "name": "Golnoor Isfahan",
+        "nameLocal": "Golnoor Isfahan",
+        "code": "GLN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ef053f6c208f28ff104a0f5a84a18d76S1.png",
+        "score": 66
+      }
+    },
+    {
+      "id": "2789416",
+      "date": "2025-12-08",
+      "tipoff": "4:30 pm GMT 8/12/25",
+      "league": "men",
+      "home": {
+        "name": "Pas Kordestan",
+        "nameLocal": "Pas Kordestan",
+        "code": "PAS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2119aa0de5ff445b20400ceef6e5832eS1.png",
+        "score": 65
+      },
+      "away": {
+        "name": "Palayesh Naft Abadan",
+        "nameLocal": "Palayesh Naft Abadan",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/47306a1c733c0151f02bdb06f42591a0S1.png",
+        "score": 113
+      }
+    },
+    {
+      "id": "2789418",
+      "date": "2025-12-08",
+      "tipoff": "5:00 pm GMT 8/12/25",
+      "league": "men",
+      "home": {
+        "name": "Petro Novin Mahshahr",
+        "nameLocal": "Petro Novin Mahshahr",
+        "code": "PNM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/924beec8d2097c2d030cd1f12a908337S1.png",
+        "score": 76
+      },
+      "away": {
+        "name": "Mahgol Alborz",
+        "nameLocal": "Mahgol Alborz",
+        "code": "MAH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/f12f37db3504b92674e04ca6c365e413S1.png",
+        "score": 83
+      }
+    },
+    {
+      "id": "2789121",
+      "date": "2025-12-07",
+      "tipoff": "6:00 pm GMT 7/12/25",
+      "league": "men",
+      "home": {
+        "name": "Tabiat",
+        "nameLocal": "Tabiat",
+        "code": "TBT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/abe75aa8df25ffeb08941e23f6f24bf8S1.png",
+        "score": 96
+      },
+      "away": {
+        "name": "Rad Padafand Havaei",
+        "nameLocal": "Rad Padafand Havaei",
+        "code": "RPH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1e84ec1d31349f90c608b433bddcb18dS1.png",
+        "score": 56
+      }
+    },
+    {
+      "id": "2786058",
+      "date": "2025-12-05",
+      "tipoff": "11:00 am GMT 5/12/25",
+      "league": "women",
+      "home": {
+        "name": "Academy Basketball Nika",
+        "nameLocal": "Academy Basketball Nika",
+        "code": "NKA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/84a2b5c9332f85a8d6fdd39f4e6bf604S1.png",
+        "score": 42
+      },
+      "away": {
+        "name": "Setad Meli Gaz",
+        "nameLocal": "Setad Meli Gaz",
+        "code": "GAZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b4614457b2ca582c0904aefb9fbd434aS1.png",
+        "score": 50
+      }
+    },
+    {
+      "id": "2786059",
+      "date": "2025-12-05",
+      "tipoff": "1:00 pm GMT 5/12/25",
+      "league": "women",
+      "home": {
+        "name": "Kaspian Tehran",
+        "nameLocal": "Kaspian Tehran",
+        "code": "KSP",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/80ec5ce5a8e36bb4548db700334da027S1.png",
+        "score": 48
+      },
+      "away": {
+        "name": "Palayesh Naft Abadan Women",
+        "nameLocal": "Palayesh Naft Abadan Women",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/c5f2e4d5b02f9417f5f9968723459d2dS1.png",
+        "score": 55
+      }
+    },
+    {
+      "id": "2786060",
+      "date": "2025-12-05",
+      "tipoff": "1:30 pm GMT 5/12/25",
+      "league": "women",
+      "home": {
+        "name": "A.B.Sahar",
+        "nameLocal": "A.B.Sahar",
+        "code": "SBA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/070d8208c4d4c2c40efb532545d3d97bS1.png",
+        "score": 69
+      },
+      "away": {
+        "name": "Bahman Group Tehran",
+        "nameLocal": "Bahman Group Tehran",
+        "code": "BHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/23c3bf4a4ee357d00f43ecb2d053342dS1.png",
+        "score": 51
+      }
+    },
+    {
+      "id": "2786061",
+      "date": "2025-12-05",
+      "tipoff": "3:00 pm GMT 5/12/25",
+      "league": "women",
+      "home": {
+        "name": "Faraver Sharif Sabz",
+        "nameLocal": "Faraver Sharif Sabz",
+        "code": "FSH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1b750dacb36ee8ac77d531ed657d99f1S1.png",
+        "score": 35
+      },
+      "away": {
+        "name": "Esteghlal Tehran Women",
+        "nameLocal": "Esteghlal Tehran Women",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ead6b62c1cf6e8fbac2edc7c09a57c06S1.png",
+        "score": 104
+      }
+    },
+    {
+      "id": "2788213",
+      "date": "2025-12-05",
+      "tipoff": "3:00 pm GMT 5/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Moghavemat Shahrdari Tabriza",
+        "nameLocal": "Moghavemat Shahrdari Tabriza",
+        "code": "MST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/64ffa9a49b52680636cdc36f0b23a501S1.png",
+        "score": 69
+      },
+      "away": {
+        "name": "Mehr Parsa Alborz",
+        "nameLocal": "Mehr Parsa Alborz",
+        "code": "MPA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/051b5c5637d4aae15de384dd6a0bb646S1.png",
+        "score": 82
+      }
+    },
+    {
+      "id": "2788215",
+      "date": "2025-12-05",
+      "tipoff": "3:30 pm GMT 5/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Mohkamkar Isfahan",
+        "nameLocal": "Mohkamkar Isfahan",
+        "code": "MHK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d598bb4395327c4071a8a1f5b1138c2fS1.png",
+        "score": 65
+      },
+      "away": {
+        "name": "Kavan Basketball Qeshm",
+        "nameLocal": "Kavan Basketball Qeshm",
+        "code": "KBQ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b8325a94cd3841dd437f701662e5d5d5S1.png",
+        "score": 75
+      }
+    },
+    {
+      "id": "2788216",
+      "date": "2025-12-05",
+      "tipoff": "4:00 pm GMT 5/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Arvand Sirjan",
+        "nameLocal": "Arvand Sirjan",
+        "code": "ARV",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/0b67c3f0c954272de07a5d674d8973d0S1.png",
+        "score": 81
+      },
+      "away": {
+        "name": "Golnoor Shahr Qods",
+        "nameLocal": "Golnoor Shahr Qods",
+        "code": "GOL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e0cd170380dcec0f72ef395472ae3819S1.png",
+        "score": 77
+      }
+    },
+    {
+      "id": "2788217",
+      "date": "2025-12-05",
+      "tipoff": "4:00 pm GMT 5/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Naft-Gaz Gachsaran",
+        "nameLocal": "Naft-Gaz Gachsaran",
+        "code": "NGG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/f51cd885e11ccf9e8ad4d285d0c5da3eS1.png",
+        "score": 63
+      },
+      "away": {
+        "name": "Noboogh Arak",
+        "nameLocal": "Noboogh Arak",
+        "code": "NAK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/61f2ccb7d57bb01ffb3ea78bdffb1c5dS1.png",
+        "score": 56
+      }
+    },
+    {
+      "id": "2788218",
+      "date": "2025-12-05",
+      "tipoff": "4:30 pm GMT 5/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Niroo Zamini Tehran",
+        "nameLocal": "Niroo Zamini Tehran",
+        "code": "NRZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/644e7273e3c1d010ed12745c01026d3aS1.png",
+        "score": 81
+      },
+      "away": {
+        "name": "Hirkan Rasht",
+        "nameLocal": "Hirkan Rasht",
+        "code": "HRK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/53721437e44885153c53fddb80d9a864S1.png",
+        "score": 67
+      }
+    },
+    {
+      "id": "2788204",
+      "date": "2025-12-04",
+      "tipoff": "3:00 pm GMT 4/12/25",
+      "league": "men",
+      "home": {
+        "name": "Mahgol Alborz",
+        "nameLocal": "Mahgol Alborz",
+        "code": "MAH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/a224c07b827831c1125f7aab43fd942cS1.png",
+        "score": 93
+      },
+      "away": {
+        "name": "Rad Padafand Havaei",
+        "nameLocal": "Rad Padafand Havaei",
+        "code": "RPH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1e84ec1d31349f90c608b433bddcb18dS1.png",
+        "score": 99
+      }
+    },
+    {
+      "id": "2788205",
+      "date": "2025-12-04",
+      "tipoff": "4:00 pm GMT 4/12/25",
+      "league": "men",
+      "home": {
+        "name": "Palayesh Naft Abadan",
+        "nameLocal": "Palayesh Naft Abadan",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2caab66893bd10c3ce4cf1c2e6c4b7b6S1.png",
+        "score": 99
+      },
+      "away": {
+        "name": "Petro Novin Mahshahr",
+        "nameLocal": "Petro Novin Mahshahr",
+        "code": "PNM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/924beec8d2097c2d030cd1f12a908337S1.png",
+        "score": 62
+      }
+    },
+    {
+      "id": "2788206",
+      "date": "2025-12-04",
+      "tipoff": "4:30 pm GMT 4/12/25",
+      "league": "men",
+      "home": {
+        "name": "Shahrdari Gorgan",
+        "nameLocal": "Shahrdari Gorgan",
+        "code": "SHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/662790cb2cf2100db5db3cc34ffcb64aS1.png",
+        "score": 100
+      },
+      "away": {
+        "name": "Pas Kordestan",
+        "nameLocal": "Pas Kordestan",
+        "code": "PAS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2119aa0de5ff445b20400ceef6e5832eS1.png",
+        "score": 63
+      }
+    },
+    {
+      "id": "2788207",
+      "date": "2025-12-04",
+      "tipoff": "5:00 pm GMT 4/12/25",
+      "league": "men",
+      "home": {
+        "name": "Golnoor Isfahan",
+        "nameLocal": "Golnoor Isfahan",
+        "code": "GLN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/67f0d516db772116a72258865928215eS1.png",
+        "score": 96
+      },
+      "away": {
+        "name": "Naft Zagros Jonobi",
+        "nameLocal": "Naft Zagros Jonobi",
+        "code": "NZJ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/3b844ea27202cf89e37d92d12bc12e5dS1.png",
+        "score": 92
+      }
+    },
+    {
+      "id": "2786054",
+      "date": "2025-12-02",
+      "tipoff": "11:00 am GMT 2/12/25",
+      "league": "women",
+      "home": {
+        "name": "Setad Meli Gaz",
+        "nameLocal": "Setad Meli Gaz",
+        "code": "GAZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b4614457b2ca582c0904aefb9fbd434aS1.png",
+        "score": 92
+      },
+      "away": {
+        "name": "Faraver Sharif Sabz",
+        "nameLocal": "Faraver Sharif Sabz",
+        "code": "FSH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1b750dacb36ee8ac77d531ed657d99f1S1.png",
+        "score": 65
+      }
+    },
+    {
+      "id": "2786055",
+      "date": "2025-12-02",
+      "tipoff": "1:00 pm GMT 2/12/25",
+      "league": "women",
+      "home": {
+        "name": "Esteghlal Tehran Women",
+        "nameLocal": "Esteghlal Tehran Women",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ead6b62c1cf6e8fbac2edc7c09a57c06S1.png",
+        "score": 62
+      },
+      "away": {
+        "name": "A.B.Sahar",
+        "nameLocal": "A.B.Sahar",
+        "code": "SBA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/070d8208c4d4c2c40efb532545d3d97bS1.png",
+        "score": 57
+      }
+    },
+    {
+      "id": "2786056",
+      "date": "2025-12-02",
+      "tipoff": "3:00 pm GMT 2/12/25",
+      "league": "women",
+      "home": {
+        "name": "Bahman Group Tehran",
+        "nameLocal": "Bahman Group Tehran",
+        "code": "BHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/23c3bf4a4ee357d00f43ecb2d053342dS1.png",
+        "score": 50
+      },
+      "away": {
+        "name": "Kaspian Tehran",
+        "nameLocal": "Kaspian Tehran",
+        "code": "KSP",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/80ec5ce5a8e36bb4548db700334da027S1.png",
+        "score": 45
+      }
+    },
+    {
+      "id": "2786057",
+      "date": "2025-12-02",
+      "tipoff": "3:00 pm GMT 2/12/25",
+      "league": "women",
+      "home": {
+        "name": "Palayesh Naft Abadan Women",
+        "nameLocal": "Palayesh Naft Abadan Women",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/c5f2e4d5b02f9417f5f9968723459d2dS1.png",
+        "score": 56
+      },
+      "away": {
+        "name": "Ghahveh Batsam Mashhad",
+        "nameLocal": "Ghahveh Batsam Mashhad",
+        "code": "GBM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/91f5d8c70841545a686ae08dd5f9bbefS1.png",
+        "score": 42
+      }
+    },
+    {
+      "id": "2786071",
+      "date": "2025-12-02",
+      "tipoff": "3:00 pm GMT 2/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Kavan Basketball Qeshm",
+        "nameLocal": "Kavan Basketball Qeshm",
+        "code": "KBQ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b8325a94cd3841dd437f701662e5d5d5S1.png",
+        "score": 87
+      },
+      "away": {
+        "name": "Moghavemat Shahrdari Tabriza",
+        "nameLocal": "Moghavemat Shahrdari Tabriza",
+        "code": "MST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/64ffa9a49b52680636cdc36f0b23a501S1.png",
+        "score": 67
+      }
+    },
+    {
+      "id": "2786074",
+      "date": "2025-12-02",
+      "tipoff": "3:30 pm GMT 2/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Hirkan Rasht",
+        "nameLocal": "Hyrkan Rasht",
+        "code": "HRK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/53721437e44885153c53fddb80d9a864S1.png",
+        "score": 51
+      },
+      "away": {
+        "name": "Noboogh Arak",
+        "nameLocal": "Noboogh Arak",
+        "code": "NAK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/61f2ccb7d57bb01ffb3ea78bdffb1c5dS1.png",
+        "score": 58
+      }
+    },
+    {
+      "id": "2786075",
+      "date": "2025-12-02",
+      "tipoff": "4:00 pm GMT 2/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Arvand Sirjan",
+        "nameLocal": "Arvand Sirjan",
+        "code": "ARV",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/0b67c3f0c954272de07a5d674d8973d0S1.png",
+        "score": 62
+      },
+      "away": {
+        "name": "Naft-Gaz Gachsaran",
+        "nameLocal": "Naft-Gaz Gachsaran",
+        "code": "NGG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/f51cd885e11ccf9e8ad4d285d0c5da3eS1.png",
+        "score": 70
+      }
+    },
+    {
+      "id": "2786076",
+      "date": "2025-12-02",
+      "tipoff": "4:00 pm GMT 2/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Golnoor Shahr Qods",
+        "nameLocal": "Golnoor Shahr Qods",
+        "code": "GOL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e0cd170380dcec0f72ef395472ae3819S1.png",
+        "score": 70
+      },
+      "away": {
+        "name": "Mohkamkar Isfahan",
+        "nameLocal": "Mohkamkar Isfahan",
+        "code": "MHK",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d598bb4395327c4071a8a1f5b1138c2fS1.png",
+        "score": 71
+      }
+    },
+    {
+      "id": "2786077",
+      "date": "2025-12-02",
+      "tipoff": "4:30 pm GMT 2/12/25",
+      "league": "div1",
+      "home": {
+        "name": "Mehr Parsa Alborz",
+        "nameLocal": "Mehr Parsa Alborz",
+        "code": "MPA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/051b5c5637d4aae15de384dd6a0bb646S1.png",
+        "score": 54
+      },
+      "away": {
+        "name": "Niroo Zamini Tehran",
+        "nameLocal": "Niroo Zamini Tehran",
+        "code": "NRZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/644e7273e3c1d010ed12745c01026d3aS1.png",
+        "score": 70
+      }
+    },
+    {
+      "id": "2784940",
+      "date": "2025-11-28",
+      "tipoff": "12:00 pm GMT 28/11/25",
+      "league": "women",
+      "home": {
+        "name": "Kaspian Tehran",
+        "nameLocal": "Kaspian Tehran",
+        "code": "KSP",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/80ec5ce5a8e36bb4548db700334da027S1.png",
+        "score": 57
+      },
+      "away": {
+        "name": "Esteghlal Tehran Women",
+        "nameLocal": "Esteghlal Tehran Women",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ead6b62c1cf6e8fbac2edc7c09a57c06S1.png",
+        "score": 78
+      }
+    },
+    {
+      "id": "2784941",
+      "date": "2025-11-28",
+      "tipoff": "1:00 pm GMT 28/11/25",
+      "league": "women",
+      "home": {
+        "name": "Ghahveh Batsam Mashhad",
+        "nameLocal": "Ghahveh Batsam Mashhad",
+        "code": "GBM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/91f5d8c70841545a686ae08dd5f9bbefS1.png",
+        "score": 51
+      },
+      "away": {
+        "name": "Bahman Group Tehran",
+        "nameLocal": "Bahman Group Tehran",
+        "code": "BHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/23c3bf4a4ee357d00f43ecb2d053342dS1.png",
+        "score": 81
+      }
+    },
+    {
+      "id": "2784942",
+      "date": "2025-11-28",
+      "tipoff": "1:30 pm GMT 28/11/25",
+      "league": "women",
+      "home": {
+        "name": "A.B.Sahar",
+        "nameLocal": "A.B.Sahar",
+        "code": "SBA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/070d8208c4d4c2c40efb532545d3d97bS1.png",
+        "score": 83
+      },
+      "away": {
+        "name": "Setad Meli Gaz",
+        "nameLocal": "Setad Meli Gaz",
+        "code": "GAZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b4614457b2ca582c0904aefb9fbd434aS1.png",
+        "score": 32
+      }
+    },
+    {
+      "id": "2784943",
+      "date": "2025-11-28",
+      "tipoff": "2:00 pm GMT 28/11/25",
+      "league": "women",
+      "home": {
+        "name": "Faraver Sharif Sabz",
+        "nameLocal": "Faraver Sharif Sabz",
+        "code": "FSH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1b750dacb36ee8ac77d531ed657d99f1S1.png",
+        "score": 40
+      },
+      "away": {
+        "name": "Academy Basketball Nika",
+        "nameLocal": "Academy Basketball Nika",
+        "code": "NKA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/84a2b5c9332f85a8d6fdd39f4e6bf604S1.png",
+        "score": 78
+      }
+    },
+    {
+      "id": "2784945",
+      "date": "2025-11-27",
+      "tipoff": "4:00 pm GMT 27/11/25",
+      "league": "men",
+      "home": {
+        "name": "Pas Kordestan",
+        "nameLocal": "Pas Kordestan",
+        "code": "PAS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/6f5e3a0d68f4eb54c193701920fef13aS1.png",
+        "score": 92
+      },
+      "away": {
+        "name": "Payesh Part Shahrod",
+        "nameLocal": "Payesh Part Shahrod",
+        "code": "PPS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ba5e702b87ade888e81c10169823ab1cS1.png",
+        "score": 60
+      }
+    },
+    {
+      "id": "2781774",
+      "date": "2025-11-23",
+      "tipoff": "11:00 am GMT 23/11/25",
+      "league": "women",
+      "home": {
+        "name": "Bahman Group Tehran",
+        "nameLocal": "Bahman Group Tehran",
+        "code": "BHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/23c3bf4a4ee357d00f43ecb2d053342dS1.png",
+        "score": 83
+      },
+      "away": {
+        "name": "Palayesh Naft Abadan Women",
+        "nameLocal": "Palayesh Naft Abadan Women",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/c5f2e4d5b02f9417f5f9968723459d2dS1.png",
+        "score": 56
+      }
+    },
+    {
+      "id": "2781772",
+      "date": "2025-11-21",
+      "tipoff": "11:00 am GMT 21/11/25",
+      "league": "women",
+      "home": {
+        "name": "Academy Basketball Nika",
+        "nameLocal": "Academy Basketball Nika",
+        "code": "NKA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/84a2b5c9332f85a8d6fdd39f4e6bf604S1.png",
+        "score": 43
+      },
+      "away": {
+        "name": "A.B.Sahar",
+        "nameLocal": "A.B.Sahar",
+        "code": "SBA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/070d8208c4d4c2c40efb532545d3d97bS1.png",
+        "score": 77
+      }
+    },
+    {
+      "id": "2781773",
+      "date": "2025-11-21",
+      "tipoff": "1:00 pm GMT 21/11/25",
+      "league": "women",
+      "home": {
+        "name": "Esteghlal Tehran Women",
+        "nameLocal": "Esteghlal Tehran Women",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ead6b62c1cf6e8fbac2edc7c09a57c06S1.png",
+        "score": 74
+      },
+      "away": {
+        "name": "Ghahveh Batsam Mashhad",
+        "nameLocal": "Ghahveh Batsam Mashhad",
+        "code": "GBM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/91f5d8c70841545a686ae08dd5f9bbefS1.png",
+        "score": 57
+      }
+    },
+    {
+      "id": "2781775",
+      "date": "2025-11-21",
+      "tipoff": "3:00 pm GMT 21/11/25",
+      "league": "women",
+      "home": {
+        "name": "Setad Meli Gaz",
+        "nameLocal": "Setad Meli Gaz",
+        "code": "GAZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b4614457b2ca582c0904aefb9fbd434aS1.png",
+        "score": 52
+      },
+      "away": {
+        "name": "Kaspian Tehran",
+        "nameLocal": "Kaspian Tehran",
+        "code": "KSP",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/80ec5ce5a8e36bb4548db700334da027S1.png",
+        "score": 61
+      }
+    },
+    {
+      "id": "2780220",
+      "date": "2025-11-17",
+      "tipoff": "4:00 pm GMT 17/11/25",
+      "league": "men",
+      "home": {
+        "name": "Shahrdari Gorgan",
+        "nameLocal": "Shahrdari Gorgan",
+        "code": "SHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/662790cb2cf2100db5db3cc34ffcb64aS1.png",
+        "score": 64
+      },
+      "away": {
+        "name": "Rad Padafand Havaei",
+        "nameLocal": "Rad Padafand Havaei",
+        "code": "RPH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1e84ec1d31349f90c608b433bddcb18dS1.png",
+        "score": 46
+      }
+    },
+    {
+      "id": "2774190",
+      "date": "2025-11-14",
+      "tipoff": "12:00 pm GMT 14/11/25",
+      "league": "women",
+      "home": {
+        "name": "Kaspian Tehran",
+        "nameLocal": "Kaspian Tehran",
+        "code": "KSP",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/80ec5ce5a8e36bb4548db700334da027S1.png",
+        "score": 57
+      },
+      "away": {
+        "name": "Academy Basketball Nika",
+        "nameLocal": "Academy Basketball Nika",
+        "code": "NKA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/84a2b5c9332f85a8d6fdd39f4e6bf604S1.png",
+        "score": 44
+      }
+    },
+    {
+      "id": "2774191",
+      "date": "2025-11-14",
+      "tipoff": "1:00 pm GMT 14/11/25",
+      "league": "women",
+      "home": {
+        "name": "Ghahveh Batsam Mashhad",
+        "nameLocal": "Ghahveh Batsam Mashhad",
+        "code": "GBM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/91f5d8c70841545a686ae08dd5f9bbefS1.png",
+        "score": 79
+      },
+      "away": {
+        "name": "Setad Meli Gaz",
+        "nameLocal": "Setad Meli Gaz",
+        "code": "GAZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b4614457b2ca582c0904aefb9fbd434aS1.png",
+        "score": 76
+      }
+    },
+    {
+      "id": "2774192",
+      "date": "2025-11-14",
+      "tipoff": "11:00 am GMT 14/11/25",
+      "league": "women",
+      "home": {
+        "name": "A.B.Sahar",
+        "nameLocal": "A.B.Sahar",
+        "code": "SBA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/070d8208c4d4c2c40efb532545d3d97bS1.png",
+        "score": 80
+      },
+      "away": {
+        "name": "Faraver Sharif Sabz",
+        "nameLocal": "Faraver Sharif Sabz",
+        "code": "FSH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1b750dacb36ee8ac77d531ed657d99f1S1.png",
+        "score": 29
+      }
+    },
+    {
+      "id": "2774185",
+      "date": "2025-11-07",
+      "tipoff": "11:00 am GMT 7/11/25",
+      "league": "women",
+      "home": {
+        "name": "Academy Basketball Nika",
+        "nameLocal": "Academy Basketball Nika",
+        "code": "NKA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e7baeb8582d7a5793989cea18750e2c6S1.png",
+        "score": 72
+      },
+      "away": {
+        "name": "Ghahveh Batsam Mashhad",
+        "nameLocal": "Ghahveh Batsam Mashhad",
+        "code": "GBM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/91f5d8c70841545a686ae08dd5f9bbefS1.png",
+        "score": 61
+      }
+    },
+    {
+      "id": "2774186",
+      "date": "2025-11-07",
+      "tipoff": "1:00 pm GMT 7/11/25",
+      "league": "women",
+      "home": {
+        "name": "Esteghlal Tehran Women",
+        "nameLocal": "Esteghlal Tehran Women",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ead6b62c1cf6e8fbac2edc7c09a57c06S1.png",
+        "score": 58
+      },
+      "away": {
+        "name": "Bahman Group Tehran",
+        "nameLocal": "Bahman Group Tehran",
+        "code": "BHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/23c3bf4a4ee357d00f43ecb2d053342dS1.png",
+        "score": 70
+      }
+    },
+    {
+      "id": "2774187",
+      "date": "2025-11-07",
+      "tipoff": "3:00 pm GMT 7/11/25",
+      "league": "women",
+      "home": {
+        "name": "Setad Meli Gaz",
+        "nameLocal": "Setad Meli Gaz",
+        "code": "GAZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b4614457b2ca582c0904aefb9fbd434aS1.png",
+        "score": 52
+      },
+      "away": {
+        "name": "Palayesh Naft Abadan Women",
+        "nameLocal": "Palayesh Naft Abadan Women",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/c5f2e4d5b02f9417f5f9968723459d2dS1.png",
+        "score": 70
+      }
+    },
+    {
+      "id": "2774188",
+      "date": "2025-11-07",
+      "tipoff": "5:00 pm GMT 7/11/25",
+      "league": "women",
+      "home": {
+        "name": "Faraver Sharif Sabz",
+        "nameLocal": "Faraver Sharif Sabz",
+        "code": "FSH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1b750dacb36ee8ac77d531ed657d99f1S1.png",
+        "score": 50
+      },
+      "away": {
+        "name": "Kaspian Tehran",
+        "nameLocal": "Kaspian Tehran",
+        "code": "KSP",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/80ec5ce5a8e36bb4548db700334da027S1.png",
+        "score": 75
+      }
+    },
+    {
+      "id": "2776539",
+      "date": "2025-11-06",
+      "tipoff": "3:30 pm GMT 6/11/25",
+      "league": "men",
+      "home": {
+        "name": "Rad Padafand Havaei",
+        "nameLocal": "Rad Padafand Havaei",
+        "code": "RPH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1e84ec1d31349f90c608b433bddcb18dS1.png",
+        "score": 82
+      },
+      "away": {
+        "name": "Palayesh Naft Abadan",
+        "nameLocal": "Palayesh Naft Abadan",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2caab66893bd10c3ce4cf1c2e6c4b7b6S1.png",
+        "score": 103
+      }
+    },
+    {
+      "id": "2776540",
+      "date": "2025-11-06",
+      "tipoff": "4:30 pm GMT 6/11/25",
+      "league": "men",
+      "home": {
+        "name": "Pas Kordestan",
+        "nameLocal": "Pas Kordestan",
+        "code": "PAS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/6f5e3a0d68f4eb54c193701920fef13aS1.png",
+        "score": 67
+      },
+      "away": {
+        "name": "Kalleh Mazandaran",
+        "nameLocal": "Kalleh Mazandaran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9ef87c6cddbcca9f07bfd0903e9f0fb3S1.png",
+        "score": 78
+      }
+    },
+    {
+      "id": "2776541",
+      "date": "2025-11-06",
+      "tipoff": "5:00 pm GMT 6/11/25",
+      "league": "men",
+      "home": {
+        "name": "Payesh Part Shahrod",
+        "nameLocal": "Payesh Part Shahrod",
+        "code": "PPS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ba5e702b87ade888e81c10169823ab1cS1.png",
+        "score": 70
+      },
+      "away": {
+        "name": "Golnoor Isfahan",
+        "nameLocal": "Golnoor Isfahan",
+        "code": "GLN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/67f0d516db772116a72258865928215eS1.png",
+        "score": 87
+      }
+    },
+    {
+      "id": "2776542",
+      "date": "2025-11-06",
+      "tipoff": "3:00 pm GMT 6/11/25",
+      "league": "men",
+      "home": {
+        "name": "Naft Zagros Jonobi",
+        "nameLocal": "Naft Zagros Jonobi",
+        "code": "NZJ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/3b844ea27202cf89e37d92d12bc12e5dS1.png",
+        "score": 84
+      },
+      "away": {
+        "name": "Esteghlal Tehran",
+        "nameLocal": "Esteghlal Tehran",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/57f39b50dee248770c132ee6a2d05a3bS1.png",
+        "score": 86
+      }
+    },
+    {
+      "id": "2776543",
+      "date": "2025-11-06",
+      "tipoff": "4:00 pm GMT 6/11/25",
+      "league": "men",
+      "home": {
+        "name": "Tabiat",
+        "nameLocal": "Tabiat",
+        "code": "TBT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/abe75aa8df25ffeb08941e23f6f24bf8S1.png",
+        "score": 86
+      },
+      "away": {
+        "name": "Mahgol Alborz",
+        "nameLocal": "Mahgol Alborz",
+        "code": "MAH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/a224c07b827831c1125f7aab43fd942cS1.png",
+        "score": 75
+      }
+    },
+    {
+      "id": "2775261",
+      "date": "2025-11-03",
+      "tipoff": "5:30 pm GMT 3/11/25",
+      "league": "men",
+      "home": {
+        "name": "Kalleh Mazandaran",
+        "nameLocal": "Kalleh Mazandaran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9ef87c6cddbcca9f07bfd0903e9f0fb3S1.png",
+        "score": 101
+      },
+      "away": {
+        "name": "Petro Novin Mahshahr",
+        "nameLocal": "Petro Novin Mahshahr",
+        "code": "PNM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/924beec8d2097c2d030cd1f12a908337S1.png",
+        "score": 74
+      }
+    },
+    {
+      "id": "2775262",
+      "date": "2025-11-03",
+      "tipoff": "3:00 pm GMT 3/11/25",
+      "league": "men",
+      "home": {
+        "name": "Naft Zagros Jonobi",
+        "nameLocal": "Naft Zagros Jonobi",
+        "code": "NZJ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/3b844ea27202cf89e37d92d12bc12e5dS1.png",
+        "score": 93
+      },
+      "away": {
+        "name": "Tabiat",
+        "nameLocal": "Tabiat",
+        "code": "TBT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d12ab630f0820b68bfd8fd1a0442c52dS1.png",
+        "score": 89
+      }
+    },
+    {
+      "id": "2775263",
+      "date": "2025-11-03",
+      "tipoff": "4:00 pm GMT 3/11/25",
+      "league": "men",
+      "home": {
+        "name": "Palayesh Naft Abadan",
+        "nameLocal": "Palayesh Naft Abadan",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2caab66893bd10c3ce4cf1c2e6c4b7b6S1.png",
+        "score": 105
+      },
+      "away": {
+        "name": "Mahgol Alborz",
+        "nameLocal": "Mahgol Alborz",
+        "code": "MAH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/a224c07b827831c1125f7aab43fd942cS1.png",
+        "score": 71
+      }
+    },
+    {
+      "id": "2775264",
+      "date": "2025-11-03",
+      "tipoff": "5:00 pm GMT 3/11/25",
+      "league": "men",
+      "home": {
+        "name": "Golnoor Isfahan",
+        "nameLocal": "Golnoor Isfahan",
+        "code": "GLN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/67f0d516db772116a72258865928215eS1.png",
+        "score": 63
+      },
+      "away": {
+        "name": "Pas Kordestan",
+        "nameLocal": "Pas Kordestan",
+        "code": "PAS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2a2fdd5e4f1150c51c6e295dfa00a8bbS1.png",
+        "score": 62
+      }
+    },
+    {
+      "id": "2775265",
+      "date": "2025-11-03",
+      "tipoff": "4:30 pm GMT 3/11/25",
+      "league": "men",
+      "home": {
+        "name": "Esteghlal Tehran",
+        "nameLocal": "Esteghlal Tehran",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/57f39b50dee248770c132ee6a2d05a3bS1.png",
+        "score": 81
+      },
+      "away": {
+        "name": "Payesh Part Shahrod",
+        "nameLocal": "Payesh Part Shahrod",
+        "code": "PPS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d06e6517f3429583940b5501e2924d41S1.png",
+        "score": 58
+      }
+    },
+    {
+      "id": "2774181",
+      "date": "2025-10-31",
+      "tipoff": "2:00 pm GMT 31/10/25",
+      "league": "women",
+      "home": {
+        "name": "Bahman Group Tehran",
+        "nameLocal": "Bahman Group Tehran",
+        "code": "BHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/23c3bf4a4ee357d00f43ecb2d053342dS1.png",
+        "score": 92
+      },
+      "away": {
+        "name": "Setad Meli Gaz",
+        "nameLocal": "Setad Meli Gaz",
+        "code": "GAZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b4614457b2ca582c0904aefb9fbd434aS1.png",
+        "score": 58
+      }
+    },
+    {
+      "id": "2774182",
+      "date": "2025-10-31",
+      "tipoff": "12:00 pm GMT 31/10/25",
+      "league": "women",
+      "home": {
+        "name": "Kaspian Tehran",
+        "nameLocal": "Caspian Tehran",
+        "code": "KSP",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/80ec5ce5a8e36bb4548db700334da027S1.png",
+        "score": 38
+      },
+      "away": {
+        "name": "A.B.Sahar",
+        "nameLocal": "A.B.Sahar",
+        "code": "SBA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/070d8208c4d4c2c40efb532545d3d97bS1.png",
+        "score": 67
+      }
+    },
+    {
+      "id": "2774183",
+      "date": "2025-10-31",
+      "tipoff": "1:00 pm GMT 31/10/25",
+      "league": "women",
+      "home": {
+        "name": "Ghahveh Batsam Mashhad",
+        "nameLocal": "Ghahveh Batsam Mashhad",
+        "code": "GBM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/91f5d8c70841545a686ae08dd5f9bbefS1.png",
+        "score": 96
+      },
+      "away": {
+        "name": "Faraver Sharif Sabz",
+        "nameLocal": "Faraver Sharif Sabz",
+        "code": "FSH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1b750dacb36ee8ac77d531ed657d99f1S1.png",
+        "score": 46
+      }
+    },
+    {
+      "id": "2774184",
+      "date": "2025-10-31",
+      "tipoff": "11:00 am GMT 31/10/25",
+      "league": "women",
+      "home": {
+        "name": "Palayesh Naft Abadan Women",
+        "nameLocal": "Palayesh Naft Abadan Women",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/c5f2e4d5b02f9417f5f9968723459d2dS1.png",
+        "score": 69
+      },
+      "away": {
+        "name": "Academy Basketball Nika",
+        "nameLocal": "Academy Basketball Nika",
+        "code": "NKA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e7baeb8582d7a5793989cea18750e2c6S1.png",
+        "score": 37
+      }
+    },
+    {
+      "id": "2773323",
+      "date": "2025-10-30",
+      "tipoff": "4:00 pm GMT 30/10/25",
+      "league": "men",
+      "home": {
+        "name": "Rad Padafand Havaei",
+        "nameLocal": "Rad Padafand Havaei",
+        "code": "RPH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1e84ec1d31349f90c608b433bddcb18dS1.png",
+        "score": 76
+      },
+      "away": {
+        "name": "Kalleh Mazandaran",
+        "nameLocal": "Kalleh Mazandaran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9ef87c6cddbcca9f07bfd0903e9f0fb3S1.png",
+        "score": 88
+      }
+    },
+    {
+      "id": "2773324",
+      "date": "2025-10-30",
+      "tipoff": "4:00 pm GMT 30/10/25",
+      "league": "men",
+      "home": {
+        "name": "Petro Novin Mahshahr",
+        "nameLocal": "Petro Novin Mahshahr",
+        "code": "PNM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/924beec8d2097c2d030cd1f12a908337S1.png",
+        "score": 54
+      },
+      "away": {
+        "name": "Golnoor Isfahan",
+        "nameLocal": "Golnoor Isfahan",
+        "code": "GLN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/67f0d516db772116a72258865928215eS1.png",
+        "score": 71
+      }
+    },
+    {
+      "id": "2773325",
+      "date": "2025-10-30",
+      "tipoff": "4:30 pm GMT 30/10/25",
+      "league": "men",
+      "home": {
+        "name": "Pas Kordestan",
+        "nameLocal": "Pas Kordestan",
+        "code": "PAS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2a2fdd5e4f1150c51c6e295dfa00a8bbS1.png",
+        "score": 66
+      },
+      "away": {
+        "name": "Esteghlal Tehran",
+        "nameLocal": "Esteghlal Tehran",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/57f39b50dee248770c132ee6a2d05a3bS1.png",
+        "score": 75
+      }
+    },
+    {
+      "id": "2773326",
+      "date": "2025-10-30",
+      "tipoff": "3:00 pm GMT 30/10/25",
+      "league": "men",
+      "home": {
+        "name": "Tabiat",
+        "nameLocal": "Tabiat",
+        "code": "TBT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d12ab630f0820b68bfd8fd1a0442c52dS1.png",
+        "score": 83
+      },
+      "away": {
+        "name": "Palayesh Naft Abadan",
+        "nameLocal": "Palayesh Naft Abadan",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2caab66893bd10c3ce4cf1c2e6c4b7b6S1.png",
+        "score": 77
+      }
+    },
+    {
+      "id": "2773327",
+      "date": "2025-10-30",
+      "tipoff": "3:00 pm GMT 30/10/25",
+      "league": "men",
+      "home": {
+        "name": "Payesh Part Shahrod",
+        "nameLocal": "Payesh Part Shahrod",
+        "code": "PPS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d06e6517f3429583940b5501e2924d41S1.png",
+        "score": 81
+      },
+      "away": {
+        "name": "Naft Zagros Jonobi",
+        "nameLocal": "Naft Zagros Jonobi",
+        "code": "NZJ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/3b844ea27202cf89e37d92d12bc12e5dS1.png",
+        "score": 92
+      }
+    },
+    {
+      "id": "2773328",
+      "date": "2025-10-30",
+      "tipoff": "4:00 pm GMT 30/10/25",
+      "league": "men",
+      "home": {
+        "name": "Mahgol Alborz",
+        "nameLocal": "Mahgol Alborz",
+        "code": "MAH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/a224c07b827831c1125f7aab43fd942cS1.png",
+        "score": 80
+      },
+      "away": {
+        "name": "Shahrdari Gorgan",
+        "nameLocal": "Shahrdari Gorgan",
+        "code": "SHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/662790cb2cf2100db5db3cc34ffcb64aS1.png",
+        "score": 91
+      }
+    },
+    {
+      "id": "2770783",
+      "date": "2025-10-27",
+      "tipoff": "5:00 pm GMT 27/10/25",
+      "league": "men",
+      "home": {
+        "name": "Golnoor Isfahan",
+        "nameLocal": "Golnoor Isfahan",
+        "code": "GLN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/67f0d516db772116a72258865928215eS1.png",
+        "score": 76
+      },
+      "away": {
+        "name": "Rad Padafand Havaei",
+        "nameLocal": "Rad Padafand Havaei",
+        "code": "RPH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1e84ec1d31349f90c608b433bddcb18dS1.png",
+        "score": 70
+      }
+    },
+    {
+      "id": "2770784",
+      "date": "2025-10-27",
+      "tipoff": "4:00 pm GMT 27/10/25",
+      "league": "men",
+      "home": {
+        "name": "Esteghlal Tehran",
+        "nameLocal": "Esteghlal Tehran",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/57f39b50dee248770c132ee6a2d05a3bS1.png",
+        "score": 79
+      },
+      "away": {
+        "name": "Petro Novin Mahshahr",
+        "nameLocal": "Petro Novin Mahshahr",
+        "code": "PNM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/924beec8d2097c2d030cd1f12a908337S1.png",
+        "score": 50
+      }
+    },
+    {
+      "id": "2770785",
+      "date": "2025-10-27",
+      "tipoff": "3:00 pm GMT 27/10/25",
+      "league": "men",
+      "home": {
+        "name": "Naft Zagros Jonobi",
+        "nameLocal": "Naft Zagros Jonobi",
+        "code": "NZJ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/3b844ea27202cf89e37d92d12bc12e5dS1.png",
+        "score": 80
+      },
+      "away": {
+        "name": "Pas Kordestan",
+        "nameLocal": "Pas Kordestan",
+        "code": "PAS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2a2fdd5e4f1150c51c6e295dfa00a8bbS1.png",
+        "score": 44
+      }
+    },
+    {
+      "id": "2770786",
+      "date": "2025-10-27",
+      "tipoff": "3:30 pm GMT 27/10/25",
+      "league": "men",
+      "home": {
+        "name": "Payesh Part Shahrod",
+        "nameLocal": "Payesh Part Shahrod",
+        "code": "PPS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d06e6517f3429583940b5501e2924d41S1.png",
+        "score": 81
+      },
+      "away": {
+        "name": "Tabiat",
+        "nameLocal": "Tabiat",
+        "code": "TBT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d12ab630f0820b68bfd8fd1a0442c52dS1.png",
+        "score": 90
+      }
+    },
+    {
+      "id": "2770787",
+      "date": "2025-10-27",
+      "tipoff": "5:00 pm GMT 27/10/25",
+      "league": "men",
+      "home": {
+        "name": "Kalleh Mazandaran",
+        "nameLocal": "Kalleh Mazandaran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9ef87c6cddbcca9f07bfd0903e9f0fb3S1.png",
+        "score": 83
+      },
+      "away": {
+        "name": "Mahgol Alborz",
+        "nameLocal": "Mahgol Alborz",
+        "code": "MAH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/a224c07b827831c1125f7aab43fd942cS1.png",
+        "score": 76
+      }
+    },
+    {
+      "id": "2770788",
+      "date": "2025-10-27",
+      "tipoff": "4:00 pm GMT 27/10/25",
+      "league": "men",
+      "home": {
+        "name": "Shahrdari Gorgan",
+        "nameLocal": "Shahrdari Gorgan",
+        "code": "SHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/662790cb2cf2100db5db3cc34ffcb64aS1.png",
+        "score": 72
+      },
+      "away": {
+        "name": "Palayesh Naft Abadan",
+        "nameLocal": "Palayesh Naft Abadan",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2caab66893bd10c3ce4cf1c2e6c4b7b6S1.png",
+        "score": 69
+      }
+    },
+    {
+      "id": "2769645",
+      "date": "2025-10-24",
+      "tipoff": "11:00 am GMT 24/10/25",
+      "league": "women",
+      "home": {
+        "name": "Academy Basketball Nika",
+        "nameLocal": "Academy Basketball Nika",
+        "code": "NKA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e7baeb8582d7a5793989cea18750e2c6S1.png",
+        "score": 49
+      },
+      "away": {
+        "name": "Bahman Group Tehran",
+        "nameLocal": "Bahman Group Tehran",
+        "code": "BHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/23c3bf4a4ee357d00f43ecb2d053342dS1.png",
+        "score": 77
+      }
+    },
+    {
+      "id": "2769646",
+      "date": "2025-10-24",
+      "tipoff": "1:00 pm GMT 24/10/25",
+      "league": "women",
+      "home": {
+        "name": "Faraver Sharif Sabz",
+        "nameLocal": "Faraver Sharif Sabz",
+        "code": "FSH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/099777b2baa3b7a42be14c9c51f7a1b5S1.png",
+        "score": 38
+      },
+      "away": {
+        "name": "Palayesh Naft Abadan Women",
+        "nameLocal": "Palayesh Naft Abadan Women",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/a6513b539774bf8ac6bd8997e9fead62S1.png",
+        "score": 84
+      }
+    },
+    {
+      "id": "2769647",
+      "date": "2025-10-24",
+      "tipoff": "5:00 pm GMT 24/10/25",
+      "league": "women",
+      "home": {
+        "name": "Setad Meli Gaz",
+        "nameLocal": "Setad Meli Gaz",
+        "code": "GAZ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b4614457b2ca582c0904aefb9fbd434aS1.png",
+        "score": 40
+      },
+      "away": {
+        "name": "Esteghlal Tehran Women",
+        "nameLocal": "Esteghlal Tehran Women",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ead6b62c1cf6e8fbac2edc7c09a57c06S1.png",
+        "score": 95
+      }
+    },
+    {
+      "id": "2769648",
+      "date": "2025-10-24",
+      "tipoff": "3:00 pm GMT 24/10/25",
+      "league": "women",
+      "home": {
+        "name": "A.B.Sahar",
+        "nameLocal": "A.B.Sahar",
+        "code": "SBA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7f500a7faf475eb04590f65fb37b83beS1.png",
+        "score": 69
+      },
+      "away": {
+        "name": "Ghahveh Batsam Mashhad",
+        "nameLocal": "Ghahveh Batsam Mashhad",
+        "code": "GBM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/91f5d8c70841545a686ae08dd5f9bbefS1.png",
+        "score": 37
+      }
+    },
+    {
+      "id": "2768871",
+      "date": "2025-10-23",
+      "tipoff": "3:00 pm GMT 23/10/25",
+      "league": "men",
+      "home": {
+        "name": "Rad Padafand Havaei",
+        "nameLocal": "Raad Padafand Havaei",
+        "code": "RPH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1e84ec1d31349f90c608b433bddcb18dS1.png",
+        "score": 58
+      },
+      "away": {
+        "name": "Esteghlal Tehran",
+        "nameLocal": "Esteghlal Tehran",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/57f39b50dee248770c132ee6a2d05a3bS1.png",
+        "score": 79
+      }
+    },
+    {
+      "id": "2768873",
+      "date": "2025-10-23",
+      "tipoff": "5:00 pm GMT 23/10/25",
+      "league": "men",
+      "home": {
+        "name": "Petro Novin Mahshahr",
+        "nameLocal": "Petro Novin Mahshahr",
+        "code": "PNM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/c8319152ea7a9db0c405ba4759afb7b3S1.png",
+        "score": 82
+      },
+      "away": {
+        "name": "Naft Zagros Jonobi",
+        "nameLocal": "Naft Zagros Jonobi",
+        "code": "NZJ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/3b844ea27202cf89e37d92d12bc12e5dS1.png",
+        "score": 74
+      }
+    },
+    {
+      "id": "2768878",
+      "date": "2025-10-23",
+      "tipoff": "3:30 pm GMT 23/10/25",
+      "league": "men",
+      "home": {
+        "name": "Tabiat",
+        "nameLocal": "Tabiat",
+        "code": "TBT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d12ab630f0820b68bfd8fd1a0442c52dS1.png",
+        "score": 66
+      },
+      "away": {
+        "name": "Shahrdari Gorgan",
+        "nameLocal": "Shahrdari Gorgan",
+        "code": "SHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/662790cb2cf2100db5db3cc34ffcb64aS1.png",
+        "score": 75
+      }
+    },
+    {
+      "id": "2768894",
+      "date": "2025-10-23",
+      "tipoff": "3:00 pm GMT 23/10/25",
+      "league": "men",
+      "home": {
+        "name": "Mahgol Alborz",
+        "nameLocal": "Mahgol Alborz",
+        "code": "MAH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/a224c07b827831c1125f7aab43fd942cS1.png",
+        "score": 82
+      },
+      "away": {
+        "name": "Golnoor Isfahan",
+        "nameLocal": "Golnoor Isfahan",
+        "code": "GLN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/67f0d516db772116a72258865928215eS1.png",
+        "score": 76
+      }
+    },
+    {
+      "id": "2768895",
+      "date": "2025-10-23",
+      "tipoff": "4:00 pm GMT 23/10/25",
+      "league": "men",
+      "home": {
+        "name": "Palayesh Naft Abadan",
+        "nameLocal": "Palayesh Naft Abadan",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2caab66893bd10c3ce4cf1c2e6c4b7b6S1.png",
+        "score": 68
+      },
+      "away": {
+        "name": "Kalleh Mazandaran",
+        "nameLocal": "Kalleh Mazandaran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9ef87c6cddbcca9f07bfd0903e9f0fb3S1.png",
+        "score": 69
+      }
+    },
+    {
+      "id": "2767389",
+      "date": "2025-10-20",
+      "tipoff": "3:00 pm GMT 20/10/25",
+      "league": "men",
+      "home": {
+        "name": "Naft Zagros Jonobi",
+        "nameLocal": "Naft Zagros Jonobi",
+        "code": "NZJ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/3b844ea27202cf89e37d92d12bc12e5dS1.png",
+        "score": 89
+      },
+      "away": {
+        "name": "Rad Padafand Havaei",
+        "nameLocal": "Rad Padafand Havaei",
+        "code": "RPH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1e84ec1d31349f90c608b433bddcb18dS1.png",
+        "score": 70
+      }
+    },
+    {
+      "id": "2767390",
+      "date": "2025-10-20",
+      "tipoff": "3:30 pm GMT 20/10/25",
+      "league": "men",
+      "home": {
+        "name": "Payesh Part Shahrod",
+        "nameLocal": "Payesh Part Shahrod",
+        "code": "PPS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d06e6517f3429583940b5501e2924d41S1.png",
+        "score": 55
+      },
+      "away": {
+        "name": "Petro Novin Mahshahr",
+        "nameLocal": "Petro Novin Mahshahr",
+        "code": "PNM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/c8319152ea7a9db0c405ba4759afb7b3S1.png",
+        "score": 64
+      }
+    },
+    {
+      "id": "2767391",
+      "date": "2025-10-20",
+      "tipoff": "4:00 pm GMT 20/10/25",
+      "league": "men",
+      "home": {
+        "name": "Pas Kordestan",
+        "nameLocal": "Pas Kordestan",
+        "code": "PAS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2a2fdd5e4f1150c51c6e295dfa00a8bbS1.png",
+        "score": 64
+      },
+      "away": {
+        "name": "Tabiat",
+        "nameLocal": "Tabiat",
+        "code": "TBT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d12ab630f0820b68bfd8fd1a0442c52dS1.png",
+        "score": 92
+      }
+    },
+    {
+      "id": "2767392",
+      "date": "2025-10-20",
+      "tipoff": "3:00 pm GMT 20/10/25",
+      "league": "men",
+      "home": {
+        "name": "Esteghlal Tehran",
+        "nameLocal": "Esteghlal Tehran",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/57f39b50dee248770c132ee6a2d05a3bS1.png",
+        "score": 92
+      },
+      "away": {
+        "name": "Mahgol Alborz",
+        "nameLocal": "Mahgol Alborz",
+        "code": "MAH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/a224c07b827831c1125f7aab43fd942cS1.png",
+        "score": 75
+      }
+    },
+    {
+      "id": "2767394",
+      "date": "2025-10-20",
+      "tipoff": "5:00 pm GMT 20/10/25",
+      "league": "men",
+      "home": {
+        "name": "Golnoor Isfahan",
+        "nameLocal": "Golnoor Isfahan",
+        "code": "GLN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/67f0d516db772116a72258865928215eS1.png",
+        "score": 57
+      },
+      "away": {
+        "name": "Palayesh Naft Abadan",
+        "nameLocal": "Palayesh Naft Abadan",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2caab66893bd10c3ce4cf1c2e6c4b7b6S1.png",
+        "score": 63
+      }
+    },
+    {
+      "id": "2767395",
+      "date": "2025-10-20",
+      "tipoff": "6:00 pm GMT 20/10/25",
+      "league": "men",
+      "home": {
+        "name": "Kalleh Mazandaran",
+        "nameLocal": "Kalleh Mazandaran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9ef87c6cddbcca9f07bfd0903e9f0fb3S1.png",
+        "score": 70
+      },
+      "away": {
+        "name": "Shahrdari Gorgan",
+        "nameLocal": "Shahrdari Gorgan",
+        "code": "SHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/686c40e47e2c0f7ca4b068e1c84e415cS1.png",
+        "score": 85
+      }
+    },
+    {
+      "id": "2754743",
+      "date": "2025-10-16",
+      "tipoff": "3:00 pm GMT 16/10/25",
+      "league": "men",
+      "home": {
+        "name": "Rad Padafand Havaei",
+        "nameLocal": "Rad Padafand Havaei",
+        "code": "RPH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1e84ec1d31349f90c608b433bddcb18dS1.png",
+        "score": 79
+      },
+      "away": {
+        "name": "Payesh Part Shahrod",
+        "nameLocal": "Payesh Part Shahrod",
+        "code": "PPS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d06e6517f3429583940b5501e2924d41S1.png",
+        "score": 73
+      }
+    },
+    {
+      "id": "2754746",
+      "date": "2025-10-16",
+      "tipoff": "5:00 pm GMT 16/10/25",
+      "league": "men",
+      "home": {
+        "name": "Petro Novin Mahshahr",
+        "nameLocal": "Petro Novin Mahshahr",
+        "code": "PNM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/c8319152ea7a9db0c405ba4759afb7b3S1.png",
+        "score": 55
+      },
+      "away": {
+        "name": "Pas Kordestan",
+        "nameLocal": "Pas Kordestan",
+        "code": "PAS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2a2fdd5e4f1150c51c6e295dfa00a8bbS1.png",
+        "score": 46
+      }
+    },
+    {
+      "id": "2754753",
+      "date": "2025-10-16",
+      "tipoff": "4:00 pm GMT 16/10/25",
+      "league": "men",
+      "home": {
+        "name": "Palayesh Naft Abadan",
+        "nameLocal": "Palayesh Naft Abadan",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2caab66893bd10c3ce4cf1c2e6c4b7b6S1.png",
+        "score": 83
+      },
+      "away": {
+        "name": "Esteghlal Tehran",
+        "nameLocal": "Esteghlal Tehran",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/57f39b50dee248770c132ee6a2d05a3bS1.png",
+        "score": 86
+      }
+    },
+    {
+      "id": "2754754",
+      "date": "2025-10-16",
+      "tipoff": "4:00 pm GMT 16/10/25",
+      "league": "men",
+      "home": {
+        "name": "Shahrdari Gorgan",
+        "nameLocal": "Shahrdari Gorgan",
+        "code": "SHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2f3a141e7fb0630599a62a27a1fd5611S1.png",
+        "score": 90
+      },
+      "away": {
+        "name": "Golnoor Isfahan",
+        "nameLocal": "Golnoor Isfahan",
+        "code": "GLN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/67f0d516db772116a72258865928215eS1.png",
+        "score": 59
+      }
+    },
+    {
+      "id": "2754755",
+      "date": "2025-10-16",
+      "tipoff": "5:00 pm GMT 16/10/25",
+      "league": "men",
+      "home": {
+        "name": "Tabiat",
+        "nameLocal": "Tabiat",
+        "code": "TBT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d12ab630f0820b68bfd8fd1a0442c52dS1.png",
+        "score": 85
+      },
+      "away": {
+        "name": "Kalleh Mazandaran",
+        "nameLocal": "Kalleh Mazandaran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9ef87c6cddbcca9f07bfd0903e9f0fb3S1.png",
+        "score": 104
+      }
+    },
+    {
+      "id": "2754756",
+      "date": "2025-10-16",
+      "tipoff": "6:00 pm GMT 16/10/25",
+      "league": "men",
+      "home": {
+        "name": "Mahgol Alborz",
+        "nameLocal": "Mahgol Alborz",
+        "code": "MAH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/a224c07b827831c1125f7aab43fd942cS1.png",
+        "score": 67
+      },
+      "away": {
+        "name": "Naft Zagros Jonobi",
+        "nameLocal": "Naft Zagros Jonobi",
+        "code": "NZJ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/3b844ea27202cf89e37d92d12bc12e5dS1.png",
+        "score": 77
+      }
+    },
+    {
+      "id": "2754730",
+      "date": "2025-10-09",
+      "tipoff": "4:00 pm GMT 9/10/25",
+      "league": "men",
+      "home": {
+        "name": "Pas Kordestan",
+        "nameLocal": "Pas Kordestan",
+        "code": "PAS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2a2fdd5e4f1150c51c6e295dfa00a8bbS1.png",
+        "score": 91
+      },
+      "away": {
+        "name": "Rad Padafand Havaei",
+        "nameLocal": "Rad Padafand Havaei",
+        "code": "RPH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1e84ec1d31349f90c608b433bddcb18dS1.png",
+        "score": 82
+      }
+    },
+    {
+      "id": "2754731",
+      "date": "2025-10-09",
+      "tipoff": "5:00 pm GMT 9/10/25",
+      "league": "men",
+      "home": {
+        "name": "Petro Novin Mahshahr",
+        "nameLocal": "Petro Novin Mahshahr",
+        "code": "PNM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/c8319152ea7a9db0c405ba4759afb7b3S1.png",
+        "score": 47
+      },
+      "away": {
+        "name": "Tabiat",
+        "nameLocal": "Tabiat",
+        "code": "TBT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/864932d27f5017d72347871c5ca68740S1.png",
+        "score": 77
+      }
+    },
+    {
+      "id": "2754732",
+      "date": "2025-10-09",
+      "tipoff": "4:00 pm GMT 9/10/25",
+      "league": "men",
+      "home": {
+        "name": "Payesh Part Shahrod",
+        "nameLocal": "Payesh Part Shahrod",
+        "code": "PPS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d06e6517f3429583940b5501e2924d41S1.png",
+        "score": 75
+      },
+      "away": {
+        "name": "Mahgol Alborz",
+        "nameLocal": "Mahgol Alborz",
+        "code": "MAH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/a224c07b827831c1125f7aab43fd942cS1.png",
+        "score": 85
+      }
+    },
+    {
+      "id": "2754740",
+      "date": "2025-10-09",
+      "tipoff": "3:00 pm GMT 9/10/25",
+      "league": "men",
+      "home": {
+        "name": "Naft Zagros Jonobi",
+        "nameLocal": "Naft Zagros Jonobi",
+        "code": "NZJ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/3b844ea27202cf89e37d92d12bc12e5dS1.png",
+        "score": 104
+      },
+      "away": {
+        "name": "Palayesh Naft Abadan",
+        "nameLocal": "Palayesh Naft Abadan",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2caab66893bd10c3ce4cf1c2e6c4b7b6S1.png",
+        "score": 88
+      }
+    },
+    {
+      "id": "2754741",
+      "date": "2025-10-09",
+      "tipoff": "4:00 pm GMT 9/10/25",
+      "league": "men",
+      "home": {
+        "name": "Esteghlal Tehran",
+        "nameLocal": "Esteghlal Tehran",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/57f39b50dee248770c132ee6a2d05a3bS1.png",
+        "score": 85
+      },
+      "away": {
+        "name": "Shahrdari Gorgan",
+        "nameLocal": "Shahrdari Gorgan",
+        "code": "SHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2f3a141e7fb0630599a62a27a1fd5611S1.png",
+        "score": 83
+      }
+    },
+    {
+      "id": "2754742",
+      "date": "2025-10-09",
+      "tipoff": "5:00 pm GMT 9/10/25",
+      "league": "men",
+      "home": {
+        "name": "Golnoor Isfahan",
+        "nameLocal": "Golnoor Isfahan",
+        "code": "GLN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/67f0d516db772116a72258865928215eS1.png",
+        "score": 57
+      },
+      "away": {
+        "name": "Kalleh Mazandaran",
+        "nameLocal": "Kalleh Mazandaran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/9ef87c6cddbcca9f07bfd0903e9f0fb3S1.png",
+        "score": 68
+      }
+    },
+    {
+      "id": "2754670",
+      "date": "2025-10-02",
+      "tipoff": "4:00 pm GMT 2/10/25",
+      "league": "men",
+      "home": {
+        "name": "Rad Padafand Havaei",
+        "nameLocal": "Rad Padafand Havaei",
+        "code": "RPH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/b4c6d710cb7af54ef277e6de51450d9cS1.png",
+        "score": 72
+      },
+      "away": {
+        "name": "Petro Novin Mahshahr",
+        "nameLocal": "Petro Novin Mahshahr",
+        "code": "PNM",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/c8319152ea7a9db0c405ba4759afb7b3S1.png",
+        "score": 62
+      }
+    },
+    {
+      "id": "2754676",
+      "date": "2025-10-02",
+      "tipoff": "6:00 pm GMT 2/10/25",
+      "league": "men",
+      "home": {
+        "name": "Mahgol Alborz",
+        "nameLocal": "Mahgol Alborz",
+        "code": "MAH",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/a224c07b827831c1125f7aab43fd942cS1.png",
+        "score": 84
+      },
+      "away": {
+        "name": "Pas Kordestan",
+        "nameLocal": "Pas Kordestan",
+        "code": "PAS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ea3fda00c8a9248680260b61ab950411S1.png",
+        "score": 89
+      }
+    },
+    {
+      "id": "2754677",
+      "date": "2025-10-02",
+      "tipoff": "4:00 pm GMT 2/10/25",
+      "league": "men",
+      "home": {
+        "name": "Palayesh Naft Abadan",
+        "nameLocal": "Palayesh Naft Abadan",
+        "code": "PNA",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e036f1b6d102c3cb2785fea747d1e657S1.png",
+        "score": 97
+      },
+      "away": {
+        "name": "Payesh Part Shahrod",
+        "nameLocal": "Payesh Part Shahrod",
+        "code": "PPS",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d06e6517f3429583940b5501e2924d41S1.png",
+        "score": 73
+      }
+    },
+    {
+      "id": "2754706",
+      "date": "2025-10-02",
+      "tipoff": "3:00 pm GMT 2/10/25",
+      "league": "men",
+      "home": {
+        "name": "Shahrdari Gorgan",
+        "nameLocal": "Shahrdari Gorgan",
+        "code": "SHG",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/2f3a141e7fb0630599a62a27a1fd5611S1.png",
+        "score": 93
+      },
+      "away": {
+        "name": "Naft Zagros Jonobi",
+        "nameLocal": "Naft Zagros Jonobi",
+        "code": "NZJ",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/3b844ea27202cf89e37d92d12bc12e5dS1.png",
+        "score": 88
+      }
+    },
+    {
+      "id": "2754711",
+      "date": "2025-10-02",
+      "tipoff": "4:00 pm GMT 2/10/25",
+      "league": "men",
+      "home": {
+        "name": "Tabiat",
+        "nameLocal": "Tabiat",
+        "code": "TBT",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7e21810150c150d06ee9aaa082fb90e9S1.png",
+        "score": 73
+      },
+      "away": {
+        "name": "Golnoor Isfahan",
+        "nameLocal": "Golnoor Isfahan",
+        "code": "GLN",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/67f0d516db772116a72258865928215eS1.png",
+        "score": 66
+      }
+    },
+    {
+      "id": "2754715",
+      "date": "2025-10-02",
+      "tipoff": "6:00 pm GMT 2/10/25",
+      "league": "men",
+      "home": {
+        "name": "Kalleh Mazandaran",
+        "nameLocal": "Kalleh Mazandaran",
+        "code": "KAL",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/aa4314de8e2b57d051cc0073ff9ad885S1.png",
+        "score": 64
+      },
+      "away": {
+        "name": "Esteghlal Tehran",
+        "nameLocal": "Esteghlal Tehran",
+        "code": "EST",
+        "logo": "https://images.statsengine.playbyplay.api.geniussports.com/57f39b50dee248770c132ee6a2d05a3bS1.png",
+        "score": 74
+      }
+    }
+  ]
+}
