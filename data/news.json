@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-18T20:08:13.901889+00:00",
-  "count": 60,
+  "generatedAt": "2026-10-19T03:21:14.835657+00:00",
+  "count": 61,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 138
+      "items": 139
     },
     {
       "source": "bbc",
@@ -27,6 +27,21 @@
   ],
   "news": [
     {
+      "id": "varzesh3-2437503",
+      "title": "برزیلی‌ها علیه آمار منفی لیگ ایران اقدام کردند",
+      "summary": "صنعت نفت آبادان با هدایت سید سیروس پورموسوی سرانجام به نخستین پیروزی خود در لیگ برتر رسید تا یکی از آمارهای منفی این فصل را از بین ببرد.",
+      "url": "https://www.varzesh3.com/news/2437503/برزیلی-ها-علیه-آمار-منفی-لیگ-ایران-اقدام-کردند",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/19/A/xiihrvlz.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-19T00:30:00Z",
+      "views": "3.4K",
+      "comments": "0"
+    },
+    {
       "id": "varzesh3-2437425",
       "title": "عجیب‌ترین بسکتبالیست دنیا هم‌تیمی لبران جیمز!",
       "summary": "بسکتبالیست بلند قامت سنگالی بعد از چند فصل حضور در خارج از NBA سرانجام توانست رضایت مدعی اصلی قهرمانی این فصل را برای حضور در لیست جلب کند.",
@@ -38,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T18:13:04Z",
-      "views": "7.8K",
+      "views": "14.5K",
       "comments": "0"
     },
     {
@@ -53,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T12:26:01Z",
-      "views": "5K",
+      "views": "6.2K",
       "comments": "1"
     },
     {
@@ -68,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T07:27:02Z",
-      "views": "4.4K",
+      "views": "4.8K",
       "comments": "5"
     },
     {
@@ -83,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T06:58:34Z",
-      "views": "6.4K",
+      "views": "7.1K",
       "comments": "4"
     },
     {
@@ -98,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T06:32:46Z",
-      "views": "12.7K",
+      "views": "13.8K",
       "comments": "0"
     },
     {
@@ -128,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T21:36:12Z",
-      "views": "8.5K",
+      "views": "8.6K",
       "comments": "1"
     },
     {
@@ -143,7 +158,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T20:27:55Z",
-      "views": "8.8K",
+      "views": "9K",
       "comments": "3"
     },
     {
@@ -158,7 +173,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T18:23:44Z",
-      "views": "12.9K",
+      "views": "13K",
       "comments": "16"
     },
     {
@@ -188,7 +203,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T11:51:22Z",
-      "views": "5.4K",
+      "views": "5.5K",
       "comments": "1"
     },
     {
@@ -246,7 +261,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T04:52:43Z",
-      "views": "5.6K",
+      "views": "5.7K",
       "comments": "1"
     },
     {
@@ -336,7 +351,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-14T15:51:13Z",
-      "views": "8.5K",
+      "views": "8.6K",
       "comments": "0"
     },
     {
@@ -411,7 +426,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-13T06:47:20Z",
-      "views": "8.2K",
+      "views": "8.3K",
       "comments": "1"
     },
     {
