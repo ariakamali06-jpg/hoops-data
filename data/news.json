@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T03:21:14.835657+00:00",
+  "generatedAt": "2026-10-19T12:11:50.188472+00:00",
   "count": 61,
   "sources": [
     {
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 139
+      "items": 133
     },
     {
       "source": "bbc",
@@ -21,11 +21,69 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -95,
+      "items": -89,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2437626",
+      "title": "اولین برد زنان بسکتبال با ویلچر در ناگویا",
+      "summary": "تیم ملی بسکتبال با ویلچر زنان ایران اولین پیروزی خود را در ناگویا دشت کرد.",
+      "url": "https://www.varzesh3.com/news/2437626/اولین-برد-زنان-بسکتبال-با-ویلچر-در-ناگویا",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/19/C/rohzrqod.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-19T11:49:16Z",
+      "views": "498",
+      "comments": "3"
+    },
+    {
+      "id": "varzesh3-2437549",
+      "title": "بررسی چالش‌های میزبانی بسکتبال ایران در حضور وزیر ورزش",
+      "summary": "جواد داوری، سرپرست فدراسیون بسکتبال، با حضور در وزارت ورزش و جوانان با احمد دنیامالی، وزیر ورزش و جوانان، دیدار و گفت‌وگو کرد.",
+      "url": "https://www.varzesh3.com/news/2437549/بررسی-چالش-های-میزبانی-بسکتبال-ایران-در-حضور-وزیر-ورزش",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/19/B/anfpymb2.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-19T07:42:16Z",
+      "views": "877",
+      "comments": "0"
+    },
+    {
+      "id": "varzesh3-2437527",
+      "title": "هت‌تریک برد مردان بسکتبال با ویلچر ایران",
+      "summary": "تیم ملی بسکتبال با ویلچر مردان ایران با برتری برابر فیلیپین و کسب سه پیروزی پیاپی، صعود خود به مرحله حذفی را قطعی کرد.",
+      "url": "https://www.varzesh3.com/news/2437527/هت-تریک-برد-مردان-بسکتبال-با-ویلچر-ایران",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/19/B/3tabyktn.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-19T06:18:55Z",
+      "views": "2.8K",
+      "comments": "1"
+    },
+    {
+      "id": "bbc-a505df9d56bf",
+      "title": "The Welshman seeking NBA title with Timberwolves",
+      "summary": "British-born assistant coach Tim Lewis is aiming to win the NBA title with the Minnesota Timberwolves after joining Chris Finch's staff.",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/cm3wjz3d1p66o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9224/live/8223a650-c3d9-11f1-a64c-550be9e3c66b.jpg",
+      "source": "bbc",
+      "sourceName": "بی‌بی‌سی ورزشی",
+      "sourceNameEn": "BBC Sport",
+      "language": "en",
+      "category": "Basketball",
+      "publishedAt": "2026-10-19T04:10:35+00:00"
+    },
     {
       "id": "varzesh3-2437503",
       "title": "برزیلی‌ها علیه آمار منفی لیگ ایران اقدام کردند",
@@ -38,8 +96,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-19T00:30:00Z",
-      "views": "3.4K",
-      "comments": "0"
+      "views": "9.1K",
+      "comments": "2"
     },
     {
       "id": "varzesh3-2437425",
@@ -53,7 +111,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T18:13:04Z",
-      "views": "14.5K",
+      "views": "17.8K",
       "comments": "0"
     },
     {
@@ -68,7 +126,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T12:26:01Z",
-      "views": "6.2K",
+      "views": "7.1K",
       "comments": "1"
     },
     {
@@ -83,7 +141,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T07:27:02Z",
-      "views": "4.8K",
+      "views": "5.1K",
       "comments": "5"
     },
     {
@@ -98,7 +156,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T06:58:34Z",
-      "views": "7.1K",
+      "views": "7.3K",
       "comments": "4"
     },
     {
@@ -113,8 +171,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T06:32:46Z",
-      "views": "13.8K",
-      "comments": "0"
+      "views": "14K",
+      "comments": "1"
     },
     {
       "id": "varzesh3-2437164",
@@ -143,7 +201,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T21:36:12Z",
-      "views": "8.6K",
+      "views": "8.7K",
       "comments": "1"
     },
     {
@@ -158,7 +216,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T20:27:55Z",
-      "views": "9K",
+      "views": "9.2K",
       "comments": "3"
     },
     {
@@ -188,7 +246,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T16:54:26Z",
-      "views": "4.7K",
+      "views": "4.8K",
       "comments": "2"
     },
     {
@@ -203,7 +261,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T11:51:22Z",
-      "views": "5.5K",
+      "views": "5.6K",
       "comments": "1"
     },
     {
@@ -246,7 +304,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T06:23:45Z",
-      "views": "3.8K",
+      "views": "3.9K",
       "comments": "1"
     },
     {
@@ -291,7 +349,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T15:32:54Z",
-      "views": "7.1K",
+      "views": "7.2K",
       "comments": "3"
     },
     {
@@ -306,7 +364,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T14:31:04Z",
-      "views": "8.1K",
+      "views": "8.2K",
       "comments": "0"
     },
     {
@@ -321,7 +379,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T07:23:20Z",
-      "views": "8.7K",
+      "views": "8.8K",
       "comments": "2"
     },
     {
@@ -518,21 +576,6 @@
       "comments": "5"
     },
     {
-      "id": "varzesh3-2435548",
-      "title": "جنجال و کتک‌کاری عجیب در پیش‌فصل NBA",
-      "summary": "دو ستاره سرشناس تیم‌های ویزاردز و دیترویت در جریان بازی این تیم با هم درگیر و از زمین اخراج شدند.",
-      "url": "https://www.varzesh3.com/news/2435548/جنجال-و-کتک-کاری-عجیب-در-پیش-فصل-nba",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/11/D/o40dhcjy.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-11T15:33:15Z",
-      "views": "14.6K",
-      "comments": "3"
-    },
-    {
       "id": "varzesh3-2435344",
       "title": "برد طبیعت، آبادان و استقلال در روز دوم پیش‌فصل",
       "summary": "تیم‌های طبیعت، پالایش آبادان و استقلال در روز دوم مسابقات پیش فصل بسکتبال برنده از زمین خارج شدند.",
@@ -679,36 +722,6 @@
       "comments": "4"
     },
     {
-      "id": "varzesh3-2434323",
-      "title": "ملی‌پوش مدال‌آور ناگویا در استقلال ماند",
-      "summary": "محمدمهدی رحیمی پس از کسب مدال برنز بازی‌های آسیایی ناگویا، قرارداد خود را با تیم بسکتبال استقلال تمدید کرد.",
-      "url": "https://www.varzesh3.com/news/2434323/ملی-پوش-مدال-آور-ناگویا-در-استقلال-ماند",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/06/D/u4pvqlef.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-06T16:18:19Z",
-      "views": "9.7K",
-      "comments": "2"
-    },
-    {
-      "id": "varzesh3-2434316",
-      "title": "‏هزینه نجومی لبران جیمز برای دور زدن ترافیک!",
-      "summary": "لبران جیمز، فوق‌ستاره بسکتبال، پس از پیوستن به فیلادلفیا تصمیم گرفته برای تردد بین نیویورک و محل تمرین تیمش از هلیکوپتر استفاده کند.",
-      "url": "https://www.varzesh3.com/news/2434316/هزینه-نجومی-لبران-جیمز-برای-دور-زدن-ترافیک",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/04/B/wsbckgmk.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-06T15:48:38Z",
-      "views": "7.8K",
-      "comments": "13"
-    },
-    {
       "id": "varzesh3-2434315",
       "title": "کره‌ای ها عاشق بسکتبال شدند!",
       "summary": "‏بعد از﻿ قهرمانی تیم‌های ملی بسکتبال کره جنوبی در بازی‌های آسیایی، لیگ حرفه‌ای این کشور با استقبال بی‌سابقه تماشاگران و ثبت رکوردهای جدید آغاز شد.",
@@ -828,19 +841,6 @@
       "language": "en",
       "category": "Basketball",
       "publishedAt": "2026-09-03T06:17:37+00:00"
-    },
-    {
-      "id": "bbc-a56488363f4b",
-      "title": "Evbuomwan impresses as GB cruise past Switzerland",
-      "summary": "Great Britain start their pre-qualifying campaign for the 2029 EuroBasket tournament with a convincing win over Switzerland.",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/cr4vlr51g5eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12a9/live/68a2b7d0-a24a-11f1-b109-879e35c24276.jpg",
-      "source": "bbc",
-      "sourceName": "بی‌بی‌سی ورزشی",
-      "sourceNameEn": "BBC Sport",
-      "language": "en",
-      "category": "Basketball",
-      "publishedAt": "2026-08-27T19:22:52+00:00"
     },
     {
       "id": "bbc-fc2459776751",
