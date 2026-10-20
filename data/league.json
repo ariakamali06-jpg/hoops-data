@@ -9,7 +9,7 @@
       "country": "IR",
       "flag": "🇮🇷",
       "priority": 1,
-      "updatedAt": "2026-10-20T16:22:59.974727+00:00",
+      "updatedAt": "2026-10-20T21:19:13.384275+00:00",
       "groups": [
         {
           "name": "لیگ برتر بسکتبال",
@@ -462,7 +462,7 @@
       "country": "US",
       "flag": "🏀",
       "priority": 2,
-      "updatedAt": "2026-10-20T16:23:02.435230+00:00",
+      "updatedAt": "2026-10-20T21:19:19.221472+00:00",
       "groups": [
         {
           "name": "کنفرانس شرق",
@@ -1568,7 +1568,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 3,
-      "updatedAt": "2026-10-20T16:23:06.769290+00:00",
+      "updatedAt": "2026-10-20T21:19:26.337896+00:00",
       "groups": [
         {
           "name": "لیگ غرب آسیا",
@@ -2067,7 +2067,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 4,
-      "updatedAt": "2026-10-20T16:23:09.070958+00:00",
+      "updatedAt": "2026-10-20T21:19:32.928292+00:00",
       "groups": [
         {
           "name": "گروهی ",
@@ -2412,7 +2412,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 5,
-      "updatedAt": "2026-10-20T16:23:11.246086+00:00",
+      "updatedAt": "2026-10-20T21:19:36.526268+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -3024,7 +3024,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 6,
-      "updatedAt": "2026-10-20T16:23:15.133957+00:00",
+      "updatedAt": "2026-10-20T21:19:42.204283+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4078,7 +4078,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 7,
-      "updatedAt": "2026-10-20T16:23:18.264446+00:00",
+      "updatedAt": "2026-10-20T21:19:46.779260+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4541,7 +4541,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 8,
-      "updatedAt": "2026-10-20T16:23:20.470983+00:00",
+      "updatedAt": "2026-10-20T21:19:51.619466+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -5600,7 +5600,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 9,
-      "updatedAt": "2026-10-20T16:23:22.121809+00:00",
+      "updatedAt": "2026-10-20T21:19:54.009117+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -5614,7 +5614,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 10,
-      "updatedAt": "2026-10-20T16:23:24.201366+00:00",
+      "updatedAt": "2026-10-20T21:19:57.305522+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -6077,7 +6077,7 @@
       "country": "EU",
       "flag": "🇪🇺",
       "priority": 11,
-      "updatedAt": "2026-10-20T16:23:26.069883+00:00",
+      "updatedAt": "2026-10-20T21:19:59.377242+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6091,7 +6091,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 12,
-      "updatedAt": "2026-10-20T16:23:27.513027+00:00",
+      "updatedAt": "2026-10-20T21:20:04.760415+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6105,7 +6105,7 @@
       "country": "US",
       "flag": "🏆",
       "priority": 13,
-      "updatedAt": "2026-10-20T16:23:29.129654+00:00",
+      "updatedAt": "2026-10-20T21:20:07.084885+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6119,7 +6119,7 @@
       "country": "WO",
       "flag": "🤝",
       "priority": 14,
-      "updatedAt": "2026-10-20T16:23:30.509052+00:00",
+      "updatedAt": "2026-10-20T21:20:10.868856+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -7085,6 +7085,38 @@
       "quarters": [],
       "winner": null,
       "url": "https://www.varzesh3.com/basketball/match/181081/بازی-کاله-نفت-و-گاز-گچساران"
+    },
+    {
+      "id": 180073,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/08",
+      "dateIso": "2027-02-08",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "آتلانتا هاوکس",
+        "shortName": "آتلانتا هاوکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/egbamhav.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "کلیولند کاوالیرز",
+        "shortName": "کلیولند کاوالیرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/d00jval4.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180073/بازی-آتلانتا-هاوکس-کلیولند-کاوالیرز"
     },
     {
       "id": 180061,
@@ -9624,25 +9656,46 @@
       "date": "1405/07/28",
       "dateIso": "2027-01-28",
       "time": "22:30",
-      "status": 1,
-      "statusFa": "برنامه‌ریزی‌شده",
-      "statusShort": "برنامه",
+      "status": 2,
+      "statusFa": "شروع نشده",
+      "statusShort": "شروع نشده",
       "isLive": false,
       "host": {
-        "id": 0,
+        "id": 902798,
         "name": "دیترویت پیستونز",
         "shortName": "دیترویت پیستونز",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/kmnohzo4.png?w=144"
       },
       "guest": {
-        "id": 0,
+        "id": 902795,
         "name": "بوستون سلتیکس",
         "shortName": "بوستون سلتیکس",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/x4rt1sny.png?w=144"
       },
       "hostScore": null,
       "guestScore": null,
-      "quarters": [],
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 27,
+          "guest": 28
+        },
+        {
+          "quarter": 2,
+          "host": 18,
+          "guest": 30
+        },
+        {
+          "quarter": 3,
+          "host": 37,
+          "guest": 30
+        },
+        {
+          "quarter": 4,
+          "host": 25,
+          "guest": 11
+        }
+      ],
       "winner": null,
       "url": "https://www.varzesh3.com/basketball/match/180005/بازی-دیترویت-پیستونز-بوستون-سلتیکس"
     },
@@ -22354,10 +22407,10 @@
       "url": "https://www.varzesh3.com/basketball/match/26766/بازی-فرانسه-برزیل"
     }
   ],
-  "matchCount": 353,
+  "matchCount": 354,
   "teamCount": 160,
   "liveCount": 0,
   "staleDropped": 1,
   "version": 2,
-  "generatedAt": "2026-10-20T16:23:31.490750+00:00"
+  "generatedAt": "2026-10-20T21:20:12.238567+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T16:22:58.920621+00:00",
-  "count": 59,
+  "generatedAt": "2026-10-20T21:19:10.542505+00:00",
+  "count": 60,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 133
+      "items": 136
     },
     {
       "source": "bbc",
@@ -21,11 +21,41 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -91,
+      "items": -93,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2438022",
+      "title": "‏کانادا دوباره با کووای عاشق شد!",
+      "summary": "بازگشت کووای لنارد به تورنتو رپترز فصل جدید NBA را برای کانادایی‌ها مهم‌تر از همیشه کرده است.",
+      "url": "https://www.varzesh3.com/news/2438022/کانادا-دوباره-با-کووای-عاشق-شد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/20/D/asvfa0nu.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-20T18:06:11Z",
+      "views": "4.5K",
+      "comments": "1"
+    },
+    {
+      "id": "varzesh3-2438004",
+      "title": "سوت آغاز گران‌ترین و هیجان‌انگیزترین لیگ دنیا",
+      "summary": "هشتاد و یکمین فصل مسابقات NBA امشب از ساعت 22:30 رسما آغاز خواهد شد.",
+      "url": "https://www.varzesh3.com/news/2438004/سوت-آغاز-گران-ترین-و-هیجان-انگیزترین-لیگ-دنیا",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/20/D/ha4jeghe.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-20T16:43:57Z",
+      "views": "10K",
+      "comments": "7"
+    },
     {
       "id": "bbc-4e4ee2c3a9cf",
       "title": "How does the NBA work and when does the season start?",
@@ -51,7 +81,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T09:09:41Z",
-      "views": "7.7K",
+      "views": "9K",
       "comments": "2"
     },
     {
@@ -66,8 +96,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T08:07:02Z",
-      "views": "12K",
-      "comments": "2"
+      "views": "14.3K",
+      "comments": "3"
     },
     {
       "id": "varzesh3-2437882",
@@ -81,8 +111,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T08:05:29Z",
-      "views": "2.5K",
-      "comments": "0"
+      "views": "2.8K",
+      "comments": "1"
     },
     {
       "id": "bbc-cdcce2eda03e",
@@ -109,7 +139,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-19T20:50:50Z",
-      "views": "10K",
+      "views": "10.1K",
       "comments": "3"
     },
     {
@@ -124,7 +154,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-19T18:45:29Z",
-      "views": "6.5K",
+      "views": "6.6K",
       "comments": "1"
     },
     {
@@ -212,7 +242,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T18:13:04Z",
-      "views": "18.5K",
+      "views": "18.6K",
       "comments": "0"
     },
     {
@@ -257,7 +287,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T06:58:34Z",
-      "views": "7.6K",
+      "views": "7.7K",
       "comments": "4"
     },
     {
@@ -287,7 +317,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T21:36:12Z",
-      "views": "8.8K",
+      "views": "8.9K",
       "comments": "1"
     },
     {
@@ -390,7 +420,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T21:04:56Z",
-      "views": "42.3K",
+      "views": "42.4K",
       "comments": "31"
     },
     {
@@ -435,7 +465,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-16T07:23:20Z",
-      "views": "8.9K",
+      "views": "9K",
       "comments": "2"
     },
     {
@@ -718,21 +748,6 @@
       "publishedAt": "2026-10-08T10:19:14Z",
       "views": "6.6K",
       "comments": "13"
-    },
-    {
-      "id": "varzesh3-2434567",
-      "title": "انتقاد اسطوره بسکتبال از اِن‌بی‌اِی: اروپا بهتر است!",
-      "summary": "شکیل اونیل، اسطوره بسکتبال، در مصاحبه‌ای از ان‌بی‌ای انتقاد کرد.",
-      "url": "https://www.varzesh3.com/news/2434567/انتقاد-اسطوره-بسکتبال-از-اِن-بی-اِی-اروپا-بهتر-است",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/08/A/sp2dnsfn.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-07T20:32:31Z",
-      "views": "5.9K",
-      "comments": "3"
     },
     {
       "id": "bbc-cb41315eced4",
