@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T21:19:10.542505+00:00",
-  "count": 60,
+  "generatedAt": "2026-10-21T03:24:11.357363+00:00",
+  "count": 59,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 136
+      "items": 135
     },
     {
       "source": "bbc",
@@ -27,21 +27,6 @@
   ],
   "news": [
     {
-      "id": "varzesh3-2438022",
-      "title": "‏کانادا دوباره با کووای عاشق شد!",
-      "summary": "بازگشت کووای لنارد به تورنتو رپترز فصل جدید NBA را برای کانادایی‌ها مهم‌تر از همیشه کرده است.",
-      "url": "https://www.varzesh3.com/news/2438022/کانادا-دوباره-با-کووای-عاشق-شد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/20/D/asvfa0nu.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-20T18:06:11Z",
-      "views": "4.5K",
-      "comments": "1"
-    },
-    {
       "id": "varzesh3-2438004",
       "title": "سوت آغاز گران‌ترین و هیجان‌انگیزترین لیگ دنیا",
       "summary": "هشتاد و یکمین فصل مسابقات NBA امشب از ساعت 22:30 رسما آغاز خواهد شد.",
@@ -53,7 +38,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T16:43:57Z",
-      "views": "10K",
+      "views": "12.6K",
       "comments": "7"
     },
     {
@@ -81,7 +66,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T09:09:41Z",
-      "views": "9K",
+      "views": "9.7K",
       "comments": "2"
     },
     {
@@ -96,7 +81,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T08:07:02Z",
-      "views": "14.3K",
+      "views": "15.4K",
       "comments": "3"
     },
     {
@@ -111,7 +96,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T08:05:29Z",
-      "views": "2.8K",
+      "views": "3K",
       "comments": "1"
     },
     {
@@ -139,7 +124,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-19T20:50:50Z",
-      "views": "10.1K",
+      "views": "10.2K",
       "comments": "3"
     },
     {
@@ -184,7 +169,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-19T11:49:16Z",
-      "views": "5K",
+      "views": "5.1K",
       "comments": "3"
     },
     {
@@ -242,7 +227,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T18:13:04Z",
-      "views": "18.6K",
+      "views": "18.7K",
       "comments": "0"
     },
     {
@@ -257,7 +242,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T12:26:01Z",
-      "views": "7.5K",
+      "views": "7.6K",
       "comments": "1"
     },
     {
@@ -272,7 +257,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T07:27:02Z",
-      "views": "5.3K",
+      "views": "5.4K",
       "comments": "5"
     },
     {
@@ -302,7 +287,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T06:32:46Z",
-      "views": "14.3K",
+      "views": "14.4K",
       "comments": "1"
     },
     {
@@ -480,7 +465,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-15T11:52:13Z",
-      "views": "19K",
+      "views": "19.1K",
       "comments": "1"
     },
     {
