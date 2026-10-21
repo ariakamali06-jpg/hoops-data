@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T16:39:04.975409+00:00",
-  "count": 61,
+  "generatedAt": "2026-10-21T21:16:45.225523+00:00",
+  "count": 60,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 129
+      "items": 128
     },
     {
       "source": "bbc",
@@ -27,6 +27,21 @@
   ],
   "news": [
     {
+      "id": "varzesh3-2438287",
+      "title": "کتک‌کاری NBA و کتم خوردن غول تاندرز ترند شد !",
+      "summary": "درگیری شدید بازیکنان اسپرز و تاندرز واکنش های زیادی به همراه داشت و سوژه اصلی شب اول مسابقات ان بی ای بود.",
+      "url": "https://www.varzesh3.com/news/2438287/کتک-کاری-nba-و-کتم-خوردن-غول-تاندرز-ترند-شد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/21/D/k31aojo4.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-21T18:57:27Z",
+      "views": "5.4K",
+      "comments": "5"
+    },
+    {
       "id": "varzesh3-2438249",
       "title": "ضیافت بزرگ در پایتخت جدید بسکت ایران! (عکس)",
       "summary": "۱۲ بازیکن ملی‌پوش در رده‌های مختلف ملی و حضور ۳ بازیکن این شهر در لیگ‌های خارجی، شهرقدس را به پایتختی برای بسکتبال ایران تبدیل کرده است.",
@@ -38,8 +53,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T15:44:50Z",
-      "views": "2.1K",
-      "comments": "0"
+      "views": "6.5K",
+      "comments": "1"
     },
     {
       "id": "varzesh3-2438113",
@@ -53,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T10:14:00Z",
-      "views": "4.3K",
+      "views": "4.6K",
       "comments": "2"
     },
     {
@@ -68,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T09:52:09Z",
-      "views": "8.3K",
+      "views": "10.2K",
       "comments": "5"
     },
     {
@@ -83,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T09:27:37Z",
-      "views": "4.5K",
+      "views": "5.7K",
       "comments": "0"
     },
     {
@@ -98,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T07:57:42Z",
-      "views": "3K",
+      "views": "3.1K",
       "comments": "0"
     },
     {
@@ -113,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T07:26:54Z",
-      "views": "1.4K",
+      "views": "1.6K",
       "comments": "2"
     },
     {
@@ -141,7 +156,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T18:06:11Z",
-      "views": "7.6K",
+      "views": "7.7K",
       "comments": "1"
     },
     {
@@ -199,7 +214,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T08:07:02Z",
-      "views": "16K",
+      "views": "16.1K",
       "comments": "3"
     },
     {
@@ -242,7 +257,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-19T20:50:50Z",
-      "views": "10.6K",
+      "views": "10.7K",
       "comments": "3"
     },
     {
@@ -257,7 +272,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-19T18:45:29Z",
-      "views": "6.8K",
+      "views": "6.9K",
       "comments": "1"
     },
     {
@@ -345,7 +360,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T18:13:04Z",
-      "views": "18.9K",
+      "views": "19K",
       "comments": "0"
     },
     {
@@ -392,21 +407,6 @@
       "publishedAt": "2026-10-18T06:58:34Z",
       "views": "7.8K",
       "comments": "4"
-    },
-    {
-      "id": "varzesh3-2437201",
-      "title": "تعظیم بهترین بازیکن اروپا به گواردیولا! (عکس)",
-      "summary": "ساشا وزنکوف ستاره تیم بسکتبال المپیاکوس علاقه جالبی به گواردیولا نشان داد و بلافاصله بعد از کسب پیروزی به سمت او رفت و به شکل جالبی ادای احترام کرد.",
-      "url": "https://www.varzesh3.com/news/2437201/تعظیم-بهترین-بازیکن-اروپا-به-گواردیولا-عکس",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/18/B/wqggedfd.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-18T06:32:46Z",
-      "views": "14.4K",
-      "comments": "1"
     },
     {
       "id": "varzesh3-2437175",
@@ -748,21 +748,6 @@
       "publishedAt": "2026-10-10T18:32:02Z",
       "views": "6.9K",
       "comments": "3"
-    },
-    {
-      "id": "varzesh3-2435182",
-      "title": "تالار مشحون با چهره‌ای جدید میزبان بسکتبال ایران!",
-      "summary": "بعد از مدت‌ها دوری تالار آزادی از مسابقات باشگاهی امروز با سه مسابقه هیجان به پارکت تالار مشحون بازخواهد گشت.",
-      "url": "https://www.varzesh3.com/news/2435182/تالار-مشحون-با-چهره-ای-جدید-میزبان-بسکتبال-ایران",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/10/B/p1fg0jdr.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-10T07:40:24Z",
-      "views": "9.9K",
-      "comments": "0"
     },
     {
       "id": "bbc-03a16270c2eb",
