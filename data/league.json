@@ -9,7 +9,7 @@
       "country": "IR",
       "flag": "🇮🇷",
       "priority": 1,
-      "updatedAt": "2026-10-21T11:12:42.501494+00:00",
+      "updatedAt": "2026-10-21T16:39:06.704156+00:00",
       "groups": [
         {
           "name": "لیگ برتر بسکتبال",
@@ -462,7 +462,7 @@
       "country": "US",
       "flag": "🏀",
       "priority": 2,
-      "updatedAt": "2026-10-21T11:12:46.448263+00:00",
+      "updatedAt": "2026-10-21T16:39:10.705935+00:00",
       "groups": [
         {
           "name": "کنفرانس شرق",
@@ -1568,7 +1568,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 3,
-      "updatedAt": "2026-10-21T11:12:50.891994+00:00",
+      "updatedAt": "2026-10-21T16:39:18.777379+00:00",
       "groups": [
         {
           "name": "لیگ غرب آسیا",
@@ -2067,7 +2067,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 4,
-      "updatedAt": "2026-10-21T11:12:56.880115+00:00",
+      "updatedAt": "2026-10-21T16:39:24.141540+00:00",
       "groups": [
         {
           "name": "گروهی ",
@@ -2412,7 +2412,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 5,
-      "updatedAt": "2026-10-21T11:12:59.476379+00:00",
+      "updatedAt": "2026-10-21T16:39:30.003537+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -3024,7 +3024,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 6,
-      "updatedAt": "2026-10-21T11:13:06.482232+00:00",
+      "updatedAt": "2026-10-21T16:39:34.089340+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4078,7 +4078,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 7,
-      "updatedAt": "2026-10-21T11:13:16.482426+00:00",
+      "updatedAt": "2026-10-21T16:39:40.780367+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4541,7 +4541,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 8,
-      "updatedAt": "2026-10-21T11:13:21.255284+00:00",
+      "updatedAt": "2026-10-21T16:39:45.648685+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -5600,7 +5600,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 9,
-      "updatedAt": "2026-10-21T11:13:24.711590+00:00",
+      "updatedAt": "2026-10-21T16:39:49.645114+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -5614,7 +5614,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 10,
-      "updatedAt": "2026-10-21T11:13:30.484988+00:00",
+      "updatedAt": "2026-10-21T16:40:00.981752+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -6077,7 +6077,7 @@
       "country": "EU",
       "flag": "🇪🇺",
       "priority": 11,
-      "updatedAt": "2026-10-21T11:13:37.914565+00:00",
+      "updatedAt": "2026-10-21T16:40:04.845095+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6091,7 +6091,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 12,
-      "updatedAt": "2026-10-21T11:13:41.696825+00:00",
+      "updatedAt": "2026-10-21T16:40:08.475347+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6105,7 +6105,7 @@
       "country": "US",
       "flag": "🏆",
       "priority": 13,
-      "updatedAt": "2026-10-21T11:13:44.599381+00:00",
+      "updatedAt": "2026-10-21T16:40:10.660710+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6119,7 +6119,7 @@
       "country": "WO",
       "flag": "🤝",
       "priority": 14,
-      "updatedAt": "2026-10-21T11:13:49.503798+00:00",
+      "updatedAt": "2026-10-21T16:40:13.012428+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -9519,70 +9519,6 @@
       "url": "https://www.varzesh3.com/basketball/match/180983/بازی-گلنور-اصفهان-زاگرس-جنوبی-جهرم"
     },
     {
-      "id": 180980,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "1405/07/30",
-      "dateIso": "2027-01-30",
-      "time": "16:00",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "مس رفسنجان",
-        "shortName": "مس رفسنجان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1utikr2x.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "مهگل البرز",
-        "shortName": "البرز",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180980/بازی-مس-رفسنجان-مهگل-البرز"
-    },
-    {
-      "id": 180985,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "1405/07/30",
-      "dateIso": "2027-01-30",
-      "time": "16:00",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "پالایش نفت آبادان",
-        "shortName": "نفت آبادان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "استقلال تهران",
-        "shortName": "استقلال تهران",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180985/بازی-پالایش-نفت-آبادان-استقلال-تهران"
-    },
-    {
       "id": 180982,
       "leagueId": "lg-32",
       "leagueRef": 32,
@@ -9645,6 +9581,38 @@
       "quarters": [],
       "winner": null,
       "url": "https://www.varzesh3.com/basketball/match/180984/بازی-کاله-پاس-کردستان"
+    },
+    {
+      "id": 180985,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iran Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/07/30",
+      "dateIso": "2027-01-30",
+      "time": "17:00",
+      "status": 0,
+      "statusFa": "نامشخص",
+      "statusShort": "؟",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "پالایش نفت آبادان",
+        "shortName": "نفت آبادان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "استقلال تهران",
+        "shortName": "استقلال تهران",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180985/بازی-پالایش-نفت-آبادان-استقلال-تهران"
     },
     {
       "id": 180006,
@@ -22513,10 +22481,10 @@
       "url": "https://www.varzesh3.com/basketball/match/26766/بازی-فرانسه-برزیل"
     }
   ],
-  "matchCount": 356,
+  "matchCount": 355,
   "teamCount": 160,
   "liveCount": 0,
-  "staleDropped": 1,
+  "staleDropped": 2,
   "version": 2,
-  "generatedAt": "2026-10-21T11:13:50.813705+00:00"
+  "generatedAt": "2026-10-21T16:40:15.244523+00:00"
 }

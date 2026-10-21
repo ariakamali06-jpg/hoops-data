@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T11:12:41.196778+00:00",
+  "generatedAt": "2026-10-21T16:39:04.975409+00:00",
   "count": 61,
   "sources": [
     {
@@ -27,6 +27,21 @@
   ],
   "news": [
     {
+      "id": "varzesh3-2438249",
+      "title": "ضیافت بزرگ در پایتخت جدید بسکت ایران! (عکس)",
+      "summary": "۱۲ بازیکن ملی‌پوش در رده‌های مختلف ملی و حضور ۳ بازیکن این شهر در لیگ‌های خارجی، شهرقدس را به پایتختی برای بسکتبال ایران تبدیل کرده است.",
+      "url": "https://www.varzesh3.com/news/2438249/ضیافت-بزرگ-در-پایتخت-جدید-بسکت-ایران-عکس",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/21/D/tvroskqy.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-21T15:44:50Z",
+      "views": "2.1K",
+      "comments": "0"
+    },
+    {
       "id": "varzesh3-2438113",
       "title": "بسکتبال از دل دوران سرپرستی مدال بیرون کشید!",
       "summary": "‏در آستانه انتخابات بسکتبال، ثبات در دوره سرپرستی جواد داوری جواب داد و با عبور موفق از دو رویداد مهم مقدماتی جام‌جهانی و بازی‌های آسیایی ناگویا دوران مهمی بود که با کسب مدال به پایان رسید.",
@@ -38,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T10:14:00Z",
-      "views": "2.1K",
+      "views": "4.3K",
       "comments": "2"
     },
     {
@@ -53,8 +68,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T09:52:09Z",
-      "views": "3.7K",
-      "comments": "2"
+      "views": "8.3K",
+      "comments": "5"
     },
     {
       "id": "varzesh3-2438157",
@@ -68,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T09:27:37Z",
-      "views": "2K",
+      "views": "4.5K",
       "comments": "0"
     },
     {
@@ -83,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T07:57:42Z",
-      "views": "2.2K",
+      "views": "3K",
       "comments": "0"
     },
     {
@@ -98,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T07:26:54Z",
-      "views": "1.1K",
+      "views": "1.4K",
       "comments": "2"
     },
     {
@@ -126,7 +141,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T18:06:11Z",
-      "views": "7.5K",
+      "views": "7.6K",
       "comments": "1"
     },
     {
@@ -141,7 +156,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T16:43:57Z",
-      "views": "14.1K",
+      "views": "14.2K",
       "comments": "7"
     },
     {
@@ -184,7 +199,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T08:07:02Z",
-      "views": "15.9K",
+      "views": "16K",
       "comments": "3"
     },
     {
@@ -227,7 +242,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-19T20:50:50Z",
-      "views": "10.4K",
+      "views": "10.6K",
       "comments": "3"
     },
     {
@@ -330,7 +345,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T18:13:04Z",
-      "views": "18.8K",
+      "views": "18.9K",
       "comments": "0"
     },
     {
@@ -375,7 +390,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T06:58:34Z",
-      "views": "7.7K",
+      "views": "7.8K",
       "comments": "4"
     },
     {
@@ -525,21 +540,6 @@
       "publishedAt": "2026-10-16T15:32:54Z",
       "views": "7.3K",
       "comments": "3"
-    },
-    {
-      "id": "varzesh3-2436825",
-      "title": "بازگشت قهرمان فصل گذشته NBA به کالبد قهرمانان!",
-      "summary": "قهرمان فصل گذشته NBA بعد از چهار شکست بلاخره در بازی با رپترز توانست حریفش را در آستانه شروع مسابقات شکست دهد.",
-      "url": "https://www.varzesh3.com/news/2436825/بازگشت-قهرمان-فصل-گذشته-nba-به-کالبد-قهرمانان",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/16/D/ilgcsct0.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-16T14:31:04Z",
-      "views": "8.3K",
-      "comments": "0"
     },
     {
       "id": "varzesh3-2436720",
