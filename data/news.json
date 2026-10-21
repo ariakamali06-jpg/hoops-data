@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T03:24:11.357363+00:00",
-  "count": 59,
+  "generatedAt": "2026-10-21T11:12:41.196778+00:00",
+  "count": 61,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 135
+      "items": 129
     },
     {
       "source": "bbc",
@@ -21,11 +21,114 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -93,
+      "items": -85,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2438113",
+      "title": "بسکتبال از دل دوران سرپرستی مدال بیرون کشید!",
+      "summary": "‏در آستانه انتخابات بسکتبال، ثبات در دوره سرپرستی جواد داوری جواب داد و با عبور موفق از دو رویداد مهم مقدماتی جام‌جهانی و بازی‌های آسیایی ناگویا دوران مهمی بود که با کسب مدال به پایان رسید.",
+      "url": "https://www.varzesh3.com/news/2438113/بسکتبال-از-دل-دوران-سرپرستی-مدال-بیرون-کشید",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/21/B/z5oxowyz.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-21T10:14:00Z",
+      "views": "2.1K",
+      "comments": "2"
+    },
+    {
+      "id": "varzesh3-2438166",
+      "title": "بسکتبال با ویلچر ایران فینالیست شد",
+      "summary": "تیم ملی بسکتبال با ویلچر مردان ایران با پیروزی ۸۳ بر ۵۰ مقابل تایلند، به فینال بازی‌های پاراآسیایی آیچی–ناگویا صعود کرد.",
+      "url": "https://www.varzesh3.com/news/2438166/بسکتبال-با-ویلچر-ایران-فینالیست-شد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/21/C/wcnwh0gr.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-21T09:52:09Z",
+      "views": "3.7K",
+      "comments": "2"
+    },
+    {
+      "id": "varzesh3-2438157",
+      "title": "شب افتتاحیه NBA با درگیری، انتقام و جشن‌ نیمه‌کاره!",
+      "summary": "سه بازی شب گذشته NBA هرکدام اتفاقات خاصی داشت تا این لیگ جذاب به بهترین شکل ممکن آغاز شود و نتایج هم با شگفتی‌هایی همراه باشد.",
+      "url": "https://www.varzesh3.com/news/2438157/شب-افتتاحیه-nba-با-درگیری-انتقام-و-جشن-نیمه-کاره",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/21/B/easu3h2r.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-21T09:27:37Z",
+      "views": "2K",
+      "comments": "0"
+    },
+    {
+      "id": "varzesh3-2438132",
+      "title": "امینی در شب برد نانسی مدافع را پوستر کرد!",
+      "summary": "محمد امینی لژیونر بسکتبال ایران در بازی شب گذشته لیگ اروپا با دانکی تماشایی درخشش قابل توجهی در پیروزی تیمش داشت.",
+      "url": "https://www.varzesh3.com/news/2438132/امینی-در-شب-برد-نانسی-مدافع-را-پوستر-کرد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/21/B/ngipdfsy.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-21T07:57:42Z",
+      "views": "2.2K",
+      "comments": "0"
+    },
+    {
+      "id": "varzesh3-2438117",
+      "title": "شکست دختران بسکتبال با ویلچر برابر چین",
+      "summary": "تیم ملی بسکتبال با ویلچر دختران ایران در پنجمین دیدار خود در بازی‌های پاراآسیایی برابر چین تیم سوم پارالمپیک تن به شکست داد.",
+      "url": "https://www.varzesh3.com/news/2438117/شکست-دختران-بسکتبال-با-ویلچر-برابر-چین",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/21/B/joiekcmm.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-21T07:26:54Z",
+      "views": "1.1K",
+      "comments": "2"
+    },
+    {
+      "id": "bbc-cbdf35979752",
+      "title": "LeBron James' 76ers beat Knicks on NBA opening night",
+      "summary": "LeBron James scores 14 points on debut for the Philadelphia 76ers as they defeat champions the New York Knicks on the opening night of the NBA season.",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/c6vgj4g913wyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b476/live/2a511110-cd11-11f1-92f9-3b44ce9ad221.jpg",
+      "source": "bbc",
+      "sourceName": "بی‌بی‌سی ورزشی",
+      "sourceNameEn": "BBC Sport",
+      "language": "en",
+      "category": "Basketball",
+      "publishedAt": "2026-10-21T06:34:15+00:00"
+    },
+    {
+      "id": "varzesh3-2438022",
+      "title": "‏کانادا دوباره با کووای عاشق شد!",
+      "summary": "بازگشت کووای لنارد به تورنتو رپترز فصل جدید NBA را برای کانادایی‌ها مهم‌تر از همیشه کرده است.",
+      "url": "https://www.varzesh3.com/news/2438022/کانادا-دوباره-با-کووای-عاشق-شد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/20/D/asvfa0nu.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-20T18:06:11Z",
+      "views": "7.5K",
+      "comments": "1"
+    },
     {
       "id": "varzesh3-2438004",
       "title": "سوت آغاز گران‌ترین و هیجان‌انگیزترین لیگ دنیا",
@@ -38,12 +141,12 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T16:43:57Z",
-      "views": "12.6K",
+      "views": "14.1K",
       "comments": "7"
     },
     {
       "id": "bbc-4e4ee2c3a9cf",
-      "title": "How does the NBA work and when does the season start?",
+      "title": "The season has just started - so how does the NBA work?",
       "summary": "BBC Sport's Ask Me Anything team explains the format of the NBA ahead of the start of the 2026-27 season starting on Tuesday",
       "url": "https://www.bbc.co.uk/sport/basketball/articles/c051mpq4n6mo?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03f7/live/64899af0-cc6c-11f1-baeb-8d65d4bcd7ab.jpg",
@@ -66,7 +169,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T09:09:41Z",
-      "views": "9.7K",
+      "views": "10K",
       "comments": "2"
     },
     {
@@ -81,7 +184,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T08:07:02Z",
-      "views": "15.4K",
+      "views": "15.9K",
       "comments": "3"
     },
     {
@@ -96,7 +199,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T08:05:29Z",
-      "views": "3K",
+      "views": "3.1K",
       "comments": "1"
     },
     {
@@ -124,7 +227,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-19T20:50:50Z",
-      "views": "10.2K",
+      "views": "10.4K",
       "comments": "3"
     },
     {
@@ -139,7 +242,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-19T18:45:29Z",
-      "views": "6.6K",
+      "views": "6.8K",
       "comments": "1"
     },
     {
@@ -199,7 +302,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-19T06:18:55Z",
-      "views": "3.9K",
+      "views": "4K",
       "comments": "2"
     },
     {
@@ -227,7 +330,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T18:13:04Z",
-      "views": "18.7K",
+      "views": "18.8K",
       "comments": "0"
     },
     {
@@ -332,7 +435,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T16:54:26Z",
-      "views": "4.8K",
+      "views": "4.9K",
       "comments": "2"
     },
     {
@@ -662,51 +765,6 @@
       "comments": "0"
     },
     {
-      "id": "varzesh3-2434978",
-      "title": "شروع عصر جدید در لیکرز: پسر جانشین پدر!",
-      "summary": "در روزهایی که لبران و برانی جیمز دیگر هم‌تیمی نیستند رقابت جالبی بین آنها در رسانه‌های بسکتبالی شکل گرفته است.",
-      "url": "https://www.varzesh3.com/news/2434978/شروع-عصر-جدید-در-لیکرز-پسر-جانشین-پدر",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/09/C/urwe5zdd.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-09T12:01:06Z",
-      "views": "13.1K",
-      "comments": "0"
-    },
-    {
-      "id": "varzesh3-2434920",
-      "title": "خشم هواداران اتلتیکو از رفاقت مالک جدید با وینیسیوس!",
-      "summary": "هواداران اتلتیکو مادرید بعد از اعلام خبری مبنی بر اینکه شای الکساندر MVP بسکتبال آمریکا سهام این باشگاه را خریده است به این تصمیم اعتراض کردند.",
-      "url": "https://www.varzesh3.com/news/2434920/خشم-هواداران-اتلتیکو-از-رفاقت-مالک-جدید-با-وینیسیوس",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/09/B/vkjrrfxk.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-09T08:55:27Z",
-      "views": "7.7K",
-      "comments": "7"
-    },
-    {
-      "id": "varzesh3-2434910",
-      "title": "آرن داوودی با تیم ملی زیر 18 سال در لیگ برتر!",
-      "summary": "تیم ملی زیر 18 سال بسکتبال ایران به طور کامل به لیگ برتر بسکتبال منتقل شدند.",
-      "url": "https://www.varzesh3.com/news/2434910/آرن-داوودی-با-تیم-ملی-زیر-18-سال-در-لیگ-برتر",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/09/B/g4lcqq4s.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-09T08:09:11Z",
-      "views": "7.9K",
-      "comments": "0"
-    },
-    {
       "id": "bbc-03a16270c2eb",
       "title": "Wilson becomes first five-time MVP in WNBA history",
       "summary": "A ceremony marking her record-extending fifth MVP award will take place on Friday night, but A'ja Wilson will not take part before a must-win game.",
@@ -718,34 +776,6 @@
       "language": "en",
       "category": "Basketball",
       "publishedAt": "2026-10-09T07:35:59+00:00"
-    },
-    {
-      "id": "varzesh3-2434663",
-      "title": "تنفر مایکل جردن از بسکتبال اینستاگرامی!",
-      "summary": "مایکل جردن که به اعتقاد بسیاری از هواداران بسکتبال بهترین بازیکن تاریخ است نگاهی متفاوت به تفاوت‌های دوران خود و عصر حاضر انداخت.",
-      "url": "https://www.varzesh3.com/news/2434663/تنفر-مایکل-جردن-از-بسکتبال-اینستاگرامی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/08/C/yisft0dh.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-08T10:19:14Z",
-      "views": "6.6K",
-      "comments": "13"
-    },
-    {
-      "id": "bbc-cb41315eced4",
-      "title": "Jordan 'Last Dance' jersey sells for £9m",
-      "summary": "A Michael Jordan jersey from his 'Last Dance' season sells for $12.3m, a record for a piece of Jordan memorabilia.",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/cx5yly6p2nyvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9807/live/276c3d20-bd59-11f1-aca8-694fa68533ef.jpg",
-      "source": "bbc",
-      "sourceName": "بی‌بی‌سی ورزشی",
-      "sourceNameEn": "BBC Sport",
-      "language": "en",
-      "category": "Basketball",
-      "publishedAt": "2026-10-01T09:36:13+00:00"
     },
     {
       "id": "bbc-911018267eb9",

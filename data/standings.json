@@ -9,7 +9,7 @@
       "country": "IR",
       "flag": "🇮🇷",
       "priority": 1,
-      "updatedAt": "2026-10-21T03:24:12.452750+00:00",
+      "updatedAt": "2026-10-21T11:12:42.501494+00:00",
       "groups": [
         {
           "name": "لیگ برتر بسکتبال",
@@ -462,7 +462,7 @@
       "country": "US",
       "flag": "🏀",
       "priority": 2,
-      "updatedAt": "2026-10-21T03:24:14.974786+00:00",
+      "updatedAt": "2026-10-21T11:12:46.448263+00:00",
       "groups": [
         {
           "name": "کنفرانس شرق",
@@ -763,6 +763,24 @@
             {
               "rank": 2,
               "manualRank": 0,
+              "teamId": 902793,
+              "name": "اوکلاهاما سیتی تاندر",
+              "shortName": "اوکلاهاما سیتی تاندر",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dzn4tahc.png?w=144",
+              "played": 2,
+              "won": 1,
+              "lost": 1,
+              "pointsFor": 205,
+              "pointsAgainst": 220,
+              "diff": -15,
+              "points": 3,
+              "pointsDeducted": 0,
+              "winRate": 0.5,
+              "form": null
+            },
+            {
+              "rank": 3,
+              "manualRank": 0,
               "teamId": 902409,
               "name": "گلدن استیت واریرز",
               "shortName": "گلدن استیت واریرز",
@@ -779,7 +797,7 @@
               "form": null
             },
             {
-              "rank": 3,
+              "rank": 4,
               "manualRank": 0,
               "teamId": 902780,
               "name": "دالاس ماوریکس",
@@ -797,7 +815,7 @@
               "form": null
             },
             {
-              "rank": 4,
+              "rank": 5,
               "manualRank": 0,
               "teamId": 902781,
               "name": "دنور ناگتس",
@@ -815,7 +833,7 @@
               "form": null
             },
             {
-              "rank": 5,
+              "rank": 6,
               "manualRank": 0,
               "teamId": 902783,
               "name": "لس آنجلس کلیپرز",
@@ -833,7 +851,7 @@
               "form": null
             },
             {
-              "rank": 6,
+              "rank": 7,
               "manualRank": 0,
               "teamId": 902784,
               "name": "لس آنجلس لیکرز",
@@ -851,7 +869,7 @@
               "form": null
             },
             {
-              "rank": 7,
+              "rank": 8,
               "manualRank": 0,
               "teamId": 902785,
               "name": "ممفیس گریزلیز",
@@ -869,7 +887,7 @@
               "form": null
             },
             {
-              "rank": 8,
+              "rank": 9,
               "manualRank": 0,
               "teamId": 902786,
               "name": "مینه سوتا تیمبرولوز",
@@ -887,7 +905,7 @@
               "form": null
             },
             {
-              "rank": 9,
+              "rank": 10,
               "manualRank": 0,
               "teamId": 902787,
               "name": "نیو اورلینز پلیکانز",
@@ -905,7 +923,7 @@
               "form": null
             },
             {
-              "rank": 10,
+              "rank": 11,
               "manualRank": 0,
               "teamId": 902788,
               "name": "فینیکس سانز",
@@ -923,7 +941,7 @@
               "form": null
             },
             {
-              "rank": 11,
+              "rank": 12,
               "manualRank": 0,
               "teamId": 902789,
               "name": "پورتلند تریل بلیزرز",
@@ -941,30 +959,12 @@
               "form": null
             },
             {
-              "rank": 12,
+              "rank": 13,
               "manualRank": 0,
               "teamId": 902790,
               "name": "ساکرامنتو کینگز",
               "shortName": "ساکرامنتو کینگز",
               "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/30g1vnui.png?w=144",
-              "played": 0,
-              "won": 0,
-              "lost": 0,
-              "pointsFor": 0,
-              "pointsAgainst": 0,
-              "diff": 0,
-              "points": 0,
-              "pointsDeducted": 0,
-              "winRate": 0,
-              "form": null
-            },
-            {
-              "rank": 13,
-              "manualRank": 0,
-              "teamId": 902791,
-              "name": "سن آنتونیو اسپرز",
-              "shortName": "سن آنتونیو اسپرز",
-              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/lzt0gkfh.png?w=144",
               "played": 0,
               "won": 0,
               "lost": 0,
@@ -997,16 +997,16 @@
             {
               "rank": 15,
               "manualRank": 0,
-              "teamId": 902793,
-              "name": "اوکلاهاما سیتی تاندر",
-              "shortName": "اوکلاهاما سیتی تاندر",
-              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dzn4tahc.png?w=144",
+              "teamId": 902791,
+              "name": "سن آنتونیو اسپرز",
+              "shortName": "سن آنتونیو اسپرز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/lzt0gkfh.png?w=144",
               "played": 1,
               "won": 0,
               "lost": 1,
-              "pointsFor": 89,
+              "pointsFor": 104,
               "pointsAgainst": 116,
-              "diff": -27,
+              "diff": -12,
               "points": 1,
               "pointsDeducted": 0,
               "winRate": 0,
@@ -1308,6 +1308,24 @@
         {
           "rank": 2,
           "manualRank": 0,
+          "teamId": 902793,
+          "name": "اوکلاهاما سیتی تاندر",
+          "shortName": "اوکلاهاما سیتی تاندر",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dzn4tahc.png?w=144",
+          "played": 2,
+          "won": 1,
+          "lost": 1,
+          "pointsFor": 205,
+          "pointsAgainst": 220,
+          "diff": -15,
+          "points": 3,
+          "pointsDeducted": 0,
+          "winRate": 0.5,
+          "form": null
+        },
+        {
+          "rank": 3,
+          "manualRank": 0,
           "teamId": 902409,
           "name": "گلدن استیت واریرز",
           "shortName": "گلدن استیت واریرز",
@@ -1324,7 +1342,7 @@
           "form": null
         },
         {
-          "rank": 3,
+          "rank": 4,
           "manualRank": 0,
           "teamId": 902780,
           "name": "دالاس ماوریکس",
@@ -1342,7 +1360,7 @@
           "form": null
         },
         {
-          "rank": 4,
+          "rank": 5,
           "manualRank": 0,
           "teamId": 902781,
           "name": "دنور ناگتس",
@@ -1360,7 +1378,7 @@
           "form": null
         },
         {
-          "rank": 5,
+          "rank": 6,
           "manualRank": 0,
           "teamId": 902783,
           "name": "لس آنجلس کلیپرز",
@@ -1378,7 +1396,7 @@
           "form": null
         },
         {
-          "rank": 6,
+          "rank": 7,
           "manualRank": 0,
           "teamId": 902784,
           "name": "لس آنجلس لیکرز",
@@ -1396,7 +1414,7 @@
           "form": null
         },
         {
-          "rank": 7,
+          "rank": 8,
           "manualRank": 0,
           "teamId": 902785,
           "name": "ممفیس گریزلیز",
@@ -1414,7 +1432,7 @@
           "form": null
         },
         {
-          "rank": 8,
+          "rank": 9,
           "manualRank": 0,
           "teamId": 902786,
           "name": "مینه سوتا تیمبرولوز",
@@ -1432,7 +1450,7 @@
           "form": null
         },
         {
-          "rank": 9,
+          "rank": 10,
           "manualRank": 0,
           "teamId": 902787,
           "name": "نیو اورلینز پلیکانز",
@@ -1450,7 +1468,7 @@
           "form": null
         },
         {
-          "rank": 10,
+          "rank": 11,
           "manualRank": 0,
           "teamId": 902788,
           "name": "فینیکس سانز",
@@ -1468,7 +1486,7 @@
           "form": null
         },
         {
-          "rank": 11,
+          "rank": 12,
           "manualRank": 0,
           "teamId": 902789,
           "name": "پورتلند تریل بلیزرز",
@@ -1486,30 +1504,12 @@
           "form": null
         },
         {
-          "rank": 12,
+          "rank": 13,
           "manualRank": 0,
           "teamId": 902790,
           "name": "ساکرامنتو کینگز",
           "shortName": "ساکرامنتو کینگز",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/30g1vnui.png?w=144",
-          "played": 0,
-          "won": 0,
-          "lost": 0,
-          "pointsFor": 0,
-          "pointsAgainst": 0,
-          "diff": 0,
-          "points": 0,
-          "pointsDeducted": 0,
-          "winRate": 0,
-          "form": null
-        },
-        {
-          "rank": 13,
-          "manualRank": 0,
-          "teamId": 902791,
-          "name": "سن آنتونیو اسپرز",
-          "shortName": "سن آنتونیو اسپرز",
-          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/lzt0gkfh.png?w=144",
           "played": 0,
           "won": 0,
           "lost": 0,
@@ -1542,16 +1542,16 @@
         {
           "rank": 15,
           "manualRank": 0,
-          "teamId": 902793,
-          "name": "اوکلاهاما سیتی تاندر",
-          "shortName": "اوکلاهاما سیتی تاندر",
-          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dzn4tahc.png?w=144",
+          "teamId": 902791,
+          "name": "سن آنتونیو اسپرز",
+          "shortName": "سن آنتونیو اسپرز",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/lzt0gkfh.png?w=144",
           "played": 1,
           "won": 0,
           "lost": 1,
-          "pointsFor": 89,
+          "pointsFor": 104,
           "pointsAgainst": 116,
-          "diff": -27,
+          "diff": -12,
           "points": 1,
           "pointsDeducted": 0,
           "winRate": 0,
@@ -1568,7 +1568,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 3,
-      "updatedAt": "2026-10-21T03:24:18.542636+00:00",
+      "updatedAt": "2026-10-21T11:12:50.891994+00:00",
       "groups": [
         {
           "name": "لیگ غرب آسیا",
@@ -2067,7 +2067,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 4,
-      "updatedAt": "2026-10-21T03:24:20.899512+00:00",
+      "updatedAt": "2026-10-21T11:12:56.880115+00:00",
       "groups": [
         {
           "name": "گروهی ",
@@ -2412,7 +2412,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 5,
-      "updatedAt": "2026-10-21T03:24:23.773457+00:00",
+      "updatedAt": "2026-10-21T11:12:59.476379+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -3024,7 +3024,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 6,
-      "updatedAt": "2026-10-21T03:24:27.262356+00:00",
+      "updatedAt": "2026-10-21T11:13:06.482232+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4078,7 +4078,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 7,
-      "updatedAt": "2026-10-21T03:24:30.235034+00:00",
+      "updatedAt": "2026-10-21T11:13:16.482426+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4541,7 +4541,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 8,
-      "updatedAt": "2026-10-21T03:24:32.718664+00:00",
+      "updatedAt": "2026-10-21T11:13:21.255284+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -5600,7 +5600,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 9,
-      "updatedAt": "2026-10-21T03:24:34.512446+00:00",
+      "updatedAt": "2026-10-21T11:13:24.711590+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -5614,7 +5614,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 10,
-      "updatedAt": "2026-10-21T03:24:36.858307+00:00",
+      "updatedAt": "2026-10-21T11:13:30.484988+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -6077,7 +6077,7 @@
       "country": "EU",
       "flag": "🇪🇺",
       "priority": 11,
-      "updatedAt": "2026-10-21T03:24:38.648163+00:00",
+      "updatedAt": "2026-10-21T11:13:37.914565+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6091,7 +6091,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 12,
-      "updatedAt": "2026-10-21T03:24:40.179834+00:00",
+      "updatedAt": "2026-10-21T11:13:41.696825+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6105,7 +6105,7 @@
       "country": "US",
       "flag": "🏆",
       "priority": 13,
-      "updatedAt": "2026-10-21T03:24:42.118683+00:00",
+      "updatedAt": "2026-10-21T11:13:44.599381+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6119,7 +6119,7 @@
       "country": "WO",
       "flag": "🤝",
       "priority": 14,
-      "updatedAt": "2026-10-21T03:24:43.758961+00:00",
+      "updatedAt": "2026-10-21T11:13:49.503798+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -9709,9 +9709,9 @@
       "date": "1405/07/29",
       "dateIso": "2027-01-29",
       "time": "05:00",
-      "status": 2,
-      "statusFa": "شروع نشده",
-      "statusShort": "شروع نشده",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
       "isLive": false,
       "host": {
         "id": 902791,
@@ -9725,8 +9725,8 @@
         "shortName": "اوکلاهاما سیتی تاندر",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dzn4tahc.png?w=144"
       },
-      "hostScore": null,
-      "guestScore": null,
+      "hostScore": 104,
+      "guestScore": 116,
       "quarters": [
         {
           "quarter": 1,
@@ -9740,11 +9740,16 @@
         },
         {
           "quarter": 3,
-          "host": 14,
-          "guest": 3
+          "host": 36,
+          "guest": 28
+        },
+        {
+          "quarter": 4,
+          "host": 24,
+          "guest": 23
         }
       ],
-      "winner": null,
+      "winner": "host",
       "url": "https://www.varzesh3.com/basketball/match/180007/بازی-سن-آنتونیو-اسپرز-اوکلاهاما-سیتی-تاندر"
     },
     {
@@ -22513,5 +22518,5 @@
   "liveCount": 0,
   "staleDropped": 1,
   "version": 2,
-  "generatedAt": "2026-10-21T03:24:44.772367+00:00"
+  "generatedAt": "2026-10-21T11:13:50.813705+00:00"
 }
