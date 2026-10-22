@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T11:11:58.054107+00:00",
-  "count": 60,
+  "generatedAt": "2026-10-22T16:40:06.986750+00:00",
+  "count": 66,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 5
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 121
+      "items": 113
     },
     {
       "source": "bbc",
@@ -21,11 +21,151 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -78,
+      "items": -69,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "isna-8f6901e03764",
+      "title": "شکست استقلال در هفته نخست لیگ برتر بسکتبال",
+      "summary": "تیم بسکتبال استقلال تهران در نخستین دیدار خود در فصل جدید لیگ برتر باشگاه‌های کشور برابر نفت آبادان شکست خورد.",
+      "url": "https://www.isna.ir/news/1405073020635/%D8%B4%DA%A9%D8%B3%D8%AA-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%AF%D8%B1-%D9%87%D9%81%D8%AA%D9%87-%D9%86%D8%AE%D8%B3%D8%AA-%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84",
+      "imageUrl": "https://cdn.isna.ir/d/2026/10/22/4/64024896.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "ورزشی > توپ و تور",
+      "publishedAt": "2026-10-22T16:38:59+00:00"
+    },
+    {
+      "id": "isna-291902ccafd0",
+      "title": "سرمربی تیم بسکتبال گلنور: در آینده حرف‌های زیادی برای گفتن داریم",
+      "summary": "سرمربی تیم بسکتبال گلنور اصفهان با اشاره به شکست نزدیک تیمش برابر زاگرس جهرم در هفته نخست لیگ برتر بسکتبال گفت: بازیکنانم تمام تلاش خود را به کار گرفتند، اما در لحظات حساس مسابقه، برخی اشتباهات و بی‌دقتی‌ها مانع از کسب پیروزی شد. تلاش می‌کنیم این اشتباهات را کاهش دهیم و در دیدارهای آینده عملکرد بهتری داشته باشیم.",
+      "url": "https://www.isna.ir/news/1405073020634/%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D8%AA%DB%8C%D9%85-%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%DA%AF%D9%84%D9%86%D9%88%D8%B1-%D8%AF%D8%B1-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D8%AD%D8%B1%D9%81-%D9%87%D8%A7%DB%8C-%D8%B2%DB%8C%D8%A7%D8%AF%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%AF%D9%81%D8%AA%D9%86-%D8%AF%D8%A7%D8%B1%DB%8C%D9%85",
+      "imageUrl": "https://cdn.isna.ir/d/off/isfahan/2026/10/22/4/64024679.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > اصفهان",
+      "publishedAt": "2026-10-22T16:37:57+00:00"
+    },
+    {
+      "id": "isna-5963f5542ab7",
+      "title": "شکست نزدیک جوانان گلنور مقابل تیم پرمهره زاگرس جهرم",
+      "summary": "تیم بسکتبال گلنور اصفهان در هفته نخست لیگ برتر بسکتبال مردان کشور، در دیداری نزدیک مقابل نفت‌وگاز زاگرس جنوبی جهرم با نتیجه ۷۴ بر ۷۱ شکست خورد.",
+      "url": "https://www.isna.ir/news/1405073020633/%D8%B4%DA%A9%D8%B3%D8%AA-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9-%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86-%DA%AF%D9%84%D9%86%D9%88%D8%B1-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%DB%8C%D9%85-%D9%BE%D8%B1%D9%85%D9%87%D8%B1%D9%87-%D8%B2%D8%A7%DA%AF%D8%B1%D8%B3-%D8%AC%D9%87%D8%B1%D9%85",
+      "imageUrl": "https://cdn.isna.ir/d/off/isfahan/2026/10/22/4/64024667.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > اصفهان",
+      "publishedAt": "2026-10-22T16:34:22+00:00"
+    },
+    {
+      "id": "isna-f452c14e047e",
+      "title": "هفته نخست لیگ برتر بسکتبال ؛ پالایش نفت آبادان - استقلال تهران",
+      "summary": "",
+      "url": "https://www.isna.ir/photo/1405073020623/%D9%87%D9%81%D8%AA%D9%87-%D9%86%D8%AE%D8%B3%D8%AA-%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4-%D9%86%D9%81%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%AA%D9%87%D8%B1%D8%A7%D9%86",
+      "imageUrl": "https://cdn.isna.ir/d/2026/10/22/4/64024737.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "عکس > استان‌ها",
+      "publishedAt": "2026-10-22T16:16:27+00:00"
+    },
+    {
+      "id": "varzesh3-2438525",
+      "title": "شلیک‌های سه امتیازی گرگان به سبد پدافند!",
+      "summary": "تیم بسکتبال شهرداری گرگان در روز درخشان بازیکنانش توانست تیم رعد پدافند بابل را شکست دهد.",
+      "url": "https://www.varzesh3.com/news/2438525/شلیک-های-سه-امتیازی-گرگان-به-سبد-پدافند",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/22/D/imwlzoqd.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-22T16:10:17Z",
+      "views": "550",
+      "comments": "4"
+    },
+    {
+      "id": "varzesh3-2438524",
+      "title": "‏نزدیک‌ترین تقابل لیگ بسکتبال به سود جهرم!",
+      "summary": "تیم نفت و گاز زاگرس جنوبی جهرم توانست گلنور را در اصفهان شکست دهد و برد مهمی را به دست آورد.",
+      "url": "https://www.varzesh3.com/news/2438524/نزدیک-ترین-تقابل-لیگ-بسکتبال-به-سود-جهرم",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/22/D/zzdcz1ul.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-22T16:08:39Z",
+      "views": "254",
+      "comments": "0"
+    },
+    {
+      "id": "isna-c4c657b6c448",
+      "title": "پورموسوی: امانت مردم خوزستان و آبادان را در لیگ حفظ می‌کنیم",
+      "summary": "سرمربی تیم فوتبال صنعت نفت آبادان با اشاره به مشکلات بدنی تیمش و فاصله کم بین دیدارها، ابراز امیدواری کرد تیمش تا پایان فصل در لیگ بماند.",
+      "url": "https://www.isna.ir/news/1405073020616/%D9%BE%D9%88%D8%B1%D9%85%D9%88%D8%B3%D9%88%DB%8C-%D8%A7%D9%85%D8%A7%D9%86%D8%AA-%D9%85%D8%B1%D8%AF%D9%85-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86-%D9%88-%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86-%D8%B1%D8%A7-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D8%AD%D9%81%D8%B8-%D9%85%DB%8C-%DA%A9%D9%86%DB%8C%D9%85",
+      "imageUrl": "https://cdn.isna.ir/d/2017/11/06/4/57588184.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > آذربایجان شرقی",
+      "publishedAt": "2026-10-22T16:03:22+00:00"
+    },
+    {
+      "id": "varzesh3-2438513",
+      "title": "گچساران اولین قربانی نمایش هجومی طبیعت!",
+      "summary": "‏تیم طبیعت اسلامشهر با یک نمایش هجومی و درخشان اولین 2 امتیاز فصل را به دست آورد و مقابل نفت و گاز گچساران به پیروزی رسید.",
+      "url": "https://www.varzesh3.com/news/2438513/گچساران-اولین-قربانی-نمایش-هجومی-طبیعت",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/22/D/l4ij4wki.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-22T15:35:15Z",
+      "views": "1.1K",
+      "comments": "0"
+    },
+    {
+      "id": "varzesh3-2438501",
+      "title": "استقلال فصل جدید را با شکست آغاز کرد",
+      "summary": "استقلال در نخستین مسابقه فصل جدید لیگ برتر بسکتبال، با نتیجه ۷۹ بر ۷۳ برابر پالایش نفت آبادان شکست خورد.",
+      "url": "https://www.varzesh3.com/news/2438501/استقلال-فصل-جدید-را-با-شکست-آغاز-کرد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/22/D/j0qrtdzu.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-22T14:45:34Z",
+      "views": "6.2K",
+      "comments": "4"
+    },
+    {
+      "id": "varzesh3-2438472",
+      "title": "کاله با تئوریسن جدید و همان ستاره همیشگی!",
+      "summary": "کاله مازندران در اولین حضور رسمی مخدومی روی نیمکت تیم‌شان امروز مقابل پاس کردستان قرار خواهد گرفت.",
+      "url": "https://www.varzesh3.com/news/2438472/کاله-با-تئوریسن-جدید-و-همان-ستاره-همیشگی",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/22/C/35lud5z2.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-22T12:49:40Z",
+      "views": "3.3K",
+      "comments": "0"
+    },
     {
       "id": "varzesh3-2438410",
       "title": "اتفاق تازه لیگ برتر بسکتبال: دربی شمال!",
@@ -38,8 +178,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T09:38:04Z",
-      "views": "1.2K",
-      "comments": "3"
+      "views": "2.8K",
+      "comments": "4"
     },
     {
       "id": "varzesh3-2438400",
@@ -53,7 +193,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T09:02:01Z",
-      "views": "2.6K",
+      "views": "4.5K",
       "comments": "1"
     },
     {
@@ -68,7 +208,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T08:41:57Z",
-      "views": "2.2K",
+      "views": "3.2K",
       "comments": "4"
     },
     {
@@ -83,7 +223,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T18:57:27Z",
-      "views": "12.4K",
+      "views": "12.7K",
       "comments": "5"
     },
     {
@@ -98,7 +238,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T15:44:50Z",
-      "views": "8.7K",
+      "views": "8.8K",
       "comments": "2"
     },
     {
@@ -114,7 +254,7 @@
       "category": "ورزشی",
       "publishedAt": "2026-10-21T10:14:00Z",
       "views": "4.9K",
-      "comments": "3"
+      "comments": "5"
     },
     {
       "id": "varzesh3-2438166",
@@ -128,7 +268,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T09:52:09Z",
-      "views": "11.9K",
+      "views": "12.3K",
       "comments": "5"
     },
     {
@@ -143,7 +283,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T09:27:37Z",
-      "views": "6.2K",
+      "views": "6.4K",
       "comments": "0"
     },
     {
@@ -173,7 +313,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T07:26:54Z",
-      "views": "1.9K",
+      "views": "2K",
       "comments": "3"
     },
     {
@@ -201,7 +341,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T18:06:11Z",
-      "views": "7.8K",
+      "views": "7.9K",
       "comments": "1"
     },
     {
@@ -216,7 +356,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T16:43:57Z",
-      "views": "14.3K",
+      "views": "14.4K",
       "comments": "7"
     },
     {
@@ -259,7 +399,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T08:07:02Z",
-      "views": "16.2K",
+      "views": "16.3K",
       "comments": "3"
     },
     {
@@ -302,7 +442,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-19T20:50:50Z",
-      "views": "10.8K",
+      "views": "10.9K",
       "comments": "3"
     },
     {
@@ -317,7 +457,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-19T18:45:29Z",
-      "views": "6.9K",
+      "views": "7K",
       "comments": "1"
     },
     {
@@ -437,36 +577,6 @@
       "publishedAt": "2026-10-18T07:27:02Z",
       "views": "5.6K",
       "comments": "5"
-    },
-    {
-      "id": "varzesh3-2437205",
-      "title": "غول فرانسوی شانس اصلی MVP فصل جدید NBA",
-      "summary": "در آستانه شروع مسابقات NBA نظرسنجی بین مدیران تیم‌ها برگزار شد که نتیجه آن برتری مطلق ومبانیاما بود.",
-      "url": "https://www.varzesh3.com/news/2437205/غول-فرانسوی-شانس-اصلی-mvp-فصل-جدید-nba",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/18/B/nznqjwq1.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-18T06:58:34Z",
-      "views": "7.8K",
-      "comments": "4"
-    },
-    {
-      "id": "varzesh3-2437175",
-      "title": "دوئل غول‌های اروپایی NBA: دانچیچ برابر یوکیچ!",
-      "summary": "آخرین شب پیش‌فصل در لس‌آنجلس به نام ستاره صربستانی سند خورد؛ دنور ناگتس با رهبری نیکولا یوکیچ، لیکرزِ لوکا دانچیچ را شکست داد.",
-      "url": "https://www.varzesh3.com/news/2437175/دوئل-غول-های-اروپایی-nba-دانچیچ-برابر-یوکیچ",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/18/A/omuixqtr.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-17T21:36:12Z",
-      "views": "9K",
-      "comments": "1"
     },
     {
       "id": "varzesh3-2437159",
@@ -718,36 +828,6 @@
       "publishedAt": "2026-10-12T18:33:58Z",
       "views": "5.5K",
       "comments": "2"
-    },
-    {
-      "id": "varzesh3-2435609",
-      "title": "برنامه سه هفته لیگ‌برتر بسکتبال مشخص شد",
-      "summary": "لیگ برتر بسکتبال ایران از ۳۰ مهر با برگزاری شش دیدار سما آغاز خواهد شد.",
-      "url": "https://www.varzesh3.com/news/2435609/برنامه-سه-هفته-لیگ-برتر-بسکتبال-مشخص-شد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/11/A/bcofsx2s.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-11T19:41:00Z",
-      "views": "3.6K",
-      "comments": "4"
-    },
-    {
-      "id": "varzesh3-2435551",
-      "title": "قضاوت داور ایرانی در دو فینال بسکتبال آسیا",
-      "summary": "مهسا کارگری با قضاوت در فینال بسکتبال زنان بازی‌های آسیایی ناگویا ۲۰۲۶ و فینال کاپ آسیا زیر ۱۸ سال دختران اتفاق جالبی را در تاریخ داوری بسکتبال ایران ثبت کرد.",
-      "url": "https://www.varzesh3.com/news/2435551/قضاوت-داور-ایرانی-در-دو-فینال-بسکتبال-آسیا",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/11/D/y2poofux.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-11T15:37:24Z",
-      "views": "7.4K",
-      "comments": "5"
     },
     {
       "id": "bbc-03a16270c2eb",
