@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T03:23:30.288535+00:00",
+  "generatedAt": "2026-10-22T11:11:58.054107+00:00",
   "count": 60,
   "sources": [
     {
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 128
+      "items": 121
     },
     {
       "source": "bbc",
@@ -21,14 +21,59 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -85,
+      "items": -78,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
     {
+      "id": "varzesh3-2438410",
+      "title": "اتفاق تازه لیگ برتر بسکتبال: دربی شمال!",
+      "summary": "امروز دربی جدیدی در شمال ایران و لیگ برتر بسکتبال ایران برگزار خواهد شد.",
+      "url": "https://www.varzesh3.com/news/2438410/اتفاق-تازه-لیگ-برتر-بسکتبال-دربی-شمال",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/22/C/qdnnuxzz.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-22T09:38:04Z",
+      "views": "1.2K",
+      "comments": "3"
+    },
+    {
+      "id": "varzesh3-2438400",
+      "title": "فینال زودرس در هفته اول: استقلال در پی فتح آبادان",
+      "summary": "استقلال با مجموعه‌ای از ستاره‌های ملی‌پوش و خریدهای مطرح، فصل جدید لیگ برتر بسکتبال را با یک آزمون دشوار مقابل پالایش نفت آبادان آغاز می‌کند.",
+      "url": "https://www.varzesh3.com/news/2438400/فینال-زودرس-در-هفته-اول-استقلال-در-پی-فتح-آبادان",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/22/B/jcumr1t0.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-22T09:02:01Z",
+      "views": "2.6K",
+      "comments": "1"
+    },
+    {
+      "id": "varzesh3-2438396",
+      "title": "گچسارانی‌ها به دنبال شگفتی‌ در افتتاحیه بسکتبال!",
+      "summary": "دیدار تیم‌های طبیعت اسلامشهر و نفت و گاز گچساران در هفته نخست لیگ برتر بسکتبال امروز در تالار مشحون برگزار خواهد شد.",
+      "url": "https://www.varzesh3.com/news/2438396/گچسارانی-ها-به-دنبال-شگفتی-در-افتتاحیه-بسکتبال",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/22/B/vw0p5rsx.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-22T08:41:57Z",
+      "views": "2.2K",
+      "comments": "4"
+    },
+    {
       "id": "varzesh3-2438287",
-      "title": "کتک‌کاری NBA و کتم خوردن غول تاندرز ترند شد !",
+      "title": "کتک‌کاری NBA و زمین خوردن غول تاندرز ترند شد !",
       "summary": "درگیری شدید بازیکنان اسپرز و تاندرز واکنش های زیادی به همراه داشت و سوژه اصلی شب اول مسابقات ان بی ای بود.",
       "url": "https://www.varzesh3.com/news/2438287/کتک-کاری-nba-و-کتم-خوردن-غول-تاندرز-ترند-شد",
       "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/21/D/k31aojo4.webp",
@@ -38,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T18:57:27Z",
-      "views": "9.4K",
+      "views": "12.4K",
       "comments": "5"
     },
     {
@@ -53,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T15:44:50Z",
-      "views": "7.7K",
+      "views": "8.7K",
       "comments": "2"
     },
     {
@@ -68,8 +113,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T10:14:00Z",
-      "views": "4.7K",
-      "comments": "2"
+      "views": "4.9K",
+      "comments": "3"
     },
     {
       "id": "varzesh3-2438166",
@@ -83,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T09:52:09Z",
-      "views": "11.1K",
+      "views": "11.9K",
       "comments": "5"
     },
     {
@@ -98,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T09:27:37Z",
-      "views": "6K",
+      "views": "6.2K",
       "comments": "0"
     },
     {
@@ -128,7 +173,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T07:26:54Z",
-      "views": "1.7K",
+      "views": "1.9K",
       "comments": "3"
     },
     {
@@ -156,7 +201,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T18:06:11Z",
-      "views": "7.7K",
+      "views": "7.8K",
       "comments": "1"
     },
     {
@@ -229,7 +274,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T08:05:29Z",
-      "views": "3.1K",
+      "views": "3.2K",
       "comments": "1"
     },
     {
@@ -257,7 +302,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-19T20:50:50Z",
-      "views": "10.7K",
+      "views": "10.8K",
       "comments": "3"
     },
     {
@@ -287,7 +332,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-19T12:10:40Z",
-      "views": "5.4K",
+      "views": "5.5K",
       "comments": "1"
     },
     {
@@ -302,7 +347,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-19T11:49:16Z",
-      "views": "5.1K",
+      "views": "5.2K",
       "comments": "3"
     },
     {
@@ -360,7 +405,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T18:13:04Z",
-      "views": "19.1K",
+      "views": "19.2K",
       "comments": "0"
     },
     {
@@ -375,7 +420,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T12:26:01Z",
-      "views": "7.6K",
+      "views": "7.7K",
       "comments": "1"
     },
     {
@@ -390,7 +435,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T07:27:02Z",
-      "views": "5.5K",
+      "views": "5.6K",
       "comments": "5"
     },
     {
@@ -420,7 +465,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-17T21:36:12Z",
-      "views": "8.9K",
+      "views": "9K",
       "comments": "1"
     },
     {
@@ -512,21 +557,6 @@
       "comments": "1"
     },
     {
-      "id": "varzesh3-2436897",
-      "title": "دنیای بسکتبال هم عاشق پپ گواردیولا!",
-      "summary": "پپ گواردیولا که برای تماشای مسابقه تیم محبوبش بارسلونا به سالن بسکتبال باشگاه رفته بود همه حواس‌ها را از بازی پرت کرد.",
-      "url": "https://www.varzesh3.com/news/2436897/دنیای-بسکتبال-هم-عاشق-پپ-گواردیولا",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/17/A/gkwgm124.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-16T21:04:56Z",
-      "views": "42.4K",
-      "comments": "31"
-    },
-    {
       "id": "varzesh3-2436835",
       "title": "شکست زنان بسکتبال با ویلچر در گام اول",
       "summary": "تیم ملی بسکتبال با ویلچر زنان ایران در نخستین دیدار خود مقابل میزبان بازی‌های پاراآسیایی ناگویا شکست خورد.",
@@ -568,7 +598,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-15T11:52:13Z",
-      "views": "19.1K",
+      "views": "19.2K",
       "comments": "1"
     },
     {
@@ -705,21 +735,6 @@
       "comments": "4"
     },
     {
-      "id": "varzesh3-2435579",
-      "title": "گنگ‌ترین تیم لیگ اینجاست: جهرم! (عکس)",
-      "summary": "ظاهر خاص چند بازیکن تیم نفت زاگرس جنوبی جهرم چهره جالبی به این تیم در مسابقات پیش فصل بسکتبال داده است.",
-      "url": "https://www.varzesh3.com/news/2435579/گنگ-ترین-تیم-لیگ-اینجاست-جهرم-عکس",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/11/D/hmsgeop4.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-11T17:34:34Z",
-      "views": "16.3K",
-      "comments": "3"
-    },
-    {
       "id": "varzesh3-2435551",
       "title": "قضاوت داور ایرانی در دو فینال بسکتبال آسیا",
       "summary": "مهسا کارگری با قضاوت در فینال بسکتبال زنان بازی‌های آسیایی ناگویا ۲۰۲۶ و فینال کاپ آسیا زیر ۱۸ سال دختران اتفاق جالبی را در تاریخ داوری بسکتبال ایران ثبت کرد.",
@@ -733,21 +748,6 @@
       "publishedAt": "2026-10-11T15:37:24Z",
       "views": "7.4K",
       "comments": "5"
-    },
-    {
-      "id": "varzesh3-2435344",
-      "title": "برد طبیعت، آبادان و استقلال در روز دوم پیش‌فصل",
-      "summary": "تیم‌های طبیعت، پالایش آبادان و استقلال در روز دوم مسابقات پیش فصل بسکتبال برنده از زمین خارج شدند.",
-      "url": "https://www.varzesh3.com/news/2435344/برد-طبیعت-آبادان-و-استقلال-در-روز-دوم-پیش-فصل",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/10/D/zsjpggik.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-10T18:32:02Z",
-      "views": "6.9K",
-      "comments": "3"
     },
     {
       "id": "bbc-03a16270c2eb",
