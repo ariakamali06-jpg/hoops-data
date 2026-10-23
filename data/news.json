@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T11:03:09.272143+00:00",
-  "count": 61,
+  "generatedAt": "2026-10-23T16:30:07.809679+00:00",
+  "count": 62,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 2
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 107
+      "items": 108
     },
     {
       "source": "bbc",
@@ -21,11 +21,52 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -63,
+      "items": -65,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "isna-e9575d49aaf9",
+      "title": "سرمربی آلومینیوم: در پایان فصل، جایگاه بسیار خوبی خواهیم داشت",
+      "summary": "سرمربی تیم فوتبال آلومینیوم اراک پس از تساوی خانگی تیمش برابر ذوب‌آهن اصفهان، از نمایش شاگردانش به ویژه در نیمه دوم تمجید و بر لزوم تغییر ذهنیت و ساختن یک تیم رقابتی تأکید کرد.",
+      "url": "https://www.isna.ir/news/1405080100313/%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85-%D8%AF%D8%B1-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%81%D8%B5%D9%84-%D8%AC%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1-%D8%AE%D9%88%D8%A8%DB%8C-%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85-%D8%AF%D8%A7%D8%B4%D8%AA",
+      "imageUrl": "https://cdn.isna.ir/d/2026/10/23/4/64025862.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > مرکزی",
+      "publishedAt": "2026-10-23T16:05:32+00:00"
+    },
+    {
+      "id": "isna-c6aa12341b3c",
+      "title": "سرمربی ذوب‌آهن اصفهان: با وجود غیبت ۶ بازیکن در برابر آلومینیوم نمایش منظمی داشتیم",
+      "summary": "سرمربی تیم فوتبال ذوب‌آهن اصفهان پس از تساوی خارج از خانه تیمش برابر آلومینیوم اراک، بازی را فشرده و تاکتیکی توصیف و از کسب امتیاز در این دیدار دشوار ابراز رضایت کرد.",
+      "url": "https://www.isna.ir/news/1405080100307/%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D8%B0%D9%88%D8%A8-%D8%A2%D9%87%D9%86-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%A8%D8%A7-%D9%88%D8%AC%D9%88%D8%AF-%D8%BA%DB%8C%D8%A8%D8%AA-%DB%B6-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85",
+      "imageUrl": "https://cdn.isna.ir/d/2026/10/23/4/64025847.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > مرکزی",
+      "publishedAt": "2026-10-23T15:42:33+00:00"
+    },
+    {
+      "id": "varzesh3-2438712",
+      "title": "نقره بسکتبال با ویلچر ناگویا به ایران رسید",
+      "summary": "تیم ملی بسکتبال با ویلچر مردان ایران در دیدار فینال بازی‌های پاراآسیایی ناگویا ۲۰۲۶، با شکست برابر ژاپن، به مدال نقره دست یافت.",
+      "url": "https://www.varzesh3.com/news/2438712/نقره-بسکتبال-با-ویلچر-ناگویا-به-ایران-رسید",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/23/C/4kdtvdhf.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-23T12:04:07Z",
+      "views": "8.3K",
+      "comments": "7"
+    },
     {
       "id": "varzesh3-2438667",
       "title": "دبل‌دبل‌های ناب بسکتبال ایران: دود از کنده بلند شد!",
@@ -38,8 +79,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T09:35:30Z",
-      "views": "6K",
-      "comments": "1"
+      "views": "11.3K",
+      "comments": "2"
     },
     {
       "id": "varzesh3-2438638",
@@ -53,7 +94,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T07:37:14Z",
-      "views": "2.3K",
+      "views": "3.4K",
       "comments": "0"
     },
     {
@@ -68,8 +109,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T07:02:44Z",
-      "views": "15K",
-      "comments": "9"
+      "views": "22.7K",
+      "comments": "10"
     },
     {
       "id": "varzesh3-2438621",
@@ -83,7 +124,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T06:58:06Z",
-      "views": "3.2K",
+      "views": "4.2K",
       "comments": "0"
     },
     {
@@ -111,23 +152,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T05:23:36Z",
-      "views": "4.5K",
+      "views": "5.3K",
       "comments": "4"
-    },
-    {
-      "id": "varzesh3-2438599",
-      "title": "زنده از ناگویا: روز آسمان‌خراش‌های ایران فرا رسید!",
-      "summary": "در روز پنجم بازی‌های پاراآسیایی تیم‌های ملی بسکتبال با ویلچر و والیبال نشسته برای کسب مدال طلا به میدان می‌روند.",
-      "url": "https://www.varzesh3.com/news/2438599/زنده-از-ناگویا-روز-آسمان-خراش-های-ایران-فرا-رسید",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/23/B/dzodq1tf.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-23T00:30:00Z",
-      "views": "71.6K",
-      "comments": "23"
     },
     {
       "id": "bbc-7fbdf13200dd",
@@ -154,7 +180,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T17:02:20Z",
-      "views": "4.6K",
+      "views": "4.7K",
       "comments": "0"
     },
     {
@@ -169,7 +195,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T16:10:17Z",
-      "views": "4.9K",
+      "views": "5K",
       "comments": "10"
     },
     {
@@ -214,7 +240,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T14:45:34Z",
-      "views": "14.7K",
+      "views": "14.9K",
       "comments": "8"
     },
     {
@@ -289,7 +315,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T18:57:27Z",
-      "views": "13.2K",
+      "views": "13.3K",
       "comments": "5"
     },
     {
@@ -334,7 +360,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T09:52:09Z",
-      "views": "13.6K",
+      "views": "13.8K",
       "comments": "5"
     },
     {
@@ -349,7 +375,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T09:27:37Z",
-      "views": "6.6K",
+      "views": "6.7K",
       "comments": "0"
     },
     {
@@ -566,7 +592,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T18:13:04Z",
-      "views": "19.4K",
+      "views": "19.5K",
       "comments": "0"
     },
     {
@@ -761,21 +787,6 @@
       "publishedAt": "2026-10-13T17:23:18Z",
       "views": "11.8K",
       "comments": "3"
-    },
-    {
-      "id": "varzesh3-2436088",
-      "title": "نقش جدید لبران جیمز در تیم بسکتبال فیلادلفیا",
-      "summary": "لبران جیمز در فصل جدید NBA با حضور در تیم فیلادلفیا می‌تواند بیش از گذشته روی پاس گل و ریباند تمرکز کند.",
-      "url": "https://www.varzesh3.com/news/2436088/نقش-جدید-لبران-جیمز-در-تیم-بسکتبال-فیلادلفیا",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/13/C/hllzd5ud.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-13T12:55:56Z",
-      "views": "12.4K",
-      "comments": "2"
     },
     {
       "id": "bbc-589359499fa3",
