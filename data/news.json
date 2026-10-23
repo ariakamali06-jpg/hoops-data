@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T16:30:07.809679+00:00",
-  "count": 62,
+  "generatedAt": "2026-10-23T21:01:12.766316+00:00",
+  "count": 61,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 2
+      "items": 0
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 108
+      "items": 107
     },
     {
       "source": "bbc",
@@ -21,36 +21,85 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -65,
+      "items": -63,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
     {
-      "id": "isna-e9575d49aaf9",
-      "title": "سرمربی آلومینیوم: در پایان فصل، جایگاه بسیار خوبی خواهیم داشت",
-      "summary": "سرمربی تیم فوتبال آلومینیوم اراک پس از تساوی خانگی تیمش برابر ذوب‌آهن اصفهان، از نمایش شاگردانش به ویژه در نیمه دوم تمجید و بر لزوم تغییر ذهنیت و ساختن یک تیم رقابتی تأکید کرد.",
-      "url": "https://www.isna.ir/news/1405080100313/%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85-%D8%AF%D8%B1-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%81%D8%B5%D9%84-%D8%AC%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1-%D8%AE%D9%88%D8%A8%DB%8C-%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D9%85-%D8%AF%D8%A7%D8%B4%D8%AA",
-      "imageUrl": "https://cdn.isna.ir/d/2026/10/23/4/64025862.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
+      "id": "varzesh3-2438828",
+      "title": "بهترین ریباندر هفته دبل‌دبل نکرد!",
+      "summary": "خشایار علی‌اکبری گارد تیم کاله نمایشی مقابل پاس ارائه کرد که تماشایی بود اما یک بدشانسی بزرگ هم برای او به همراه داشت.",
+      "url": "https://www.varzesh3.com/news/2438828/بهترین-ریباندر-هفته-دبل-دبل-نکرد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/23/D/1ih5112f.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
       "language": "fa",
-      "category": "استان‌ها > مرکزی",
-      "publishedAt": "2026-10-23T16:05:32+00:00"
+      "category": "ورزشی",
+      "publishedAt": "2026-10-23T19:25:19Z",
+      "views": "2.2K",
+      "comments": "0"
     },
     {
-      "id": "isna-c6aa12341b3c",
-      "title": "سرمربی ذوب‌آهن اصفهان: با وجود غیبت ۶ بازیکن در برابر آلومینیوم نمایش منظمی داشتیم",
-      "summary": "سرمربی تیم فوتبال ذوب‌آهن اصفهان پس از تساوی خارج از خانه تیمش برابر آلومینیوم اراک، بازی را فشرده و تاکتیکی توصیف و از کسب امتیاز در این دیدار دشوار ابراز رضایت کرد.",
-      "url": "https://www.isna.ir/news/1405080100307/%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D8%B0%D9%88%D8%A8-%D8%A2%D9%87%D9%86-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%A8%D8%A7-%D9%88%D8%AC%D9%88%D8%AF-%D8%BA%DB%8C%D8%A8%D8%AA-%DB%B6-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85",
-      "imageUrl": "https://cdn.isna.ir/d/2026/10/23/4/64025847.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
+      "id": "varzesh3-2438807",
+      "title": "نتایج هفته نهم لیگ برتر: جنون در ثانیه‌های پایانی",
+      "summary": "گهر زمین در ثانیه‌های پایانی به سه امتیاز چنگ زد و گیتی پسند در لحظات آخر کامبک فوق العاده‌اش را از دست داد و سن ایچ، طبق معمول باخت، این بار به تیم دومِ مس سونگون!",
+      "url": "https://www.varzesh3.com/news/2438807/نتایج-هفته-نهم-لیگ-برتر-جنون-در-ثانیه-های-پایانی",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/23/D/lclsn4f1.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
       "language": "fa",
-      "category": "استان‌ها > مرکزی",
-      "publishedAt": "2026-10-23T15:42:33+00:00"
+      "category": "ورزشی",
+      "publishedAt": "2026-10-23T18:17:32Z",
+      "views": "7.8K",
+      "comments": "0"
+    },
+    {
+      "id": "varzesh3-2438803",
+      "title": "کمک‌خلبان نوزده‌ساله در کابین اروینگ افسانه‌ای!",
+      "summary": "بازگشت کایری اروینگ از مصدومیت و حضور کوپر فلگ به یکی از جذابیت‌های دالاس در فصل جدید و مسابقات NBA تبدیل شده که از همین ابتدای فصل خبرساز شده است.",
+      "url": "https://www.varzesh3.com/news/2438803/کمک-خلبان-نوزده-ساله-در-کابین-اروینگ-افسانه-ای",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/23/D/kl5gr1fz.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-23T18:01:46Z",
+      "views": "5K",
+      "comments": "0"
+    },
+    {
+      "id": "varzesh3-2438802",
+      "title": "روز موفق مثلث خارجی در بسکتبال ایران!",
+      "summary": "در روزهایی که بازیکنان خارجی کم‌تعدادی در لیگ بسکتبال ایران بازی می‌کنند، سه بازیکن شاغل در ایران نمایش خوبی در هفته نخست داشتند.",
+      "url": "https://www.varzesh3.com/news/2438802/روز-موفق-مثلث-خارجی-در-بسکتبال-ایران",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/23/D/bv0sfbay.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-23T17:59:34Z",
+      "views": "3K",
+      "comments": "0"
+    },
+    {
+      "id": "varzesh3-2438781",
+      "title": "تلفات سنگین نفت آبادان در تقابل با استقلال!",
+      "summary": "سالار منجی در بازی با استقلال با شکستگی استخوان به مدت 10 هفته از میادین دور خواهد بود.",
+      "url": "https://www.varzesh3.com/news/2438781/تلفات-سنگین-نفت-آبادان-در-تقابل-با-استقلال",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/23/D/5ea3jn52.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-23T16:41:28Z",
+      "views": "9.4K",
+      "comments": "2"
     },
     {
       "id": "varzesh3-2438712",
@@ -64,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T12:04:07Z",
-      "views": "8.3K",
+      "views": "12K",
       "comments": "7"
     },
     {
@@ -79,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T09:35:30Z",
-      "views": "11.3K",
+      "views": "12.8K",
       "comments": "2"
     },
     {
@@ -94,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T07:37:14Z",
-      "views": "3.4K",
+      "views": "4K",
       "comments": "0"
     },
     {
@@ -109,7 +158,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T07:02:44Z",
-      "views": "22.7K",
+      "views": "26.2K",
       "comments": "10"
     },
     {
@@ -124,7 +173,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T06:58:06Z",
-      "views": "4.2K",
+      "views": "4.7K",
       "comments": "0"
     },
     {
@@ -152,8 +201,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T05:23:36Z",
-      "views": "5.3K",
-      "comments": "4"
+      "views": "5.6K",
+      "comments": "5"
     },
     {
       "id": "bbc-7fbdf13200dd",
@@ -180,7 +229,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T17:02:20Z",
-      "views": "4.7K",
+      "views": "4.8K",
       "comments": "0"
     },
     {
@@ -210,8 +259,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T16:08:39Z",
-      "views": "3K",
-      "comments": "0"
+      "views": "3.1K",
+      "comments": "1"
     },
     {
       "id": "varzesh3-2438513",
@@ -315,7 +364,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T18:57:27Z",
-      "views": "13.3K",
+      "views": "13.4K",
       "comments": "5"
     },
     {
@@ -360,7 +409,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T09:52:09Z",
-      "views": "13.8K",
+      "views": "13.9K",
       "comments": "5"
     },
     {
@@ -375,7 +424,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T09:27:37Z",
-      "views": "6.7K",
+      "views": "6.8K",
       "comments": "0"
     },
     {
@@ -422,36 +471,6 @@
       "publishedAt": "2026-10-21T06:34:15+00:00"
     },
     {
-      "id": "varzesh3-2438022",
-      "title": "‏کانادا دوباره با کووای عاشق شد!",
-      "summary": "بازگشت کووای لنارد به تورنتو رپترز فصل جدید NBA را برای کانادایی‌ها مهم‌تر از همیشه کرده است.",
-      "url": "https://www.varzesh3.com/news/2438022/کانادا-دوباره-با-کووای-عاشق-شد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/20/D/asvfa0nu.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-20T18:06:11Z",
-      "views": "8K",
-      "comments": "1"
-    },
-    {
-      "id": "varzesh3-2438004",
-      "title": "سوت آغاز گران‌ترین و هیجان‌انگیزترین لیگ دنیا",
-      "summary": "هشتاد و یکمین فصل مسابقات NBA امشب از ساعت 22:30 رسما آغاز خواهد شد.",
-      "url": "https://www.varzesh3.com/news/2438004/سوت-آغاز-گران-ترین-و-هیجان-انگیزترین-لیگ-دنیا",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/20/D/ha4jeghe.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-20T16:43:57Z",
-      "views": "14.5K",
-      "comments": "7"
-    },
-    {
       "id": "bbc-4e4ee2c3a9cf",
       "title": "The season has just started - so how does the NBA work?",
       "summary": "BBC Sport's Ask Me Anything team explains the format of the NBA ahead of the start of the 2026-27 season starting on Tuesday",
@@ -491,7 +510,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-20T08:07:02Z",
-      "views": "16.3K",
+      "views": "16.4K",
       "comments": "3"
     },
     {
@@ -592,7 +611,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T18:13:04Z",
-      "views": "19.5K",
+      "views": "19.6K",
       "comments": "0"
     },
     {
@@ -757,36 +776,6 @@
       "publishedAt": "2026-10-15T11:52:13Z",
       "views": "19.2K",
       "comments": "1"
-    },
-    {
-      "id": "varzesh3-2436418",
-      "title": "پایان هیجان انگیز پیش‌فصل بسکتبال ایران!",
-      "summary": "رقابت های پیش فصل لیگ برتر بسکتبال با برگزاری یک دیدار جذاب و تماشایی به پایان رسید.",
-      "url": "https://www.varzesh3.com/news/2436418/پایان-هیجان-انگیز-پیش-فصل-بسکتبال-ایران",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/14/D/mfa0223s.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-14T15:51:13Z",
-      "views": "8.7K",
-      "comments": "0"
-    },
-    {
-      "id": "varzesh3-2436157",
-      "title": "چراغ بسکتبال روشن شد: بازربیتر وحشتناک بصیر!",
-      "summary": "در حالی که مسابقات پیش فصل بسکتبال در تالار آزادی برگزار می‌شود بصیر مومنی صحنه هیجان‌انگیز و فوق‌العاده‌ای را در تالار آزادی ثبت کرد.",
-      "url": "https://www.varzesh3.com/news/2436157/چراغ-بسکتبال-روشن-شد-بازربیتر-وحشتناک-بصیر",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/13/D/cevlgqse.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-13T17:23:18Z",
-      "views": "11.8K",
-      "comments": "3"
     },
     {
       "id": "bbc-589359499fa3",

@@ -9,7 +9,7 @@
       "country": "IR",
       "flag": "🇮🇷",
       "priority": 1,
-      "updatedAt": "2026-10-23T16:30:12.511400+00:00",
+      "updatedAt": "2026-10-23T21:01:14.628709+00:00",
       "groups": [
         {
           "name": "لیگ برتر بسکتبال",
@@ -462,7 +462,7 @@
       "country": "US",
       "flag": "🏀",
       "priority": 2,
-      "updatedAt": "2026-10-23T16:30:16.958079+00:00",
+      "updatedAt": "2026-10-23T21:01:18.886972+00:00",
       "groups": [
         {
           "name": "کنفرانس شرق",
@@ -1568,7 +1568,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 3,
-      "updatedAt": "2026-10-23T16:30:23.343819+00:00",
+      "updatedAt": "2026-10-23T21:01:23.623399+00:00",
       "groups": [
         {
           "name": "لیگ غرب آسیا",
@@ -2067,7 +2067,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 4,
-      "updatedAt": "2026-10-23T16:30:28.165930+00:00",
+      "updatedAt": "2026-10-23T21:01:28.565884+00:00",
       "groups": [
         {
           "name": "گروهی ",
@@ -2412,7 +2412,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 5,
-      "updatedAt": "2026-10-23T16:30:32.173341+00:00",
+      "updatedAt": "2026-10-23T21:01:32.265349+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -3024,7 +3024,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 6,
-      "updatedAt": "2026-10-23T16:30:36.399261+00:00",
+      "updatedAt": "2026-10-23T21:01:36.829750+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4078,7 +4078,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 7,
-      "updatedAt": "2026-10-23T16:30:40.266999+00:00",
+      "updatedAt": "2026-10-23T21:01:41.164110+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4541,7 +4541,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 8,
-      "updatedAt": "2026-10-23T16:30:43.263842+00:00",
+      "updatedAt": "2026-10-23T21:01:45.255173+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -5600,7 +5600,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 9,
-      "updatedAt": "2026-10-23T16:30:45.690668+00:00",
+      "updatedAt": "2026-10-23T21:01:47.638097+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -5614,7 +5614,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 10,
-      "updatedAt": "2026-10-23T16:30:48.467682+00:00",
+      "updatedAt": "2026-10-23T21:01:50.146857+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -6077,7 +6077,7 @@
       "country": "EU",
       "flag": "🇪🇺",
       "priority": 11,
-      "updatedAt": "2026-10-23T16:30:50.597429+00:00",
+      "updatedAt": "2026-10-23T21:01:53.083330+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6091,7 +6091,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 12,
-      "updatedAt": "2026-10-23T16:30:52.542809+00:00",
+      "updatedAt": "2026-10-23T21:01:55.394431+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6105,7 +6105,7 @@
       "country": "US",
       "flag": "🏆",
       "priority": 13,
-      "updatedAt": "2026-10-23T16:30:54.950415+00:00",
+      "updatedAt": "2026-10-23T21:01:58.976400+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6119,7 +6119,7 @@
       "country": "WO",
       "flag": "🤝",
       "priority": 14,
-      "updatedAt": "2026-10-23T16:30:57.390063+00:00",
+      "updatedAt": "2026-10-23T21:02:00.407733+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -7149,6 +7149,38 @@
       "quarters": [],
       "winner": null,
       "url": "https://www.varzesh3.com/basketball/match/180088/بازی-نیو-اورلینز-پلیکانز-آتلانتا-هاوکس"
+    },
+    {
+      "id": 180089,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/10",
+      "dateIso": "2027-02-10",
+      "time": "03:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "ممفیس گریزلیز",
+        "shortName": "ممفیس گریزلیز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vcah3c35.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "ساکرامنتو کینگز",
+        "shortName": "ساکرامنتو کینگز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/30g1vnui.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180089/بازی-ممفیس-گریزلیز-ساکرامنتو-کینگز"
     },
     {
       "id": 180076,
@@ -8911,7 +8943,7 @@
       "url": "https://www.varzesh3.com/basketball/match/180035/بازی-فیلادلفیا-سیکسرز-میلواکی-باکس"
     },
     {
-      "id": 180036,
+      "id": 180038,
       "leagueId": "lg-209",
       "leagueRef": 209,
       "leagueName": "NBA",
@@ -8926,21 +8958,21 @@
       "isLive": false,
       "host": {
         "id": 0,
-        "name": "آتلانتا هاوکس",
-        "shortName": "آتلانتا هاوکس",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/egbamhav.png?w=144"
+        "name": "دالاس ماوریکس",
+        "shortName": "دالاس ماوریکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/rq0cahor.png?w=144"
       },
       "guest": {
         "id": 0,
-        "name": "هیوستون راکتس",
-        "shortName": "هیوستون راکتس",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/2uh2w3qu.png?w=144"
+        "name": "سن آنتونیو اسپرز",
+        "shortName": "سن آنتونیو اسپرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/lzt0gkfh.png?w=144"
       },
       "hostScore": null,
       "guestScore": null,
       "quarters": [],
       "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180036/بازی-آتلانتا-هاوکس-هیوستون-راکتس"
+      "url": "https://www.varzesh3.com/basketball/match/180038/بازی-دالاس-ماوریکس-سن-آنتونیو-اسپرز"
     },
     {
       "id": 180037,
@@ -8975,7 +9007,7 @@
       "url": "https://www.varzesh3.com/basketball/match/180037/بازی-شیکاگو-بولز-واشینگتن-ویزاردز"
     },
     {
-      "id": 180038,
+      "id": 180036,
       "leagueId": "lg-209",
       "leagueRef": 209,
       "leagueName": "NBA",
@@ -8983,28 +9015,28 @@
       "leagueFlag": "🏀",
       "date": "1405/08/03",
       "dateIso": "2027-02-03",
-      "time": "03:30",
+      "time": "04:00",
       "status": 1,
       "statusFa": "برنامه‌ریزی‌شده",
       "statusShort": "برنامه",
       "isLive": false,
       "host": {
         "id": 0,
-        "name": "دالاس ماوریکس",
-        "shortName": "دالاس ماوریکس",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/rq0cahor.png?w=144"
+        "name": "آتلانتا هاوکس",
+        "shortName": "آتلانتا هاوکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/egbamhav.png?w=144"
       },
       "guest": {
         "id": 0,
-        "name": "سن آنتونیو اسپرز",
-        "shortName": "سن آنتونیو اسپرز",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/lzt0gkfh.png?w=144"
+        "name": "هیوستون راکتس",
+        "shortName": "هیوستون راکتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/2uh2w3qu.png?w=144"
       },
       "hostScore": null,
       "guestScore": null,
       "quarters": [],
       "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180038/بازی-دالاس-ماوریکس-سن-آنتونیو-اسپرز"
+      "url": "https://www.varzesh3.com/basketball/match/180036/بازی-آتلانتا-هاوکس-هیوستون-راکتس"
     },
     {
       "id": 180039,
@@ -9015,7 +9047,7 @@
       "leagueFlag": "🏀",
       "date": "1405/08/03",
       "dateIso": "2027-02-03",
-      "time": "03:30",
+      "time": "05:30",
       "status": 1,
       "statusFa": "برنامه‌ریزی‌شده",
       "statusShort": "برنامه",
@@ -9538,25 +9570,36 @@
       "date": "1405/08/01",
       "dateIso": "2027-02-01",
       "time": "23:30",
-      "status": 1,
-      "statusFa": "برنامه‌ریزی‌شده",
-      "statusShort": "برنامه",
+      "status": 2,
+      "statusFa": "شروع نشده",
+      "statusShort": "شروع نشده",
       "isLive": false,
       "host": {
-        "id": 0,
+        "id": 902801,
         "name": "میلواکی باکس",
         "shortName": "میلواکی باکس",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cmtcetua.png?w=144"
       },
       "guest": {
-        "id": 0,
+        "id": 902797,
         "name": "شیکاگو بولز",
         "shortName": "شیکاگو بولز",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vvrspzvd.png?w=144"
       },
       "hostScore": null,
       "guestScore": null,
-      "quarters": [],
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 32,
+          "guest": 17
+        },
+        {
+          "quarter": 2,
+          "host": 19,
+          "guest": 25
+        }
+      ],
       "winner": null,
       "url": "https://www.varzesh3.com/basketball/match/180027/بازی-میلواکی-باکس-شیکاگو-بولز"
     },
@@ -23275,10 +23318,10 @@
       "url": "https://www.varzesh3.com/basketball/match/26766/بازی-فرانسه-برزیل"
     }
   ],
-  "matchCount": 368,
+  "matchCount": 369,
   "teamCount": 160,
   "liveCount": 0,
   "staleDropped": 2,
   "version": 2,
-  "generatedAt": "2026-10-23T16:30:59.006832+00:00"
+  "generatedAt": "2026-10-23T21:02:01.753719+00:00"
 }
