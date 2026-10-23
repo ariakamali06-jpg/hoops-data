@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T21:13:16.535029+00:00",
-  "count": 63,
+  "generatedAt": "2026-10-23T03:28:25.000375+00:00",
+  "count": 61,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 2
+      "items": 0
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 116
+      "items": 117
     },
     {
       "source": "bbc",
@@ -21,40 +21,29 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -72,
+      "items": -73,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
     {
-      "id": "isna-97daa343a0fc",
-      "title": "تیموری: داوری می‌توانست بهتر با ما مدارا کند/ بی‌احترامی به شجاع زیبنده فوتبال نیست",
-      "summary": "بازیکن صنعت نفت آبادان، با اشاره به عملکرد داوری دیدار مقابل تراکتور، معتقد است برخی تصمیم‌ها به سود حریف گرفته شد. او همچنین با محکوم کردن بی‌احترامی به بازیکنان، تأکید کرد که توهین به شجاع خلیل‌زاده و علیرضا بیرانوند زیبنده فوتبال ایران نیست.",
-      "url": "https://www.isna.ir/news/1405073020719/%D8%AA%DB%8C%D9%85%D9%88%D8%B1%DB%8C-%D8%AF%D8%A7%D9%88%D8%B1%DB%8C-%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D8%B3%D8%AA-%D8%A8%D9%87%D8%AA%D8%B1-%D8%A8%D8%A7-%D9%85%D8%A7-%D9%85%D8%AF%D8%A7%D8%B1%D8%A7-%DA%A9%D9%86%D8%AF-%D8%A8%DB%8C-%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%85%DB%8C-%D8%A8%D9%87-%D8%B4%D8%AC%D8%A7%D8%B9",
-      "imageUrl": "https://cdn.isna.ir/d/2023/12/09/4/62835227.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
+      "id": "varzesh3-2438599",
+      "title": "زنده از ناگویا: روز آسمان‌خراش‌های ایران فرا رسید!",
+      "summary": "در روز پنجم بازی‌های پاراآسیایی تیم‌های ملی بسکتبال با ویلچر و والیبال نشسته برای کسب مدال طلا به میدان می‌روند.",
+      "url": "https://www.varzesh3.com/news/2438599/زنده-از-ناگویا-روز-آسمان-خراش-های-ایران-فرا-رسید",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/22/B/nnragqwa.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
       "language": "fa",
-      "category": "استان‌ها > آذربایجان شرقی",
-      "publishedAt": "2026-10-22T20:20:15+00:00"
-    },
-    {
-      "id": "isna-1a72d6376753",
-      "title": "طاهران: مطمئن باشید لیگ برتری می‌مانیم",
-      "summary": "بازیکن تیم فوتبال صنعت نفت آبادان گفت: هواداران آبادانی مطمئن باشند که تیم ما تا هفته سی‌وچهارم در لیگ برتر باقی خواهد ماند.",
-      "url": "https://www.isna.ir/news/1405073020715/%D8%B7%D8%A7%D9%87%D8%B1%D8%A7%D9%86-%D9%85%D8%B7%D9%85%D8%A6%D9%86-%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF-%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C-%D9%85%DB%8C-%D9%85%D8%A7%D9%86%DB%8C%D9%85",
-      "imageUrl": "https://cdn.isna.ir/d/2025/05/08/4/63451773.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
-      "language": "fa",
-      "category": "استان‌ها > آذربایجان شرقی",
-      "publishedAt": "2026-10-22T20:07:36+00:00"
+      "category": "ورزشی",
+      "publishedAt": "2026-10-23T00:30:00Z",
+      "views": "9.1K",
+      "comments": "5"
     },
     {
       "id": "bbc-7fbdf13200dd",
-      "title": "Trump says NBA star LeBron James disrespected US anthem and demands apology",
+      "title": "Trump says NBA star LeBron James 'disrespected' US anthem",
       "summary": "The basketball star recently appeared to be practising a golf swing and basketball shots while the national anthem was performed.",
       "url": "https://www.bbc.co.uk/news/articles/cv8ezy37rgz6o?at_medium=RSS&at_campaign=rss",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fadf/live/e1bf1060-ce40-11f1-a86f-f78305ec9987.jpg",
@@ -77,7 +66,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T17:02:20Z",
-      "views": "3.2K",
+      "views": "4K",
       "comments": "0"
     },
     {
@@ -92,8 +81,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T16:10:17Z",
-      "views": "3.6K",
-      "comments": "8"
+      "views": "4.3K",
+      "comments": "10"
     },
     {
       "id": "varzesh3-2438524",
@@ -107,7 +96,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T16:08:39Z",
-      "views": "2K",
+      "views": "2.6K",
       "comments": "0"
     },
     {
@@ -122,7 +111,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T15:35:15Z",
-      "views": "2.5K",
+      "views": "2.9K",
       "comments": "0"
     },
     {
@@ -137,8 +126,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T14:45:34Z",
-      "views": "11.7K",
-      "comments": "7"
+      "views": "13.2K",
+      "comments": "8"
     },
     {
       "id": "varzesh3-2438472",
@@ -152,7 +141,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T12:49:40Z",
-      "views": "4.8K",
+      "views": "5.4K",
       "comments": "0"
     },
     {
@@ -167,7 +156,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T09:38:04Z",
-      "views": "3.2K",
+      "views": "3.4K",
       "comments": "4"
     },
     {
@@ -182,7 +171,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T09:02:01Z",
-      "views": "5K",
+      "views": "5.2K",
       "comments": "1"
     },
     {
@@ -197,7 +186,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T08:41:57Z",
-      "views": "3.2K",
+      "views": "3.3K",
       "comments": "4"
     },
     {
@@ -212,7 +201,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T18:57:27Z",
-      "views": "13K",
+      "views": "13.1K",
       "comments": "5"
     },
     {
@@ -257,7 +246,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T09:52:09Z",
-      "views": "12.6K",
+      "views": "12.8K",
       "comments": "5"
     },
     {
@@ -272,7 +261,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-21T09:27:37Z",
-      "views": "6.5K",
+      "views": "6.6K",
       "comments": "0"
     },
     {
@@ -759,21 +748,6 @@
       "publishedAt": "2026-10-13T08:07:22Z",
       "views": "4.4K",
       "comments": "0"
-    },
-    {
-      "id": "varzesh3-2435977",
-      "title": "درخواست عجیب ستاره NBA برای المپیک 2028",
-      "summary": "ستاره سابق NBA پس از خداحافظی از بسکتبال، خواهان حمل مشعل المپیک 2028 لس‌آنجلس شد.",
-      "url": "https://www.varzesh3.com/news/2435977/درخواست-عجیب-ستاره-nba-برای-المپیک-2028",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/13/B/qcxs0zlc.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-13T06:47:20Z",
-      "views": "8.3K",
-      "comments": "1"
     },
     {
       "id": "bbc-589359499fa3",

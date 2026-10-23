@@ -9,7 +9,7 @@
       "country": "IR",
       "flag": "🇮🇷",
       "priority": 1,
-      "updatedAt": "2026-10-22T21:13:17.457833+00:00",
+      "updatedAt": "2026-10-23T03:28:25.973310+00:00",
       "groups": [
         {
           "name": "لیگ برتر بسکتبال",
@@ -462,7 +462,7 @@
       "country": "US",
       "flag": "🏀",
       "priority": 2,
-      "updatedAt": "2026-10-22T21:13:20.371102+00:00",
+      "updatedAt": "2026-10-23T03:28:29.450627+00:00",
       "groups": [
         {
           "name": "کنفرانس شرق",
@@ -488,6 +488,24 @@
             {
               "rank": 2,
               "manualRank": 0,
+              "teamId": 902805,
+              "name": "فیلادلفیا سیکسرز",
+              "shortName": "فیلادلفیا سیکسرز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dqahr2w4.png?w=144",
+              "played": 2,
+              "won": 2,
+              "lost": 0,
+              "pointsFor": 220,
+              "pointsAgainst": 206,
+              "diff": 14,
+              "points": 4,
+              "pointsDeducted": 0,
+              "winRate": 1,
+              "form": null
+            },
+            {
+              "rank": 3,
+              "manualRank": 0,
               "teamId": 902807,
               "name": "واشینگتن ویزاردز",
               "shortName": "واشینگتن ویزاردز",
@@ -504,7 +522,7 @@
               "form": null
             },
             {
-              "rank": 3,
+              "rank": 4,
               "manualRank": 0,
               "teamId": 902798,
               "name": "دیترویت پیستونز",
@@ -522,7 +540,7 @@
               "form": null
             },
             {
-              "rank": 4,
+              "rank": 5,
               "manualRank": 0,
               "teamId": 902794,
               "name": "آتلانتا هاوکس",
@@ -540,7 +558,7 @@
               "form": null
             },
             {
-              "rank": 5,
+              "rank": 6,
               "manualRank": 0,
               "teamId": 902796,
               "name": "شارلوت هورنتس",
@@ -552,24 +570,6 @@
               "pointsFor": 110,
               "pointsAgainst": 103,
               "diff": 7,
-              "points": 2,
-              "pointsDeducted": 0,
-              "winRate": 1,
-              "form": null
-            },
-            {
-              "rank": 6,
-              "manualRank": 0,
-              "teamId": 902805,
-              "name": "فیلادلفیا سیکسرز",
-              "shortName": "فیلادلفیا سیکسرز",
-              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dqahr2w4.png?w=144",
-              "played": 1,
-              "won": 1,
-              "lost": 0,
-              "pointsFor": 106,
-              "pointsAgainst": 100,
-              "diff": 6,
               "points": 2,
               "pointsDeducted": 0,
               "winRate": 1,
@@ -594,25 +594,7 @@
               "form": null
             },
             {
-              "rank": 8,
-              "manualRank": 0,
-              "teamId": 902410,
-              "name": "کلیولند کاوالیرز",
-              "shortName": "کلیولند کاوالیرز",
-              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/d00jval4.png?w=144",
-              "played": 0,
-              "won": 0,
-              "lost": 0,
-              "pointsFor": 0,
-              "pointsAgainst": 0,
-              "diff": 0,
-              "points": 0,
-              "pointsDeducted": 0,
-              "winRate": 0,
-              "form": null
-            },
-            {
-              "rank": 10,
+              "rank": 9,
               "manualRank": 0,
               "teamId": 902803,
               "name": "نیویورک نیکس",
@@ -630,7 +612,7 @@
               "form": null
             },
             {
-              "rank": 11,
+              "rank": 10,
               "manualRank": 0,
               "teamId": 902802,
               "name": "بروکلین نتس",
@@ -648,7 +630,7 @@
               "form": null
             },
             {
-              "rank": 12,
+              "rank": 11,
               "manualRank": 0,
               "teamId": 902804,
               "name": "اورلاندو مجیک",
@@ -660,6 +642,24 @@
               "pointsFor": 125,
               "pointsAgainst": 132,
               "diff": -7,
+              "points": 1,
+              "pointsDeducted": 0,
+              "winRate": 0,
+              "form": null
+            },
+            {
+              "rank": 12,
+              "manualRank": 0,
+              "teamId": 902410,
+              "name": "کلیولند کاوالیرز",
+              "shortName": "کلیولند کاوالیرز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/d00jval4.png?w=144",
+              "played": 1,
+              "won": 0,
+              "lost": 1,
+              "pointsFor": 106,
+              "pointsAgainst": 114,
+              "diff": -8,
               "points": 1,
               "pointsDeducted": 0,
               "winRate": 0,
@@ -1038,6 +1038,24 @@
         {
           "rank": 2,
           "manualRank": 0,
+          "teamId": 902805,
+          "name": "فیلادلفیا سیکسرز",
+          "shortName": "فیلادلفیا سیکسرز",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dqahr2w4.png?w=144",
+          "played": 2,
+          "won": 2,
+          "lost": 0,
+          "pointsFor": 220,
+          "pointsAgainst": 206,
+          "diff": 14,
+          "points": 4,
+          "pointsDeducted": 0,
+          "winRate": 1,
+          "form": null
+        },
+        {
+          "rank": 3,
+          "manualRank": 0,
           "teamId": 902807,
           "name": "واشینگتن ویزاردز",
           "shortName": "واشینگتن ویزاردز",
@@ -1054,7 +1072,7 @@
           "form": null
         },
         {
-          "rank": 3,
+          "rank": 4,
           "manualRank": 0,
           "teamId": 902798,
           "name": "دیترویت پیستونز",
@@ -1072,7 +1090,7 @@
           "form": null
         },
         {
-          "rank": 4,
+          "rank": 5,
           "manualRank": 0,
           "teamId": 902794,
           "name": "آتلانتا هاوکس",
@@ -1090,7 +1108,7 @@
           "form": null
         },
         {
-          "rank": 5,
+          "rank": 6,
           "manualRank": 0,
           "teamId": 902796,
           "name": "شارلوت هورنتس",
@@ -1102,24 +1120,6 @@
           "pointsFor": 110,
           "pointsAgainst": 103,
           "diff": 7,
-          "points": 2,
-          "pointsDeducted": 0,
-          "winRate": 1,
-          "form": null
-        },
-        {
-          "rank": 6,
-          "manualRank": 0,
-          "teamId": 902805,
-          "name": "فیلادلفیا سیکسرز",
-          "shortName": "فیلادلفیا سیکسرز",
-          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dqahr2w4.png?w=144",
-          "played": 1,
-          "won": 1,
-          "lost": 0,
-          "pointsFor": 106,
-          "pointsAgainst": 100,
-          "diff": 6,
           "points": 2,
           "pointsDeducted": 0,
           "winRate": 1,
@@ -1144,25 +1144,7 @@
           "form": null
         },
         {
-          "rank": 8,
-          "manualRank": 0,
-          "teamId": 902410,
-          "name": "کلیولند کاوالیرز",
-          "shortName": "کلیولند کاوالیرز",
-          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/d00jval4.png?w=144",
-          "played": 0,
-          "won": 0,
-          "lost": 0,
-          "pointsFor": 0,
-          "pointsAgainst": 0,
-          "diff": 0,
-          "points": 0,
-          "pointsDeducted": 0,
-          "winRate": 0,
-          "form": null
-        },
-        {
-          "rank": 10,
+          "rank": 9,
           "manualRank": 0,
           "teamId": 902803,
           "name": "نیویورک نیکس",
@@ -1180,7 +1162,7 @@
           "form": null
         },
         {
-          "rank": 11,
+          "rank": 10,
           "manualRank": 0,
           "teamId": 902802,
           "name": "بروکلین نتس",
@@ -1198,7 +1180,7 @@
           "form": null
         },
         {
-          "rank": 12,
+          "rank": 11,
           "manualRank": 0,
           "teamId": 902804,
           "name": "اورلاندو مجیک",
@@ -1210,6 +1192,24 @@
           "pointsFor": 125,
           "pointsAgainst": 132,
           "diff": -7,
+          "points": 1,
+          "pointsDeducted": 0,
+          "winRate": 0,
+          "form": null
+        },
+        {
+          "rank": 12,
+          "manualRank": 0,
+          "teamId": 902410,
+          "name": "کلیولند کاوالیرز",
+          "shortName": "کلیولند کاوالیرز",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/d00jval4.png?w=144",
+          "played": 1,
+          "won": 0,
+          "lost": 1,
+          "pointsFor": 106,
+          "pointsAgainst": 114,
+          "diff": -8,
           "points": 1,
           "pointsDeducted": 0,
           "winRate": 0,
@@ -1568,7 +1568,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 3,
-      "updatedAt": "2026-10-22T21:13:24.912640+00:00",
+      "updatedAt": "2026-10-23T03:28:33.121146+00:00",
       "groups": [
         {
           "name": "لیگ غرب آسیا",
@@ -2067,7 +2067,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 4,
-      "updatedAt": "2026-10-22T21:13:27.027107+00:00",
+      "updatedAt": "2026-10-23T03:28:35.981079+00:00",
       "groups": [
         {
           "name": "گروهی ",
@@ -2412,7 +2412,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 5,
-      "updatedAt": "2026-10-22T21:13:30.454644+00:00",
+      "updatedAt": "2026-10-23T03:28:39.284173+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -3024,7 +3024,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 6,
-      "updatedAt": "2026-10-22T21:13:34.672517+00:00",
+      "updatedAt": "2026-10-23T03:28:42.968922+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4078,7 +4078,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 7,
-      "updatedAt": "2026-10-22T21:13:39.791964+00:00",
+      "updatedAt": "2026-10-23T03:28:47.334584+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4541,7 +4541,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 8,
-      "updatedAt": "2026-10-22T21:13:43.755283+00:00",
+      "updatedAt": "2026-10-23T03:28:49.893570+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -5600,7 +5600,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 9,
-      "updatedAt": "2026-10-22T21:13:46.015183+00:00",
+      "updatedAt": "2026-10-23T03:28:51.447529+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -5614,7 +5614,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 10,
-      "updatedAt": "2026-10-22T21:13:49.580178+00:00",
+      "updatedAt": "2026-10-23T03:28:53.312074+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -6077,7 +6077,7 @@
       "country": "EU",
       "flag": "🇪🇺",
       "priority": 11,
-      "updatedAt": "2026-10-22T21:13:52.358266+00:00",
+      "updatedAt": "2026-10-23T03:28:56.731616+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6091,7 +6091,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 12,
-      "updatedAt": "2026-10-22T21:13:53.660404+00:00",
+      "updatedAt": "2026-10-23T03:28:58.119282+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6105,7 +6105,7 @@
       "country": "US",
       "flag": "🏆",
       "priority": 13,
-      "updatedAt": "2026-10-22T21:13:55.763464+00:00",
+      "updatedAt": "2026-10-23T03:29:01.215898+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6119,7 +6119,7 @@
       "country": "WO",
       "flag": "🤝",
       "priority": 14,
-      "updatedAt": "2026-10-22T21:13:57.208208+00:00",
+      "updatedAt": "2026-10-23T03:29:02.610744+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -7085,6 +7085,70 @@
       "quarters": [],
       "winner": null,
       "url": "https://www.varzesh3.com/basketball/match/181081/بازی-کاله-نفت-و-گاز-گچساران"
+    },
+    {
+      "id": 180087,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/10",
+      "dateIso": "2027-02-10",
+      "time": "01:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "شارلوت هورنتس",
+        "shortName": "شارلوت هورنتس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/hppjduqa.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "فیلادلفیا سیکسرز",
+        "shortName": "فیلادلفیا سیکسرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dqahr2w4.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180087/بازی-شارلوت-هورنتس-فیلادلفیا-سیکسرز"
+    },
+    {
+      "id": 180088,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/10",
+      "dateIso": "2027-02-10",
+      "time": "02:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "نیو اورلینز پلیکانز",
+        "shortName": "نیو اورلینز پلیکانز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/fjybluny.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "آتلانتا هاوکس",
+        "shortName": "آتلانتا هاوکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/egbamhav.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180088/بازی-نیو-اورلینز-پلیکانز-آتلانتا-هاوکس"
     },
     {
       "id": 180076,
@@ -9368,25 +9432,46 @@
       "date": "1405/08/01",
       "dateIso": "2027-02-01",
       "time": "02:30",
-      "status": 1,
-      "statusFa": "برنامه‌ریزی‌شده",
-      "statusShort": "برنامه",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
       "isLive": false,
       "host": {
-        "id": 0,
+        "id": 902805,
         "name": "فیلادلفیا سیکسرز",
         "shortName": "فیلادلفیا سیکسرز",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dqahr2w4.png?w=144"
       },
       "guest": {
-        "id": 0,
+        "id": 902410,
         "name": "کلیولند کاوالیرز",
         "shortName": "کلیولند کاوالیرز",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/d00jval4.png?w=144"
       },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
+      "hostScore": 114,
+      "guestScore": 106,
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 18,
+          "guest": 35
+        },
+        {
+          "quarter": 2,
+          "host": 27,
+          "guest": 34
+        },
+        {
+          "quarter": 3,
+          "host": 37,
+          "guest": 21
+        },
+        {
+          "quarter": 4,
+          "host": 32,
+          "guest": 16
+        }
+      ],
       "winner": null,
       "url": "https://www.varzesh3.com/basketball/match/180019/بازی-فیلادلفیا-سیکسرز-کلیولند-کاوالیرز"
     },
@@ -9400,25 +9485,41 @@
       "date": "1405/08/01",
       "dateIso": "2027-02-01",
       "time": "05:00",
-      "status": 1,
-      "statusFa": "برنامه‌ریزی‌شده",
-      "statusShort": "برنامه",
+      "status": 2,
+      "statusFa": "شروع نشده",
+      "statusShort": "شروع نشده",
       "isLive": false,
       "host": {
-        "id": 0,
+        "id": 902793,
         "name": "اوکلاهاما سیتی تاندر",
         "shortName": "اوکلاهاما سیتی تاندر",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/dzn4tahc.png?w=144"
       },
       "guest": {
-        "id": 0,
+        "id": 902781,
         "name": "دنور ناگتس",
         "shortName": "دنور ناگتس",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/oz2kzfbf.png?w=144"
       },
       "hostScore": null,
       "guestScore": null,
-      "quarters": [],
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 24,
+          "guest": 27
+        },
+        {
+          "quarter": 2,
+          "host": 20,
+          "guest": 21
+        },
+        {
+          "quarter": 3,
+          "host": 14,
+          "guest": 12
+        }
+      ],
       "winner": null,
       "url": "https://www.varzesh3.com/basketball/match/180020/بازی-اوکلاهاما-سیتی-تاندر-دنور-ناگتس"
     },
@@ -23169,10 +23270,10 @@
       "url": "https://www.varzesh3.com/basketball/match/26766/بازی-فرانسه-برزیل"
     }
   ],
-  "matchCount": 366,
+  "matchCount": 368,
   "teamCount": 160,
   "liveCount": 0,
   "staleDropped": 2,
   "version": 2,
-  "generatedAt": "2026-10-22T21:13:59.078103+00:00"
+  "generatedAt": "2026-10-23T03:29:03.447971+00:00"
 }
