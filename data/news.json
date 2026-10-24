@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T15:25:07.817240+00:00",
-  "count": 61,
+  "generatedAt": "2026-10-24T20:15:47.278542+00:00",
+  "count": 62,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 107
+      "items": 105
     },
     {
       "source": "bbc",
@@ -21,11 +21,56 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -63,
+      "items": -60,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2439074",
+      "title": "دبل‌دبل تمیز ملی‌پوش سابق بسکتبال ایران!",
+      "summary": "کاله مازندران با ۱۰۵ امتیاز پاس کردستان را در هم کوبید، میثم میرزایی کاری کرد که در کل هفته اول هیچ‌کس انجامش نداد.",
+      "url": "https://www.varzesh3.com/news/2439074/دبل-دبل-تمیز-ملی-پوش-سابق-بسکتبال-ایران",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/24/D/ty3p2fiq.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-24T18:47:37Z",
+      "views": "2.8K",
+      "comments": "0"
+    },
+    {
+      "id": "varzesh3-2439060",
+      "title": "سالن‌های بسکتبال ایران روی هوا(عکس)",
+      "summary": "سوت آغاز فصل جدید لیگ برتر بسکتبال پنج‌شنبه گذشته در پنج شهر به صدا درآمد تا صدای برخورد توپ به پارکت و تشویق هواداران دوباره به سالن‌ها برگردد.",
+      "url": "https://www.varzesh3.com/news/2439060/سالن-های-بسکتبال-ایران-روی-هوا-رفتند",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/24/D/eis4h0jl.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-24T17:57:30Z",
+      "views": "4.4K",
+      "comments": "0"
+    },
+    {
+      "id": "varzesh3-2439054",
+      "title": "بازگشت رسمی سپاهان به بسکتبال ایران",
+      "summary": "باشگاه سپاهان در فصل جدید لیگ یک مردان و لیگ برتر زنان تیم‌داری خواهد کرد.",
+      "url": "https://www.varzesh3.com/news/2439054/بازگشت-رسمی-سپاهان-به-بسکتبال-ایران",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/24/D/y4jiqydr.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-24T17:18:30Z",
+      "views": "2.6K",
+      "comments": "4"
+    },
     {
       "id": "varzesh3-2438921",
       "title": "مینه‌سوتا بدون ادواردز اورلاندو را جارو کرد!",
@@ -38,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-24T08:41:36Z",
-      "views": "1.6K",
+      "views": "1.9K",
       "comments": "0"
     },
     {
@@ -53,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-24T06:31:38Z",
-      "views": "2.3K",
+      "views": "2.8K",
       "comments": "0"
     },
     {
@@ -68,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T19:25:19Z",
-      "views": "4.8K",
+      "views": "4.9K",
       "comments": "0"
     },
     {
@@ -83,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T18:17:32Z",
-      "views": "10.3K",
+      "views": "10.4K",
       "comments": "7"
     },
     {
@@ -98,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T18:01:46Z",
-      "views": "9.1K",
+      "views": "9.2K",
       "comments": "1"
     },
     {
@@ -114,7 +159,7 @@
       "category": "ورزشی",
       "publishedAt": "2026-10-23T17:59:34Z",
       "views": "5.4K",
-      "comments": "0"
+      "comments": "1"
     },
     {
       "id": "varzesh3-2438781",
@@ -128,7 +173,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T16:41:28Z",
-      "views": "12.3K",
+      "views": "12.4K",
       "comments": "2"
     },
     {
@@ -143,8 +188,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T12:04:07Z",
-      "views": "16.5K",
-      "comments": "10"
+      "views": "16.9K",
+      "comments": "12"
     },
     {
       "id": "varzesh3-2438667",
@@ -173,7 +218,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T07:37:14Z",
-      "views": "4.5K",
+      "views": "4.6K",
       "comments": "0"
     },
     {
@@ -188,7 +233,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T07:02:44Z",
-      "views": "28.9K",
+      "views": "29.5K",
       "comments": "10"
     },
     {
@@ -231,7 +276,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T05:23:36Z",
-      "views": "5.8K",
+      "views": "5.9K",
       "comments": "5"
     },
     {
@@ -259,7 +304,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T17:02:20Z",
-      "views": "4.8K",
+      "views": "4.9K",
       "comments": "0"
     },
     {
@@ -293,21 +338,6 @@
       "comments": "1"
     },
     {
-      "id": "varzesh3-2438513",
-      "title": "گچساران اولین قربانی نمایش هجومی طبیعت!",
-      "summary": "‏تیم طبیعت اسلامشهر با یک نمایش هجومی و درخشان اولین 2 امتیاز فصل را به دست آورد و مقابل نفت و گاز گچساران به پیروزی رسید.",
-      "url": "https://www.varzesh3.com/news/2438513/گچساران-اولین-قربانی-نمایش-هجومی-طبیعت",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/22/D/l4ij4wki.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-22T15:35:15Z",
-      "views": "3.5K",
-      "comments": "0"
-    },
-    {
       "id": "varzesh3-2438501",
       "title": "استقلال فصل جدید را با شکست آغاز کرد",
       "summary": "استقلال در نخستین مسابقه فصل جدید لیگ برتر بسکتبال، با نتیجه ۷۹ بر ۷۳ برابر پالایش نفت آبادان شکست خورد.",
@@ -319,23 +349,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T14:45:34Z",
-      "views": "15K",
+      "views": "15.1K",
       "comments": "8"
-    },
-    {
-      "id": "varzesh3-2438472",
-      "title": "کاله با تئوریسن جدید و همان ستاره همیشگی!",
-      "summary": "کاله مازندران در اولین حضور رسمی مخدومی روی نیمکت تیم‌شان امروز مقابل پاس کردستان قرار خواهد گرفت.",
-      "url": "https://www.varzesh3.com/news/2438472/کاله-با-تئوریسن-جدید-و-همان-ستاره-همیشگی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/22/C/35lud5z2.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-22T12:49:40Z",
-      "views": "5.9K",
-      "comments": "0"
     },
     {
       "id": "varzesh3-2438410",
@@ -349,7 +364,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T09:38:04Z",
-      "views": "3.6K",
+      "views": "3.7K",
       "comments": "4"
     },
     {
@@ -626,7 +641,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-18T18:13:04Z",
-      "views": "19.6K",
+      "views": "19.7K",
       "comments": "0"
     },
     {
