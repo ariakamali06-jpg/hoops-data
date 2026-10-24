@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T03:23:02.176082+00:00",
+  "generatedAt": "2026-10-24T10:19:33.220090+00:00",
   "count": 61,
   "sources": [
     {
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 106
+      "items": 107
     },
     {
       "source": "bbc",
@@ -21,11 +21,41 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -62,
+      "items": -63,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2438921",
+      "title": "مینه‌سوتا بدون ادواردز اورلاندو را جارو کرد!",
+      "summary": "سه بازی شب گذشته مسابقات لیگ NBA با تحقیر تاریخی شارلوت، برتری قاطع مینه‌سوتا و پیروزی پرحاشیه دالاس در ایندیانا به پایان رسید.",
+      "url": "https://www.varzesh3.com/news/2438921/مینه-سوتا-بدون-ادواردز-اورلاندو-را-جارو-کرد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/24/B/vsuofsne.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-24T08:41:36Z",
+      "views": "770",
+      "comments": "0"
+    },
+    {
+      "id": "varzesh3-2438882",
+      "title": "نه هیرو نجات داد نه یادواره نلسون: شیکاگو بازی را برد!",
+      "summary": "شب پرهیجان لیگ NBA با شلیک‌های تاتوم برابر قهرمان، برد سخت شیکاگو و ادامه نمایش مقتدرانه رپتورز به پایان رسید.",
+      "url": "https://www.varzesh3.com/news/2438882/نه-هیرو-نجات-داد-نه-یادواره-نلسون-شیکاگو-بازی-را-برد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/24/B/a3vwyo2j.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-24T06:31:38Z",
+      "views": "1.5K",
+      "comments": "0"
+    },
     {
       "id": "varzesh3-2438828",
       "title": "بهترین ریباندر هفته دبل‌دبل نکرد!",
@@ -38,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T19:25:19Z",
-      "views": "3.4K",
+      "views": "4.7K",
       "comments": "0"
     },
     {
@@ -53,8 +83,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T18:17:32Z",
-      "views": "9.4K",
-      "comments": "5"
+      "views": "10.2K",
+      "comments": "7"
     },
     {
       "id": "varzesh3-2438803",
@@ -68,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T18:01:46Z",
-      "views": "6.9K",
+      "views": "9K",
       "comments": "1"
     },
     {
@@ -83,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T17:59:34Z",
-      "views": "4.1K",
+      "views": "5.3K",
       "comments": "0"
     },
     {
@@ -98,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T16:41:28Z",
-      "views": "10.8K",
+      "views": "12.2K",
       "comments": "2"
     },
     {
@@ -113,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T12:04:07Z",
-      "views": "13.4K",
+      "views": "15.7K",
       "comments": "10"
     },
     {
@@ -128,7 +158,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T09:35:30Z",
-      "views": "13.3K",
+      "views": "13.7K",
       "comments": "2"
     },
     {
@@ -143,7 +173,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T07:37:14Z",
-      "views": "4.2K",
+      "views": "4.5K",
       "comments": "0"
     },
     {
@@ -158,7 +188,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T07:02:44Z",
-      "views": "27.5K",
+      "views": "28.5K",
       "comments": "10"
     },
     {
@@ -173,7 +203,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T06:58:06Z",
-      "views": "4.9K",
+      "views": "5.1K",
       "comments": "0"
     },
     {
@@ -201,7 +231,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T05:23:36Z",
-      "views": "5.6K",
+      "views": "5.8K",
       "comments": "5"
     },
     {
@@ -244,7 +274,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T16:10:17Z",
-      "views": "5K",
+      "views": "5.1K",
       "comments": "10"
     },
     {
@@ -304,7 +334,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T12:49:40Z",
-      "views": "5.8K",
+      "views": "5.9K",
       "comments": "0"
     },
     {
@@ -351,21 +381,6 @@
       "publishedAt": "2026-10-22T08:41:57Z",
       "views": "3.3K",
       "comments": "4"
-    },
-    {
-      "id": "varzesh3-2438287",
-      "title": "کتک‌کاری NBA و زمین خوردن غول تاندرز ترند شد !",
-      "summary": "درگیری شدید بازیکنان اسپرز و تاندرز واکنش های زیادی به همراه داشت و سوژه اصلی شب اول مسابقات ان بی ای بود.",
-      "url": "https://www.varzesh3.com/news/2438287/کتک-کاری-nba-و-کتم-خوردن-غول-تاندرز-ترند-شد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/21/D/k31aojo4.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-21T18:57:27Z",
-      "views": "13.4K",
-      "comments": "5"
     },
     {
       "id": "varzesh3-2438249",
@@ -761,21 +776,6 @@
       "publishedAt": "2026-10-16T07:23:20Z",
       "views": "9.1K",
       "comments": "2"
-    },
-    {
-      "id": "varzesh3-2436604",
-      "title": "رونمایی از ستاره آمریکایی استقلال در آبادان!",
-      "summary": "دوایت بایکس با تمریناتی هدفمند و مراقبت کادرفنی آبی‌ها برای شروع لیگ برتر بسکتبال ایران آماده می‌شود.",
-      "url": "https://www.varzesh3.com/news/2436604/رونمایی-از-ستاره-آمریکایی-استقلال-در-آبادان",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/15/C/ku4nujdi.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-15T11:52:13Z",
-      "views": "19.2K",
-      "comments": "1"
     },
     {
       "id": "bbc-589359499fa3",
