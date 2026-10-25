@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T03:18:12.054065+00:00",
+  "generatedAt": "2026-10-25T10:46:43.809145+00:00",
   "count": 60,
   "sources": [
     {
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 101
+      "items": 100
     },
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -58,
+      "items": -57,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,7 +38,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-24T22:15:00Z",
-      "views": "960",
+      "views": "3.1K",
       "comments": "1"
     },
     {
@@ -53,8 +53,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-24T21:52:39Z",
-      "views": "6.3K",
-      "comments": "1"
+      "views": "17.3K",
+      "comments": "2"
     },
     {
       "id": "varzesh3-2439074",
@@ -68,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-24T18:47:37Z",
-      "views": "5.3K",
+      "views": "7K",
       "comments": "0"
     },
     {
@@ -83,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-24T17:57:30Z",
-      "views": "6.3K",
+      "views": "7.6K",
       "comments": "0"
     },
     {
@@ -98,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-24T17:18:30Z",
-      "views": "3.8K",
+      "views": "4.6K",
       "comments": "5"
     },
     {
@@ -128,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-24T06:31:38Z",
-      "views": "3.1K",
+      "views": "3.7K",
       "comments": "0"
     },
     {
@@ -188,8 +188,23 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T17:59:34Z",
-      "views": "5.4K",
+      "views": "5.5K",
       "comments": "1"
+    },
+    {
+      "id": "varzesh3-2438781",
+      "title": "تلفات سنگین نفت آبادان در تقابل با استقلال!",
+      "summary": "سالار منجی در بازی با استقلال با شکستگی استخوان به مدت 10 هفته از میادین دور خواهد بود.",
+      "url": "https://www.varzesh3.com/news/2438781/تلفات-سنگین-نفت-آبادان-در-تقابل-با-استقلال",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/23/D/5ea3jn52.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-23T16:41:28Z",
+      "views": "12.5K",
+      "comments": "2"
     },
     {
       "id": "varzesh3-2438712",
@@ -203,7 +218,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T12:04:07Z",
-      "views": "17K",
+      "views": "17.2K",
       "comments": "12"
     },
     {
@@ -233,7 +248,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T07:37:14Z",
-      "views": "4.6K",
+      "views": "4.7K",
       "comments": "0"
     },
     {
@@ -248,7 +263,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T07:02:44Z",
-      "views": "29.7K",
+      "views": "30.1K",
       "comments": "10"
     },
     {
@@ -291,7 +306,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T05:23:36Z",
-      "views": "5.9K",
+      "views": "6K",
       "comments": "5"
     },
     {
@@ -334,7 +349,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T16:10:17Z",
-      "views": "5.1K",
+      "views": "5.2K",
       "comments": "10"
     },
     {
@@ -746,21 +761,6 @@
       "publishedAt": "2026-10-17T04:52:43Z",
       "views": "5.9K",
       "comments": "1"
-    },
-    {
-      "id": "varzesh3-2436835",
-      "title": "شکست زنان بسکتبال با ویلچر در گام اول",
-      "summary": "تیم ملی بسکتبال با ویلچر زنان ایران در نخستین دیدار خود مقابل میزبان بازی‌های پاراآسیایی ناگویا شکست خورد.",
-      "url": "https://www.varzesh3.com/news/2436835/شکست-زنان-بسکتبال-با-ویلچر-در-گام-اول",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/16/D/yr0lu3oj.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-16T15:32:54Z",
-      "views": "7.4K",
-      "comments": "3"
     },
     {
       "id": "bbc-589359499fa3",

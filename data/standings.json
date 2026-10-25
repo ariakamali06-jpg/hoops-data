@@ -9,7 +9,7 @@
       "country": "IR",
       "flag": "🇮🇷",
       "priority": 1,
-      "updatedAt": "2026-10-25T03:18:13.369503+00:00",
+      "updatedAt": "2026-10-25T10:46:46.679279+00:00",
       "groups": [
         {
           "name": "لیگ برتر بسکتبال",
@@ -462,7 +462,7 @@
       "country": "US",
       "flag": "🏀",
       "priority": 2,
-      "updatedAt": "2026-10-25T03:18:15.965473+00:00",
+      "updatedAt": "2026-10-25T10:46:52.197573+00:00",
       "groups": [
         {
           "name": "کنفرانس شرق",
@@ -871,6 +871,24 @@
             {
               "rank": 8,
               "manualRank": 0,
+              "teamId": 902781,
+              "name": "دنور ناگتس",
+              "shortName": "دنور ناگتس",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/oz2kzfbf.png?w=144",
+              "played": 2,
+              "won": 1,
+              "lost": 1,
+              "pointsFor": 225,
+              "pointsAgainst": 231,
+              "diff": -6,
+              "points": 3,
+              "pointsDeducted": 0,
+              "winRate": 0.5,
+              "form": null
+            },
+            {
+              "rank": 9,
+              "manualRank": 0,
               "teamId": 902792,
               "name": "یوتا جاز",
               "shortName": "یوتا جاز",
@@ -887,7 +905,25 @@
               "form": null
             },
             {
-              "rank": 9,
+              "rank": 10,
+              "manualRank": 0,
+              "teamId": 902788,
+              "name": "فینیکس سانز",
+              "shortName": "فینیکس سانز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vkphjzaq.png?w=144",
+              "played": 2,
+              "won": 1,
+              "lost": 1,
+              "pointsFor": 214,
+              "pointsAgainst": 246,
+              "diff": -32,
+              "points": 3,
+              "pointsDeducted": 0,
+              "winRate": 0.5,
+              "form": null
+            },
+            {
+              "rank": 11,
               "manualRank": 0,
               "teamId": 902791,
               "name": "سن آنتونیو اسپرز",
@@ -905,7 +941,7 @@
               "form": null
             },
             {
-              "rank": 10,
+              "rank": 12,
               "manualRank": 0,
               "teamId": 902780,
               "name": "دالاس ماوریکس",
@@ -923,55 +959,19 @@
               "form": null
             },
             {
-              "rank": 11,
+              "rank": 13,
               "manualRank": 0,
               "teamId": 902787,
               "name": "نیو اورلینز پلیکانز",
               "shortName": "نیو اورلینز پلیکانز",
               "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/fjybluny.png?w=144",
-              "played": 2,
+              "played": 3,
               "won": 0,
-              "lost": 2,
-              "pointsFor": 239,
-              "pointsAgainst": 243,
-              "diff": -4,
-              "points": 2,
-              "pointsDeducted": 0,
-              "winRate": 0,
-              "form": null
-            },
-            {
-              "rank": 12,
-              "manualRank": 0,
-              "teamId": 902781,
-              "name": "دنور ناگتس",
-              "shortName": "دنور ناگتس",
-              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/oz2kzfbf.png?w=144",
-              "played": 1,
-              "won": 0,
-              "lost": 1,
-              "pointsFor": 84,
-              "pointsAgainst": 96,
-              "diff": -12,
-              "points": 1,
-              "pointsDeducted": 0,
-              "winRate": 0,
-              "form": null
-            },
-            {
-              "rank": 13,
-              "manualRank": 0,
-              "teamId": 902409,
-              "name": "گلدن استیت واریرز",
-              "shortName": "گلدن استیت واریرز",
-              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/b0v45ogz.png?w=144",
-              "played": 2,
-              "won": 0,
-              "lost": 2,
-              "pointsFor": 213,
-              "pointsAgainst": 238,
-              "diff": -25,
-              "points": 2,
+              "lost": 3,
+              "pointsFor": 374,
+              "pointsAgainst": 384,
+              "diff": -10,
+              "points": 3,
               "pointsDeducted": 0,
               "winRate": 0,
               "form": null
@@ -997,17 +997,17 @@
             {
               "rank": 15,
               "manualRank": 0,
-              "teamId": 902788,
-              "name": "فینیکس سانز",
-              "shortName": "فینیکس سانز",
-              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vkphjzaq.png?w=144",
-              "played": 1,
+              "teamId": 902409,
+              "name": "گلدن استیت واریرز",
+              "shortName": "گلدن استیت واریرز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/b0v45ogz.png?w=144",
+              "played": 3,
               "won": 0,
-              "lost": 1,
-              "pointsFor": 83,
-              "pointsAgainst": 124,
-              "diff": -41,
-              "points": 1,
+              "lost": 3,
+              "pointsFor": 335,
+              "pointsAgainst": 369,
+              "diff": -34,
+              "points": 3,
               "pointsDeducted": 0,
               "winRate": 0,
               "form": null
@@ -1416,6 +1416,24 @@
         {
           "rank": 8,
           "manualRank": 0,
+          "teamId": 902781,
+          "name": "دنور ناگتس",
+          "shortName": "دنور ناگتس",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/oz2kzfbf.png?w=144",
+          "played": 2,
+          "won": 1,
+          "lost": 1,
+          "pointsFor": 225,
+          "pointsAgainst": 231,
+          "diff": -6,
+          "points": 3,
+          "pointsDeducted": 0,
+          "winRate": 0.5,
+          "form": null
+        },
+        {
+          "rank": 9,
+          "manualRank": 0,
           "teamId": 902792,
           "name": "یوتا جاز",
           "shortName": "یوتا جاز",
@@ -1432,7 +1450,25 @@
           "form": null
         },
         {
-          "rank": 9,
+          "rank": 10,
+          "manualRank": 0,
+          "teamId": 902788,
+          "name": "فینیکس سانز",
+          "shortName": "فینیکس سانز",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vkphjzaq.png?w=144",
+          "played": 2,
+          "won": 1,
+          "lost": 1,
+          "pointsFor": 214,
+          "pointsAgainst": 246,
+          "diff": -32,
+          "points": 3,
+          "pointsDeducted": 0,
+          "winRate": 0.5,
+          "form": null
+        },
+        {
+          "rank": 11,
           "manualRank": 0,
           "teamId": 902791,
           "name": "سن آنتونیو اسپرز",
@@ -1450,7 +1486,7 @@
           "form": null
         },
         {
-          "rank": 10,
+          "rank": 12,
           "manualRank": 0,
           "teamId": 902780,
           "name": "دالاس ماوریکس",
@@ -1468,55 +1504,19 @@
           "form": null
         },
         {
-          "rank": 11,
+          "rank": 13,
           "manualRank": 0,
           "teamId": 902787,
           "name": "نیو اورلینز پلیکانز",
           "shortName": "نیو اورلینز پلیکانز",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/fjybluny.png?w=144",
-          "played": 2,
+          "played": 3,
           "won": 0,
-          "lost": 2,
-          "pointsFor": 239,
-          "pointsAgainst": 243,
-          "diff": -4,
-          "points": 2,
-          "pointsDeducted": 0,
-          "winRate": 0,
-          "form": null
-        },
-        {
-          "rank": 12,
-          "manualRank": 0,
-          "teamId": 902781,
-          "name": "دنور ناگتس",
-          "shortName": "دنور ناگتس",
-          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/oz2kzfbf.png?w=144",
-          "played": 1,
-          "won": 0,
-          "lost": 1,
-          "pointsFor": 84,
-          "pointsAgainst": 96,
-          "diff": -12,
-          "points": 1,
-          "pointsDeducted": 0,
-          "winRate": 0,
-          "form": null
-        },
-        {
-          "rank": 13,
-          "manualRank": 0,
-          "teamId": 902409,
-          "name": "گلدن استیت واریرز",
-          "shortName": "گلدن استیت واریرز",
-          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/b0v45ogz.png?w=144",
-          "played": 2,
-          "won": 0,
-          "lost": 2,
-          "pointsFor": 213,
-          "pointsAgainst": 238,
-          "diff": -25,
-          "points": 2,
+          "lost": 3,
+          "pointsFor": 374,
+          "pointsAgainst": 384,
+          "diff": -10,
+          "points": 3,
           "pointsDeducted": 0,
           "winRate": 0,
           "form": null
@@ -1542,17 +1542,17 @@
         {
           "rank": 15,
           "manualRank": 0,
-          "teamId": 902788,
-          "name": "فینیکس سانز",
-          "shortName": "فینیکس سانز",
-          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/vkphjzaq.png?w=144",
-          "played": 1,
+          "teamId": 902409,
+          "name": "گلدن استیت واریرز",
+          "shortName": "گلدن استیت واریرز",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/b0v45ogz.png?w=144",
+          "played": 3,
           "won": 0,
-          "lost": 1,
-          "pointsFor": 83,
-          "pointsAgainst": 124,
-          "diff": -41,
-          "points": 1,
+          "lost": 3,
+          "pointsFor": 335,
+          "pointsAgainst": 369,
+          "diff": -34,
+          "points": 3,
           "pointsDeducted": 0,
           "winRate": 0,
           "form": null
@@ -1568,7 +1568,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 3,
-      "updatedAt": "2026-10-25T03:18:20.982930+00:00",
+      "updatedAt": "2026-10-25T10:46:57.165581+00:00",
       "groups": [
         {
           "name": "لیگ غرب آسیا",
@@ -2067,7 +2067,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 4,
-      "updatedAt": "2026-10-25T03:18:23.775743+00:00",
+      "updatedAt": "2026-10-25T10:46:59.938970+00:00",
       "groups": [
         {
           "name": "گروهی ",
@@ -2412,7 +2412,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 5,
-      "updatedAt": "2026-10-25T03:18:26.370064+00:00",
+      "updatedAt": "2026-10-25T10:47:06.042511+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -3024,7 +3024,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 6,
-      "updatedAt": "2026-10-25T03:18:29.112139+00:00",
+      "updatedAt": "2026-10-25T10:47:11.513911+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4078,7 +4078,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 7,
-      "updatedAt": "2026-10-25T03:18:32.481159+00:00",
+      "updatedAt": "2026-10-25T10:47:18.509805+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4541,7 +4541,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 8,
-      "updatedAt": "2026-10-25T03:18:35.256817+00:00",
+      "updatedAt": "2026-10-25T10:47:31.753754+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -5600,7 +5600,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 9,
-      "updatedAt": "2026-10-25T03:18:37.198737+00:00",
+      "updatedAt": "2026-10-25T10:47:47.937898+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -5614,7 +5614,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 10,
-      "updatedAt": "2026-10-25T03:18:39.741243+00:00",
+      "updatedAt": "2026-10-25T10:47:54.586744+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -6077,7 +6077,7 @@
       "country": "EU",
       "flag": "🇪🇺",
       "priority": 11,
-      "updatedAt": "2026-10-25T03:18:41.836448+00:00",
+      "updatedAt": "2026-10-25T10:47:56.591399+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6091,7 +6091,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 12,
-      "updatedAt": "2026-10-25T03:18:43.559572+00:00",
+      "updatedAt": "2026-10-25T10:47:58.841017+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6105,7 +6105,7 @@
       "country": "US",
       "flag": "🏆",
       "priority": 13,
-      "updatedAt": "2026-10-25T03:18:45.502344+00:00",
+      "updatedAt": "2026-10-25T10:48:04.031890+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6119,7 +6119,7 @@
       "country": "WO",
       "flag": "🤝",
       "priority": 14,
-      "updatedAt": "2026-10-25T03:18:47.202292+00:00",
+      "updatedAt": "2026-10-25T10:48:08.447300+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -9623,9 +9623,9 @@
       "date": "1405/08/03",
       "dateIso": "2027-02-03",
       "time": "03:30",
-      "status": 2,
-      "statusFa": "شروع نشده",
-      "statusShort": "شروع نشده",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
       "isLive": false,
       "host": {
         "id": 902781,
@@ -9639,8 +9639,8 @@
         "shortName": "نیو اورلینز پلیکانز",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/fjybluny.png?w=144"
       },
-      "hostScore": null,
-      "guestScore": null,
+      "hostScore": 141,
+      "guestScore": 135,
       "quarters": [
         {
           "quarter": 1,
@@ -9659,8 +9659,8 @@
         },
         {
           "quarter": 4,
-          "host": 19,
-          "guest": 10
+          "host": 37,
+          "guest": 18
         }
       ],
       "winner": null,
@@ -9835,9 +9835,9 @@
       "date": "1405/08/03",
       "dateIso": "2027-02-03",
       "time": "05:30",
-      "status": 2,
-      "statusFa": "شروع نشده",
-      "statusShort": "شروع نشده",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
       "isLive": false,
       "host": {
         "id": 902788,
@@ -9851,8 +9851,8 @@
         "shortName": "گلدن استیت واریرز",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/b0v45ogz.png?w=144"
       },
-      "hostScore": null,
-      "guestScore": null,
+      "hostScore": 131,
+      "guestScore": 122,
       "quarters": [
         {
           "quarter": 1,
@@ -9863,6 +9863,16 @@
           "quarter": 2,
           "host": 35,
           "guest": 29
+        },
+        {
+          "quarter": 3,
+          "host": 45,
+          "guest": 38
+        },
+        {
+          "quarter": 4,
+          "host": 29,
+          "guest": 30
         }
       ],
       "winner": null,
@@ -24171,5 +24181,5 @@
   "liveCount": 0,
   "staleDropped": 2,
   "version": 2,
-  "generatedAt": "2026-10-25T03:18:48.342358+00:00"
+  "generatedAt": "2026-10-25T10:48:09.451223+00:00"
 }
