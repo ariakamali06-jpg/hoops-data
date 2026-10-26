@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T20:24:20.695379+00:00",
-  "count": 60,
+  "generatedAt": "2026-10-26T03:19:54.153453+00:00",
+  "count": 59,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 106
+      "items": 108
     },
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -63,
+      "items": -66,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,8 +38,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-25T18:47:30Z",
-      "views": "1.7K",
-      "comments": "13"
+      "views": "3.4K",
+      "comments": "18"
     },
     {
       "id": "varzesh3-2439125",
@@ -218,7 +218,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T12:04:07Z",
-      "views": "17.3K",
+      "views": "17.4K",
       "comments": "12"
     },
     {
@@ -746,21 +746,6 @@
       "language": "en",
       "category": "Basketball",
       "publishedAt": "2026-10-17T10:00:10+00:00"
-    },
-    {
-      "id": "varzesh3-2436909",
-      "title": "دومین برد پیاپی بسکتبال با ویلچر مردان ایران",
-      "summary": "تيم ملى بسکتبال با ویلچر مردان ایران با یک بازگشت درخشان در نیمه دوم، موفق به عبور از سد کره جنوبی شد.",
-      "url": "https://www.varzesh3.com/news/2436909/دومین-برد-پیاپی-بسکتبال-با-ویلچر-مردان-ایران",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/17/B/wwmbr5tn.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-17T04:52:43Z",
-      "views": "5.9K",
-      "comments": "1"
     },
     {
       "id": "bbc-589359499fa3",
