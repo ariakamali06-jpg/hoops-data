@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T11:38:13.799177+00:00",
-  "count": 60,
+  "generatedAt": "2026-10-27T17:30:29.437540+00:00",
+  "count": 59,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 115
+      "items": 116
     },
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -72,
+      "items": -74,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,7 +38,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-27T09:22:50Z",
-      "views": "17.5K",
+      "views": "25.9K",
       "comments": "1"
     },
     {
@@ -53,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-27T08:47:02Z",
-      "views": "3.7K",
+      "views": "6.4K",
       "comments": "2"
     },
     {
@@ -68,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-27T08:27:02Z",
-      "views": "720",
+      "views": "1.2K",
       "comments": "1"
     },
     {
@@ -83,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T22:12:58Z",
-      "views": "2.6K",
+      "views": "2.8K",
       "comments": "1"
     },
     {
@@ -98,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T20:32:33Z",
-      "views": "8.6K",
+      "views": "9.1K",
       "comments": "2"
     },
     {
@@ -113,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T19:56:53Z",
-      "views": "6.6K",
+      "views": "7K",
       "comments": "2"
     },
     {
@@ -128,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T15:22:11Z",
-      "views": "43.5K",
+      "views": "43.8K",
       "comments": "3"
     },
     {
@@ -143,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T07:28:05Z",
-      "views": "8.8K",
+      "views": "8.9K",
       "comments": "3"
     },
     {
@@ -173,7 +173,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T06:17:33Z",
-      "views": "3.5K",
+      "views": "3.6K",
       "comments": "1"
     },
     {
@@ -248,7 +248,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-24T17:57:30Z",
-      "views": "7.7K",
+      "views": "7.8K",
       "comments": "0"
     },
     {
@@ -280,21 +280,6 @@
       "publishedAt": "2026-10-23T19:25:19Z",
       "views": "4.9K",
       "comments": "0"
-    },
-    {
-      "id": "varzesh3-2438807",
-      "title": "نتایج هفته نهم لیگ برتر: جنون در ثانیه‌های پایانی",
-      "summary": "گهر زمین در ثانیه‌های پایانی به سه امتیاز چنگ زد و گیتی پسند در لحظات آخر کامبک فوق العاده‌اش را از دست داد و سن ایچ، طبق معمول باخت، این بار به تیم دومِ مس سونگون!",
-      "url": "https://www.varzesh3.com/news/2438807/نتایج-هفته-نهم-لیگ-برتر-جنون-در-ثانیه-های-پایانی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/23/D/lclsn4f1.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-23T18:17:32Z",
-      "views": "10.6K",
-      "comments": "7"
     },
     {
       "id": "varzesh3-2438802",
