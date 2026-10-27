@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T22:19:22.515097+00:00",
-  "count": 61,
+  "generatedAt": "2026-10-27T03:48:11.718688+00:00",
+  "count": 60,
   "sources": [
     {
       "source": "isna",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -67,
+      "items": -68,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,8 +38,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T22:12:58Z",
-      "views": "1",
-      "comments": "0"
+      "views": "1.1K",
+      "comments": "1"
     },
     {
       "id": "varzesh3-2439715",
@@ -53,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T20:32:33Z",
-      "views": "2.6K",
+      "views": "4.9K",
       "comments": "0"
     },
     {
@@ -68,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T19:56:53Z",
-      "views": "1.8K",
+      "views": "3.7K",
       "comments": "0"
     },
     {
@@ -83,8 +83,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T15:22:11Z",
-      "views": "37.1K",
-      "comments": "2"
+      "views": "39.5K",
+      "comments": "3"
     },
     {
       "id": "varzesh3-2439510",
@@ -113,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T07:05:28Z",
-      "views": "3.4K",
+      "views": "3.5K",
       "comments": "0"
     },
     {
@@ -173,7 +173,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-24T21:52:39Z",
-      "views": "17.9K",
+      "views": "18K",
       "comments": "2"
     },
     {
@@ -383,21 +383,6 @@
       "language": "en",
       "category": "Basketball",
       "publishedAt": "2026-10-23T06:50:32+00:00"
-    },
-    {
-      "id": "varzesh3-2438608",
-      "title": "هفته اول لیگ برتر والیبال و رونمایی از یک پدیده جدید",
-      "summary": "علی ممبینی، قطر پاسور جوان طبیعت اسلامشهر، با کسب ۲۶ امتیاز در هفته نخست لیگ برتر والیبال ایران، عنوان امتیازآورترین بازیکن هفته را از آن خود کرد.",
-      "url": "https://www.varzesh3.com/news/2438608/هفته-اول-لیگ-برتر-والیبال-و-رونمایی-از-یک-پدیده-جدید",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/23/B/que53ofx.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-23T05:23:36Z",
-      "views": "6K",
-      "comments": "5"
     },
     {
       "id": "bbc-7fbdf13200dd",
