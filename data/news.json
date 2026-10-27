@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T17:30:29.437540+00:00",
+  "generatedAt": "2026-10-27T21:50:08.658196+00:00",
   "count": 59,
   "sources": [
     {
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 116
+      "items": 120
     },
     {
       "source": "bbc",
@@ -21,11 +21,41 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -74,
+      "items": -78,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2439998",
+      "title": "تمام NBA علیه بم‌آدبایو: من را قربانی کرده‌اند!",
+      "summary": "بم آدبایو بعد از اینکه میامی چهارمین شکست متوالی را هم تجربه کرد به منتقدان حمله کرد و گفت من را قربانی ناکامی تیم کرده‌اند.",
+      "url": "https://www.varzesh3.com/news/2439998/تمام-nba-علیه-بم-آدبایو-من-را-قربانی-کرده-اند",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/27/A/q5hpstmb.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-27T19:54:21Z",
+      "views": "3.2K",
+      "comments": "0"
+    },
+    {
+      "id": "varzesh3-2439977",
+      "title": "فصل برای ستاره NBA تمام شد!",
+      "summary": "باشگاه اوکلاهاما سیتی تاندر تایید کرد جیلن ویلیامز به‌دلیل شکستگی استخوان نازک‌نی و دررفتگی مچ پای چپ جراحی می‌کند و ماه‌ها از میادین دور خواهد بود.",
+      "url": "https://www.varzesh3.com/news/2439977/فصل-برای-ستاره-nba-تمام-شد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/27/D/5vg544wl.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-27T18:33:01Z",
+      "views": "7.8K",
+      "comments": "2"
+    },
     {
       "id": "varzesh3-2439828",
       "title": "ائتلاف سه نفره علیه مجتبی جباری",
@@ -38,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-27T09:22:50Z",
-      "views": "25.9K",
+      "views": "26.3K",
       "comments": "1"
     },
     {
@@ -53,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-27T08:47:02Z",
-      "views": "6.4K",
+      "views": "7.4K",
       "comments": "2"
     },
     {
@@ -68,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-27T08:27:02Z",
-      "views": "1.2K",
+      "views": "1.4K",
       "comments": "1"
     },
     {
@@ -98,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T20:32:33Z",
-      "views": "9.1K",
+      "views": "9.2K",
       "comments": "2"
     },
     {
@@ -113,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T19:56:53Z",
-      "views": "7K",
+      "views": "7.2K",
       "comments": "2"
     },
     {
@@ -128,7 +158,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T15:22:11Z",
-      "views": "43.8K",
+      "views": "43.9K",
       "comments": "3"
     },
     {
@@ -158,7 +188,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T07:05:28Z",
-      "views": "3.7K",
+      "views": "3.8K",
       "comments": "0"
     },
     {
@@ -499,7 +529,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T09:02:01Z",
-      "views": "5.5K",
+      "views": "5.6K",
       "comments": "1"
     },
     {
@@ -690,36 +720,6 @@
       "publishedAt": "2026-10-19T11:49:16Z",
       "views": "5.2K",
       "comments": "3"
-    },
-    {
-      "id": "varzesh3-2437549",
-      "title": "بررسی چالش‌های میزبانی بسکتبال ایران در حضور وزیر ورزش",
-      "summary": "جواد داوری، سرپرست فدراسیون بسکتبال، با حضور در وزارت ورزش و جوانان با احمد دنیامالی، وزیر ورزش و جوانان، دیدار و گفت‌وگو کرد.",
-      "url": "https://www.varzesh3.com/news/2437549/بررسی-چالش-های-میزبانی-بسکتبال-ایران-در-حضور-وزیر-ورزش",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/19/B/anfpymb2.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-19T07:42:16Z",
-      "views": "1.5K",
-      "comments": "0"
-    },
-    {
-      "id": "varzesh3-2437527",
-      "title": "هت‌تریک برد مردان بسکتبال با ویلچر ایران",
-      "summary": "تیم ملی بسکتبال با ویلچر مردان ایران با برتری برابر فیلیپین و کسب سه پیروزی پیاپی، صعود خود به مرحله حذفی را قطعی کرد.",
-      "url": "https://www.varzesh3.com/news/2437527/هت-تریک-برد-مردان-بسکتبال-با-ویلچر-ایران",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/19/B/3tabyktn.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-19T06:18:55Z",
-      "views": "4.1K",
-      "comments": "2"
     },
     {
       "id": "bbc-a505df9d56bf",
