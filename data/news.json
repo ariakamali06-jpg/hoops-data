@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T03:48:11.718688+00:00",
+  "generatedAt": "2026-10-27T11:38:13.799177+00:00",
   "count": 60,
   "sources": [
     {
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 111
+      "items": 115
     },
     {
       "source": "bbc",
@@ -21,11 +21,56 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -68,
+      "items": -72,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2439828",
+      "title": "ائتلاف سه نفره علیه مجتبی جباری",
+      "summary": "تیم‌های پارس جنوبی جم، مس رفسنجان و آریو اسلامشهر امروز فرصت دارند تا مدت صدرنشینی جزیره قشم را به 24 ساعت کاهش دهند.",
+      "url": "https://www.varzesh3.com/news/2439828/ائتلاف-سه-نفره-علیه-مجتبی-جباری",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/20/D/uny1r1fu.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-27T09:22:50Z",
+      "views": "17.5K",
+      "comments": "1"
+    },
+    {
+      "id": "varzesh3-2439817",
+      "title": "شکست غول‌های NBA با درخشش ستاره‌های نسل زِد!",
+      "summary": "درخشش برندون میلر، مهار آنتونی ادواردز ۴۷ امتیازی در اورتایم و نمایش کوپر فلگ برابر یانیس از اتفاقات مهم شب گذشته بود.",
+      "url": "https://www.varzesh3.com/news/2439817/شکست-غول-های-nba-با-درخشش-ستاره-های-نسل-زِد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/27/B/4rvscb0o.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-27T08:47:02Z",
+      "views": "3.7K",
+      "comments": "2"
+    },
+    {
+      "id": "varzesh3-2439812",
+      "title": "هفته دوم لیگ‌برتر بسکتبال زیر ذره‌بین مانولوپولوس!",
+      "summary": "‏سرمربی تیم ملی بسکتبال برای تماشای بازی‌های لیگ و اردوی تیم ملی بسکتبال به ایران آمد.",
+      "url": "https://www.varzesh3.com/news/2439812/هفته-دوم-لیگ-برتر-بسکتبال-زیر-ذره-بین-مانولوپولوس",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/19/C/dyutqjk2.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-27T08:27:02Z",
+      "views": "720",
+      "comments": "1"
+    },
     {
       "id": "varzesh3-2439758",
       "title": "پرونده جنجالی فساد و تبانی در بسکتبال یونان!",
@@ -38,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T22:12:58Z",
-      "views": "1.1K",
+      "views": "2.6K",
       "comments": "1"
     },
     {
@@ -53,8 +98,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T20:32:33Z",
-      "views": "4.9K",
-      "comments": "0"
+      "views": "8.6K",
+      "comments": "2"
     },
     {
       "id": "varzesh3-2439705",
@@ -68,8 +113,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T19:56:53Z",
-      "views": "3.7K",
-      "comments": "0"
+      "views": "6.6K",
+      "comments": "2"
     },
     {
       "id": "varzesh3-2439653",
@@ -83,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T15:22:11Z",
-      "views": "39.5K",
+      "views": "43.5K",
       "comments": "3"
     },
     {
@@ -98,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T07:28:05Z",
-      "views": "8.5K",
+      "views": "8.8K",
       "comments": "3"
     },
     {
@@ -113,7 +158,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T07:05:28Z",
-      "views": "3.5K",
+      "views": "3.7K",
       "comments": "0"
     },
     {
@@ -128,7 +173,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T06:17:33Z",
-      "views": "3.3K",
+      "views": "3.5K",
       "comments": "1"
     },
     {
@@ -143,7 +188,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-25T18:47:30Z",
-      "views": "4.6K",
+      "views": "4.7K",
       "comments": "20"
     },
     {
@@ -158,7 +203,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-24T22:15:00Z",
-      "views": "3.5K",
+      "views": "3.6K",
       "comments": "1"
     },
     {
@@ -218,23 +263,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-24T17:18:30Z",
-      "views": "5.1K",
+      "views": "5.2K",
       "comments": "5"
-    },
-    {
-      "id": "varzesh3-2438921",
-      "title": "مینه‌سوتا بدون ادواردز اورلاندو را جارو کرد!",
-      "summary": "سه بازی شب گذشته مسابقات لیگ NBA با تحقیر تاریخی شارلوت، برتری قاطع مینه‌سوتا و پیروزی پرحاشیه دالاس در ایندیانا به پایان رسید.",
-      "url": "https://www.varzesh3.com/news/2438921/مینه-سوتا-بدون-ادواردز-اورلاندو-را-جارو-کرد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/24/B/vsuofsne.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-24T08:41:36Z",
-      "views": "2.1K",
-      "comments": "0"
     },
     {
       "id": "varzesh3-2438828",
@@ -309,7 +339,7 @@
       "category": "ورزشی",
       "publishedAt": "2026-10-23T12:04:07Z",
       "views": "17.5K",
-      "comments": "12"
+      "comments": "14"
     },
     {
       "id": "varzesh3-2438667",
@@ -718,36 +748,6 @@
       "language": "en",
       "category": "Basketball",
       "publishedAt": "2026-10-19T04:10:35+00:00"
-    },
-    {
-      "id": "varzesh3-2437425",
-      "title": "عجیب‌ترین بسکتبالیست دنیا هم‌تیمی لبران جیمز!",
-      "summary": "بسکتبالیست بلند قامت سنگالی بعد از چند فصل حضور در خارج از NBA سرانجام توانست رضایت مدعی اصلی قهرمانی این فصل را برای حضور در لیست جلب کند.",
-      "url": "https://www.varzesh3.com/news/2437425/عجیب-ترین-بسکتبالیست-دنیا-هم-تیمی-لبران-جیمز",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/18/D/wc3uo2rs.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-18T18:13:04Z",
-      "views": "19.7K",
-      "comments": "0"
-    },
-    {
-      "id": "varzesh3-2437159",
-      "title": "برد تیم فرانسوی با درخشش لژیونر بسکتبال ایران",
-      "summary": "محمد امینی در پیروزی تیمش در لیگ فرانسه ستاره اصلی نانسی بود و شب فوق‌العاده‌ای را پشت سرگذاشت.",
-      "url": "https://www.varzesh3.com/news/2437159/برد-تیم-فرانسوی-با-درخشش-لژیونر-بسکتبال-ایران",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/17/A/th4nwtd3.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-17T20:27:55Z",
-      "views": "9.6K",
-      "comments": "3"
     },
     {
       "id": "bbc-d0d1256c551b",
