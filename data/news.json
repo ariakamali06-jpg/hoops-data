@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T04:06:00.658517+00:00",
-  "count": 59,
+  "generatedAt": "2026-10-28T12:09:23.605988+00:00",
+  "count": 58,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 121
+      "items": 118
     },
     {
       "source": "bbc",
@@ -21,11 +21,41 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -79,
+      "items": -77,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2440046",
+      "title": "قهرمان انتقام گرفت و به لیگ برگشت!",
+      "summary": "مدافع عنوان قهرمانی NBA طلسم شکست‌های ابتدای فصل را شکست و با درخشش کارل‌آنتونی تاونز برابر دیترویت پیستونز به نخستین برد در نیویورک رسید.",
+      "url": "https://www.varzesh3.com/news/2440046/قهرمان-انتقام-گرفت-و-به-لیگ-برگشت",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/28/B/vgkbfwvk.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-28T06:41:29Z",
+      "views": "4.1K",
+      "comments": "0"
+    },
+    {
+      "id": "varzesh3-2440034",
+      "title": "زیبایی خالص بسکتبال: بازربیتر تیتوم در ثانیه صفر!",
+      "summary": "بازر بیتر فوق‌العاده جیسون تیتوم صحنه‌ای خلق کرد که بار دیگر زیبایی بسکتبال را به دنیا نشان داد.",
+      "url": "https://www.varzesh3.com/news/2440034/زیبایی-خالص-بسکتبال-بازربیتر-تیتوم-در-ثانیه-صفر",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/28/B/qriahyll.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-28T05:55:22Z",
+      "views": "3.5K",
+      "comments": "2"
+    },
     {
       "id": "varzesh3-2439998",
       "title": "تمام NBA علیه بم‌آدبایو: من را قربانی کرده‌اند!",
@@ -38,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-27T19:54:21Z",
-      "views": "6.5K",
+      "views": "9.8K",
       "comments": "0"
     },
     {
@@ -53,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-27T18:33:01Z",
-      "views": "10.5K",
+      "views": "13.5K",
       "comments": "3"
     },
     {
@@ -68,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-27T09:22:50Z",
-      "views": "26.4K",
+      "views": "26.5K",
       "comments": "1"
     },
     {
@@ -83,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-27T08:47:02Z",
-      "views": "7.9K",
+      "views": "8.2K",
       "comments": "2"
     },
     {
@@ -98,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-27T08:27:02Z",
-      "views": "1.5K",
+      "views": "1.6K",
       "comments": "1"
     },
     {
@@ -128,7 +158,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T20:32:33Z",
-      "views": "9.3K",
+      "views": "9.4K",
       "comments": "2"
     },
     {
@@ -143,7 +173,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T19:56:53Z",
-      "views": "7.3K",
+      "views": "7.5K",
       "comments": "2"
     },
     {
@@ -158,7 +188,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T15:22:11Z",
-      "views": "44K",
+      "views": "44.2K",
       "comments": "3"
     },
     {
@@ -173,7 +203,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T07:28:05Z",
-      "views": "8.9K",
+      "views": "9K",
       "comments": "3"
     },
     {
@@ -188,7 +218,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T07:05:28Z",
-      "views": "3.8K",
+      "views": "3.9K",
       "comments": "0"
     },
     {
@@ -203,7 +233,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T06:17:33Z",
-      "views": "3.7K",
+      "views": "3.8K",
       "comments": "1"
     },
     {
@@ -218,7 +248,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-25T18:47:30Z",
-      "views": "4.7K",
+      "views": "4.8K",
       "comments": "20"
     },
     {
@@ -327,21 +357,6 @@
       "comments": "1"
     },
     {
-      "id": "varzesh3-2438781",
-      "title": "تلفات سنگین نفت آبادان در تقابل با استقلال!",
-      "summary": "سالار منجی در بازی با استقلال با شکستگی استخوان به مدت 10 هفته از میادین دور خواهد بود.",
-      "url": "https://www.varzesh3.com/news/2438781/تلفات-سنگین-نفت-آبادان-در-تقابل-با-استقلال",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/23/D/5ea3jn52.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-23T16:41:28Z",
-      "views": "12.6K",
-      "comments": "2"
-    },
-    {
       "id": "varzesh3-2438712",
       "title": "نقره بسکتبال با ویلچر ناگویا به ایران رسید",
       "summary": "تیم ملی بسکتبال با ویلچر مردان ایران در دیدار فینال بازی‌های پاراآسیایی ناگویا ۲۰۲۶، با شکست برابر ژاپن، به مدال نقره دست یافت.",
@@ -398,7 +413,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T07:02:44Z",
-      "views": "30.4K",
+      "views": "30.5K",
       "comments": "10"
     },
     {
@@ -469,7 +484,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T16:10:17Z",
-      "views": "5.2K",
+      "views": "5.3K",
       "comments": "10"
     },
     {
@@ -664,21 +679,6 @@
       "comments": "2"
     },
     {
-      "id": "varzesh3-2437884",
-      "title": "گران‌ترین دوقلوهای دنیا با قرارداد ۳۶۳ میلیون دلاری!",
-      "summary": "ایمن و آسار تامپسون روی هم ۳۶۳ میلیون دلار قرارداد جدید بستند و این قرارداد بزرگ‌ترین قرارداد خانوادگی تاریخ بسکتبال دنیا بود.",
-      "url": "https://www.varzesh3.com/news/2437884/گران-ترین-دوقلوهای-دنیا-با-قرارداد-۳۶۳-میلیون-دلاری",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/20/B/2i04orw0.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-20T08:07:02Z",
-      "views": "16.4K",
-      "comments": "3"
-    },
-    {
       "id": "varzesh3-2437882",
       "title": "قدرت‌نمایی بسکتبال با ویلچر زنان برابر لائوس",
       "summary": "تیم ملی بسکتبال با ویلچر زنان ایران دومین برد خود را در ناگویا مقابل لائوس به دست آورد.",
@@ -705,21 +705,6 @@
       "language": "en",
       "category": "Basketball",
       "publishedAt": "2026-10-20T06:24:13+00:00"
-    },
-    {
-      "id": "varzesh3-2437626",
-      "title": "اولین برد زنان بسکتبال با ویلچر در ناگویا",
-      "summary": "تیم ملی بسکتبال با ویلچر زنان ایران اولین پیروزی خود را در ناگویا دشت کرد.",
-      "url": "https://www.varzesh3.com/news/2437626/اولین-برد-زنان-بسکتبال-با-ویلچر-در-ناگویا",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/19/C/rohzrqod.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-19T11:49:16Z",
-      "views": "5.2K",
-      "comments": "3"
     },
     {
       "id": "bbc-a505df9d56bf",

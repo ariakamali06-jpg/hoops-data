@@ -9,7 +9,7 @@
       "country": "IR",
       "flag": "🇮🇷",
       "priority": 1,
-      "updatedAt": "2026-10-28T04:06:02.138633+00:00",
+      "updatedAt": "2026-10-28T12:09:24.592492+00:00",
       "groups": [
         {
           "name": "لیگ برتر بسکتبال",
@@ -462,7 +462,7 @@
       "country": "US",
       "flag": "🏀",
       "priority": 2,
-      "updatedAt": "2026-10-28T04:06:04.806639+00:00",
+      "updatedAt": "2026-10-28T12:09:26.368958+00:00",
       "groups": [
         {
           "name": "کنفرانس شرق",
@@ -749,13 +749,13 @@
               "name": "پورتلند تریل بلیزرز",
               "shortName": "پورتلند تریل بلیزرز",
               "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/fiwzuurc.png?w=144",
-              "played": 2,
-              "won": 2,
+              "played": 3,
+              "won": 3,
               "lost": 0,
-              "pointsFor": 252,
-              "pointsAgainst": 203,
-              "diff": 49,
-              "points": 4,
+              "pointsFor": 388,
+              "pointsAgainst": 332,
+              "diff": 56,
+              "points": 6,
               "pointsDeducted": 0,
               "winRate": 1,
               "form": null
@@ -799,24 +799,6 @@
             {
               "rank": 4,
               "manualRank": 0,
-              "teamId": 902784,
-              "name": "لس آنجلس لیکرز",
-              "shortName": "لس آنجلس لیکرز",
-              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/3urohyqu.png?w=144",
-              "played": 3,
-              "won": 3,
-              "lost": 0,
-              "pointsFor": 384,
-              "pointsAgainst": 345,
-              "diff": 39,
-              "points": 6,
-              "pointsDeducted": 0,
-              "winRate": 1,
-              "form": null
-            },
-            {
-              "rank": 5,
-              "manualRank": 0,
               "teamId": 902785,
               "name": "ممفیس گریزلیز",
               "shortName": "ممفیس گریزلیز",
@@ -833,7 +815,7 @@
               "form": null
             },
             {
-              "rank": 6,
+              "rank": 5,
               "manualRank": 0,
               "teamId": 902786,
               "name": "مینه سوتا تیمبرولوز",
@@ -845,6 +827,24 @@
               "pointsFor": 488,
               "pointsAgainst": 420,
               "diff": 68,
+              "points": 7,
+              "pointsDeducted": 0,
+              "winRate": 0.75,
+              "form": null
+            },
+            {
+              "rank": 6,
+              "manualRank": 0,
+              "teamId": 902784,
+              "name": "لس آنجلس لیکرز",
+              "shortName": "لس آنجلس لیکرز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/3urohyqu.png?w=144",
+              "played": 4,
+              "won": 3,
+              "lost": 1,
+              "pointsFor": 513,
+              "pointsAgainst": 481,
+              "diff": 32,
               "points": 7,
               "pointsDeducted": 0,
               "winRate": 0.75,
@@ -1294,13 +1294,13 @@
           "name": "پورتلند تریل بلیزرز",
           "shortName": "پورتلند تریل بلیزرز",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/fiwzuurc.png?w=144",
-          "played": 2,
-          "won": 2,
+          "played": 3,
+          "won": 3,
           "lost": 0,
-          "pointsFor": 252,
-          "pointsAgainst": 203,
-          "diff": 49,
-          "points": 4,
+          "pointsFor": 388,
+          "pointsAgainst": 332,
+          "diff": 56,
+          "points": 6,
           "pointsDeducted": 0,
           "winRate": 1,
           "form": null
@@ -1344,24 +1344,6 @@
         {
           "rank": 4,
           "manualRank": 0,
-          "teamId": 902784,
-          "name": "لس آنجلس لیکرز",
-          "shortName": "لس آنجلس لیکرز",
-          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/3urohyqu.png?w=144",
-          "played": 3,
-          "won": 3,
-          "lost": 0,
-          "pointsFor": 384,
-          "pointsAgainst": 345,
-          "diff": 39,
-          "points": 6,
-          "pointsDeducted": 0,
-          "winRate": 1,
-          "form": null
-        },
-        {
-          "rank": 5,
-          "manualRank": 0,
           "teamId": 902785,
           "name": "ممفیس گریزلیز",
           "shortName": "ممفیس گریزلیز",
@@ -1378,7 +1360,7 @@
           "form": null
         },
         {
-          "rank": 6,
+          "rank": 5,
           "manualRank": 0,
           "teamId": 902786,
           "name": "مینه سوتا تیمبرولوز",
@@ -1390,6 +1372,24 @@
           "pointsFor": 488,
           "pointsAgainst": 420,
           "diff": 68,
+          "points": 7,
+          "pointsDeducted": 0,
+          "winRate": 0.75,
+          "form": null
+        },
+        {
+          "rank": 6,
+          "manualRank": 0,
+          "teamId": 902784,
+          "name": "لس آنجلس لیکرز",
+          "shortName": "لس آنجلس لیکرز",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/3urohyqu.png?w=144",
+          "played": 4,
+          "won": 3,
+          "lost": 1,
+          "pointsFor": 513,
+          "pointsAgainst": 481,
+          "diff": 32,
           "points": 7,
           "pointsDeducted": 0,
           "winRate": 0.75,
@@ -1568,7 +1568,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 3,
-      "updatedAt": "2026-10-28T04:06:08.982193+00:00",
+      "updatedAt": "2026-10-28T12:09:28.929407+00:00",
       "groups": [
         {
           "name": "لیگ غرب آسیا",
@@ -2067,7 +2067,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 4,
-      "updatedAt": "2026-10-28T04:06:11.662745+00:00",
+      "updatedAt": "2026-10-28T12:09:30.833402+00:00",
       "groups": [
         {
           "name": "گروهی ",
@@ -2412,7 +2412,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 5,
-      "updatedAt": "2026-10-28T04:06:14.423841+00:00",
+      "updatedAt": "2026-10-28T12:09:32.633439+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -3024,7 +3024,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 6,
-      "updatedAt": "2026-10-28T04:06:17.326355+00:00",
+      "updatedAt": "2026-10-28T12:09:34.501897+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4078,7 +4078,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 7,
-      "updatedAt": "2026-10-28T04:06:20.640224+00:00",
+      "updatedAt": "2026-10-28T12:09:36.882995+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4541,7 +4541,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 8,
-      "updatedAt": "2026-10-28T04:06:23.286069+00:00",
+      "updatedAt": "2026-10-28T12:09:39.003698+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -5600,7 +5600,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 9,
-      "updatedAt": "2026-10-28T04:06:25.380285+00:00",
+      "updatedAt": "2026-10-28T12:09:40.448702+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -5614,7 +5614,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 10,
-      "updatedAt": "2026-10-28T04:06:28.042966+00:00",
+      "updatedAt": "2026-10-28T12:09:42.201811+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -6077,7 +6077,7 @@
       "country": "EU",
       "flag": "🇪🇺",
       "priority": 11,
-      "updatedAt": "2026-10-28T04:06:30.110113+00:00",
+      "updatedAt": "2026-10-28T12:09:43.660739+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6091,7 +6091,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 12,
-      "updatedAt": "2026-10-28T04:06:32.047051+00:00",
+      "updatedAt": "2026-10-28T12:09:45.448064+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6105,7 +6105,7 @@
       "country": "US",
       "flag": "🏆",
       "priority": 13,
-      "updatedAt": "2026-10-28T04:06:34.070770+00:00",
+      "updatedAt": "2026-10-28T12:09:46.893537+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6119,7 +6119,7 @@
       "country": "WO",
       "flag": "🤝",
       "priority": 14,
-      "updatedAt": "2026-10-28T04:06:36.001268+00:00",
+      "updatedAt": "2026-10-28T12:09:48.648394+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -9623,9 +9623,9 @@
       "date": "1405/08/06",
       "dateIso": "2027-02-06",
       "time": "06:30",
-      "status": 2,
-      "statusFa": "شروع نشده",
-      "statusShort": "شروع نشده",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
       "isLive": false,
       "host": {
         "id": 902784,
@@ -9639,8 +9639,8 @@
         "shortName": "پورتلند تریل بلیزرز",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/fiwzuurc.png?w=144"
       },
-      "hostScore": null,
-      "guestScore": null,
+      "hostScore": 129,
+      "guestScore": 136,
       "quarters": [
         {
           "quarter": 1,
@@ -9649,11 +9649,21 @@
         },
         {
           "quarter": 2,
-          "host": 16,
-          "guest": 26
+          "host": 35,
+          "guest": 36
+        },
+        {
+          "quarter": 3,
+          "host": 30,
+          "guest": 34
+        },
+        {
+          "quarter": 4,
+          "host": 26,
+          "guest": 34
         }
       ],
-      "winner": null,
+      "winner": "host",
       "url": "https://www.varzesh3.com/basketball/match/180060/بازی-لس-آنجلس-لیکرز-پورتلند-تریل-بلیزرز"
     },
     {
@@ -24171,5 +24181,5 @@
   "liveCount": 0,
   "staleDropped": 2,
   "version": 2,
-  "generatedAt": "2026-10-28T04:06:37.158058+00:00"
+  "generatedAt": "2026-10-28T12:09:49.423350+00:00"
 }
