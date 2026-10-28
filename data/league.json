@@ -9,7 +9,7 @@
       "country": "IR",
       "flag": "🇮🇷",
       "priority": 1,
-      "updatedAt": "2026-10-28T12:09:24.592492+00:00",
+      "updatedAt": "2026-10-28T22:12:26.637266+00:00",
       "groups": [
         {
           "name": "لیگ برتر بسکتبال",
@@ -462,7 +462,7 @@
       "country": "US",
       "flag": "🏀",
       "priority": 2,
-      "updatedAt": "2026-10-28T12:09:26.368958+00:00",
+      "updatedAt": "2026-10-28T22:12:28.429641+00:00",
       "groups": [
         {
           "name": "کنفرانس شرق",
@@ -1568,7 +1568,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 3,
-      "updatedAt": "2026-10-28T12:09:28.929407+00:00",
+      "updatedAt": "2026-10-28T22:12:31.284461+00:00",
       "groups": [
         {
           "name": "لیگ غرب آسیا",
@@ -2067,7 +2067,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 4,
-      "updatedAt": "2026-10-28T12:09:30.833402+00:00",
+      "updatedAt": "2026-10-28T22:12:33.108692+00:00",
       "groups": [
         {
           "name": "گروهی ",
@@ -2412,7 +2412,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 5,
-      "updatedAt": "2026-10-28T12:09:32.633439+00:00",
+      "updatedAt": "2026-10-28T22:12:35.121567+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -3024,7 +3024,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 6,
-      "updatedAt": "2026-10-28T12:09:34.501897+00:00",
+      "updatedAt": "2026-10-28T22:12:37.773633+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4078,7 +4078,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 7,
-      "updatedAt": "2026-10-28T12:09:36.882995+00:00",
+      "updatedAt": "2026-10-28T22:12:40.152991+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4541,7 +4541,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 8,
-      "updatedAt": "2026-10-28T12:09:39.003698+00:00",
+      "updatedAt": "2026-10-28T22:12:42.070173+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -5600,7 +5600,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 9,
-      "updatedAt": "2026-10-28T12:09:40.448702+00:00",
+      "updatedAt": "2026-10-28T22:12:43.442217+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -5614,7 +5614,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 10,
-      "updatedAt": "2026-10-28T12:09:42.201811+00:00",
+      "updatedAt": "2026-10-28T22:12:45.228438+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -6077,7 +6077,7 @@
       "country": "EU",
       "flag": "🇪🇺",
       "priority": 11,
-      "updatedAt": "2026-10-28T12:09:43.660739+00:00",
+      "updatedAt": "2026-10-28T22:12:46.579244+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6091,7 +6091,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 12,
-      "updatedAt": "2026-10-28T12:09:45.448064+00:00",
+      "updatedAt": "2026-10-28T22:12:47.736630+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6105,7 +6105,7 @@
       "country": "US",
       "flag": "🏆",
       "priority": 13,
-      "updatedAt": "2026-10-28T12:09:46.893537+00:00",
+      "updatedAt": "2026-10-28T22:12:49.085257+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6119,7 +6119,7 @@
       "country": "WO",
       "flag": "🤝",
       "priority": 14,
-      "updatedAt": "2026-10-28T12:09:48.648394+00:00",
+      "updatedAt": "2026-10-28T22:12:50.389574+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -8783,38 +8783,6 @@
       "url": "https://www.varzesh3.com/basketball/match/180086/بازی-یوتا-جاز-پورتلند-تریل-بلیزرز"
     },
     {
-      "id": 180073,
-      "leagueId": "lg-209",
-      "leagueRef": 209,
-      "leagueName": "NBA",
-      "leagueNameEn": "NBA",
-      "leagueFlag": "🏀",
-      "date": "1405/08/08",
-      "dateIso": "2027-02-08",
-      "time": "02:30",
-      "status": 1,
-      "statusFa": "برنامه‌ریزی‌شده",
-      "statusShort": "برنامه",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "آتلانتا هاوکس",
-        "shortName": "آتلانتا هاوکس",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/egbamhav.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "کلیولند کاوالیرز",
-        "shortName": "کلیولند کاوالیرز",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/d00jval4.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/180073/بازی-آتلانتا-هاوکس-کلیولند-کاوالیرز"
-    },
-    {
       "id": 180074,
       "leagueId": "lg-209",
       "leagueRef": 209,
@@ -8845,6 +8813,38 @@
       "quarters": [],
       "winner": null,
       "url": "https://www.varzesh3.com/basketball/match/180074/بازی-نیو-اورلینز-پلیکانز-ساکرامنتو-کینگز"
+    },
+    {
+      "id": 180073,
+      "leagueId": "lg-209",
+      "leagueRef": 209,
+      "leagueName": "NBA",
+      "leagueNameEn": "NBA",
+      "leagueFlag": "🏀",
+      "date": "1405/08/08",
+      "dateIso": "2027-02-08",
+      "time": "03:30",
+      "status": 1,
+      "statusFa": "برنامه‌ریزی‌شده",
+      "statusShort": "برنامه",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "آتلانتا هاوکس",
+        "shortName": "آتلانتا هاوکس",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/egbamhav.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "کلیولند کاوالیرز",
+        "shortName": "کلیولند کاوالیرز",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/d00jval4.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/180073/بازی-آتلانتا-هاوکس-کلیولند-کاوالیرز"
     },
     {
       "id": 180075,
@@ -24181,5 +24181,5 @@
   "liveCount": 0,
   "staleDropped": 2,
   "version": 2,
-  "generatedAt": "2026-10-28T12:09:49.423350+00:00"
+  "generatedAt": "2026-10-28T22:12:51.134931+00:00"
 }
