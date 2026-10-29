@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T04:29:22.993896+00:00",
-  "count": 60,
+  "generatedAt": "2026-10-29T12:20:28.496990+00:00",
+  "count": 62,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 124
+      "items": 119
     },
     {
       "source": "bbc",
@@ -21,25 +21,100 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -81,
+      "items": -74,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
     {
-      "id": "varzesh3-2440237",
-      "title": "روزسخت گرگان در سالن ترسناک جهرم!",
-      "summary": "شهرداری گرگان در بازی خارج از خانه مقابل زاگرس جنوبی جهرم کار سختی مقابل تیم سرسخت صالح اسماعیلی خواهد داشت.",
-      "url": "https://www.varzesh3.com/news/2440237/روزسخت-گرگان-در-سالن-ترسناک-جهرم",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/28/D/rkbwt0sq.webp",
+      "id": "varzesh3-2440369",
+      "title": "لیگ بسکتبال زنان قبل از جامپ‌بال جنجالی شد!",
+      "summary": "تیم اعجاز پیشرو پیش از شروع لیگ برتر بسکتبال زنان سر و صدای زیادی به راه انداخته است.",
+      "url": "https://www.varzesh3.com/news/2440369/لیگ-بسکتبال-زنان-قبل-از-جامپ-بال-جنجالی-شد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/29/C/tinsd2zz.webp",
       "source": "varzesh3",
       "sourceName": "ورزش سه",
       "sourceNameEn": "Varzesh3",
       "language": "fa",
       "category": "ورزشی",
-      "publishedAt": "2026-10-28T17:32:45Z",
-      "views": "5K",
-      "comments": "5"
+      "publishedAt": "2026-10-29T11:23:16Z",
+      "views": "1.2K",
+      "comments": "0"
+    },
+    {
+      "id": "varzesh3-2440362",
+      "title": "شاهکار مابلی در کلیولند و شکست‌ناپذیری هیوستون!",
+      "summary": "دیدارهای بامداد امروز ان‌بی‌ای با پیروزی کلیولند برابر واشنگتن، آتش‌بازی تورنتو مقابل اورلاندو و تداوم رکورد شکست‌ناپذیری هیوستون همراه شد.",
+      "url": "https://www.varzesh3.com/news/2440362/شاهکار-مابلی-در-کلیولند-و-شکست-ناپذیری-هیوستون",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/29/C/r0e3rs1d.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-29T11:03:42Z",
+      "views": "879",
+      "comments": "1"
+    },
+    {
+      "id": "varzesh3-2440352",
+      "title": "گلدن‌استیت این را کم داشت: پخت و پز سرآشپز کری!",
+      "summary": "رقابت‌های مهیج بامداد امروز بسکتبال آمریکا با آتش‌بازی گلدن استیت، رکوردشکنی تاریخی جوکیچ در نیواورلینز و کامبک تماشایی نیویورک به پایان رسید.",
+      "url": "https://www.varzesh3.com/news/2440352/گلدن-استیت-این-را-کم-داشت-پخت-و-پز-سرآشپز-کری",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/29/C/roxfrbpt.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-29T10:19:28Z",
+      "views": "3.2K",
+      "comments": "3"
+    },
+    {
+      "id": "varzesh3-2440349",
+      "title": "دالاس روی بال‌های کوپر فلگ پرواز می‌کند!",
+      "summary": "دیدارهای بامداد امروز بسکتبال آمریکا با درخشش ومبانیاما در وقت اضافه، پیروزی مقتدرانه دالاس و برتری لیکرز در دربی لس‌آنجلس همراه شد.",
+      "url": "https://www.varzesh3.com/news/2440349/دالاس-روی-بال-های-کوپر-فلگ-پرواز-می-کند",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/29/C/ajas2qfc.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-29T10:17:31Z",
+      "views": "1.4K",
+      "comments": "1"
+    },
+    {
+      "id": "varzesh3-2440342",
+      "title": "وحشت در کنفرانس شرق: غول یونانی بیدار شد!",
+      "summary": "رقابت‌های بامداد امروز ان‌بی‌ای با پیروزی فیلادلفیا در ایندیانا، ثبت نخستین برد یانیس همراه میامی هیت و بازگشت دیترویت همراه شد.",
+      "url": "https://www.varzesh3.com/news/2440342/وحشت-در-کنفرانس-شرق-غول-یونانی-بیدار-شد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/29/C/4ejwyglc.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-29T09:45:06Z",
+      "views": "6K",
+      "comments": "1"
+    },
+    {
+      "id": "varzesh3-2440338",
+      "title": "ترمز نانسی در روز درخشش امینی کشیده شد!",
+      "summary": "تیم بسکتبال نانسی فرانسه در دیداری نزدیک و با عملکرد مثبت لژیونر ایرانی خود، برابر کینگ شچچین لهستانمغلوب شد تا اولین باخت اروپایی‌اش ثبت شود.",
+      "url": "https://www.varzesh3.com/news/2440338/ترمز-نانسی-در-روز-درخشش-امینی-کشیده-شد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/29/C/mhjbmvuf.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-29T09:44:04Z",
+      "views": "3.8K",
+      "comments": "0"
     },
     {
       "id": "varzesh3-2440227",
@@ -53,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-28T16:55:31Z",
-      "views": "2.4K",
+      "views": "2.9K",
       "comments": "0"
     },
     {
@@ -68,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-28T16:36:22Z",
-      "views": "2.5K",
+      "views": "2.9K",
       "comments": "0"
     },
     {
@@ -83,7 +158,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-28T15:00:59Z",
-      "views": "3.3K",
+      "views": "3.9K",
       "comments": "0"
     },
     {
@@ -98,7 +173,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-28T15:00:17Z",
-      "views": "4K",
+      "views": "4.7K",
       "comments": "1"
     },
     {
@@ -113,7 +188,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-28T06:41:29Z",
-      "views": "4.5K",
+      "views": "4.7K",
       "comments": "0"
     },
     {
@@ -128,8 +203,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-28T05:55:22Z",
-      "views": "4.3K",
-      "comments": "3"
+      "views": "4.6K",
+      "comments": "4"
     },
     {
       "id": "varzesh3-2439998",
@@ -143,7 +218,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-27T19:54:21Z",
-      "views": "10.2K",
+      "views": "10.4K",
       "comments": "0"
     },
     {
@@ -158,7 +233,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-27T18:33:01Z",
-      "views": "14.1K",
+      "views": "14.3K",
       "comments": "3"
     },
     {
@@ -177,21 +252,6 @@
       "comments": "1"
     },
     {
-      "id": "varzesh3-2439817",
-      "title": "شکست غول‌های NBA با درخشش ستاره‌های نسل زِد!",
-      "summary": "درخشش برندون میلر، مهار آنتونی ادواردز ۴۷ امتیازی در اورتایم و نمایش کوپر فلگ برابر یانیس از اتفاقات مهم شب گذشته بود.",
-      "url": "https://www.varzesh3.com/news/2439817/شکست-غول-های-nba-با-درخشش-ستاره-های-نسل-زِد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/27/B/4rvscb0o.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-27T08:47:02Z",
-      "views": "8.3K",
-      "comments": "2"
-    },
-    {
       "id": "varzesh3-2439812",
       "title": "هفته دوم لیگ‌برتر بسکتبال زیر ذره‌بین مانولوپولوس!",
       "summary": "‏سرمربی تیم ملی بسکتبال برای تماشای بازی‌های لیگ و اردوی تیم ملی بسکتبال به ایران آمد.",
@@ -207,21 +267,6 @@
       "comments": "1"
     },
     {
-      "id": "varzesh3-2439758",
-      "title": "پرونده جنجالی فساد و تبانی در بسکتبال یونان!",
-      "summary": "جنجال تبانی در بسکتبال یونان باعث تغییر ریاست فدراسیون این کشور شد و ابعاد جدید و گسترده‌ای درباره این اتفاق انعکاس پیدا کرده است.",
-      "url": "https://www.varzesh3.com/news/2439758/پرونده-جنجالی-فساد-و-تبانی-در-بسکتبال-یونان",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/27/A/xuszxmnv.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-26T22:12:58Z",
-      "views": "2.8K",
-      "comments": "1"
-    },
-    {
       "id": "varzesh3-2439715",
       "title": "‏دنیس شرودر آلمانی گلزنی که بسکتبال مانندش ندارد!",
       "summary": "گارد تیم هورنس شارلوت در این فصل با نهمین تیم آمار 25 در یک مسابقه را به دست آورد و رکورددار شد.",
@@ -233,7 +278,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T20:32:33Z",
-      "views": "9.4K",
+      "views": "9.5K",
       "comments": "2"
     },
     {
@@ -278,7 +323,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T06:17:33Z",
-      "views": "3.8K",
+      "views": "3.9K",
       "comments": "1"
     },
     {
@@ -293,7 +338,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-24T22:15:00Z",
-      "views": "3.6K",
+      "views": "3.7K",
       "comments": "1"
     },
     {
@@ -308,7 +353,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-24T21:52:39Z",
-      "views": "18K",
+      "views": "18.1K",
       "comments": "2"
     },
     {
@@ -383,7 +428,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T17:59:34Z",
-      "views": "5.5K",
+      "views": "5.6K",
       "comments": "1"
     },
     {
@@ -413,7 +458,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T09:35:30Z",
-      "views": "13.9K",
+      "views": "14K",
       "comments": "2"
     },
     {
@@ -529,7 +574,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-22T16:08:39Z",
-      "views": "3.2K",
+      "views": "3.3K",
       "comments": "1"
     },
     {
@@ -707,21 +752,6 @@
       "publishedAt": "2026-10-20T09:09:41Z",
       "views": "10.1K",
       "comments": "2"
-    },
-    {
-      "id": "varzesh3-2437882",
-      "title": "قدرت‌نمایی بسکتبال با ویلچر زنان برابر لائوس",
-      "summary": "تیم ملی بسکتبال با ویلچر زنان ایران دومین برد خود را در ناگویا مقابل لائوس به دست آورد.",
-      "url": "https://www.varzesh3.com/news/2437882/قدرت-نمایی-بسکتبال-با-ویلچر-زنان-برابر-لائوس",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/17/C/1ywjwg1w.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-20T08:05:29Z",
-      "views": "3.3K",
-      "comments": "1"
     },
     {
       "id": "bbc-cdcce2eda03e",

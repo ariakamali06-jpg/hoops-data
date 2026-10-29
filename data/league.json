@@ -9,7 +9,7 @@
       "country": "IR",
       "flag": "🇮🇷",
       "priority": 1,
-      "updatedAt": "2026-10-29T04:29:24.357481+00:00",
+      "updatedAt": "2026-10-29T12:20:29.379155+00:00",
       "groups": [
         {
           "name": "لیگ برتر بسکتبال",
@@ -462,7 +462,7 @@
       "country": "US",
       "flag": "🏀",
       "priority": 2,
-      "updatedAt": "2026-10-29T04:29:27.084495+00:00",
+      "updatedAt": "2026-10-29T12:20:31.162661+00:00",
       "groups": [
         {
           "name": "کنفرانس شرق",
@@ -799,6 +799,24 @@
             {
               "rank": 4,
               "manualRank": 0,
+              "teamId": 902784,
+              "name": "لس آنجلس لیکرز",
+              "shortName": "لس آنجلس لیکرز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/3urohyqu.png?w=144",
+              "played": 5,
+              "won": 4,
+              "lost": 1,
+              "pointsFor": 616,
+              "pointsAgainst": 568,
+              "diff": 48,
+              "points": 9,
+              "pointsDeducted": 0,
+              "winRate": 0.8,
+              "form": null
+            },
+            {
+              "rank": 5,
+              "manualRank": 0,
               "teamId": 902793,
               "name": "اوکلاهاما سیتی تاندر",
               "shortName": "اوکلاهاما سیتی تاندر",
@@ -812,24 +830,6 @@
               "points": 9,
               "pointsDeducted": 0,
               "winRate": 0.8,
-              "form": null
-            },
-            {
-              "rank": 5,
-              "manualRank": 0,
-              "teamId": 902784,
-              "name": "لس آنجلس لیکرز",
-              "shortName": "لس آنجلس لیکرز",
-              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/3urohyqu.png?w=144",
-              "played": 4,
-              "won": 3,
-              "lost": 1,
-              "pointsFor": 513,
-              "pointsAgainst": 481,
-              "diff": 32,
-              "points": 7,
-              "pointsDeducted": 0,
-              "winRate": 0.75,
               "form": null
             },
             {
@@ -925,24 +925,6 @@
             {
               "rank": 11,
               "manualRank": 0,
-              "teamId": 902783,
-              "name": "لس آنجلس کلیپرز",
-              "shortName": "لس آنجلس کلیپرز",
-              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1uqq0qsx.png?w=144",
-              "played": 3,
-              "won": 1,
-              "lost": 2,
-              "pointsFor": 339,
-              "pointsAgainst": 329,
-              "diff": 10,
-              "points": 4,
-              "pointsDeducted": 0,
-              "winRate": 0.333,
-              "form": null
-            },
-            {
-              "rank": 12,
-              "manualRank": 0,
               "teamId": 902788,
               "name": "فینیکس سانز",
               "shortName": "فینیکس سانز",
@@ -956,6 +938,24 @@
               "points": 4,
               "pointsDeducted": 0,
               "winRate": 0.333,
+              "form": null
+            },
+            {
+              "rank": 12,
+              "manualRank": 0,
+              "teamId": 902783,
+              "name": "لس آنجلس کلیپرز",
+              "shortName": "لس آنجلس کلیپرز",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1uqq0qsx.png?w=144",
+              "played": 4,
+              "won": 1,
+              "lost": 3,
+              "pointsFor": 426,
+              "pointsAgainst": 432,
+              "diff": -6,
+              "points": 5,
+              "pointsDeducted": 0,
+              "winRate": 0.25,
               "form": null
             },
             {
@@ -1344,6 +1344,24 @@
         {
           "rank": 4,
           "manualRank": 0,
+          "teamId": 902784,
+          "name": "لس آنجلس لیکرز",
+          "shortName": "لس آنجلس لیکرز",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/3urohyqu.png?w=144",
+          "played": 5,
+          "won": 4,
+          "lost": 1,
+          "pointsFor": 616,
+          "pointsAgainst": 568,
+          "diff": 48,
+          "points": 9,
+          "pointsDeducted": 0,
+          "winRate": 0.8,
+          "form": null
+        },
+        {
+          "rank": 5,
+          "manualRank": 0,
           "teamId": 902793,
           "name": "اوکلاهاما سیتی تاندر",
           "shortName": "اوکلاهاما سیتی تاندر",
@@ -1357,24 +1375,6 @@
           "points": 9,
           "pointsDeducted": 0,
           "winRate": 0.8,
-          "form": null
-        },
-        {
-          "rank": 5,
-          "manualRank": 0,
-          "teamId": 902784,
-          "name": "لس آنجلس لیکرز",
-          "shortName": "لس آنجلس لیکرز",
-          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/3urohyqu.png?w=144",
-          "played": 4,
-          "won": 3,
-          "lost": 1,
-          "pointsFor": 513,
-          "pointsAgainst": 481,
-          "diff": 32,
-          "points": 7,
-          "pointsDeducted": 0,
-          "winRate": 0.75,
           "form": null
         },
         {
@@ -1470,24 +1470,6 @@
         {
           "rank": 11,
           "manualRank": 0,
-          "teamId": 902783,
-          "name": "لس آنجلس کلیپرز",
-          "shortName": "لس آنجلس کلیپرز",
-          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1uqq0qsx.png?w=144",
-          "played": 3,
-          "won": 1,
-          "lost": 2,
-          "pointsFor": 339,
-          "pointsAgainst": 329,
-          "diff": 10,
-          "points": 4,
-          "pointsDeducted": 0,
-          "winRate": 0.333,
-          "form": null
-        },
-        {
-          "rank": 12,
-          "manualRank": 0,
           "teamId": 902788,
           "name": "فینیکس سانز",
           "shortName": "فینیکس سانز",
@@ -1501,6 +1483,24 @@
           "points": 4,
           "pointsDeducted": 0,
           "winRate": 0.333,
+          "form": null
+        },
+        {
+          "rank": 12,
+          "manualRank": 0,
+          "teamId": 902783,
+          "name": "لس آنجلس کلیپرز",
+          "shortName": "لس آنجلس کلیپرز",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1uqq0qsx.png?w=144",
+          "played": 4,
+          "won": 1,
+          "lost": 3,
+          "pointsFor": 426,
+          "pointsAgainst": 432,
+          "diff": -6,
+          "points": 5,
+          "pointsDeducted": 0,
+          "winRate": 0.25,
           "form": null
         },
         {
@@ -1568,7 +1568,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 3,
-      "updatedAt": "2026-10-29T04:29:31.129650+00:00",
+      "updatedAt": "2026-10-29T12:20:35.025321+00:00",
       "groups": [
         {
           "name": "لیگ غرب آسیا",
@@ -2067,7 +2067,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 4,
-      "updatedAt": "2026-10-29T04:29:34.163392+00:00",
+      "updatedAt": "2026-10-29T12:20:36.870554+00:00",
       "groups": [
         {
           "name": "گروهی ",
@@ -2412,7 +2412,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 5,
-      "updatedAt": "2026-10-29T04:29:36.969033+00:00",
+      "updatedAt": "2026-10-29T12:20:38.797770+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -3024,7 +3024,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 6,
-      "updatedAt": "2026-10-29T04:29:39.787977+00:00",
+      "updatedAt": "2026-10-29T12:20:40.791909+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4078,7 +4078,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 7,
-      "updatedAt": "2026-10-29T04:29:43.159216+00:00",
+      "updatedAt": "2026-10-29T12:20:43.118335+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4541,7 +4541,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 8,
-      "updatedAt": "2026-10-29T04:29:46.274838+00:00",
+      "updatedAt": "2026-10-29T12:20:45.117373+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -5600,7 +5600,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 9,
-      "updatedAt": "2026-10-29T04:29:48.349880+00:00",
+      "updatedAt": "2026-10-29T12:20:46.517771+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -5614,7 +5614,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 10,
-      "updatedAt": "2026-10-29T04:29:51.168923+00:00",
+      "updatedAt": "2026-10-29T12:20:48.528463+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -6077,7 +6077,7 @@
       "country": "EU",
       "flag": "🇪🇺",
       "priority": 11,
-      "updatedAt": "2026-10-29T04:29:53.234188+00:00",
+      "updatedAt": "2026-10-29T12:20:49.917026+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6091,7 +6091,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 12,
-      "updatedAt": "2026-10-29T04:29:55.022837+00:00",
+      "updatedAt": "2026-10-29T12:20:51.092152+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6105,7 +6105,7 @@
       "country": "US",
       "flag": "🏆",
       "priority": 13,
-      "updatedAt": "2026-10-29T04:29:57.046186+00:00",
+      "updatedAt": "2026-10-29T12:20:53.023837+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6119,7 +6119,7 @@
       "country": "WO",
       "flag": "🤝",
       "priority": 14,
-      "updatedAt": "2026-10-29T04:29:58.828007+00:00",
+      "updatedAt": "2026-10-29T12:20:54.249437+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -9855,9 +9855,9 @@
       "date": "1405/08/07",
       "dateIso": "2027-02-07",
       "time": "06:00",
-      "status": 2,
-      "statusFa": "شروع نشده",
-      "statusShort": "شروع نشده",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
       "isLive": false,
       "host": {
         "id": 902783,
@@ -9871,8 +9871,8 @@
         "shortName": "لس آنجلس لیکرز",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/3urohyqu.png?w=144"
       },
-      "hostScore": null,
-      "guestScore": null,
+      "hostScore": 87,
+      "guestScore": 103,
       "quarters": [
         {
           "quarter": 1,
@@ -9886,11 +9886,16 @@
         },
         {
           "quarter": 3,
-          "host": 23,
-          "guest": 27
+          "host": 28,
+          "guest": 29
+        },
+        {
+          "quarter": 4,
+          "host": 21,
+          "guest": 18
         }
       ],
-      "winner": null,
+      "winner": "host",
       "url": "https://www.varzesh3.com/basketball/match/180072/بازی-لس-آنجلس-کلیپرز-لس-آنجلس-لیکرز"
     },
     {
@@ -9903,25 +9908,36 @@
       "date": "1405/08/07",
       "dateIso": "2027-02-07",
       "time": "15:00",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
+      "status": 2,
+      "statusFa": "شروع نشده",
+      "statusShort": "شروع نشده",
       "isLive": false,
       "host": {
-        "id": 0,
+        "id": 903068,
         "name": "رعد پدافند بابل",
         "shortName": "بابل",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=144"
       },
       "guest": {
-        "id": 0,
+        "id": 902868,
         "name": "مس رفسنجان",
         "shortName": "مس رفسنجان",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/1utikr2x.png?w=144"
       },
       "hostScore": null,
       "guestScore": null,
-      "quarters": [],
+      "quarters": [
+        {
+          "quarter": 1,
+          "host": 18,
+          "guest": 22
+        },
+        {
+          "quarter": 2,
+          "host": 6,
+          "guest": 7
+        }
+      ],
       "winner": null,
       "url": "https://www.varzesh3.com/basketball/match/181070/بازی-رعد-پدافند-بابل-مس-رفسنجان"
     },
@@ -9940,13 +9956,13 @@
       "statusShort": "؟",
       "isLive": false,
       "host": {
-        "id": 0,
+        "id": 903070,
         "name": "استقلال تهران",
         "shortName": "استقلال تهران",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
       },
       "guest": {
-        "id": 0,
+        "id": 902977,
         "name": "کاله",
         "shortName": "کاله",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=144"
@@ -24176,5 +24192,5 @@
   "liveCount": 0,
   "staleDropped": 2,
   "version": 2,
-  "generatedAt": "2026-10-29T04:30:00.012465+00:00"
+  "generatedAt": "2026-10-29T12:20:55.082861+00:00"
 }
