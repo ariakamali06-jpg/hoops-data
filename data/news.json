@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T22:12:25.650104+00:00",
+  "generatedAt": "2026-10-29T04:29:22.993896+00:00",
   "count": 60,
   "sources": [
     {
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 121
+      "items": 124
     },
     {
       "source": "bbc",
@@ -21,11 +21,26 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -78,
+      "items": -81,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2440237",
+      "title": "روزسخت گرگان در سالن ترسناک جهرم!",
+      "summary": "شهرداری گرگان در بازی خارج از خانه مقابل زاگرس جنوبی جهرم کار سختی مقابل تیم سرسخت صالح اسماعیلی خواهد داشت.",
+      "url": "https://www.varzesh3.com/news/2440237/روزسخت-گرگان-در-سالن-ترسناک-جهرم",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/28/D/rkbwt0sq.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-28T17:32:45Z",
+      "views": "5K",
+      "comments": "5"
+    },
     {
       "id": "varzesh3-2440227",
       "title": "تقابل نفتی‌های بسکتبال تحت تاثیر بازی جنجالی!",
@@ -38,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-28T16:55:31Z",
-      "views": "2.1K",
+      "views": "2.4K",
       "comments": "0"
     },
     {
@@ -53,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-28T16:36:22Z",
-      "views": "2.1K",
+      "views": "2.5K",
       "comments": "0"
     },
     {
@@ -68,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-28T15:00:59Z",
-      "views": "3K",
+      "views": "3.3K",
       "comments": "0"
     },
     {
@@ -83,23 +98,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-28T15:00:17Z",
-      "views": "3.6K",
+      "views": "4K",
       "comments": "1"
-    },
-    {
-      "id": "varzesh3-2440160",
-      "title": "فوری، اختصاصی: شهداب از لیگ والیبال کنار کشید!",
-      "summary": "باشگاه شهداب یزد در بازی امروز مقابل مس سونگون شرکت نخواهد کرد؛ همچنین این باشگاه اعلام کرد در ادامه لیگ برتر والیبال ایران حضور نخواهد داشت.",
-      "url": "https://www.varzesh3.com/news/2440160/فوری-اختصاصی-شهداب-از-لیگ-والیبال-کنار-کشید",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/01/19/D/xll0vw45.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-28T13:14:17Z",
-      "views": "62.8K",
-      "comments": "80"
     },
     {
       "id": "varzesh3-2440046",
@@ -158,7 +158,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-27T18:33:01Z",
-      "views": "14K",
+      "views": "14.1K",
       "comments": "3"
     },
     {
@@ -248,7 +248,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T19:56:53Z",
-      "views": "7.7K",
+      "views": "7.8K",
       "comments": "2"
     },
     {
@@ -458,7 +458,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-23T06:58:06Z",
-      "views": "5.2K",
+      "views": "5.3K",
       "comments": "0"
     },
     {
