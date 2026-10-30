@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T04:29:09.126282+00:00",
+  "generatedAt": "2026-10-30T12:10:56.108964+00:00",
   "count": 64,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 2
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 117
+      "items": 116
     },
     {
       "source": "bbc",
@@ -21,11 +21,52 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -70,
+      "items": -71,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "isna-0a5edeb98638",
+      "title": "شکست تیم باتسام مشهد در هفته نخست لیگ برتر بسکتبال بانوان",
+      "summary": "تیم بسکتبال بانوان باتسام مشهد در دیدار هفته نخست لیگ برتر بسکتبال بانوان، مقابل پیشرو تهران با نتیجه ۸۷ بر ۵۶ مغلوب حریف شد و فصل جدید لیگ برتر را با شکست شروع کرد.",
+      "url": "https://www.isna.ir/news/1405080805000/%D8%B4%DA%A9%D8%B3%D8%AA-%D8%AA%DB%8C%D9%85-%D8%A8%D8%A7%D8%AA%D8%B3%D8%A7%D9%85-%D9%85%D8%B4%D9%87%D8%AF-%D8%AF%D8%B1-%D9%87%D9%81%D8%AA%D9%87-%D9%86%D8%AE%D8%B3%D8%AA-%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86",
+      "imageUrl": "https://cdn.isna.ir/d/off/khorasan/2026/10/30/4/64033910.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > خراسان رضوی",
+      "publishedAt": "2026-10-30T11:52:23+00:00"
+    },
+    {
+      "id": "isna-0d4550f47216",
+      "title": "اعلام ترکیب ابتدایی ذوب‌آهن و استقلال خوزستان",
+      "summary": "ترکیب تیم‌های فوتبال ذوب‌آهن اصفهان و استقلال خوزستان برای دیدار هفته یازدهم لیگ برتر مشخص شد.",
+      "url": "https://www.isna.ir/news/1405080804993/%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8-%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%DB%8C%DB%8C-%D8%B0%D9%88%D8%A8-%D8%A2%D9%87%D9%86-%D9%88-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86",
+      "imageUrl": "https://cdn.isna.ir/d/2026/10/23/4/64025876.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > اصفهان",
+      "publishedAt": "2026-10-30T11:40:37+00:00"
+    },
+    {
+      "id": "varzesh3-2440512",
+      "title": "آمار فوق‌العاده بازیکن محبوب پیاتزا در لیگ برتر",
+      "summary": "محمدرضا حضرت‌پور، لیبروی باتجربه و ملی‌پوش پیکان تهران، در هفته دوم لیگ برتر با ثبت ۳۰ دریافت موفق و ۶۷ درصد موفقیت، نمایش درخشانی مقابل طبیعت اسلامشهر داشت.",
+      "url": "https://www.varzesh3.com/news/2440512/آمار-فوق-العاده-بازیکن-محبوب-پیاتزا-در-لیگ-برتر",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/07/B/ypdqr21k.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-30T06:39:21Z",
+      "views": "5.1K",
+      "comments": "2"
+    },
     {
       "id": "bbc-c4d4fd7b7cc5",
       "title": "Dream win to set up WNBA Finals decider",
@@ -51,7 +92,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T19:02:10Z",
-      "views": "6.4K",
+      "views": "8.3K",
       "comments": "4"
     },
     {
@@ -66,7 +107,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T16:22:51Z",
-      "views": "6.2K",
+      "views": "7.3K",
       "comments": "2"
     },
     {
@@ -81,7 +122,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T16:20:33Z",
-      "views": "4.1K",
+      "views": "4.8K",
       "comments": "4"
     },
     {
@@ -96,7 +137,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T15:55:13Z",
-      "views": "4.7K",
+      "views": "5.4K",
       "comments": "5"
     },
     {
@@ -111,7 +152,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T15:44:36Z",
-      "views": "4.5K",
+      "views": "5.1K",
       "comments": "0"
     },
     {
@@ -126,7 +167,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T14:41:34Z",
-      "views": "11.8K",
+      "views": "13K",
       "comments": "8"
     },
     {
@@ -141,7 +182,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T13:05:48Z",
-      "views": "7.6K",
+      "views": "7.9K",
       "comments": "25"
     },
     {
@@ -156,7 +197,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T11:23:16Z",
-      "views": "3.9K",
+      "views": "4.2K",
       "comments": "1"
     },
     {
@@ -171,7 +212,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T11:03:42Z",
-      "views": "2.8K",
+      "views": "2.9K",
       "comments": "2"
     },
     {
@@ -186,7 +227,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T10:19:28Z",
-      "views": "5.4K",
+      "views": "5.6K",
       "comments": "3"
     },
     {
@@ -201,7 +242,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T10:17:31Z",
-      "views": "2.2K",
+      "views": "2.3K",
       "comments": "1"
     },
     {
@@ -231,7 +272,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T09:44:04Z",
-      "views": "4.6K",
+      "views": "4.7K",
       "comments": "0"
     },
     {
@@ -306,8 +347,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-28T13:14:17Z",
-      "views": "75.1K",
-      "comments": "85"
+      "views": "75.3K",
+      "comments": "87"
     },
     {
       "id": "varzesh3-2440046",
@@ -336,7 +377,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-28T05:55:22Z",
-      "views": "5K",
+      "views": "5.1K",
       "comments": "4"
     },
     {
@@ -411,7 +452,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T15:22:11Z",
-      "views": "44.3K",
+      "views": "44.4K",
       "comments": "3"
     },
     {
@@ -426,7 +467,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T06:17:33Z",
-      "views": "3.9K",
+      "views": "4K",
       "comments": "1"
     },
     {
@@ -681,21 +722,6 @@
       "comments": "1"
     },
     {
-      "id": "varzesh3-2438501",
-      "title": "استقلال فصل جدید را با شکست آغاز کرد",
-      "summary": "استقلال در نخستین مسابقه فصل جدید لیگ برتر بسکتبال، با نتیجه ۷۹ بر ۷۳ برابر پالایش نفت آبادان شکست خورد.",
-      "url": "https://www.varzesh3.com/news/2438501/استقلال-فصل-جدید-را-با-شکست-آغاز-کرد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/22/D/j0qrtdzu.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-22T14:45:34Z",
-      "views": "15.3K",
-      "comments": "8"
-    },
-    {
       "id": "varzesh3-2438410",
       "title": "اتفاق تازه لیگ برتر بسکتبال: دربی شمال!",
       "summary": "امروز دربی جدیدی در شمال ایران و لیگ برتر بسکتبال ایران برگزار خواهد شد.",
@@ -724,36 +750,6 @@
       "publishedAt": "2026-10-22T08:41:57Z",
       "views": "3.3K",
       "comments": "4"
-    },
-    {
-      "id": "varzesh3-2438166",
-      "title": "بسکتبال با ویلچر ایران فینالیست شد",
-      "summary": "تیم ملی بسکتبال با ویلچر مردان ایران با پیروزی ۸۳ بر ۵۰ مقابل تایلند، به فینال بازی‌های پاراآسیایی آیچی–ناگویا صعود کرد.",
-      "url": "https://www.varzesh3.com/news/2438166/بسکتبال-با-ویلچر-ایران-فینالیست-شد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/21/C/wcnwh0gr.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-21T09:52:09Z",
-      "views": "13.9K",
-      "comments": "5"
-    },
-    {
-      "id": "varzesh3-2438117",
-      "title": "شکست دختران بسکتبال با ویلچر برابر چین",
-      "summary": "تیم ملی بسکتبال با ویلچر دختران ایران در پنجمین دیدار خود در بازی‌های پاراآسیایی برابر چین تیم سوم پارالمپیک تن به شکست داد.",
-      "url": "https://www.varzesh3.com/news/2438117/شکست-دختران-بسکتبال-با-ویلچر-برابر-چین",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/21/B/joiekcmm.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-21T07:26:54Z",
-      "views": "2.2K",
-      "comments": "3"
     },
     {
       "id": "bbc-cbdf35979752",
