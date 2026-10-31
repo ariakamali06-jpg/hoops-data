@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-31T11:43:06.924799+00:00",
-  "count": 64,
+  "generatedAt": "2026-10-31T16:51:11.866429+00:00",
+  "count": 63,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "source": "varzesh3",
@@ -27,19 +27,6 @@
   ],
   "news": [
     {
-      "id": "isna-c5fa143dfbe3",
-      "title": "خشم ربیعی از عملکرد گاندوها",
-      "summary": "محمد ربیعی، سرمربی تیم فوتبال ذوب‌آهن پس از تساوی مقابل استقلال خوزستان در هفته یازدهم، تعدادی از بازیکنان را به تیم ب تبعید کرد.",
-      "url": "https://www.isna.ir/news/1405080905659/%D8%AE%D8%B4%D9%85-%D8%B1%D8%A8%DB%8C%D8%B9%DB%8C-%D8%A7%D8%B2-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%DA%AF%D8%A7%D9%86%D8%AF%D9%88%D9%87%D8%A7",
-      "imageUrl": "https://cdn.isna.ir/d/2026/10/23/4/64025847.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
-      "language": "fa",
-      "category": "ورزشی > فوتبال، فوتسال",
-      "publishedAt": "2026-10-31T11:40:00+00:00"
-    },
-    {
       "id": "varzesh3-2440834",
       "title": "انتقام استفن کری از دانچیچ با کامبک و تحقیر‌!",
       "summary": "بازگشت گلدن‌استیت برابر دانچیچ هم‌زمان با شوت‌های مرگبار ناگتس، شبی جنجالی را در مرحله گروهی جام ان‌بی‌ای رقم زد.",
@@ -51,7 +38,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-31T09:16:07Z",
-      "views": "5.6K",
+      "views": "7.3K",
       "comments": "1"
     },
     {
@@ -66,8 +53,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-31T08:26:51Z",
-      "views": "7.4K",
-      "comments": "2"
+      "views": "8.4K",
+      "comments": "5"
     },
     {
       "id": "varzesh3-2440688",
@@ -81,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T17:25:47Z",
-      "views": "4K",
+      "views": "4.1K",
       "comments": "2"
     },
     {
@@ -96,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T16:41:01Z",
-      "views": "28.1K",
+      "views": "28.2K",
       "comments": "10"
     },
     {
@@ -111,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T16:02:09Z",
-      "views": "58.6K",
+      "views": "59.3K",
       "comments": "29"
     },
     {
@@ -199,7 +186,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T16:20:33Z",
-      "views": "5K",
+      "views": "5.1K",
       "comments": "4"
     },
     {
@@ -259,7 +246,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T13:05:48Z",
-      "views": "8K",
+      "views": "8.1K",
       "comments": "25"
     },
     {
@@ -319,7 +306,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T10:17:31Z",
-      "views": "2.3K",
+      "views": "2.4K",
       "comments": "1"
     },
     {
