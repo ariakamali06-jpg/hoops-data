@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-31T04:10:30.518674+00:00",
-  "count": 63,
+  "generatedAt": "2026-10-31T11:43:06.924799+00:00",
+  "count": 64,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 115
+      "items": 120
     },
     {
       "source": "bbc",
@@ -21,11 +21,54 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -69,
+      "items": -74,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "isna-c5fa143dfbe3",
+      "title": "خشم ربیعی از عملکرد گاندوها",
+      "summary": "محمد ربیعی، سرمربی تیم فوتبال ذوب‌آهن پس از تساوی مقابل استقلال خوزستان در هفته یازدهم، تعدادی از بازیکنان را به تیم ب تبعید کرد.",
+      "url": "https://www.isna.ir/news/1405080905659/%D8%AE%D8%B4%D9%85-%D8%B1%D8%A8%DB%8C%D8%B9%DB%8C-%D8%A7%D8%B2-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF-%DA%AF%D8%A7%D9%86%D8%AF%D9%88%D9%87%D8%A7",
+      "imageUrl": "https://cdn.isna.ir/d/2026/10/23/4/64025847.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "ورزشی > فوتبال، فوتسال",
+      "publishedAt": "2026-10-31T11:40:00+00:00"
+    },
+    {
+      "id": "varzesh3-2440834",
+      "title": "انتقام استفن کری از دانچیچ با کامبک و تحقیر‌!",
+      "summary": "بازگشت گلدن‌استیت برابر دانچیچ هم‌زمان با شوت‌های مرگبار ناگتس، شبی جنجالی را در مرحله گروهی جام ان‌بی‌ای رقم زد.",
+      "url": "https://www.varzesh3.com/news/2440834/انتقام-استفن-کری-از-دانچیچ-با-کامبک-و-تحقیر",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/31/B/kyv4xsji.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-31T09:16:07Z",
+      "views": "5.6K",
+      "comments": "1"
+    },
+    {
+      "id": "varzesh3-2440815",
+      "title": "کلاچ‌ وحتشناک لبران جیمز مقابل قهرمان!",
+      "summary": "اولین شب از مسابقات جام ان‌بی‌ای با پیروزی فیلادلفیا برابر مدافع عنوان قهرمانی، یکه‌تازی بوستون سلتیکس و رونمایی درخشان از پدیده واشنگتن به پایان رسید.",
+      "url": "https://www.varzesh3.com/news/2440815/کلاچ-وحتشناک-لبران-جیمز-مقابل-قهرمان",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/31/B/t4g0lbt4.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-31T08:26:51Z",
+      "views": "7.4K",
+      "comments": "2"
+    },
     {
       "id": "varzesh3-2440688",
       "title": "تیم منتخب بسکتبال ایران - هفته دوم (عکس)",
@@ -38,7 +81,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T17:25:47Z",
-      "views": "3.2K",
+      "views": "4K",
       "comments": "2"
     },
     {
@@ -53,7 +96,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T16:41:01Z",
-      "views": "24.8K",
+      "views": "28.1K",
       "comments": "10"
     },
     {
@@ -68,8 +111,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T16:02:09Z",
-      "views": "55.2K",
-      "comments": "28"
+      "views": "58.6K",
+      "comments": "29"
     },
     {
       "id": "varzesh3-2440614",
@@ -83,7 +126,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T13:56:03Z",
-      "views": "10.1K",
+      "views": "10.7K",
       "comments": "2"
     },
     {
@@ -98,7 +141,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T06:39:21Z",
-      "views": "5.8K",
+      "views": "6K",
       "comments": "2"
     },
     {
@@ -201,7 +244,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T14:41:34Z",
-      "views": "13.4K",
+      "views": "13.5K",
       "comments": "8"
     },
     {
@@ -231,7 +274,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T11:23:16Z",
-      "views": "4.9K",
+      "views": "5K",
       "comments": "2"
     },
     {
@@ -246,7 +289,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T11:03:42Z",
-      "views": "3K",
+      "views": "3.1K",
       "comments": "2"
     },
     {
@@ -261,7 +304,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T10:19:28Z",
-      "views": "5.9K",
+      "views": "6K",
       "comments": "3"
     },
     {
@@ -308,21 +351,6 @@
       "publishedAt": "2026-10-29T09:44:04Z",
       "views": "4.7K",
       "comments": "0"
-    },
-    {
-      "id": "varzesh3-2440237",
-      "title": "روزسخت گرگان در سالن ترسناک جهرم!",
-      "summary": "شهرداری گرگان در بازی خارج از خانه مقابل زاگرس جنوبی جهرم کار سختی مقابل تیم سرسخت صالح اسماعیلی خواهد داشت.",
-      "url": "https://www.varzesh3.com/news/2440237/روزسخت-گرگان-در-سالن-ترسناک-جهرم",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/28/D/rkbwt0sq.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-28T17:32:45Z",
-      "views": "7.3K",
-      "comments": "9"
     },
     {
       "id": "varzesh3-2440227",
@@ -501,7 +529,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-24T22:15:00Z",
-      "views": "3.7K",
+      "views": "3.8K",
       "comments": "1"
     },
     {
@@ -709,21 +737,6 @@
       "publishedAt": "2026-10-22T16:08:39Z",
       "views": "3.3K",
       "comments": "1"
-    },
-    {
-      "id": "varzesh3-2438410",
-      "title": "اتفاق تازه لیگ برتر بسکتبال: دربی شمال!",
-      "summary": "امروز دربی جدیدی در شمال ایران و لیگ برتر بسکتبال ایران برگزار خواهد شد.",
-      "url": "https://www.varzesh3.com/news/2438410/اتفاق-تازه-لیگ-برتر-بسکتبال-دربی-شمال",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/22/C/qdnnuxzz.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-22T09:38:04Z",
-      "views": "3.7K",
-      "comments": "4"
     },
     {
       "id": "varzesh3-2438396",
