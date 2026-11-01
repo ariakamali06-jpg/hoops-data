@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-31T20:59:58.135492+00:00",
+  "generatedAt": "2026-11-01T04:30:34.961601+00:00",
   "count": 63,
   "sources": [
     {
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 121
+      "items": 125
     },
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -75,
+      "items": -79,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,7 +38,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-31T09:16:07Z",
-      "views": "10.3K",
+      "views": "10.5K",
       "comments": "2"
     },
     {
@@ -53,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-31T08:26:51Z",
-      "views": "9.3K",
+      "views": "9.6K",
       "comments": "5"
     },
     {
@@ -83,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T16:41:01Z",
-      "views": "28.4K",
+      "views": "28.5K",
       "comments": "10"
     },
     {
@@ -98,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T16:02:09Z",
-      "views": "60.6K",
+      "views": "60.7K",
       "comments": "29"
     },
     {
@@ -186,7 +186,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T16:20:33Z",
-      "views": "5.1K",
+      "views": "5.2K",
       "comments": "4"
     },
     {
@@ -216,7 +216,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T15:44:36Z",
-      "views": "5.2K",
+      "views": "5.3K",
       "comments": "0"
     },
     {
@@ -231,7 +231,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T14:41:34Z",
-      "views": "13.6K",
+      "views": "13.7K",
       "comments": "8"
     },
     {
@@ -291,7 +291,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T10:19:28Z",
-      "views": "6K",
+      "views": "6.1K",
       "comments": "3"
     },
     {
@@ -321,7 +321,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T09:45:06Z",
-      "views": "7.9K",
+      "views": "8K",
       "comments": "3"
     },
     {
