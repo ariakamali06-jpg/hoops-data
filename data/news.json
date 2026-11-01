@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T04:30:34.961601+00:00",
+  "generatedAt": "2026-11-01T12:42:19.167928+00:00",
   "count": 63,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 125
+      "items": 123
     },
     {
       "source": "bbc",
@@ -21,11 +21,97 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -79,
+      "items": -78,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2441167",
+      "title": "ستاره بسکتبال ایران در فرانسه MVP شد",
+      "summary": "ستاره جوان بسکتبال ایران با نمایشی بی‌نقص در لیگ برتر فرانسه و ثبت کارایی ۳۴، عنوان برترین بازیکن زمین را در شب برتری پرامتیاز نانسی به دست آورد.",
+      "url": "https://www.varzesh3.com/news/2441167/ستاره-بسکتبال-ایران-در-فرانسه-mvp-شد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/01/C/zr4lx51d.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-01T12:30:49Z",
+      "views": "430",
+      "comments": "0"
+    },
+    {
+      "id": "isna-151c8dd060fd",
+      "title": "دلیل دود متصاعد شده از شرکت پالایش نفت آبادان چه بود؟",
+      "summary": "شرکت پالایش نفت آبادان درباره دود متصاعد شده از این شرکت توضیح داد.",
+      "url": "https://www.isna.ir/news/1405081006466/%D8%AF%D9%84%DB%8C%D9%84-%D8%AF%D9%88%D8%AF-%D9%85%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%B4%D8%AF%D9%87-%D8%A7%D8%B2-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4-%D9%86%D9%81%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86-%DA%86%D9%87-%D8%A8%D9%88%D8%AF",
+      "imageUrl": "https://cdn.isna.ir/d/off/khouzestan/2024/05/25/4/63046272.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > خوزستان",
+      "publishedAt": "2026-11-01T12:04:44+00:00"
+    },
+    {
+      "id": "varzesh3-2441095",
+      "title": "ریاست فدراسیون بسکتبال فعلا متقاضی ندارد",
+      "summary": "مهلت نام‌نویسی از کاندیداهای ریاست فدراسیون بسکتبال در حالی وارد روز هفتم شده است که هنوز هیچ ثبت‌نامی برای تصدی ریاست فدراسیون انجام نشده است.",
+      "url": "https://www.varzesh3.com/news/2441095/ریاست-فدراسیون-بسکتبال-فعلا-متقاضی-ندارد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/01/B/atljf0jg.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-01T12:01:31Z",
+      "views": "3.5K",
+      "comments": "0"
+    },
+    {
+      "id": "bbc-8abf0dbeec04",
+      "title": "Valkyries win WNBA title in their second season",
+      "summary": "The Golden State Valkyries win the Women's NBA title by beating Atlanta Dream in the finals decider.",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/cked34v3zen8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6ed/live/4a8dbd80-d5c6-11f1-ad3b-4728f23fc447.jpg",
+      "source": "bbc",
+      "sourceName": "بی‌بی‌سی ورزشی",
+      "sourceNameEn": "BBC Sport",
+      "language": "en",
+      "category": "Basketball",
+      "publishedAt": "2026-11-01T08:16:59+00:00"
+    },
+    {
+      "id": "varzesh3-2441075",
+      "title": "گریزلیز شکست‌ناپذیر و شب خاص جاباری اسمیت!",
+      "summary": "تداوم صدرنشینی بی‌شکست ممفیس گریزلیز با درخشش پدیده تازه‌وارد و برتری قاطعانه هیوستون راکتس برابر اوکلاهاماسیتی، شب جذابی را در لیگ ان‌بی‌ای ساخت.",
+      "url": "https://www.varzesh3.com/news/2441075/گریزلیز-شکست-ناپذیر-و-شب-خاص-جاباری-اسمیت",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/01/B/amnmaesz.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-01T07:38:45Z",
+      "views": "2.5K",
+      "comments": "0"
+    },
+    {
+      "id": "varzesh3-2441057",
+      "title": "تقابلی پر از بلاک‌شات و دانک با هنرنمایی ومبی!",
+      "summary": "درخشش ۴۳ امتیازی ویکتور ومبانیاما و بردهای قاطع کلیولند و سان‌آنتونیو، شبی پرگل را در دو سالن میلواکی و تگزاس رقم زد.",
+      "url": "https://www.varzesh3.com/news/2441057/تقابلی-پر-از-بلاک-شات-و-دانک-با-هنرنمایی-ومبی",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/01/B/c5yhw5hk.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-01T06:22:22Z",
+      "views": "2.2K",
+      "comments": "1"
+    },
     {
       "id": "varzesh3-2440834",
       "title": "انتقام استفن کری از دانچیچ با کامبک و تحقیر‌!",
@@ -38,7 +124,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-31T09:16:07Z",
-      "views": "10.5K",
+      "views": "7.8K",
       "comments": "2"
     },
     {
@@ -53,7 +139,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-31T08:26:51Z",
-      "views": "9.6K",
+      "views": "8.6K",
       "comments": "5"
     },
     {
@@ -68,7 +154,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T17:25:47Z",
-      "views": "4.4K",
+      "views": "4.2K",
       "comments": "2"
     },
     {
@@ -83,7 +169,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T16:41:01Z",
-      "views": "28.5K",
+      "views": "29.6K",
       "comments": "10"
     },
     {
@@ -98,7 +184,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T16:02:09Z",
-      "views": "60.7K",
+      "views": "62.5K",
       "comments": "29"
     },
     {
@@ -113,7 +199,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T13:56:03Z",
-      "views": "10.8K",
+      "views": "11.1K",
       "comments": "2"
     },
     {
@@ -132,19 +218,6 @@
       "comments": "2"
     },
     {
-      "id": "bbc-c4d4fd7b7cc5",
-      "title": "Dream win to set up WNBA Finals decider",
-      "summary": "Atlanta Dream deny the Golden State Valkyries their first WNBA Finals victory after an 80-69 win forces the series into a seventh and deciding game on Sunday.",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/cr4g181v4q4wo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6be/live/0da73700-d3c0-11f1-a62f-fd53d503ac8d.jpg",
-      "source": "bbc",
-      "sourceName": "بی‌بی‌سی ورزشی",
-      "sourceNameEn": "BBC Sport",
-      "language": "en",
-      "category": "Basketball",
-      "publishedAt": "2026-10-29T19:12:04+00:00"
-    },
-    {
       "id": "varzesh3-2440476",
       "title": "سوتیریس و تاجرنیا تماشاگر حساس‌ترین بازی هفته!",
       "summary": "سرمربی تیم ملی بسکتبال و علی تاجرنیا امروز در تالار مشحون بازی استقلال و کاله را از نزدیک تماشا کردند.",
@@ -156,7 +229,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T19:02:10Z",
-      "views": "8.6K",
+      "views": "8.7K",
       "comments": "4"
     },
     {
@@ -171,7 +244,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T16:22:51Z",
-      "views": "7.5K",
+      "views": "7.4K",
       "comments": "2"
     },
     {
@@ -186,7 +259,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T16:20:33Z",
-      "views": "5.2K",
+      "views": "4.9K",
       "comments": "4"
     },
     {
@@ -201,7 +274,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T15:55:13Z",
-      "views": "5.7K",
+      "views": "5.6K",
       "comments": "5"
     },
     {
@@ -216,7 +289,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T15:44:36Z",
-      "views": "5.3K",
+      "views": "5.1K",
       "comments": "0"
     },
     {
@@ -261,7 +334,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T11:23:16Z",
-      "views": "5.1K",
+      "views": "4.9K",
       "comments": "2"
     },
     {
@@ -276,7 +349,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T11:03:42Z",
-      "views": "3.1K",
+      "views": "3K",
       "comments": "2"
     },
     {
@@ -291,7 +364,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T10:19:28Z",
-      "views": "6.1K",
+      "views": "6K",
       "comments": "3"
     },
     {
@@ -306,23 +379,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T10:17:31Z",
-      "views": "2.4K",
+      "views": "2.3K",
       "comments": "1"
-    },
-    {
-      "id": "varzesh3-2440342",
-      "title": "وحشت در کنفرانس شرق: غول یونانی بیدار شد!",
-      "summary": "رقابت‌های بامداد امروز ان‌بی‌ای با پیروزی فیلادلفیا در ایندیانا، ثبت نخستین برد یانیس همراه میامی هیت و بازگشت دیترویت همراه شد.",
-      "url": "https://www.varzesh3.com/news/2440342/وحشت-در-کنفرانس-شرق-غول-یونانی-بیدار-شد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/29/C/4ejwyglc.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-29T09:45:06Z",
-      "views": "8K",
-      "comments": "3"
     },
     {
       "id": "varzesh3-2440338",
@@ -336,7 +394,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T09:44:04Z",
-      "views": "4.7K",
+      "views": "4.8K",
       "comments": "0"
     },
     {
@@ -351,7 +409,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-28T16:55:31Z",
-      "views": "3.2K",
+      "views": "3K",
       "comments": "0"
     },
     {
@@ -366,7 +424,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-28T16:36:22Z",
-      "views": "3.1K",
+      "views": "2.9K",
       "comments": "0"
     },
     {
@@ -381,7 +439,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-28T15:00:59Z",
-      "views": "4.6K",
+      "views": "4.3K",
       "comments": "0"
     },
     {
@@ -396,7 +454,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-28T15:00:17Z",
-      "views": "5.2K",
+      "views": "4.9K",
       "comments": "1"
     },
     {
@@ -411,7 +469,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-28T05:55:22Z",
-      "views": "5.2K",
+      "views": "5.1K",
       "comments": "4"
     },
     {
@@ -426,7 +484,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-27T09:22:50Z",
-      "views": "26.6K",
+      "views": "27.5K",
       "comments": "1"
     },
     {
@@ -441,7 +499,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-27T08:27:02Z",
-      "views": "1.7K",
+      "views": "1.5K",
       "comments": "1"
     },
     {
@@ -456,7 +514,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T20:32:33Z",
-      "views": "9.5K",
+      "views": "9.4K",
       "comments": "2"
     },
     {
@@ -471,7 +529,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T19:56:53Z",
-      "views": "7.8K",
+      "views": "7.6K",
       "comments": "2"
     },
     {
@@ -486,7 +544,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T15:22:11Z",
-      "views": "44.4K",
+      "views": "44.2K",
       "comments": "3"
     },
     {
@@ -501,7 +559,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T06:17:33Z",
-      "views": "4.1K",
+      "views": "3.9K",
       "comments": "1"
     },
     {
@@ -655,36 +713,6 @@
       "comments": "0"
     },
     {
-      "id": "varzesh3-2438624",
-      "title": "حمله تند ترامپ به لبران جیمز: مایه ننگی!",
-      "summary": "دونالد ترامپ رفتار ستاره بسکتبال آمریکا هنگام پخش سرود ملی این کشور را دستمایه یک حمله تند به او قرار داد!",
-      "url": "https://www.varzesh3.com/news/2438624/حمله-تند-ترامپ-به-لبران-جیمز-مایه-ننگی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/23/B/2ciw4lv0.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-23T07:02:44Z",
-      "views": "30.5K",
-      "comments": "10"
-    },
-    {
-      "id": "varzesh3-2438621",
-      "title": "مظفری هم گل زد، هم دزدید و برد!",
-      "summary": "رسول مظفری بازیکن باتجربه بسکتبال ایران در هفته اول لیگ بسکتبال نمایش کاملی داشت.",
-      "url": "https://www.varzesh3.com/news/2438621/مظفری-هم-گل-زد-هم-دزدید-و-برد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/23/B/sflwag5c.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-23T06:58:06Z",
-      "views": "5.3K",
-      "comments": "0"
-    },
-    {
       "id": "bbc-3991ccb02307",
       "title": "Boos to cheers - James records biggest career comeback win",
       "summary": "LeBron James says his home debut was \"everything that I dreamed of and more\" after the Philadelphia 76ers turned boos into cheers by overhauling a 29-point deficit to beat the Cleveland Cavaliers 114-106.",
@@ -709,36 +737,6 @@
       "language": "en",
       "category": "Basketball",
       "publishedAt": "2026-10-22T20:04:27+00:00"
-    },
-    {
-      "id": "varzesh3-2438524",
-      "title": "‏نزدیک‌ترین تقابل لیگ بسکتبال به سود جهرم!",
-      "summary": "تیم نفت و گاز زاگرس جنوبی جهرم توانست گلنور را در اصفهان شکست دهد و برد مهمی را به دست آورد.",
-      "url": "https://www.varzesh3.com/news/2438524/نزدیک-ترین-تقابل-لیگ-بسکتبال-به-سود-جهرم",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/22/D/zzdcz1ul.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-22T16:08:39Z",
-      "views": "3.3K",
-      "comments": "1"
-    },
-    {
-      "id": "varzesh3-2438396",
-      "title": "گچسارانی‌ها به دنبال شگفتی‌ در افتتاحیه بسکتبال!",
-      "summary": "دیدار تیم‌های طبیعت اسلامشهر و نفت و گاز گچساران در هفته نخست لیگ برتر بسکتبال امروز در تالار مشحون برگزار خواهد شد.",
-      "url": "https://www.varzesh3.com/news/2438396/گچسارانی-ها-به-دنبال-شگفتی-در-افتتاحیه-بسکتبال",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/22/B/vw0p5rsx.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-22T08:41:57Z",
-      "views": "3.3K",
-      "comments": "4"
     },
     {
       "id": "bbc-cbdf35979752",
