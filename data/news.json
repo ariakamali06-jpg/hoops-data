@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T12:42:19.167928+00:00",
-  "count": 63,
+  "generatedAt": "2026-11-01T21:43:11.452700+00:00",
+  "count": 62,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 123
+      "items": 121
     },
     {
       "source": "bbc",
@@ -21,11 +21,56 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -78,
+      "items": -76,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2441213",
+      "title": "لیگ بسکتبال زنان بدون سورپرایز در هفته اول!",
+      "summary": "فصل جدید لیگ برتر بسکتبال زنان با پیروزی تیم های ستاد ملی گاز تهران، استقلال تهران، پیشرو تهران، آکادمی بسکتبال سحر و نفت آبادان آغاز شد.",
+      "url": "https://www.varzesh3.com/news/2441213/لیگ-بسکتبال-زنان-بدون-سورپرایز-در-هفته-اول",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/01/D/pp12jm3u.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-01T15:08:08Z",
+      "views": "2.2K",
+      "comments": "0"
+    },
+    {
+      "id": "varzesh3-2441205",
+      "title": "غیبت قطعی سنتر تیم ملی در مقدماتی جام‌جهانی",
+      "summary": "سنتر ملی‌پوش بسکتبال ایران پس از آسیب‌دیدگی شدید در هفته نخست لیگ برتر، پای خود را به تیغ جراحان سپرد.",
+      "url": "https://www.varzesh3.com/news/2441205/غیبت-قطعی-سنتر-تیم-ملی-در-مقدماتی-جام-جهانی",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/01/D/yzzhplj0.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-01T14:49:47Z",
+      "views": "7.5K",
+      "comments": "2"
+    },
+    {
+      "id": "varzesh3-2441177",
+      "title": "اتحاد مس- تراکتور در ال‌کلاسیکو 6 هزار نفری",
+      "summary": "مس سونگون در پرتماشاگرترین بازی فصل لیگ برتر فوتسال رقیب دیرینه‌اش را بعد از دو سال شکست داد.",
+      "url": "https://www.varzesh3.com/news/2441177/اتحاد-مس-تراکتور-در-ال-کلاسیکو-6-هزار-نفری",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/01/C/eduqeg0i.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-01T12:54:37Z",
+      "views": "21.5K",
+      "comments": "56"
+    },
     {
       "id": "varzesh3-2441167",
       "title": "ستاره بسکتبال ایران در فرانسه MVP شد",
@@ -38,21 +83,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T12:30:49Z",
-      "views": "430",
-      "comments": "0"
-    },
-    {
-      "id": "isna-151c8dd060fd",
-      "title": "دلیل دود متصاعد شده از شرکت پالایش نفت آبادان چه بود؟",
-      "summary": "شرکت پالایش نفت آبادان درباره دود متصاعد شده از این شرکت توضیح داد.",
-      "url": "https://www.isna.ir/news/1405081006466/%D8%AF%D9%84%DB%8C%D9%84-%D8%AF%D9%88%D8%AF-%D9%85%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%B4%D8%AF%D9%87-%D8%A7%D8%B2-%D8%B4%D8%B1%DA%A9%D8%AA-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4-%D9%86%D9%81%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86-%DA%86%D9%87-%D8%A8%D9%88%D8%AF",
-      "imageUrl": "https://cdn.isna.ir/d/off/khouzestan/2024/05/25/4/63046272.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
-      "language": "fa",
-      "category": "استان‌ها > خوزستان",
-      "publishedAt": "2026-11-01T12:04:44+00:00"
+      "views": "6.6K",
+      "comments": "1"
     },
     {
       "id": "varzesh3-2441095",
@@ -66,8 +98,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T12:01:31Z",
-      "views": "3.5K",
-      "comments": "0"
+      "views": "4.9K",
+      "comments": "1"
     },
     {
       "id": "bbc-8abf0dbeec04",
@@ -94,7 +126,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T07:38:45Z",
-      "views": "2.5K",
+      "views": "3.1K",
       "comments": "0"
     },
     {
@@ -109,7 +141,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T06:22:22Z",
-      "views": "2.2K",
+      "views": "2.5K",
       "comments": "1"
     },
     {
@@ -124,7 +156,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-31T09:16:07Z",
-      "views": "7.8K",
+      "views": "8K",
       "comments": "2"
     },
     {
@@ -139,7 +171,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-31T08:26:51Z",
-      "views": "8.6K",
+      "views": "8.8K",
       "comments": "5"
     },
     {
@@ -154,7 +186,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T17:25:47Z",
-      "views": "4.2K",
+      "views": "4.3K",
       "comments": "2"
     },
     {
@@ -169,7 +201,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T16:41:01Z",
-      "views": "29.6K",
+      "views": "29.7K",
       "comments": "10"
     },
     {
@@ -184,7 +216,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T16:02:09Z",
-      "views": "62.5K",
+      "views": "62.8K",
       "comments": "29"
     },
     {
@@ -338,21 +370,6 @@
       "comments": "2"
     },
     {
-      "id": "varzesh3-2440362",
-      "title": "شاهکار مابلی در کلیولند و شکست‌ناپذیری هیوستون!",
-      "summary": "دیدارهای بامداد امروز ان‌بی‌ای با پیروزی کلیولند برابر واشنگتن، آتش‌بازی تورنتو مقابل اورلاندو و تداوم رکورد شکست‌ناپذیری هیوستون همراه شد.",
-      "url": "https://www.varzesh3.com/news/2440362/شاهکار-مابلی-در-کلیولند-و-شکست-ناپذیری-هیوستون",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/29/C/r0e3rs1d.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-29T11:03:42Z",
-      "views": "3K",
-      "comments": "2"
-    },
-    {
       "id": "varzesh3-2440352",
       "title": "گلدن‌استیت این را کم داشت: پخت و پز سرآشپز کری!",
       "summary": "رقابت‌های مهیج بامداد امروز بسکتبال آمریکا با آتش‌بازی گلدن استیت، رکوردشکنی تاریخی جوکیچ در نیواورلینز و کامبک تماشایی نیویورک به پایان رسید.",
@@ -425,21 +442,6 @@
       "category": "ورزشی",
       "publishedAt": "2026-10-28T16:36:22Z",
       "views": "2.9K",
-      "comments": "0"
-    },
-    {
-      "id": "varzesh3-2440194",
-      "title": "استقلال_کاله، دوئل مدعیان در تالار مشحون!",
-      "summary": "تقابل استقلال تهران و کاله مازندران در حساس‌ترین دیدار هفته دوم لیگ برتر در ورزشگاه آزادی برگزار خواهد شد.",
-      "url": "https://www.varzesh3.com/news/2440194/استقلال-کاله-دوئل-مدعیان-در-تالار-مشحون",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/28/D/luabw1mc.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-28T15:00:59Z",
-      "views": "4.3K",
       "comments": "0"
     },
     {
@@ -696,21 +698,6 @@
       "publishedAt": "2026-10-23T09:35:30Z",
       "views": "14K",
       "comments": "2"
-    },
-    {
-      "id": "varzesh3-2438638",
-      "title": "برترین امتیازآوران بسکتبال در غیاب ستاره‌های استقلال!",
-      "summary": "صدر جدول امتیاز هفته اول در دست متین آقاجانپور با ۳۲ امتیاز است، اما پشت سر او ۹ چهره دیگر با فاصله کم ایستاده‌اند.",
-      "url": "https://www.varzesh3.com/news/2438638/برترین-امتیازآوران-بسکتبال-در-غیاب-ستاره-های-استقلال",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/23/B/2inupedb.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-23T07:37:14Z",
-      "views": "4.8K",
-      "comments": "0"
     },
     {
       "id": "bbc-3991ccb02307",
