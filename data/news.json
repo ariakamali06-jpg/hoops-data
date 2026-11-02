@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T21:43:11.452700+00:00",
+  "generatedAt": "2026-11-02T04:33:28.283797+00:00",
   "count": 62,
   "sources": [
     {
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 121
+      "items": 123
     },
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -76,
+      "items": -78,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,7 +38,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T15:08:08Z",
-      "views": "2.2K",
+      "views": "2.4K",
       "comments": "0"
     },
     {
@@ -53,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T14:49:47Z",
-      "views": "7.5K",
+      "views": "8.5K",
       "comments": "2"
     },
     {
@@ -68,8 +68,23 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T12:54:37Z",
-      "views": "21.5K",
-      "comments": "56"
+      "views": "21.8K",
+      "comments": "57"
+    },
+    {
+      "id": "varzesh3-2441169",
+      "title": "برد نزدیک تامیش در شب بازگشت لژیونر ایرانی",
+      "summary": "ملی‌پوش ایرانی تیم تامیش با ثبت عملکردی موثر و کسب کارایی ۱۵، نقش پررنگی در پیروزی دشوار و خانگی تیمش در لیگ بسکتبال صربستان ایفا کرد.",
+      "url": "https://www.varzesh3.com/news/2441169/برد-نزدیک-تامیش-در-شب-بازگشت-لژیونر-ایرانی",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/01/C/kzeekhsn.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-01T12:33:18Z",
+      "views": "4.6K",
+      "comments": "1"
     },
     {
       "id": "varzesh3-2441167",
@@ -83,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T12:30:49Z",
-      "views": "6.6K",
+      "views": "8.2K",
       "comments": "1"
     },
     {
@@ -98,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T12:01:31Z",
-      "views": "4.9K",
+      "views": "5.2K",
       "comments": "1"
     },
     {
@@ -142,7 +157,7 @@
       "category": "ورزشی",
       "publishedAt": "2026-11-01T06:22:22Z",
       "views": "2.5K",
-      "comments": "1"
+      "comments": "2"
     },
     {
       "id": "varzesh3-2440834",
@@ -156,7 +171,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-31T09:16:07Z",
-      "views": "8K",
+      "views": "8.1K",
       "comments": "2"
     },
     {
@@ -171,7 +186,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-31T08:26:51Z",
-      "views": "8.8K",
+      "views": "8.9K",
       "comments": "5"
     },
     {
@@ -280,21 +295,6 @@
       "comments": "2"
     },
     {
-      "id": "varzesh3-2440438",
-      "title": "دو امتیاز مهم برای گرگان در بازی جنجالی!",
-      "summary": "دیدار تیم‌های نفت زاگرس جنوبی و شهرداری گرگان در کوارتر چهارم جنجالی دنبال شد و در نهایت با برتری تیم میهمان به پایان رسید.",
-      "url": "https://www.varzesh3.com/news/2440438/دو-امتیاز-مهم-برای-گرگان-در-بازی-جنجالی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/29/D/vjcdtexi.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-29T16:20:33Z",
-      "views": "4.9K",
-      "comments": "4"
-    },
-    {
       "id": "varzesh3-2440433",
       "title": "کامبک آبادان علیه اولین شگفتی لیگ بسکتبال!",
       "summary": "بازی تیم‌های نفت و گاز گچساران تا پایان کوارتر سوم به سود گچساران دنبال شد اما کامبک پالایش نفت آبادان اجازه خلق شگفتی به این تیم نداد.",
@@ -308,21 +308,6 @@
       "publishedAt": "2026-10-29T15:55:13Z",
       "views": "5.6K",
       "comments": "5"
-    },
-    {
-      "id": "varzesh3-2440431",
-      "title": "دومین برد متوالی طبیعت با درخشش سنتر اسپانیایی!",
-      "summary": "تیم طبیعت اسلامشهر دومین برد فصل را در سالن خانگی تیم مهگل در یک بازی جذاب به دست آورد.",
-      "url": "https://www.varzesh3.com/news/2440431/دومین-برد-متوالی-طبیعت-با-درخشش-سنتر-اسپانیایی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/29/D/pkyjrq2g.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-29T15:44:36Z",
-      "views": "5.1K",
-      "comments": "0"
     },
     {
       "id": "varzesh3-2440417",
@@ -698,6 +683,21 @@
       "publishedAt": "2026-10-23T09:35:30Z",
       "views": "14K",
       "comments": "2"
+    },
+    {
+      "id": "varzesh3-2438638",
+      "title": "برترین امتیازآوران بسکتبال در غیاب ستاره‌های استقلال!",
+      "summary": "صدر جدول امتیاز هفته اول در دست متین آقاجانپور با ۳۲ امتیاز است، اما پشت سر او ۹ چهره دیگر با فاصله کم ایستاده‌اند.",
+      "url": "https://www.varzesh3.com/news/2438638/برترین-امتیازآوران-بسکتبال-در-غیاب-ستاره-های-استقلال",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/23/B/2inupedb.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-10-23T07:37:14Z",
+      "views": "4.8K",
+      "comments": "0"
     },
     {
       "id": "bbc-3991ccb02307",
