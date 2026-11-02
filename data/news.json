@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T04:33:28.283797+00:00",
-  "count": 62,
+  "generatedAt": "2026-11-02T14:49:26.414307+00:00",
+  "count": 63,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 123
+      "items": 122
     },
     {
       "source": "bbc",
@@ -21,11 +21,54 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -78,
+      "items": -77,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2441459",
+      "title": "سه حکم انضباطی برای هفته جنجالی بسکتبال ایران!",
+      "summary": "کمیته انضباطی فدراسیون بسکتبال دستور موقت محرومیت سه عضو تیم نفت و گاز گچساران را صادر و مدیران نفت زاگرس جنوبی را احضار کرد.",
+      "url": "https://www.varzesh3.com/news/2441459/سه-حکم-انضباطی-برای-هفته-جنجالی-بسکتبال-ایران",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/02/D/5ikp3rpm.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-02T14:29:34Z",
+      "views": "209",
+      "comments": "0"
+    },
+    {
+      "id": "isna-f520e3fb6a07",
+      "title": "چرا محمد ربیعی ۸ بازیکن ذوب‌آهن را به تیم «ب» فرستاد؟",
+      "summary": "تصمیم محمد ربیعی برای انتقال هشت بازیکن ذوب‌آهن به تیم دوم باشگاه، در شرایطی بازتاب گسترده‌ای داشته که بررسی جزئیات این فهرست، از حضور نام سه بازیکن بزرگسال و تازه‌وارد در میان نفرات کنار گذاشته‌شده از تیم اصلی حکایت دارد؛ بازیکنانی که هر سه در فصل جاری فرصت بازی برای سبزپوشان را تجربه کرده‌اند، اما نتوانسته‌اند جایگاه باثباتی در ترکیب این تیم به‌دست آورند.",
+      "url": "https://www.isna.ir/news/1405081107315/%DA%86%D8%B1%D8%A7-%D9%85%D8%AD%D9%85%D8%AF-%D8%B1%D8%A8%DB%8C%D8%B9%DB%8C-%DB%B8-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86-%D8%B0%D9%88%D8%A8-%D8%A2%D9%87%D9%86-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%AA%DB%8C%D9%85-%D8%A8-%D9%81%D8%B1%D8%B3%D8%AA%D8%A7%D8%AF",
+      "imageUrl": "https://cdn.isna.ir/d/2026/10/30/4/64034049.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > اصفهان",
+      "publishedAt": "2026-11-02T14:10:09+00:00"
+    },
+    {
+      "id": "varzesh3-2441340",
+      "title": "شاهکار 32 امتیازی تیتوم با سر و صورت زخمی!",
+      "summary": "مسابقات جذاب لیگ ان‌بی‌ای با پیروزی قاطع بوستون سلتیکس برابر اورلاندو و دشت نخستین برد فصل بروکلین نتس در زمین ایندیانا همراه شد.",
+      "url": "https://www.varzesh3.com/news/2441340/شاهکار-32-امتیازی-تیتوم-با-سر-و-صورت-زخمی",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/02/B/qorsk2k3.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-02T08:14:47Z",
+      "views": "4.3K",
+      "comments": "0"
+    },
     {
       "id": "varzesh3-2441213",
       "title": "لیگ بسکتبال زنان بدون سورپرایز در هفته اول!",
@@ -38,7 +81,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T15:08:08Z",
-      "views": "2.4K",
+      "views": "3.1K",
       "comments": "0"
     },
     {
@@ -53,7 +96,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T14:49:47Z",
-      "views": "8.5K",
+      "views": "9.2K",
       "comments": "2"
     },
     {
@@ -68,8 +111,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T12:54:37Z",
-      "views": "21.8K",
-      "comments": "57"
+      "views": "22.2K",
+      "comments": "59"
     },
     {
       "id": "varzesh3-2441169",
@@ -83,7 +126,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T12:33:18Z",
-      "views": "4.6K",
+      "views": "4.7K",
       "comments": "1"
     },
     {
@@ -98,7 +141,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T12:30:49Z",
-      "views": "8.2K",
+      "views": "13.4K",
       "comments": "1"
     },
     {
@@ -113,7 +156,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T12:01:31Z",
-      "views": "5.2K",
+      "views": "5.3K",
       "comments": "1"
     },
     {
@@ -141,7 +184,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T07:38:45Z",
-      "views": "3.1K",
+      "views": "3.3K",
       "comments": "0"
     },
     {
@@ -171,8 +214,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-31T09:16:07Z",
-      "views": "8.1K",
-      "comments": "2"
+      "views": "8.2K",
+      "comments": "4"
     },
     {
       "id": "varzesh3-2440815",
@@ -186,7 +229,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-31T08:26:51Z",
-      "views": "8.9K",
+      "views": "9K",
       "comments": "5"
     },
     {
@@ -201,8 +244,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T17:25:47Z",
-      "views": "4.3K",
-      "comments": "2"
+      "views": "4.4K",
+      "comments": "3"
     },
     {
       "id": "varzesh3-2440672",
@@ -231,7 +274,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T16:02:09Z",
-      "views": "62.8K",
+      "views": "63K",
       "comments": "29"
     },
     {
@@ -352,7 +395,7 @@
       "category": "ورزشی",
       "publishedAt": "2026-10-29T11:23:16Z",
       "views": "4.9K",
-      "comments": "2"
+      "comments": "3"
     },
     {
       "id": "varzesh3-2440352",
@@ -381,7 +424,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T10:17:31Z",
-      "views": "2.3K",
+      "views": "2.4K",
       "comments": "1"
     },
     {
@@ -668,36 +711,6 @@
       "publishedAt": "2026-10-23T12:04:07Z",
       "views": "17.6K",
       "comments": "14"
-    },
-    {
-      "id": "varzesh3-2438667",
-      "title": "دبل‌دبل‌های ناب بسکتبال ایران: دود از کنده بلند شد!",
-      "summary": "در هفته نخست لیگ برتر بسکتبال سه بازیکن توانستند اولین دبل‌دبل‌ های فصل را به نام خودشان ثبت کنند.",
-      "url": "https://www.varzesh3.com/news/2438667/دبل-دبل-های-ناب-بسکتبال-ایران-دود-از-کنده-بلند-شد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/23/C/xar3fki0.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-23T09:35:30Z",
-      "views": "14K",
-      "comments": "2"
-    },
-    {
-      "id": "varzesh3-2438638",
-      "title": "برترین امتیازآوران بسکتبال در غیاب ستاره‌های استقلال!",
-      "summary": "صدر جدول امتیاز هفته اول در دست متین آقاجانپور با ۳۲ امتیاز است، اما پشت سر او ۹ چهره دیگر با فاصله کم ایستاده‌اند.",
-      "url": "https://www.varzesh3.com/news/2438638/برترین-امتیازآوران-بسکتبال-در-غیاب-ستاره-های-استقلال",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/23/B/2inupedb.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-23T07:37:14Z",
-      "views": "4.8K",
-      "comments": "0"
     },
     {
       "id": "bbc-3991ccb02307",
