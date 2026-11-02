@@ -536,6 +536,24 @@ def main():
     index_file.write_text(json.dumps(index_db, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"[SUCCESS] Written index to {index_file}")
 
+    # Write Shards: data/boxscores/g/{id}.json
+    shards_dir = DATA_DIR / "boxscores" / "g"
+    shards_dir.mkdir(parents=True, exist_ok=True)
+    for g in all_games:
+        shard_path = shards_dir / f"{g['id']}.json"
+        shard_path.write_text(json.dumps(g, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    print(f"[SUCCESS] Written {len(all_games)} individual boxscore shards to {shards_dir}")
+
+    # Delta Sync version file
+    version_db = {
+        "version": int(time.time()),
+        "generated": combined_db["generated"],
+        "count": len(all_games),
+        "byLeague": by_league
+    }
+    (DATA_DIR / "version.json").write_text(json.dumps(version_db, indent=2), encoding="utf-8")
+    print(f"[SUCCESS] Written version.json to {DATA_DIR / 'version.json'}")
+
     # 5. Build official WNBA Standings from ESPN
     print("\nFetching WNBA Standings from ESPN...")
     wnba_standings = fetch_json("https://site.api.espn.com/apis/v2/sports/basketball/wnba/standings")
