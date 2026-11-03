@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T00:32:32.838369+00:00",
-  "count": 61,
+  "generatedAt": "2026-11-03T13:40:00.536191+00:00",
+  "count": 62,
   "sources": [
     {
       "source": "isna",
@@ -21,11 +21,56 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -79,
+      "items": -78,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2441722",
+      "title": "حکم سنگین: آتش جنگ والیبال ایران شعله‌ور شد",
+      "summary": "کمیته انضباطی فدراسیون والیبال رای خود درباره امیر کرمی بازیکن شهروند قزوین و دیدار برگزار نشده شهداب یزد و مس سونگون در هفته دوم لیگ برتر مردان اعلام کرد.",
+      "url": "https://www.varzesh3.com/news/2441722/حکم-سنگین-آتش-جنگ-والیبال-ایران-شعله-ور-شد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/03/C/tetifqbz.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-03T12:44:11Z",
+      "views": "4K",
+      "comments": "1"
+    },
+    {
+      "id": "varzesh3-2441674",
+      "title": "کوارتر توفانی فیلادلفیا با لی‌آپ تماشایی لبران!",
+      "summary": "بامداد گذشته NBA با پیروزی تاندر در کلیولند، تداوم صدرنشینی سیکسرز و برد سخت هاوکس مقابل پیسرز شش‌نفره همراه بود.",
+      "url": "https://www.varzesh3.com/news/2441674/کوارتر-توفانی-فیلادلفیا-با-لی-آپ-تماشایی-لبران",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/03/C/ral42h50.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-03T10:35:46Z",
+      "views": "2.9K",
+      "comments": "0"
+    },
+    {
+      "id": "varzesh3-2441660",
+      "title": "حضور قطعی استقلال در سوپرلیگ غرب آسیا",
+      "summary": "با اعلام رسانه رسمی فیبا آسیا تیم قهرمان ایران مستقیم از FINAL8 به بازی‌های قاره‌ای بسکتبال اضافه خواهد شد.",
+      "url": "https://www.varzesh3.com/news/2441660/حضور-قطعی-استقلال-در-سوپرلیگ-غرب-آسیا",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/03/C/eb3nenyx.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-03T10:05:19Z",
+      "views": "7.2K",
+      "comments": "3"
+    },
     {
       "id": "varzesh3-2441502",
       "title": "محرومیت عجیب ستاره NBA: بازی بدون حقوق!",
@@ -38,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-02T17:13:57Z",
-      "views": "6.3K",
+      "views": "9.1K",
       "comments": "2"
     },
     {
@@ -53,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-02T16:28:42Z",
-      "views": "5.2K",
+      "views": "7K",
       "comments": "4"
     },
     {
@@ -68,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-02T14:29:34Z",
-      "views": "6K",
+      "views": "7.2K",
       "comments": "1"
     },
     {
@@ -83,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-02T08:14:47Z",
-      "views": "5.3K",
+      "views": "5.4K",
       "comments": "0"
     },
     {
@@ -98,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T15:08:08Z",
-      "views": "3.1K",
+      "views": "3.2K",
       "comments": "0"
     },
     {
@@ -113,7 +158,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T14:49:47Z",
-      "views": "9.3K",
+      "views": "9.4K",
       "comments": "2"
     },
     {
@@ -128,8 +173,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T12:54:37Z",
-      "views": "22.4K",
-      "comments": "59"
+      "views": "22.5K",
+      "comments": "62"
     },
     {
       "id": "varzesh3-2441169",
@@ -158,7 +203,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T12:30:49Z",
-      "views": "15.9K",
+      "views": "16.1K",
       "comments": "1"
     },
     {
@@ -201,7 +246,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T07:38:45Z",
-      "views": "3.4K",
+      "views": "3.5K",
       "comments": "0"
     },
     {
@@ -216,7 +261,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T06:22:22Z",
-      "views": "2.5K",
+      "views": "2.6K",
       "comments": "2"
     },
     {
@@ -231,8 +276,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-31T09:16:07Z",
-      "views": "8.3K",
-      "comments": "4"
+      "views": "8.4K",
+      "comments": "5"
     },
     {
       "id": "varzesh3-2440815",
@@ -246,7 +291,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-31T08:26:51Z",
-      "views": "9.2K",
+      "views": "9.3K",
       "comments": "5"
     },
     {
@@ -276,7 +321,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T16:41:01Z",
-      "views": "29.7K",
+      "views": "29.8K",
       "comments": "10"
     },
     {
@@ -291,7 +336,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T16:02:09Z",
-      "views": "63.1K",
+      "views": "63.2K",
       "comments": "29"
     },
     {
@@ -307,21 +352,6 @@
       "category": "ورزشی",
       "publishedAt": "2026-10-30T13:56:03Z",
       "views": "11.1K",
-      "comments": "2"
-    },
-    {
-      "id": "varzesh3-2440512",
-      "title": "آمار فوق‌العاده بازیکن محبوب پیاتزا در لیگ برتر",
-      "summary": "محمدرضا حضرت‌پور، لیبروی باتجربه و ملی‌پوش پیکان تهران، در هفته دوم لیگ برتر با ثبت ۳۰ دریافت موفق و ۶۷ درصد موفقیت، نمایش درخشانی مقابل طبیعت اسلامشهر داشت.",
-      "url": "https://www.varzesh3.com/news/2440512/آمار-فوق-العاده-بازیکن-محبوب-پیاتزا-در-لیگ-برتر",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/09/07/B/ypdqr21k.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-30T06:39:21Z",
-      "views": "6.1K",
       "comments": "2"
     },
     {
@@ -381,7 +411,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T14:41:34Z",
-      "views": "13.7K",
+      "views": "13.8K",
       "comments": "8"
     },
     {
@@ -411,7 +441,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T11:23:16Z",
-      "views": "4.9K",
+      "views": "5K",
       "comments": "3"
     },
     {
@@ -501,7 +531,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-28T15:00:17Z",
-      "views": "4.9K",
+      "views": "5K",
       "comments": "1"
     },
     {
@@ -668,21 +698,6 @@
       "publishedAt": "2026-10-24T17:18:30Z",
       "views": "5.3K",
       "comments": "5"
-    },
-    {
-      "id": "varzesh3-2438828",
-      "title": "بهترین ریباندر هفته دبل‌دبل نکرد!",
-      "summary": "خشایار علی‌اکبری گارد تیم کاله نمایشی مقابل پاس ارائه کرد که تماشایی بود اما یک بدشانسی بزرگ هم برای او به همراه داشت.",
-      "url": "https://www.varzesh3.com/news/2438828/بهترین-ریباندر-هفته-دبل-دبل-نکرد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/23/D/1ih5112f.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-23T19:25:19Z",
-      "views": "5K",
-      "comments": "0"
     },
     {
       "id": "bbc-3991ccb02307",
