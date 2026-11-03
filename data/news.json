@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T13:40:00.536191+00:00",
-  "count": 62,
+  "generatedAt": "2026-11-03T22:55:41.893146+00:00",
+  "count": 58,
   "sources": [
     {
       "source": "isna",
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 123
+      "items": 126
     },
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -78,
+      "items": -85,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,8 +38,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-03T12:44:11Z",
-      "views": "4K",
-      "comments": "1"
+      "views": "16.5K",
+      "comments": "2"
     },
     {
       "id": "varzesh3-2441674",
@@ -53,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-03T10:35:46Z",
-      "views": "2.9K",
+      "views": "5.3K",
       "comments": "0"
     },
     {
@@ -68,8 +68,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-03T10:05:19Z",
-      "views": "7.2K",
-      "comments": "3"
+      "views": "11K",
+      "comments": "4"
     },
     {
       "id": "varzesh3-2441502",
@@ -83,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-02T17:13:57Z",
-      "views": "9.1K",
+      "views": "10.1K",
       "comments": "2"
     },
     {
@@ -98,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-02T16:28:42Z",
-      "views": "7K",
+      "views": "7.4K",
       "comments": "4"
     },
     {
@@ -113,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-02T14:29:34Z",
-      "views": "7.2K",
+      "views": "7.3K",
       "comments": "1"
     },
     {
@@ -128,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-02T08:14:47Z",
-      "views": "5.4K",
+      "views": "5.5K",
       "comments": "0"
     },
     {
@@ -160,36 +160,6 @@
       "publishedAt": "2026-11-01T14:49:47Z",
       "views": "9.4K",
       "comments": "2"
-    },
-    {
-      "id": "varzesh3-2441177",
-      "title": "اتحاد مس- تراکتور در ال‌کلاسیکو 6 هزار نفری",
-      "summary": "مس سونگون در پرتماشاگرترین بازی فصل لیگ برتر فوتسال رقیب دیرینه‌اش را بعد از دو سال شکست داد.",
-      "url": "https://www.varzesh3.com/news/2441177/اتحاد-مس-تراکتور-در-ال-کلاسیکو-6-هزار-نفری",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/01/C/eduqeg0i.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-11-01T12:54:37Z",
-      "views": "22.5K",
-      "comments": "62"
-    },
-    {
-      "id": "varzesh3-2441169",
-      "title": "برد نزدیک تامیش در شب بازگشت لژیونر ایرانی",
-      "summary": "ملی‌پوش ایرانی تیم تامیش با ثبت عملکردی موثر و کسب کارایی ۱۵، نقش پررنگی در پیروزی دشوار و خانگی تیمش در لیگ بسکتبال صربستان ایفا کرد.",
-      "url": "https://www.varzesh3.com/news/2441169/برد-نزدیک-تامیش-در-شب-بازگشت-لژیونر-ایرانی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/01/C/kzeekhsn.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-11-01T12:33:18Z",
-      "views": "4.7K",
-      "comments": "1"
     },
     {
       "id": "varzesh3-2441167",
@@ -276,7 +246,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-31T09:16:07Z",
-      "views": "8.4K",
+      "views": "8.5K",
       "comments": "5"
     },
     {
@@ -291,7 +261,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-31T08:26:51Z",
-      "views": "9.3K",
+      "views": "9.4K",
       "comments": "5"
     },
     {
@@ -306,7 +276,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T17:25:47Z",
-      "views": "4.4K",
+      "views": "4.5K",
       "comments": "3"
     },
     {
@@ -336,7 +306,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T16:02:09Z",
-      "views": "63.2K",
+      "views": "63.3K",
       "comments": "29"
     },
     {
@@ -411,7 +381,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T14:41:34Z",
-      "views": "13.8K",
+      "views": "13.9K",
       "comments": "8"
     },
     {
@@ -640,21 +610,6 @@
       "comments": "1"
     },
     {
-      "id": "varzesh3-2439119",
-      "title": "شکست زودهنگام تیم شکست‌ناپذیر استقلال!",
-      "summary": "تیم بسکتبال استقلال که فصل گذشته یک نیم فصل بدون شکست را تجربه کرد، در فصل جدید خیلی زود شکست را تجربه کرد.",
-      "url": "https://www.varzesh3.com/news/2439119/شکست-زودهنگام-تیم-شکست-ناپذیر-استقلال",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/25/A/2u5cdool.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-24T21:52:39Z",
-      "views": "18.2K",
-      "comments": "2"
-    },
-    {
       "id": "varzesh3-2439074",
       "title": "دبل‌دبل تمیز ملی‌پوش سابق بسکتبال ایران!",
       "summary": "کاله مازندران با ۱۰۵ امتیاز پاس کردستان را در هم کوبید، میثم میرزایی کاری کرد که در کل هفته اول هیچ‌کس انجامش نداد.",
@@ -750,21 +705,6 @@
       "language": "en",
       "category": "Basketball",
       "publishedAt": "2026-10-20T10:42:48+00:00"
-    },
-    {
-      "id": "varzesh3-2437904",
-      "title": "پایان تلخ رویای مدال طلای ناگویا با جراحی دو رباط صلیبی!",
-      "summary": "دو بازیکن ملی‌پوش بسکتبال زنان بعد از مصدومیت رباط صلیبی زانویشان را به تیغ جراح سپردند.",
-      "url": "https://www.varzesh3.com/news/2437904/پایان-تلخ-رویای-مدال-طلای-ناگویا-با-جراحی-دو-رباط-صلیبی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/20/B/smyrenbj.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-20T09:09:41Z",
-      "views": "10.1K",
-      "comments": "2"
     },
     {
       "id": "bbc-cdcce2eda03e",
