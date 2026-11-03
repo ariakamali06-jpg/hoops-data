@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T14:49:26.414307+00:00",
-  "count": 63,
+  "generatedAt": "2026-11-03T00:32:32.838369+00:00",
+  "count": 61,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 122
+      "items": 123
     },
     {
       "source": "bbc",
@@ -21,11 +21,41 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -77,
+      "items": -79,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2441502",
+      "title": "محرومیت عجیب ستاره NBA: بازی بدون حقوق!",
+      "summary": "ستاره جوان آتلانتا هاوکس را به دلیل حرکت خشن و غیرورزشی در دیدار برابر نیواورلئان با محرومیت بازی بدون حقوق جریمه شد.",
+      "url": "https://www.varzesh3.com/news/2441502/محرومیت-عجیب-ستاره-nba-بازی-بدون-حقوق",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/02/D/ontiethb.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-02T17:13:57Z",
+      "views": "6.3K",
+      "comments": "2"
+    },
+    {
+      "id": "varzesh3-2441490",
+      "title": "پیروزی نانسی با درخشش محمد امینی",
+      "summary": "تیم بسکتبال نانسی با پیروزی در مرحله یک‌شانزدهم نهایی جام حذفی فرانسه، به جمع ۱۶ تیم پایانی این رقابت‌ها راه یافت.",
+      "url": "https://www.varzesh3.com/news/2441490/پیروزی-نانسی-با-درخشش-محمد-امینی",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/21/B/ngipdfsy.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-02T16:28:42Z",
+      "views": "5.2K",
+      "comments": "4"
+    },
     {
       "id": "varzesh3-2441459",
       "title": "سه حکم انضباطی برای هفته جنجالی بسکتبال ایران!",
@@ -38,21 +68,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-02T14:29:34Z",
-      "views": "209",
-      "comments": "0"
-    },
-    {
-      "id": "isna-f520e3fb6a07",
-      "title": "چرا محمد ربیعی ۸ بازیکن ذوب‌آهن را به تیم «ب» فرستاد؟",
-      "summary": "تصمیم محمد ربیعی برای انتقال هشت بازیکن ذوب‌آهن به تیم دوم باشگاه، در شرایطی بازتاب گسترده‌ای داشته که بررسی جزئیات این فهرست، از حضور نام سه بازیکن بزرگسال و تازه‌وارد در میان نفرات کنار گذاشته‌شده از تیم اصلی حکایت دارد؛ بازیکنانی که هر سه در فصل جاری فرصت بازی برای سبزپوشان را تجربه کرده‌اند، اما نتوانسته‌اند جایگاه باثباتی در ترکیب این تیم به‌دست آورند.",
-      "url": "https://www.isna.ir/news/1405081107315/%DA%86%D8%B1%D8%A7-%D9%85%D8%AD%D9%85%D8%AF-%D8%B1%D8%A8%DB%8C%D8%B9%DB%8C-%DB%B8-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86-%D8%B0%D9%88%D8%A8-%D8%A2%D9%87%D9%86-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%AA%DB%8C%D9%85-%D8%A8-%D9%81%D8%B1%D8%B3%D8%AA%D8%A7%D8%AF",
-      "imageUrl": "https://cdn.isna.ir/d/2026/10/30/4/64034049.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
-      "language": "fa",
-      "category": "استان‌ها > اصفهان",
-      "publishedAt": "2026-11-02T14:10:09+00:00"
+      "views": "6K",
+      "comments": "1"
     },
     {
       "id": "varzesh3-2441340",
@@ -66,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-02T08:14:47Z",
-      "views": "4.3K",
+      "views": "5.3K",
       "comments": "0"
     },
     {
@@ -96,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T14:49:47Z",
-      "views": "9.2K",
+      "views": "9.3K",
       "comments": "2"
     },
     {
@@ -111,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T12:54:37Z",
-      "views": "22.2K",
+      "views": "22.4K",
       "comments": "59"
     },
     {
@@ -141,7 +158,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T12:30:49Z",
-      "views": "13.4K",
+      "views": "15.9K",
       "comments": "1"
     },
     {
@@ -156,7 +173,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T12:01:31Z",
-      "views": "5.3K",
+      "views": "5.4K",
       "comments": "1"
     },
     {
@@ -184,7 +201,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T07:38:45Z",
-      "views": "3.3K",
+      "views": "3.4K",
       "comments": "0"
     },
     {
@@ -214,7 +231,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-31T09:16:07Z",
-      "views": "8.2K",
+      "views": "8.3K",
       "comments": "4"
     },
     {
@@ -229,7 +246,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-31T08:26:51Z",
-      "views": "9K",
+      "views": "9.2K",
       "comments": "5"
     },
     {
@@ -274,7 +291,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T16:02:09Z",
-      "views": "63K",
+      "views": "63.1K",
       "comments": "29"
     },
     {
@@ -439,7 +456,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T09:44:04Z",
-      "views": "4.8K",
+      "views": "4.9K",
       "comments": "0"
     },
     {
@@ -499,23 +516,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-28T05:55:22Z",
-      "views": "5.1K",
+      "views": "5.2K",
       "comments": "4"
-    },
-    {
-      "id": "varzesh3-2439828",
-      "title": "ائتلاف سه نفره علیه مجتبی جباری",
-      "summary": "تیم‌های پارس جنوبی جم، مس رفسنجان و آریو اسلامشهر امروز فرصت دارند تا مدت صدرنشینی جزیره قشم را به 24 ساعت کاهش دهند.",
-      "url": "https://www.varzesh3.com/news/2439828/ائتلاف-سه-نفره-علیه-مجتبی-جباری",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/20/D/uny1r1fu.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-27T09:22:50Z",
-      "views": "27.5K",
-      "comments": "1"
     },
     {
       "id": "varzesh3-2439812",
@@ -559,7 +561,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-26T19:56:53Z",
-      "views": "7.6K",
+      "views": "7.7K",
       "comments": "2"
     },
     {
@@ -681,36 +683,6 @@
       "publishedAt": "2026-10-23T19:25:19Z",
       "views": "5K",
       "comments": "0"
-    },
-    {
-      "id": "varzesh3-2438802",
-      "title": "روز موفق مثلث خارجی در بسکتبال ایران!",
-      "summary": "در روزهایی که بازیکنان خارجی کم‌تعدادی در لیگ بسکتبال ایران بازی می‌کنند، سه بازیکن شاغل در ایران نمایش خوبی در هفته نخست داشتند.",
-      "url": "https://www.varzesh3.com/news/2438802/روز-موفق-مثلث-خارجی-در-بسکتبال-ایران",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/23/D/bv0sfbay.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-23T17:59:34Z",
-      "views": "5.6K",
-      "comments": "1"
-    },
-    {
-      "id": "varzesh3-2438712",
-      "title": "نقره بسکتبال با ویلچر ناگویا به ایران رسید",
-      "summary": "تیم ملی بسکتبال با ویلچر مردان ایران در دیدار فینال بازی‌های پاراآسیایی ناگویا ۲۰۲۶، با شکست برابر ژاپن، به مدال نقره دست یافت.",
-      "url": "https://www.varzesh3.com/news/2438712/نقره-بسکتبال-با-ویلچر-ناگویا-به-ایران-رسید",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/23/C/4kdtvdhf.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-23T12:04:07Z",
-      "views": "17.6K",
-      "comments": "14"
     },
     {
       "id": "bbc-3991ccb02307",
