@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T22:55:41.893146+00:00",
+  "generatedAt": "2026-11-04T04:55:17.666507+00:00",
   "count": 58,
   "sources": [
     {
@@ -11,7 +11,7 @@
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 126
+      "items": 127
     },
     {
       "source": "bbc",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -85,
+      "items": -86,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,7 +38,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-03T12:44:11Z",
-      "views": "16.5K",
+      "views": "18.2K",
       "comments": "2"
     },
     {
@@ -53,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-03T10:35:46Z",
-      "views": "5.3K",
+      "views": "5.8K",
       "comments": "0"
     },
     {
@@ -68,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-03T10:05:19Z",
-      "views": "11K",
+      "views": "12K",
       "comments": "4"
     },
     {
@@ -83,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-02T17:13:57Z",
-      "views": "10.1K",
+      "views": "10.4K",
       "comments": "2"
     },
     {
@@ -158,8 +158,23 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T14:49:47Z",
-      "views": "9.4K",
+      "views": "9.5K",
       "comments": "2"
+    },
+    {
+      "id": "varzesh3-2441169",
+      "title": "برد نزدیک تامیش در شب بازگشت لژیونر ایرانی",
+      "summary": "ملی‌پوش ایرانی تیم تامیش با ثبت عملکردی موثر و کسب کارایی ۱۵، نقش پررنگی در پیروزی دشوار و خانگی تیمش در لیگ بسکتبال صربستان ایفا کرد.",
+      "url": "https://www.varzesh3.com/news/2441169/برد-نزدیک-تامیش-در-شب-بازگشت-لژیونر-ایرانی",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/01/C/kzeekhsn.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-01T12:33:18Z",
+      "views": "4.7K",
+      "comments": "1"
     },
     {
       "id": "varzesh3-2441167",
@@ -608,21 +623,6 @@
       "publishedAt": "2026-10-24T22:15:00Z",
       "views": "3.8K",
       "comments": "1"
-    },
-    {
-      "id": "varzesh3-2439074",
-      "title": "دبل‌دبل تمیز ملی‌پوش سابق بسکتبال ایران!",
-      "summary": "کاله مازندران با ۱۰۵ امتیاز پاس کردستان را در هم کوبید، میثم میرزایی کاری کرد که در کل هفته اول هیچ‌کس انجامش نداد.",
-      "url": "https://www.varzesh3.com/news/2439074/دبل-دبل-تمیز-ملی-پوش-سابق-بسکتبال-ایران",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/24/D/ty3p2fiq.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-24T18:47:37Z",
-      "views": "7.3K",
-      "comments": "0"
     },
     {
       "id": "varzesh3-2439060",
