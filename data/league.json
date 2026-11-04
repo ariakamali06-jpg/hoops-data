@@ -9,7 +9,7 @@
       "country": "IR",
       "flag": "🇮🇷",
       "priority": 1,
-      "updatedAt": "2026-11-04T04:55:18.763389+00:00",
+      "updatedAt": "2026-11-04T13:48:51.967188+00:00",
       "groups": [
         {
           "name": "لیگ برتر بسکتبال",
@@ -462,7 +462,7 @@
       "country": "US",
       "flag": "🏀",
       "priority": 2,
-      "updatedAt": "2026-11-04T04:55:21.456352+00:00",
+      "updatedAt": "2026-11-04T13:48:54.410459+00:00",
       "groups": [
         {
           "name": "کنفرانس شرق",
@@ -1568,7 +1568,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 3,
-      "updatedAt": "2026-11-04T04:55:25.089444+00:00",
+      "updatedAt": "2026-11-04T13:48:57.844393+00:00",
       "groups": [
         {
           "name": "لیگ غرب آسیا",
@@ -2067,7 +2067,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 4,
-      "updatedAt": "2026-11-04T04:55:27.562750+00:00",
+      "updatedAt": "2026-11-04T13:49:01.109496+00:00",
       "groups": [
         {
           "name": "گروهی ",
@@ -2412,7 +2412,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 5,
-      "updatedAt": "2026-11-04T04:55:30.161702+00:00",
+      "updatedAt": "2026-11-04T13:49:03.530041+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -3024,7 +3024,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 6,
-      "updatedAt": "2026-11-04T04:55:32.739837+00:00",
+      "updatedAt": "2026-11-04T13:49:06.054025+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4078,7 +4078,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 7,
-      "updatedAt": "2026-11-04T04:55:35.788046+00:00",
+      "updatedAt": "2026-11-04T13:49:08.998551+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4541,7 +4541,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 8,
-      "updatedAt": "2026-11-04T04:55:38.317448+00:00",
+      "updatedAt": "2026-11-04T13:49:11.492579+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -5600,7 +5600,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 9,
-      "updatedAt": "2026-11-04T04:55:40.173819+00:00",
+      "updatedAt": "2026-11-04T13:49:13.172582+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -5614,7 +5614,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 10,
-      "updatedAt": "2026-11-04T04:55:42.642306+00:00",
+      "updatedAt": "2026-11-04T13:49:16.699454+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -6077,7 +6077,7 @@
       "country": "EU",
       "flag": "🇪🇺",
       "priority": 11,
-      "updatedAt": "2026-11-04T04:55:44.516589+00:00",
+      "updatedAt": "2026-11-04T13:49:18.583120+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6091,7 +6091,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 12,
-      "updatedAt": "2026-11-04T04:55:46.635009+00:00",
+      "updatedAt": "2026-11-04T13:49:20.257186+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6105,7 +6105,7 @@
       "country": "US",
       "flag": "🏆",
       "priority": 13,
-      "updatedAt": "2026-11-04T04:55:48.543072+00:00",
+      "updatedAt": "2026-11-04T13:49:21.977916+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6119,7 +6119,7 @@
       "country": "WO",
       "flag": "🤝",
       "priority": 14,
-      "updatedAt": "2026-11-04T04:55:50.424870+00:00",
+      "updatedAt": "2026-11-04T13:49:23.502912+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -9103,38 +9103,6 @@
       "url": "https://www.varzesh3.com/basketball/match/181076/بازی-طبیعت-پالایش-نفت-آبادان"
     },
     {
-      "id": 181077,
-      "leagueId": "lg-32",
-      "leagueRef": 32,
-      "leagueName": "لیگ برتر بسکتبال ایران",
-      "leagueNameEn": "Iran Super League",
-      "leagueFlag": "🇮🇷",
-      "date": "1405/08/14",
-      "dateIso": "2027-02-14",
-      "time": "15:30",
-      "status": 0,
-      "statusFa": "نامشخص",
-      "statusShort": "؟",
-      "isLive": false,
-      "host": {
-        "id": 0,
-        "name": "گلنور اصفهان",
-        "shortName": "گلنور اصفهان",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=144"
-      },
-      "guest": {
-        "id": 0,
-        "name": "استقلال تهران",
-        "shortName": "استقلال تهران",
-        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
-      },
-      "hostScore": null,
-      "guestScore": null,
-      "quarters": [],
-      "winner": null,
-      "url": "https://www.varzesh3.com/basketball/match/181077/بازی-گلنور-اصفهان-استقلال-تهران"
-    },
-    {
       "id": 181078,
       "leagueId": "lg-32",
       "leagueRef": 32,
@@ -9197,6 +9165,38 @@
       "quarters": [],
       "winner": null,
       "url": "https://www.varzesh3.com/basketball/match/181079/بازی-مس-رفسنجان-زاگرس-جنوبی-جهرم"
+    },
+    {
+      "id": 181077,
+      "leagueId": "lg-32",
+      "leagueRef": 32,
+      "leagueName": "لیگ برتر بسکتبال ایران",
+      "leagueNameEn": "Iran Super League",
+      "leagueFlag": "🇮🇷",
+      "date": "1405/08/14",
+      "dateIso": "2027-02-14",
+      "time": "16:15",
+      "status": 0,
+      "statusFa": "نامشخص",
+      "statusShort": "؟",
+      "isLive": false,
+      "host": {
+        "id": 0,
+        "name": "گلنور اصفهان",
+        "shortName": "گلنور اصفهان",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=144"
+      },
+      "guest": {
+        "id": 0,
+        "name": "استقلال تهران",
+        "shortName": "استقلال تهران",
+        "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=144"
+      },
+      "hostScore": null,
+      "guestScore": null,
+      "quarters": [],
+      "winner": null,
+      "url": "https://www.varzesh3.com/basketball/match/181077/بازی-گلنور-اصفهان-استقلال-تهران"
     },
     {
       "id": 181080,
@@ -24307,5 +24307,5 @@
   "liveCount": 0,
   "staleDropped": 2,
   "version": 2,
-  "generatedAt": "2026-11-04T04:55:51.720201+00:00"
+  "generatedAt": "2026-11-04T13:49:25.698076+00:00"
 }

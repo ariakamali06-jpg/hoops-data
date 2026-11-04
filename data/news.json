@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T04:55:17.666507+00:00",
-  "count": 58,
+  "generatedAt": "2026-11-04T13:48:50.845048+00:00",
+  "count": 59,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 127
+      "items": 135
     },
     {
       "source": "bbc",
@@ -21,11 +21,54 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -86,
+      "items": -94,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "isna-255d4d697974",
+      "title": "۶ نفر کاندیدای ریاست فدراسیون بسکتبال شدند",
+      "summary": "مهلت ثبت‌نام از نامزدهای انتخابات فدراسیون بسکتبال در حالی به پایان رسید که ۶ نفر برای تصدی ریاست و ۵ نفر برای نمایندگی منتخب استان‌ها اعلام آمادگی کردند.",
+      "url": "https://www.isna.ir/news/1405081309047/%DB%B6-%D9%86%D9%81%D8%B1-%DA%A9%D8%A7%D9%86%D8%AF%DB%8C%D8%AF%D8%A7%DB%8C-%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA-%D9%81%D8%AF%D8%B1%D8%A7%D8%B3%DB%8C%D9%88%D9%86-%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%B4%D8%AF%D9%86%D8%AF",
+      "imageUrl": "https://cdn.isna.ir/d/2026/09/20/4/63980632.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "ورزشی > توپ و تور",
+      "publishedAt": "2026-11-04T13:40:00+00:00"
+    },
+    {
+      "id": "varzesh3-2442005",
+      "title": "جواد داوری برای ریاست فدراسیون ثبت نام کرد",
+      "summary": "جواد داوری امروز برای حضور در انتخابات ریاست فدراسیون بسکتبال ثبت نام کرد.",
+      "url": "https://www.varzesh3.com/news/2442005/جواد-داوری-برای-ریاست-فدراسیون-ثبت-نام-کرد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/04/C/ku440d5b.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-04T12:03:14Z",
+      "views": "2.5K",
+      "comments": "0"
+    },
+    {
+      "id": "varzesh3-2441922",
+      "title": "بیمارستان NBA: پانزده درصد بازیکنان مصدوم شدند!",
+      "summary": "شروع فصل NBA به بیمارستان بدل شد و با ۷۹ مصدوم، جراحی ادواردز و پایان فصل ویلیامز معادلات قهرمانی را زیرورو کرد.",
+      "url": "https://www.varzesh3.com/news/2441922/بیمارستان-nba-پانزده-درصد-بازیکنان-مصدوم-شدند",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/04/B/qzb05yak.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-04T07:50:41Z",
+      "views": "1.5K",
+      "comments": "0"
+    },
     {
       "id": "varzesh3-2441722",
       "title": "حکم سنگین: آتش جنگ والیبال ایران شعله‌ور شد",
@@ -38,7 +81,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-03T12:44:11Z",
-      "views": "18.2K",
+      "views": "20.2K",
       "comments": "2"
     },
     {
@@ -53,7 +96,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-03T10:35:46Z",
-      "views": "5.8K",
+      "views": "6.3K",
       "comments": "0"
     },
     {
@@ -68,7 +111,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-03T10:05:19Z",
-      "views": "12K",
+      "views": "13.4K",
       "comments": "4"
     },
     {
@@ -83,7 +126,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-02T17:13:57Z",
-      "views": "10.4K",
+      "views": "10.5K",
       "comments": "2"
     },
     {
@@ -113,7 +156,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-02T14:29:34Z",
-      "views": "7.3K",
+      "views": "7.4K",
       "comments": "1"
     },
     {
@@ -162,21 +205,6 @@
       "comments": "2"
     },
     {
-      "id": "varzesh3-2441169",
-      "title": "برد نزدیک تامیش در شب بازگشت لژیونر ایرانی",
-      "summary": "ملی‌پوش ایرانی تیم تامیش با ثبت عملکردی موثر و کسب کارایی ۱۵، نقش پررنگی در پیروزی دشوار و خانگی تیمش در لیگ بسکتبال صربستان ایفا کرد.",
-      "url": "https://www.varzesh3.com/news/2441169/برد-نزدیک-تامیش-در-شب-بازگشت-لژیونر-ایرانی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/01/C/kzeekhsn.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-11-01T12:33:18Z",
-      "views": "4.7K",
-      "comments": "1"
-    },
-    {
       "id": "varzesh3-2441167",
       "title": "ستاره بسکتبال ایران در فرانسه MVP شد",
       "summary": "ستاره جوان بسکتبال ایران با نمایشی بی‌نقص در لیگ برتر فرانسه و ثبت کارایی ۳۴، عنوان برترین بازیکن زمین را در شب برتری پرامتیاز نانسی به دست آورد.",
@@ -188,7 +216,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-01T12:30:49Z",
-      "views": "16.1K",
+      "views": "16.2K",
       "comments": "1"
     },
     {
@@ -366,7 +394,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-29T16:22:51Z",
-      "views": "7.4K",
+      "views": "7.5K",
       "comments": "2"
     },
     {
@@ -638,21 +666,6 @@
       "publishedAt": "2026-10-24T17:57:30Z",
       "views": "7.8K",
       "comments": "0"
-    },
-    {
-      "id": "varzesh3-2439054",
-      "title": "بازگشت رسمی سپاهان به بسکتبال ایران",
-      "summary": "باشگاه سپاهان در فصل جدید لیگ یک مردان و لیگ برتر زنان تیم‌داری خواهد کرد.",
-      "url": "https://www.varzesh3.com/news/2439054/بازگشت-رسمی-سپاهان-به-بسکتبال-ایران",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/24/D/y4jiqydr.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-24T17:18:30Z",
-      "views": "5.3K",
-      "comments": "5"
     },
     {
       "id": "bbc-3991ccb02307",
