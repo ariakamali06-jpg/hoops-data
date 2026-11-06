@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T05:14:07.574202+00:00",
-  "count": 59,
+  "generatedAt": "2026-11-06T13:46:29.848188+00:00",
+  "count": 62,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 2
     },
     {
       "source": "varzesh3",
       "ok": true,
-      "items": 131
+      "items": 118
     },
     {
       "source": "bbc",
@@ -21,11 +21,127 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -89,
+      "items": -75,
       "note": "off-topic items dropped"
     }
   ],
   "news": [
+    {
+      "id": "varzesh3-2442501",
+      "title": "زمان انتخابات فدراسیون بسکتبال مشخص شد",
+      "summary": "مجمع انتخاباتی فدراسیون بسکتبال اول دی ماه برگزار خواهد شد.",
+      "url": "https://www.varzesh3.com/news/2442501/زمان-انتخابات-فدراسیون-بسکتبال-مشخص-شد",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/06/C/3odheztz.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-06T13:07:40Z",
+      "views": "339",
+      "comments": "1"
+    },
+    {
+      "id": "isna-a2d553337b37",
+      "title": "پیروزی تیم باتسام مشهد در هفته دوم لیگ برتر بسکتبال بانوان",
+      "summary": "تیم بسکتبال بانوان باتسام در هفته دوم لیگ برتر، در دیداری نزدیک موفق شد با نتیجه ۷۷ بر ۷۲ در وقت اضافه، تیم بهمن را در خانه شکست دهد و نخستین پیروزی فصل خود را به دست آورد.",
+      "url": "https://www.isna.ir/news/1405081509994/%D9%BE%DB%8C%D8%B1%D9%88%D8%B2%DB%8C-%D8%AA%DB%8C%D9%85-%D8%A8%D8%A7%D8%AA%D8%B3%D8%A7%D9%85-%D9%85%D8%B4%D9%87%D8%AF-%D8%AF%D8%B1-%D9%87%D9%81%D8%AA%D9%87-%D8%AF%D9%88%D9%85-%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86",
+      "imageUrl": "https://cdn.isna.ir/d/off/khorasan/2026/11/06/4/64043891.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > خراسان رضوی",
+      "publishedAt": "2026-11-06T12:50:25+00:00"
+    },
+    {
+      "id": "isna-834821a93f13",
+      "title": "شکست سپاهان مقابل پیشرو در هفته دوم لیگ برتر بسکتبال بانوان",
+      "summary": "تیم بسکتبال بانوان سپاهان در هفته دوم رقابت‌های لیگ برتر باشگاه‌های کشور، در برابر پیشرو تهران شکست خورد.",
+      "url": "https://www.isna.ir/news/1405081509986/%D8%B4%DA%A9%D8%B3%D8%AA-%D8%B3%D9%BE%D8%A7%D9%87%D8%A7%D9%86-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D9%BE%DB%8C%D8%B4%D8%B1%D9%88-%D8%AF%D8%B1-%D9%87%D9%81%D8%AA%D9%87-%D8%AF%D9%88%D9%85-%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86",
+      "imageUrl": "https://cdn.isna.ir/d/2021/01/22/4/61832919.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > اصفهان",
+      "publishedAt": "2026-11-06T12:16:55+00:00"
+    },
+    {
+      "id": "varzesh3-2442420",
+      "title": "شکست سنگین سپاهان مقابل پیشرو تهران!",
+      "summary": "تیم بسکتبال پیشرو تهران با نتیجه 84 بر 52 سپاهان اصفهان را شکست داد.",
+      "url": "https://www.varzesh3.com/news/2442420/شکست-سنگین-سپاهان-مقابل-پیشرو-تهران",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/06/C/l1413spi.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-06T10:11:30Z",
+      "views": "2.7K",
+      "comments": "3"
+    },
+    {
+      "id": "varzesh3-2442416",
+      "title": "آدم فضایی ترسناک فرانسوی بالاتر از لبران و جردن!",
+      "summary": "اعجوبه فرانسوی بسکتبال رکوردهایی را جابجا کرد که بسیاری از اسطوره‌های بسکتبال در دوران اوج‌شان هم نتوانستند چنین آمار ترسناکی را ثبت کنند.",
+      "url": "https://www.varzesh3.com/news/2442416/آدم-فضایی-ترسناک-فرانسوی-بالاتر-از-لبران-و-جردن",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/06/C/u5jstv4g.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-06T09:47:48Z",
+      "views": "21.2K",
+      "comments": "9"
+    },
+    {
+      "id": "varzesh3-2442396",
+      "title": "قاب عکس پدر در دستان دختر اسطوره استقلال",
+      "summary": "تیم بسکتبال زنان استقلال پیش از دیدار با آکادمی نیکا، یاد منصور پورحیدری را با حضور در زمین همراه با تصویری از اسطوره فقید آبی‌ها زنده نگه داشت.",
+      "url": "https://www.varzesh3.com/news/2442396/قاب-عکس-پدر-در-دستان-دختر-اسطوره-استقلال",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/06/B/d2yj3pfc.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-06T08:27:33Z",
+      "views": "7K",
+      "comments": "9"
+    },
+    {
+      "id": "varzesh3-2442390",
+      "title": "حامد حدادی حامی همیشگی ملی‌پوشان بسکتبال (عکس)",
+      "summary": "حامد حدادی اسطوره بسکتبال ایران در جریان بازی طبیعت و پالایش نفت آبادان دقایقی با بازیکن مصدوم تیم ملی همکلام شد.",
+      "url": "https://www.varzesh3.com/news/2442390/حامد-حدادی-حامی-همیشگی-ملی-پوشان-بسکتبال-عکس",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/07/09/C/ik4th2bd.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-06T08:03:55Z",
+      "views": "4.3K",
+      "comments": "2"
+    },
+    {
+      "id": "varzesh3-2442384",
+      "title": "آبادان آماده بازگشت به جدول لیگ برتر",
+      "summary": "صنعت نفت آبادان هنوز در جدول لیگ شرایط خوبی ندارد اما بهترین روزهایش تا به اینجای کار را تجربه می‌کند.",
+      "url": "https://www.varzesh3.com/news/2442384/آبادان-آماده-بازگشت-به-جدول-لیگ-برتر",
+      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/06/B/ul53lgbg.webp",
+      "source": "varzesh3",
+      "sourceName": "ورزش سه",
+      "sourceNameEn": "Varzesh3",
+      "language": "fa",
+      "category": "ورزشی",
+      "publishedAt": "2026-11-06T07:48:20Z",
+      "views": "8.8K",
+      "comments": "11"
+    },
     {
       "id": "varzesh3-2442352",
       "title": "اعلام لیست تیم ملی بسکتبال با یک سورپرایز!",
@@ -38,8 +154,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T20:47:23Z",
-      "views": "8.6K",
-      "comments": "9"
+      "views": "13.4K",
+      "comments": "14"
     },
     {
       "id": "varzesh3-2442350",
@@ -53,8 +169,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T20:32:36Z",
-      "views": "3K",
-      "comments": "2"
+      "views": "4.3K",
+      "comments": "3"
     },
     {
       "id": "varzesh3-2442342",
@@ -68,7 +184,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T19:23:52Z",
-      "views": "3.7K",
+      "views": "4.7K",
       "comments": "0"
     },
     {
@@ -83,7 +199,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T18:14:55Z",
-      "views": "3.7K",
+      "views": "5K",
       "comments": "0"
     },
     {
@@ -98,8 +214,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T18:02:29Z",
-      "views": "4.7K",
-      "comments": "5"
+      "views": "5.9K",
+      "comments": "8"
     },
     {
       "id": "varzesh3-2442310",
@@ -113,7 +229,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T16:22:39Z",
-      "views": "7.4K",
+      "views": "8.9K",
       "comments": "2"
     },
     {
@@ -128,7 +244,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T16:04:38Z",
-      "views": "4.2K",
+      "views": "4.7K",
       "comments": "1"
     },
     {
@@ -143,8 +259,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T14:53:18Z",
-      "views": "9.4K",
-      "comments": "3"
+      "views": "9.9K",
+      "comments": "4"
     },
     {
       "id": "varzesh3-2442254",
@@ -158,7 +274,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T12:14:48Z",
-      "views": "3K",
+      "views": "3.3K",
       "comments": "0"
     },
     {
@@ -173,7 +289,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T10:24:04Z",
-      "views": "4.2K",
+      "views": "4.4K",
       "comments": "3"
     },
     {
@@ -188,7 +304,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T10:18:58Z",
-      "views": "4K",
+      "views": "4.1K",
       "comments": "0"
     },
     {
@@ -203,7 +319,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T08:53:37Z",
-      "views": "8.6K",
+      "views": "9.3K",
       "comments": "4"
     },
     {
@@ -246,7 +362,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-04T16:22:13Z",
-      "views": "15.7K",
+      "views": "15.8K",
       "comments": "9"
     },
     {
@@ -261,7 +377,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-04T16:15:26Z",
-      "views": "3.7K",
+      "views": "3.8K",
       "comments": "1"
     },
     {
@@ -291,7 +407,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-04T14:01:26Z",
-      "views": "5.2K",
+      "views": "5.3K",
       "comments": "1"
     },
     {
@@ -321,7 +437,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-04T07:50:41Z",
-      "views": "2.5K",
+      "views": "2.6K",
       "comments": "0"
     },
     {
@@ -469,7 +585,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-10-30T16:02:09Z",
-      "views": "63.5K",
+      "views": "63.7K",
       "comments": "29"
     },
     {
@@ -606,81 +722,6 @@
       "publishedAt": "2026-10-29T10:17:31Z",
       "views": "2.4K",
       "comments": "1"
-    },
-    {
-      "id": "varzesh3-2440338",
-      "title": "ترمز نانسی در روز درخشش امینی کشیده شد!",
-      "summary": "تیم بسکتبال نانسی فرانسه در دیداری نزدیک و با عملکرد مثبت لژیونر ایرانی خود، برابر کینگ شچچین لهستانمغلوب شد تا اولین باخت اروپایی‌اش ثبت شود.",
-      "url": "https://www.varzesh3.com/news/2440338/ترمز-نانسی-در-روز-درخشش-امینی-کشیده-شد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/29/C/mhjbmvuf.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-29T09:44:04Z",
-      "views": "4.9K",
-      "comments": "0"
-    },
-    {
-      "id": "varzesh3-2440227",
-      "title": "تقابل نفتی‌های بسکتبال تحت تاثیر بازی جنجالی!",
-      "summary": "دیدار نفت و گاز گچساران و نفت آبادان در سالن صدرا شیراز، با غیبت بازیکنان کلیدی و بدون حضور هواداران برگزار خواهد شد.",
-      "url": "https://www.varzesh3.com/news/2440227/تقابل-نفتی-های-بسکتبال-تحت-تاثیر-بازی-جنجالی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/28/D/s504wc22.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-28T16:55:31Z",
-      "views": "3K",
-      "comments": "0"
-    },
-    {
-      "id": "varzesh3-2440224",
-      "title": "دوئل مربیان ملی بسکتبال در تقابل باشگاهی!",
-      "summary": "تیم بسکتبال طبیعت اسلامشهر در دومین گام فصل جدید لیگ برتر، برای ثبت دومین پیروزی متوالی به مصاف مهگل البرز می‌رود.",
-      "url": "https://www.varzesh3.com/news/2440224/دوئل-مربیان-ملی-بسکتبال-در-تقابل-باشگاهی",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/28/D/eldrlsno.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-28T16:36:22Z",
-      "views": "2.9K",
-      "comments": "0"
-    },
-    {
-      "id": "varzesh3-2440195",
-      "title": "‏بازگشت بابل به لیگ برتر بسکتبال پس از ۱۸ سال!",
-      "summary": "بابل پس از ۱۸ سال دوری از سطح اول بسکتبال ایران، فردا با میزبانی تیم رعد پدافند از مس رفسنجان، دوباره به لیگ برتر بازمی‌گردد.",
-      "url": "https://www.varzesh3.com/news/2440195/بازگشت-بابل-به-لیگ-برتر-بسکتبال-پس-از-۱۸-سال",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/28/D/y4kpinv4.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-28T15:00:17Z",
-      "views": "5K",
-      "comments": "1"
-    },
-    {
-      "id": "varzesh3-2440034",
-      "title": "زیبایی خالص بسکتبال: بازربیتر تیتوم در ثانیه صفر!",
-      "summary": "بازر بیتر فوق‌العاده جیسون تیتوم صحنه‌ای خلق کرد که بار دیگر زیبایی بسکتبال را به دنیا نشان داد.",
-      "url": "https://www.varzesh3.com/news/2440034/زیبایی-خالص-بسکتبال-بازربیتر-تیتوم-در-ثانیه-صفر",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/10/28/B/qriahyll.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-10-28T05:55:22Z",
-      "views": "5.2K",
-      "comments": "4"
     },
     {
       "id": "bbc-3991ccb02307",

@@ -9,7 +9,7 @@
       "country": "IR",
       "flag": "🇮🇷",
       "priority": 1,
-      "updatedAt": "2026-11-06T05:14:08.857895+00:00",
+      "updatedAt": "2026-11-06T13:46:30.681355+00:00",
       "groups": [
         {
           "name": "لیگ برتر بسکتبال",
@@ -462,7 +462,7 @@
       "country": "US",
       "flag": "🏀",
       "priority": 2,
-      "updatedAt": "2026-11-06T05:14:11.553396+00:00",
+      "updatedAt": "2026-11-06T13:46:32.665791+00:00",
       "groups": [
         {
           "name": "کنفرانس شرق",
@@ -614,24 +614,6 @@
             {
               "rank": 9,
               "manualRank": 0,
-              "teamId": 902800,
-              "name": "میامی هیت",
-              "shortName": "میامی هیت",
-              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/kotuvk32.png?w=144",
-              "played": 8,
-              "won": 3,
-              "lost": 5,
-              "pointsFor": 944,
-              "pointsAgainst": 983,
-              "diff": -39,
-              "points": 11,
-              "pointsDeducted": 0,
-              "winRate": 0.375,
-              "form": null
-            },
-            {
-              "rank": 10,
-              "manualRank": 0,
               "teamId": 902799,
               "name": "ایندیانا پیسرز",
               "shortName": "ایندیانا پیسرز",
@@ -642,6 +624,24 @@
               "pointsFor": 1001,
               "pointsAgainst": 1028,
               "diff": -27,
+              "points": 12,
+              "pointsDeducted": 0,
+              "winRate": 0.333,
+              "form": null
+            },
+            {
+              "rank": 10,
+              "manualRank": 0,
+              "teamId": 902800,
+              "name": "میامی هیت",
+              "shortName": "میامی هیت",
+              "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/kotuvk32.png?w=144",
+              "played": 9,
+              "won": 3,
+              "lost": 6,
+              "pointsFor": 1044,
+              "pointsAgainst": 1103,
+              "diff": -59,
               "points": 12,
               "pointsDeducted": 0,
               "winRate": 0.333,
@@ -875,15 +875,15 @@
               "name": "گلدن استیت واریرز",
               "shortName": "گلدن استیت واریرز",
               "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/b0v45ogz.png?w=144",
-              "played": 8,
-              "won": 5,
+              "played": 9,
+              "won": 6,
               "lost": 3,
-              "pointsFor": 940,
-              "pointsAgainst": 917,
-              "diff": 23,
-              "points": 13,
+              "pointsFor": 1060,
+              "pointsAgainst": 1017,
+              "diff": 43,
+              "points": 15,
               "pointsDeducted": 0,
-              "winRate": 0.625,
+              "winRate": 0.667,
               "form": null
             },
             {
@@ -1164,24 +1164,6 @@
         {
           "rank": 9,
           "manualRank": 0,
-          "teamId": 902800,
-          "name": "میامی هیت",
-          "shortName": "میامی هیت",
-          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/kotuvk32.png?w=144",
-          "played": 8,
-          "won": 3,
-          "lost": 5,
-          "pointsFor": 944,
-          "pointsAgainst": 983,
-          "diff": -39,
-          "points": 11,
-          "pointsDeducted": 0,
-          "winRate": 0.375,
-          "form": null
-        },
-        {
-          "rank": 10,
-          "manualRank": 0,
           "teamId": 902799,
           "name": "ایندیانا پیسرز",
           "shortName": "ایندیانا پیسرز",
@@ -1192,6 +1174,24 @@
           "pointsFor": 1001,
           "pointsAgainst": 1028,
           "diff": -27,
+          "points": 12,
+          "pointsDeducted": 0,
+          "winRate": 0.333,
+          "form": null
+        },
+        {
+          "rank": 10,
+          "manualRank": 0,
+          "teamId": 902800,
+          "name": "میامی هیت",
+          "shortName": "میامی هیت",
+          "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/kotuvk32.png?w=144",
+          "played": 9,
+          "won": 3,
+          "lost": 6,
+          "pointsFor": 1044,
+          "pointsAgainst": 1103,
+          "diff": -59,
           "points": 12,
           "pointsDeducted": 0,
           "winRate": 0.333,
@@ -1420,15 +1420,15 @@
           "name": "گلدن استیت واریرز",
           "shortName": "گلدن استیت واریرز",
           "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/b0v45ogz.png?w=144",
-          "played": 8,
-          "won": 5,
+          "played": 9,
+          "won": 6,
           "lost": 3,
-          "pointsFor": 940,
-          "pointsAgainst": 917,
-          "diff": 23,
-          "points": 13,
+          "pointsFor": 1060,
+          "pointsAgainst": 1017,
+          "diff": 43,
+          "points": 15,
           "pointsDeducted": 0,
-          "winRate": 0.625,
+          "winRate": 0.667,
           "form": null
         },
         {
@@ -1568,7 +1568,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 3,
-      "updatedAt": "2026-11-06T05:14:15.643996+00:00",
+      "updatedAt": "2026-11-06T13:46:36.572295+00:00",
       "groups": [
         {
           "name": "لیگ غرب آسیا",
@@ -2067,7 +2067,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 4,
-      "updatedAt": "2026-11-06T05:14:18.352554+00:00",
+      "updatedAt": "2026-11-06T13:46:38.599353+00:00",
       "groups": [
         {
           "name": "گروهی ",
@@ -2412,7 +2412,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 5,
-      "updatedAt": "2026-11-06T05:14:20.920824+00:00",
+      "updatedAt": "2026-11-06T13:46:40.582251+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -3024,7 +3024,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 6,
-      "updatedAt": "2026-11-06T05:14:23.876689+00:00",
+      "updatedAt": "2026-11-06T13:46:42.671867+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4078,7 +4078,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 7,
-      "updatedAt": "2026-11-06T05:14:27.189112+00:00",
+      "updatedAt": "2026-11-06T13:46:45.149672+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -4541,7 +4541,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 8,
-      "updatedAt": "2026-11-06T05:14:29.950859+00:00",
+      "updatedAt": "2026-11-06T13:46:47.168699+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -5600,7 +5600,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 9,
-      "updatedAt": "2026-11-06T05:14:32.108087+00:00",
+      "updatedAt": "2026-11-06T13:46:48.648624+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -5614,7 +5614,7 @@
       "country": "WO",
       "flag": "🌐",
       "priority": 10,
-      "updatedAt": "2026-11-06T05:14:34.588189+00:00",
+      "updatedAt": "2026-11-06T13:46:50.629366+00:00",
       "groups": [
         {
           "name": "گروه A",
@@ -6077,7 +6077,7 @@
       "country": "EU",
       "flag": "🇪🇺",
       "priority": 11,
-      "updatedAt": "2026-11-06T05:14:36.578348+00:00",
+      "updatedAt": "2026-11-06T13:46:52.162878+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6091,7 +6091,7 @@
       "country": "AS",
       "flag": "🌏",
       "priority": 12,
-      "updatedAt": "2026-11-06T05:14:38.330112+00:00",
+      "updatedAt": "2026-11-06T13:46:53.463482+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6105,7 +6105,7 @@
       "country": "US",
       "flag": "🏆",
       "priority": 13,
-      "updatedAt": "2026-11-06T05:14:40.797761+00:00",
+      "updatedAt": "2026-11-06T13:46:54.939820+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -6119,7 +6119,7 @@
       "country": "WO",
       "flag": "🤝",
       "priority": 14,
-      "updatedAt": "2026-11-06T05:14:42.464814+00:00",
+      "updatedAt": "2026-11-06T13:46:56.660554+00:00",
       "groups": [],
       "teamCount": 0,
       "teams": []
@@ -9133,9 +9133,9 @@
       "date": "1405/08/15",
       "dateIso": "2027-02-15",
       "time": "06:30",
-      "status": 2,
-      "statusFa": "شروع نشده",
-      "statusShort": "شروع نشده",
+      "status": 7,
+      "statusFa": "تمام‌شده",
+      "statusShort": "تمام",
       "isLive": false,
       "host": {
         "id": 902409,
@@ -9149,8 +9149,8 @@
         "shortName": "میامی هیت",
         "logoUrl": "https://match-cdn.varzesh3.com/basketball-team/kotuvk32.png?w=144"
       },
-      "hostScore": null,
-      "guestScore": null,
+      "hostScore": 120,
+      "guestScore": 100,
       "quarters": [
         {
           "quarter": 1,
@@ -9169,8 +9169,8 @@
         },
         {
           "quarter": 4,
-          "host": 7,
-          "guest": 8
+          "host": 29,
+          "guest": 24
         }
       ],
       "winner": null,
@@ -24433,5 +24433,5 @@
   "liveCount": 0,
   "staleDropped": 2,
   "version": 2,
-  "generatedAt": "2026-11-06T05:14:43.565366+00:00"
+  "generatedAt": "2026-11-06T13:46:57.516206+00:00"
 }
