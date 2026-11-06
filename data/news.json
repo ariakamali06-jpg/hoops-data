@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T23:16:38.310244+00:00",
-  "count": 60,
+  "generatedAt": "2026-11-06T05:14:07.574202+00:00",
+  "count": 59,
   "sources": [
     {
       "source": "isna",
@@ -21,7 +21,7 @@
     {
       "source": "filter",
       "ok": true,
-      "items": -88,
+      "items": -89,
       "note": "off-topic items dropped"
     }
   ],
@@ -38,8 +38,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T20:47:23Z",
-      "views": "4.5K",
-      "comments": "8"
+      "views": "8.6K",
+      "comments": "9"
     },
     {
       "id": "varzesh3-2442350",
@@ -53,7 +53,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T20:32:36Z",
-      "views": "1.8K",
+      "views": "3K",
       "comments": "2"
     },
     {
@@ -68,7 +68,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T19:23:52Z",
-      "views": "2.7K",
+      "views": "3.7K",
       "comments": "0"
     },
     {
@@ -83,7 +83,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T18:14:55Z",
-      "views": "3K",
+      "views": "3.7K",
       "comments": "0"
     },
     {
@@ -98,7 +98,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T18:02:29Z",
-      "views": "4K",
+      "views": "4.7K",
       "comments": "5"
     },
     {
@@ -113,7 +113,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T16:22:39Z",
-      "views": "6.3K",
+      "views": "7.4K",
       "comments": "2"
     },
     {
@@ -128,7 +128,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T16:04:38Z",
-      "views": "3.9K",
+      "views": "4.2K",
       "comments": "1"
     },
     {
@@ -143,7 +143,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T14:53:18Z",
-      "views": "9K",
+      "views": "9.4K",
       "comments": "3"
     },
     {
@@ -158,7 +158,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T12:14:48Z",
-      "views": "2.7K",
+      "views": "3K",
       "comments": "0"
     },
     {
@@ -173,7 +173,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T10:24:04Z",
-      "views": "4K",
+      "views": "4.2K",
       "comments": "3"
     },
     {
@@ -188,7 +188,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T10:18:58Z",
-      "views": "3.9K",
+      "views": "4K",
       "comments": "0"
     },
     {
@@ -203,8 +203,8 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-05T08:53:37Z",
-      "views": "8.3K",
-      "comments": "3"
+      "views": "8.6K",
+      "comments": "4"
     },
     {
       "id": "bbc-92d644793d9a",
@@ -246,7 +246,7 @@
       "language": "fa",
       "category": "ورزشی",
       "publishedAt": "2026-11-04T16:22:13Z",
-      "views": "15.6K",
+      "views": "15.7K",
       "comments": "9"
     },
     {
@@ -398,21 +398,6 @@
       "publishedAt": "2026-11-01T14:49:47Z",
       "views": "9.6K",
       "comments": "2"
-    },
-    {
-      "id": "varzesh3-2441167",
-      "title": "ستاره بسکتبال ایران در فرانسه MVP شد",
-      "summary": "ستاره جوان بسکتبال ایران با نمایشی بی‌نقص در لیگ برتر فرانسه و ثبت کارایی ۳۴، عنوان برترین بازیکن زمین را در شب برتری پرامتیاز نانسی به دست آورد.",
-      "url": "https://www.varzesh3.com/news/2441167/ستاره-بسکتبال-ایران-در-فرانسه-mvp-شد",
-      "imageUrl": "https://news-cdn.varzesh3.com/pictures/2026/11/01/C/zr4lx51d.webp",
-      "source": "varzesh3",
-      "sourceName": "ورزش سه",
-      "sourceNameEn": "Varzesh3",
-      "language": "fa",
-      "category": "ورزشی",
-      "publishedAt": "2026-11-01T12:30:49Z",
-      "views": "16.2K",
-      "comments": "1"
     },
     {
       "id": "varzesh3-2441095",
