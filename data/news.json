@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T14:39:39.406899+00:00",
-  "count": 18,
+  "generatedAt": "2026-11-12T23:14:13.345371+00:00",
+  "count": 17,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "source": "varzesh3",
@@ -20,19 +20,6 @@
     }
   ],
   "news": [
-    {
-      "id": "isna-30520a192aa0",
-      "title": "قدردانی آکادمی بسکتبال سحر از وزیر ورزش",
-      "summary": "آکادمی بسکتبال سحر با انتشار پیامی، از احمد دنیامالی، وزیر ورزش و جوانان، به دلیل حمایت و پیگیری وضعیت بازیکنان مصدوم این تیم در حادثه واژگونی اتوبوس، قدردانی کرد.",
-      "url": "https://www.isna.ir/news/1405082114709/%D9%82%D8%AF%D8%B1%D8%AF%D8%A7%D9%86%DB%8C-%D8%A2%DA%A9%D8%A7%D8%AF%D9%85%DB%8C-%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84-%D8%B3%D8%AD%D8%B1-%D8%A7%D8%B2-%D9%88%D8%B2%DB%8C%D8%B1-%D9%88%D8%B1%D8%B2%D8%B4",
-      "imageUrl": "https://cdn.isna.ir/d/2026/11/08/4/64046113.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
-      "language": "fa",
-      "category": "ورزشی > سایر ورزش‌ها",
-      "publishedAt": "2026-11-12T13:45:59+00:00"
-    },
     {
       "id": "bbc-92d644793d9a",
       "title": "Career-best Wembanyama display seals Spurs win",
