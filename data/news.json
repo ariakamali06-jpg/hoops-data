@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T00:19:10.837014+00:00",
-  "count": 17,
+  "generatedAt": "2026-11-20T14:55:45.305708+00:00",
+  "count": 19,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 2
     },
     {
       "source": "varzesh3",
@@ -20,6 +20,32 @@
     }
   ],
   "news": [
+    {
+      "id": "isna-0e0b5144a22e",
+      "title": "پایان ۷ هفته انتظار در فولادشهر/ ذوب‌آهن با ۳ گل از بحران فاصله گرفت",
+      "summary": "تیم فوتبال ذوب‌آهن اصفهان در هفته سیزدهم رقابت‌های لیگ برتر مردان باشگاه‌های کشور، در دیداری خانگی موفق شد با نتیجه سه بر صفر از سد شمس‌آذر قزوین عبور کند.",
+      "url": "https://www.isna.ir/news/1405082920271/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%DB%B7-%D9%87%D9%81%D8%AA%D9%87-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%AF%D8%B1-%D9%81%D9%88%D9%84%D8%A7%D8%AF%D8%B4%D9%87%D8%B1-%D8%B0%D9%88%D8%A8-%D8%A2%D9%87%D9%86-%D8%A8%D8%A7-%DB%B3-%DA%AF%D9%84-%D8%A7%D8%B2-%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D9%81%D8%A7%D8%B5%D9%84%D9%87",
+      "imageUrl": "https://cdn.isna.ir/d/2026/10/30/4/64034037.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > اصفهان",
+      "publishedAt": "2026-11-20T14:41:59+00:00"
+    },
+    {
+      "id": "isna-90cb63ac1339",
+      "title": "شروع مقتدرانه سپاهان و ذوب‌آهن در لیگ برتر والیبال زنان",
+      "summary": "دو نماینده اصفهان در هفته نخست رقابت‌های لیگ برتر والیبال زنان باشگاه‌های کشور، شروعی موفق داشتند و تیم‌های سپاهان و ذوب‌آهن اصفهان با پیروزی سه بر صفر مقابل حریفان خود، نخستین سه امتیاز فصل را به‌دست آوردند.",
+      "url": "https://www.isna.ir/news/1405082920267/%D8%B4%D8%B1%D9%88%D8%B9-%D9%85%D9%82%D8%AA%D8%AF%D8%B1%D8%A7%D9%86%D9%87-%D8%B3%D9%BE%D8%A7%D9%87%D8%A7%D9%86-%D9%88-%D8%B0%D9%88%D8%A8-%D8%A2%D9%87%D9%86-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%B2%D9%86%D8%A7%D9%86",
+      "imageUrl": "https://cdn.isna.ir/d/off/isfahan/2026/11/20/4/64062943.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > اصفهان",
+      "publishedAt": "2026-11-20T14:38:35+00:00"
+    },
     {
       "id": "bbc-5ed5d1d4b23b",
       "title": "Coach given one-game ban for head push on female player",
