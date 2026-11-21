@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T23:41:37.831537+00:00",
-  "count": 19,
+  "generatedAt": "2026-11-21T05:42:53.418107+00:00",
+  "count": 17,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 2
+      "items": 0
     },
     {
       "source": "varzesh3",
@@ -20,32 +20,6 @@
     }
   ],
   "news": [
-    {
-      "id": "isna-63cc0db9c7c3",
-      "title": "پرکاس: تصمیم داور در برگرداندن پنالتی شجاعانه بود",
-      "summary": "دروازه‌بان پالایشگاه نفت شازند با اشاره به صحنه بحث‌برانگیز اعلام و سپس لغو پنالتی در دیدار مقابل مس سونگون، تأکید کرد که هیچ برخوردی با بازیکن حریف نداشته است.",
-      "url": "https://www.isna.ir/news/1405082920357/%D9%BE%D8%B1%DA%A9%D8%A7%D8%B3-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D8%AF%D8%A7%D9%88%D8%B1-%D8%AF%D8%B1-%D8%A8%D8%B1%DA%AF%D8%B1%D8%AF%D8%A7%D9%86%D8%AF%D9%86-%D9%BE%D9%86%D8%A7%D9%84%D8%AA%DB%8C-%D8%B4%D8%AC%D8%A7%D8%B9%D8%A7%D9%86%D9%87-%D8%A8%D9%88%D8%AF",
-      "imageUrl": "https://cdn.isna.ir/d/2017/12/10/4/57605507.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
-      "language": "fa",
-      "category": "استان‌ها > آذربایجان شرقی",
-      "publishedAt": "2026-11-20T19:24:57+00:00"
-    },
-    {
-      "id": "isna-6e920a57c6f1",
-      "title": "سرمربی تیم فوتسال پالایشگاه نفت شازند: حیف که بازی برابر مس‌سونگون بدون تماشاگر برگزار شد",
-      "summary": "سرمربی پالایشگاه نفت شازند با ابراز رضایت از عملکرد تیمش مقابل مس سونگون، محرومیت تماشاگران از حضور در سالن را نکته منفی این مسابقه دانست.",
-      "url": "https://www.isna.ir/news/1405082920356/%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D8%AA%DB%8C%D9%85-%D9%81%D9%88%D8%AA%D8%B3%D8%A7%D9%84-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87-%D9%86%D9%81%D8%AA-%D8%B4%D8%A7%D8%B2%D9%86%D8%AF-%D8%AD%DB%8C%D9%81-%DA%A9%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C-%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1-%D9%85%D8%B3-%D8%B3%D9%88%D9%86%DA%AF%D9%88%D9%86",
-      "imageUrl": "https://cdn.isna.ir/d/2026/04/19/4/63808887.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
-      "language": "fa",
-      "category": "استان‌ها > آذربایجان شرقی",
-      "publishedAt": "2026-11-20T19:24:04+00:00"
-    },
     {
       "id": "bbc-5ed5d1d4b23b",
       "title": "Coach given one-game ban for head push on female player",
