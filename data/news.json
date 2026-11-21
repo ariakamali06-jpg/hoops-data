@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-21T05:42:53.418107+00:00",
+  "generatedAt": "2026-11-21T14:14:52.644251+00:00",
   "count": 17,
   "sources": [
     {
@@ -20,6 +20,19 @@
     }
   ],
   "news": [
+    {
+      "id": "bbc-309b542aecdf",
+      "title": "Harden passes Bryant for 50-point games",
+      "summary": "James Harden moves third on the all-time list for 50-point NBA games as the Cleveland Cavaliers beat the Indiana Pacers 128-119 in the NBA Cup.",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/cwx2e8y1lr8lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a201/live/7bcc9e80-e583-11f1-b548-918aefb57c12.jpg",
+      "source": "bbc",
+      "sourceName": "بی‌بی‌سی ورزشی",
+      "sourceNameEn": "BBC Sport",
+      "language": "en",
+      "category": "Basketball",
+      "publishedAt": "2026-11-21T09:10:18+00:00"
+    },
     {
       "id": "bbc-5ed5d1d4b23b",
       "title": "Coach given one-game ban for head push on female player",
@@ -136,19 +149,6 @@
       "language": "en",
       "category": "Basketball",
       "publishedAt": "2026-10-19T04:10:35+00:00"
-    },
-    {
-      "id": "bbc-d0d1256c551b",
-      "title": "Guardiola receives standing ovation at Barcelona EuroLeague match",
-      "summary": "Former Manchester City and Barcelona manager Pep Guardiola received a standing ovation from the crowd while attending Barcelona's EuroLeague basketball match against Olympiacos.",
-      "url": "https://www.bbc.co.uk/sport/videos/cm9dzg38n6j7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74bb/live/3c0fc530-ca10-11f1-9a39-31b474234113.jpg",
-      "source": "bbc",
-      "sourceName": "بی‌بی‌سی ورزشی",
-      "sourceNameEn": "BBC Sport",
-      "language": "en",
-      "category": "Basketball",
-      "publishedAt": "2026-10-17T10:00:10+00:00"
     },
     {
       "id": "bbc-589359499fa3",
