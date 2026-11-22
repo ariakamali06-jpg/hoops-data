@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-21T22:47:19.225156+00:00",
-  "count": 17,
+  "generatedAt": "2026-11-22T05:12:01.559921+00:00",
+  "count": 18,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "varzesh3",
@@ -20,6 +20,19 @@
     }
   ],
   "news": [
+    {
+      "id": "isna-84f4758d927d",
+      "title": "گفت‌وگوی فیبا با محمد جمشیدی؛ از مصدومیت سخت تا امید به آینده بسکتبال ایران",
+      "summary": "گارد باتجربه تیم ملی بسکتبال ایران در گفت‌وگو با فدراسیون بین‌المللی بسکتبال از بازگشت به تیم ملی پس از سه سال دوری، پشت سر گذاشتن مصدومیت سخت کمر و امیدواری به آینده بسکتبال ایران صحبت کرد و گفت امیدوار است تیم ملی را در جام جهانی قطر ببیند.",
+      "url": "https://www.isna.ir/news/1405083020642/%DA%AF%D9%81%D8%AA-%D9%88%DA%AF%D9%88%DB%8C-%D9%81%DB%8C%D8%A8%D8%A7-%D8%A8%D8%A7-%D9%85%D8%AD%D9%85%D8%AF-%D8%AC%D9%85%D8%B4%DB%8C%D8%AF%DB%8C-%D8%A7%D8%B2-%D9%85%D8%B5%D8%AF%D9%88%D9%85%DB%8C%D8%AA-%D8%B3%D8%AE%D8%AA-%D8%AA%D8%A7-%D8%A7%D9%85%DB%8C%D8%AF-%D8%A8%D9%87-%D8%A2%DB%8C%D9%86%D8%AF%D9%87",
+      "imageUrl": "https://cdn.isna.ir/d/2026/11/21/4/64063357.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "ورزشی > توپ و تور",
+      "publishedAt": "2026-11-22T04:00:00+00:00"
+    },
     {
       "id": "bbc-309b542aecdf",
       "title": "Harden passes Bryant for 50-point games",
