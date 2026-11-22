@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-22T05:12:01.559921+00:00",
-  "count": 18,
+  "generatedAt": "2026-11-22T14:05:13.719909+00:00",
+  "count": 17,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 1
+      "items": 0
     },
     {
       "source": "varzesh3",
@@ -21,17 +21,17 @@
   ],
   "news": [
     {
-      "id": "isna-84f4758d927d",
-      "title": "گفت‌وگوی فیبا با محمد جمشیدی؛ از مصدومیت سخت تا امید به آینده بسکتبال ایران",
-      "summary": "گارد باتجربه تیم ملی بسکتبال ایران در گفت‌وگو با فدراسیون بین‌المللی بسکتبال از بازگشت به تیم ملی پس از سه سال دوری، پشت سر گذاشتن مصدومیت سخت کمر و امیدواری به آینده بسکتبال ایران صحبت کرد و گفت امیدوار است تیم ملی را در جام جهانی قطر ببیند.",
-      "url": "https://www.isna.ir/news/1405083020642/%DA%AF%D9%81%D8%AA-%D9%88%DA%AF%D9%88%DB%8C-%D9%81%DB%8C%D8%A8%D8%A7-%D8%A8%D8%A7-%D9%85%D8%AD%D9%85%D8%AF-%D8%AC%D9%85%D8%B4%DB%8C%D8%AF%DB%8C-%D8%A7%D8%B2-%D9%85%D8%B5%D8%AF%D9%88%D9%85%DB%8C%D8%AA-%D8%B3%D8%AE%D8%AA-%D8%AA%D8%A7-%D8%A7%D9%85%DB%8C%D8%AF-%D8%A8%D9%87-%D8%A2%DB%8C%D9%86%D8%AF%D9%87",
-      "imageUrl": "https://cdn.isna.ir/d/2026/11/21/4/64063357.jpg",
-      "source": "isna",
-      "sourceName": "ایسنا",
-      "sourceNameEn": "ISNA",
-      "language": "fa",
-      "category": "ورزشی > توپ و تور",
-      "publishedAt": "2026-11-22T04:00:00+00:00"
+      "id": "bbc-1a2e97fb20e6",
+      "title": "‘Showing off for Selena Gomez’ - Wembanyama hits 50 points in Spurs win",
+      "summary": "San Antonio Spurs star Victor Wembanyama hits 50 points as his side beats the New Orleans Pelicans 114-91.",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/c6x20yeqg18vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2f6/live/9c2a9300-e63f-11f1-9f30-29998dff46e7.jpg",
+      "source": "bbc",
+      "sourceName": "بی‌بی‌سی ورزشی",
+      "sourceNameEn": "BBC Sport",
+      "language": "en",
+      "category": "Basketball",
+      "publishedAt": "2026-11-22T07:42:24+00:00"
     },
     {
       "id": "bbc-309b542aecdf",
@@ -175,19 +175,6 @@
       "language": "en",
       "category": "Basketball",
       "publishedAt": "2026-10-12T21:05:46+00:00"
-    },
-    {
-      "id": "bbc-03a16270c2eb",
-      "title": "Wilson becomes first five-time MVP in WNBA history",
-      "summary": "A ceremony marking her record-extending fifth MVP award will take place on Friday night, but A'ja Wilson will not take part before a must-win game.",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/c8ly02yzg2w1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c97/live/51ce2c50-c3b1-11f1-a0b5-7b6bc14012a9.jpg",
-      "source": "bbc",
-      "sourceName": "بی‌بی‌سی ورزشی",
-      "sourceNameEn": "BBC Sport",
-      "language": "en",
-      "category": "Basketball",
-      "publishedAt": "2026-10-09T07:35:59+00:00"
     },
     {
       "id": "bbc-fc2459776751",
