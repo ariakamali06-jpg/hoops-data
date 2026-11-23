@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-23T05:52:00.888564+00:00",
-  "count": 17,
+  "generatedAt": "2026-11-23T17:26:48.591927+00:00",
+  "count": 18,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "varzesh3",
@@ -20,6 +20,19 @@
     }
   ],
   "news": [
+    {
+      "id": "isna-cdc2dbbc030f",
+      "title": "سرمربی آریو: تمام بازی‌های سخت را بیرون از خانه انجام دادیم",
+      "summary": "سرمربی آریو اسلامشهر، با اشاره به جوان بودن تیمش و شرایط دشوار مسابقات، تأکید کرد هدف این باشگاه جوانگرایی است و با وجود نتایج اخیر، از عملکرد بازیکنانش رضایت دارد.",
+      "url": "https://www.isna.ir/news/1405090201477/%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D8%A2%D8%B1%DB%8C%D9%88-%D8%AA%D9%85%D8%A7%D9%85-%D8%A8%D8%A7%D8%B2%DB%8C-%D9%87%D8%A7%DB%8C-%D8%B3%D8%AE%D8%AA-%D8%B1%D8%A7-%D8%A8%DB%8C%D8%B1%D9%88%D9%86-%D8%A7%D8%B2-%D8%AE%D8%A7%D9%86%D9%87-%D8%A7%D9%86%D8%AC%D8%A7%D9%85-%D8%AF%D8%A7%D8%AF%DB%8C%D9%85",
+      "imageUrl": "https://cdn.isna.ir/d/2019/10/15/4/61462569.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > آذربایجان شرقی",
+      "publishedAt": "2026-11-23T17:01:25+00:00"
+    },
     {
       "id": "bbc-1a2e97fb20e6",
       "title": "‘Showing off for Selena Gomez’ - Wembanyama hits 50 points in Spurs win",
