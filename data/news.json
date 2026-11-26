@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T16:49:29.686788+00:00",
+  "generatedAt": "2026-11-26T01:35:23.282088+00:00",
   "count": 17,
   "sources": [
     {
@@ -20,6 +20,19 @@
     }
   ],
   "news": [
+    {
+      "id": "bbc-fd7da1a3ee66",
+      "title": "NBA plans to invest 10bn euros in European arenas",
+      "summary": "The NBA steps up its plans for a European league by announcing a strategy to invest at least 10bn euros in the development of basketball arenas across the continent.",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/crjeqlpnqjxjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0123/live/0ec2ed00-e905-11f1-b9b5-17bef7133655.jpg",
+      "source": "bbc",
+      "sourceName": "بی‌بی‌سی ورزشی",
+      "sourceNameEn": "BBC Sport",
+      "language": "en",
+      "category": "Basketball",
+      "publishedAt": "2026-11-25T19:58:59+00:00"
+    },
     {
       "id": "bbc-1a2e97fb20e6",
       "title": "‘Showing off for Selena Gomez’ - Wembanyama hits 50 points in Spurs win",
@@ -162,19 +175,6 @@
       "language": "en",
       "category": "Basketball",
       "publishedAt": "2026-10-19T04:10:35+00:00"
-    },
-    {
-      "id": "bbc-589359499fa3",
-      "title": "Jordan 'Last Dance' jersey sells for record £10.6m",
-      "summary": "A Michael Jordan jersey from his 'Last Dance' season sells for $14m (£10.6m), a record for a piece of basketball memorabilia.",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/cje36qz977yqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c843/live/c34dbf20-c67d-11f1-841c-2105a54cdb08.jpg",
-      "source": "bbc",
-      "sourceName": "بی‌بی‌سی ورزشی",
-      "sourceNameEn": "BBC Sport",
-      "language": "en",
-      "category": "Basketball",
-      "publishedAt": "2026-10-12T21:05:46+00:00"
     },
     {
       "id": "bbc-fc2459776751",
