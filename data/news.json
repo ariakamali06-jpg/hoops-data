@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-26T16:26:07.612494+00:00",
-  "count": 17,
+  "generatedAt": "2026-11-27T01:29:43.182078+00:00",
+  "count": 18,
   "sources": [
     {
       "source": "isna",
       "ok": true,
-      "items": 0
+      "items": 1
     },
     {
       "source": "varzesh3",
@@ -20,6 +20,19 @@
     }
   ],
   "news": [
+    {
+      "id": "isna-aebbe5746374",
+      "title": "مدیرعامل باشگاه ذوب‌آهن: با هدف قهرمانی به لیگ برتر واترپلو برگشتیم",
+      "summary": "مدیرعامل باشگاه ذوب‌آهن اصفهان درباره بازگشت تیم واترپلوی این باشگاه به لیگ برتر پس از صعود از رقابت‌های لیگ دسته‌اول گفت: با توجه به ظرفیت بازیکنان، کادر فنی و سابقه ذوب‌آهن، انتظار داریم این تیم به کسب سکو بسنده نکند و برای قهرمانی تلاش کند.",
+      "url": "https://www.isna.ir/news/1405090503685/%D9%85%D8%AF%DB%8C%D8%B1%D8%B9%D8%A7%D9%85%D9%84-%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87-%D8%B0%D9%88%D8%A8-%D8%A2%D9%87%D9%86-%D8%A8%D8%A7-%D9%87%D8%AF%D9%81-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D9%88%D8%A7%D8%AA%D8%B1%D9%BE%D9%84%D9%88-%D8%A8%D8%B1%DA%AF%D8%B4%D8%AA%DB%8C%D9%85",
+      "imageUrl": "https://cdn.isna.ir/d/off/isfahan/2026/08/11/4/63932618.jpg",
+      "source": "isna",
+      "sourceName": "ایسنا",
+      "sourceNameEn": "ISNA",
+      "language": "fa",
+      "category": "استان‌ها > اصفهان",
+      "publishedAt": "2026-11-26T20:08:33+00:00"
+    },
     {
       "id": "bbc-fd7da1a3ee66",
       "title": "NBA plans to invest 10bn euros in European arenas",
